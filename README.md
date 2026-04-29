@@ -2,11 +2,27 @@
 
 > Upload a photo of yourself or a friend, find the historical figure you most resemble, and watch them come to life saying _"I'm your ancestor — I left you some goats in your inheritance."_
 
+```mermaid
+flowchart LR
+    A([📸 Upload or snap<br/>your photo]) --> B[/Face → 128-D vector<br/><b>face_recognition</b>/]
+    B --> C[(<b>Cloudflare Vectorize</b><br/>241 historical portraits<br/>cosine similarity)]
+    C --> D[/Top match's bio<br/>→ <b>OpenAI GPT-4o</b>/]
+    D --> E([🎭 Your historical look-alike<br/>bequeaths you something stupid])
+
+    classDef io fill:#fef3c7,stroke:#d97706,stroke-width:2px,color:#78350f
+    classDef proc fill:#dbeafe,stroke:#2563eb,stroke-width:2px,color:#1e3a8a
+    classDef db fill:#f3e8ff,stroke:#9333ea,stroke-width:2px,color:#581c87
+
+    class A,E io
+    class B,D proc
+    class C db
+```
+
 A hackathon project that builds a curated dataset of historical portraits, embeds each face into a vector space, and serves nearest-neighbor look-alike matches through a small web app. The matched portrait is then animated by a talking-head API speaking an LLM-generated "ancestor" line tailored to that person's biography.
 
 ---
 
-## Overview
+## How the data gets there
 
 ```mermaid
 flowchart LR
@@ -24,12 +40,11 @@ flowchart LR
 
     subgraph Cloud["Cloud Services"]
         VEC[(Cloudflare<br/>Vectorize)]
-        LLM[Claude API<br/>ancestor line]
-        TH[Talking-Head API<br/>D-ID / Replicate]
+        LLM[OpenAI GPT-4o<br/>ancestor line]
     end
 
     subgraph App["Web App (Next.js)"]
-        UI[Upload Page]
+        UI[Upload / Camera Page]
         API[/API Routes/]
     end
 
@@ -45,8 +60,7 @@ flowchart LR
     VEC -- top-K matches --> API
     API -- bio --> LLM
     LLM -- joke line --> API
-    API -- match image + line --> TH
-    TH -- video --> API
+    API -- match + joke --> UI
 
     classDef sources fill:#fff4e6,stroke:#d97706
     classDef pipeline fill:#e0f2fe,stroke:#0284c7
@@ -55,7 +69,7 @@ flowchart LR
 
     class WC,WP sources
     class P1,P2,P3,P4 pipeline
-    class VEC,LLM,TH cloud
+    class VEC,LLM cloud
     class UI,API app
 ```
 
