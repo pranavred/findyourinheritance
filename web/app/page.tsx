@@ -15,6 +15,7 @@ interface MatchData {
 interface MatchResponse {
   match: MatchData;
   joke: string;
+  video_url?: string;
   face_count?: number;
 }
 
@@ -194,6 +195,12 @@ export default function Home() {
               >
                 {loading ? "Reading the will…" : "Claim my inheritance"}
               </button>
+              {loading && (
+                <p className="mt-3 text-xs text-stone-500">
+                  Embedding your face → finding ancestor → drafting will →
+                  recording audio → animating portrait. About 2–3 minutes.
+                </p>
+              )}
             </>
           )}
 
@@ -237,11 +244,23 @@ export default function Home() {
         {result?.match && (
           <section className="bg-white rounded-lg shadow-sm border border-stone-200 p-6">
             <div className="flex flex-col md:flex-row gap-6">
-              <img
-                src={`/api/portrait/${result.match.slug}`}
-                alt={result.match.name}
-                className="w-full md:w-1/2 rounded-md shadow-sm object-contain max-h-96 bg-stone-50"
-              />
+              <div className="w-full md:w-1/2">
+                {result.video_url ? (
+                  <video
+                    src={result.video_url}
+                    controls
+                    autoPlay
+                    playsInline
+                    className="w-full rounded-md shadow-sm bg-stone-900 max-h-96 object-contain"
+                  />
+                ) : (
+                  <img
+                    src={`/api/portrait/${result.match.slug}`}
+                    alt={result.match.name}
+                    className="w-full rounded-md shadow-sm object-contain max-h-96 bg-stone-50"
+                  />
+                )}
+              </div>
               <div className="flex-1 min-w-0">
                 <h2 className="text-2xl font-serif text-stone-800">
                   {result.match.name}

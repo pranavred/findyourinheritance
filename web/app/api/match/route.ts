@@ -1,13 +1,14 @@
 import { NextRequest, NextResponse } from "next/server";
 import { spawn } from "child_process";
-import { writeFile, unlink } from "fs/promises";
+import { readFile, writeFile, unlink } from "fs/promises";
 import { tmpdir } from "os";
 import path from "path";
 import { randomUUID } from "crypto";
 import OpenAI from "openai";
+import Replicate from "replicate";
 
 export const runtime = "nodejs";
-export const maxDuration = 60;
+export const maxDuration = 300; // veed/fabric-1.0 takes ~3 min for 480p
 
 // project root = parent of /web
 const PROJECT_ROOT = path.resolve(process.cwd(), "..");
@@ -15,6 +16,13 @@ const PYTHON = process.env.PYTHON_PATH
   ? path.resolve(process.cwd(), process.env.PYTHON_PATH)
   : path.join(PROJECT_ROOT, "venv/bin/python");
 const EMBED_SCRIPT = path.join(PROJECT_ROOT, "embed_user.py");
+const PORTRAITS_DIR = path.join(PROJECT_ROOT, "wikimedia_portraits");
+
+const FABRIC_MODEL_VERSION =
+  "739bbce4edc07b0b1bd055998983324fe9a8ea18d854b5979423c5d6f62e5b78";
+const VIDEO_RESOLUTION = "480p";
+// Adam — deep older male voice; well-suited to "ancestor reading a will"
+const ELEVENLABS_DEFAULT_VOICE = "pNInz6obpgDQGBFmaJlR";
 
 interface EmbedResult {
   vector?: number[];
@@ -102,24 +110,22 @@ async function generateJoke(match: VectorizeMatch): Promise<string> {
   const portraitDate = match.metadata.portrait_date || "";
   const summary = match.metadata.summary || description || name;
 
-  const systemPrompt = `You are a comedy writer voicing dead historical figures who have just discovered they are the user's long-lost ancestor — and they have a will to read out.
+  const systemPrompt = `You are a comedy writer voicing dead historical figures claiming kinship with the user and reading their will aloud.
 
-Write a single utterance in the figure's voice that:
-1. Names them and claims a specific kinship (great-great-uncle, second cousin twice removed, the aunt nobody talks about, etc.)
-2. Bequeaths something absurd, oddly specific, and ideally tied to a real detail from their bio — their work, scandals, era, obsessions, or signature failures.
-3. Lands a small twist: an anachronism, a deflating mundane reason, a ridiculous condition, or a petty grievance.
+Write a single utterance, **spoken aloud in 8 seconds or less (target 22 words, hard max 25)**, that:
+1. Names the figure and claims a specific kinship.
+2. Bequeaths something absurd, oddly specific, and tied to a real detail from their bio (work, scandals, era, obsessions, signature failures).
+3. Lands a small twist — anachronism, mundane deflation, ridiculous condition, or petty grievance.
 
-STYLE: deadpan, slightly unhinged, period-flavored vocabulary, confidently weird. Under 50 words. No quotation marks. No em-dashes-as-pause-mechanism abuse.
+STYLE: deadpan, slightly unhinged, no quotation marks, no Hallmark warmth. If it could be on a sympathy card, rewrite it. If it goes over 25 words, rewrite it.
 
-DO NOT WRITE: "wisdom of the ages", "precious memories", "the legacy of", generic uplift, vague "treasures", "remember me when". If the line could be on a Hallmark card, rewrite it.
+Examples (note the brevity):
 
-Examples of the right vibe:
+Edgar Allan Poe (writer, 1809–1849): I'm your great-uncle Edgar. You inherit 47 demanding ravens, one half-finished couplet, and an overdue library fine from 1844.
 
-Edgar Allan Poe (American writer, 1809–1849): I am Edgar Allan Poe, your great-great-uncle on the side of the family that never recovered. To you I leave 47 ravens (alive, demanding, judgmental), the unfinished couplet Quoth the —, and a single overdue library book from 1844. Settle the fine.
+Marie Curie (physicist, 1867–1934): I'm your aunt Marie. You get two notebooks, three glass tubes, and a mildly radioactive cardigan. Wear it sparingly.
 
-Marie Curie (Polish-French physicist, 1867–1934): I am your great-aunt Marie. You inherit two notebooks, three glass tubes, and a mildly radioactive cardigan I wore on Tuesdays. Wear it sparingly. The notebooks must be re-read every February. Don't ask why.
-
-Sammy Davis Jr. (American singer and actor, 1925–1990): Cousin, I'm Sammy. You get my second-best tuxedo, half a martini I still owe somebody named Frank, and the moral obligation to tap-dance at exactly one wedding before you die. Anyone's wedding. Choose wisely.`;
+Sammy Davis Jr. (singer, 1925–1990): Cousin, I'm Sammy. You inherit my second-best tuxedo and the duty to tap-dance at exactly one wedding. Choose wisely.`;
 
   const userPrompt = [
     `Subject: ${name}`,
@@ -127,7 +133,7 @@ Sammy Davis Jr. (American singer and actor, 1925–1990): Cousin, I'm Sammy. You
     portraitDate && `Portrait dated: ${portraitDate}`,
     `Bio: ${summary}`,
     ``,
-    `Write their ancestor bequest line.`,
+    `Write their bequest line (≤25 words, ~8 seconds spoken).`,
   ]
     .filter(Boolean)
     .join("\n");
@@ -140,13 +146,113 @@ Sammy Davis Jr. (American singer and actor, 1925–1990): Cousin, I'm Sammy. You
       { role: "user", content: userPrompt },
     ],
     temperature: 1.05,
-    max_tokens: 160,
+    max_tokens: 80,
   });
 
   return (
     completion.choices[0]?.message?.content?.trim() ||
     `${name} forgot what they were going to say.`
   );
+}
+
+async function generateAudio(text: string): Promise<Buffer> {
+  const apiKey = process.env.ELEVENLABS_API_KEY;
+  if (!apiKey) {
+    throw new Error("ELEVENLABS_API_KEY not set in .env.local");
+  }
+  const voiceId = process.env.ELEVENLABS_VOICE_ID || ELEVENLABS_DEFAULT_VOICE;
+
+  const res = await fetch(
+    `https://api.elevenlabs.io/v1/text-to-speech/${voiceId}`,
+    {
+      method: "POST",
+      headers: {
+        "xi-api-key": apiKey,
+        "Content-Type": "application/json",
+        Accept: "audio/mpeg",
+      },
+      body: JSON.stringify({
+        text,
+        model_id: "eleven_turbo_v2_5",
+        voice_settings: {
+          stability: 0.5,
+          similarity_boost: 0.7,
+          style: 0.2,
+        },
+      }),
+    }
+  );
+
+  if (!res.ok) {
+    const errBody = await res.text();
+    throw new Error(
+      `ElevenLabs TTS failed (${res.status}): ${errBody.slice(0, 200)}`
+    );
+  }
+
+  const arrayBuffer = await res.arrayBuffer();
+  return Buffer.from(arrayBuffer);
+}
+
+async function generateVideo(
+  imageDataUri: string,
+  audioDataUri: string
+): Promise<string> {
+  const apiKey = process.env.REPLICATE_API_TOKEN;
+  if (!apiKey) {
+    throw new Error("REPLICATE_API_TOKEN not set in .env.local");
+  }
+
+  const replicate = new Replicate({ auth: apiKey });
+
+  const prediction = await replicate.predictions.create({
+    version: FABRIC_MODEL_VERSION,
+    input: {
+      image: imageDataUri,
+      audio: audioDataUri,
+      resolution: VIDEO_RESOLUTION,
+    },
+  });
+
+  // Poll until the prediction settles.
+  const startedAt = Date.now();
+  const TIMEOUT_MS = 280_000;
+  let result = prediction;
+  while (result.status === "starting" || result.status === "processing") {
+    if (Date.now() - startedAt > TIMEOUT_MS) {
+      throw new Error("Replicate fabric-1.0 prediction timed out after 280s");
+    }
+    await new Promise((r) => setTimeout(r, 3000));
+    result = await replicate.predictions.get(result.id);
+  }
+
+  if (result.status !== "succeeded") {
+    throw new Error(
+      `Replicate prediction failed (${result.status}): ${result.error || "unknown error"}`
+    );
+  }
+
+  // fabric-1.0 returns the video URL as a string output.
+  const out = result.output;
+  if (typeof out === "string") return out;
+  if (Array.isArray(out) && typeof out[0] === "string") return out[0];
+  throw new Error("Replicate returned unexpected output shape");
+}
+
+async function imageToDataUri(absPath: string): Promise<string> {
+  const buf = await readFile(absPath);
+  const ext = path.extname(absPath).toLowerCase();
+  const mime =
+    ext === ".png"
+      ? "image/png"
+      : ext === ".webp"
+      ? "image/webp"
+      : "image/jpeg";
+  return `data:${mime};base64,${buf.toString("base64")}`;
+}
+
+function audioBufferToDataUri(buffer: Buffer): string {
+  return `data:audio/mpeg;base64,${buffer.toString("base64")}`;
 }
 
 export async function POST(req: NextRequest) {
@@ -180,6 +286,21 @@ export async function POST(req: NextRequest) {
 
     const joke = await generateJoke(match);
 
+    // ── Talking head pipeline ─────────────────────────────
+    // 1. ElevenLabs TTS for the joke line.
+    // 2. Pass matched portrait + audio to Replicate veed/fabric-1.0 (480p).
+    // 3. Return the resulting video URL.
+    const audioBuffer = await generateAudio(joke);
+
+    const portraitAbsPath = path.join(
+      PORTRAITS_DIR,
+      match.metadata.image_local
+    );
+    const imageDataUri = await imageToDataUri(portraitAbsPath);
+    const audioDataUri = audioBufferToDataUri(audioBuffer);
+
+    const videoUrl = await generateVideo(imageDataUri, audioDataUri);
+
     return NextResponse.json({
       match: {
         slug: match.metadata.slug,
@@ -192,6 +313,7 @@ export async function POST(req: NextRequest) {
       },
       face_count: embed.face_count,
       joke,
+      video_url: videoUrl,
     });
   } catch (error: unknown) {
     const message = error instanceof Error ? error.message : String(error);
