@@ -21,8 +21,12 @@ const PORTRAITS_DIR = path.join(PROJECT_ROOT, "wikimedia_portraits");
 const FABRIC_MODEL_VERSION =
   "739bbce4edc07b0b1bd055998983324fe9a8ea18d854b5979423c5d6f62e5b78";
 const VIDEO_RESOLUTION = "480p";
-// Adam — deep older male voice; well-suited to "ancestor reading a will"
-const ELEVENLABS_DEFAULT_VOICE = "pNInz6obpgDQGBFmaJlR";
+
+// Default ElevenLabs voices — picked per matched figure's gender (inferred
+// from the bio's pronouns). All three IDs are confirmed available on the
+// connected ElevenLabs account.
+const VOICE_MALE = "pqHfZKP75CvOlQylNhV4"; // Bill — wise, mature, balanced (old)
+const VOICE_FEMALE = "XrExE9yKIg1WjnnlVkGX"; // Matilda — knowledgable, professional (middle-aged)
 
 interface EmbedResult {
   vector?: number[];
@@ -155,12 +159,34 @@ Sammy Davis Jr. (singer, 1925–1990): Cousin, I'm Sammy. You inherit my second-
   );
 }
 
-async function generateAudio(text: string): Promise<Buffer> {
+type Gender = "male" | "female" | "unknown";
+
+function inferGender(text: string): Gender {
+  if (!text) return "unknown";
+  const lower = text.toLowerCase();
+  // Word-boundary pronoun count over the bio summary.
+  const male = (lower.match(/\b(he|him|his|himself)\b/g) || []).length;
+  const female = (lower.match(/\b(she|her|hers|herself)\b/g) || []).length;
+  if (male > female) return "male";
+  if (female > male) return "female";
+  return "unknown";
+}
+
+function pickVoice(gender: Gender): string {
+  // A global override always wins (handy for testing one specific voice).
+  if (process.env.ELEVENLABS_VOICE_ID) return process.env.ELEVENLABS_VOICE_ID;
+  if (gender === "female") {
+    return process.env.ELEVENLABS_VOICE_ID_FEMALE || VOICE_FEMALE;
+  }
+  // male or unknown -> male default
+  return process.env.ELEVENLABS_VOICE_ID_MALE || VOICE_MALE;
+}
+
+async function generateAudio(text: string, voiceId: string): Promise<Buffer> {
   const apiKey = process.env.ELEVENLABS_API_KEY;
   if (!apiKey) {
     throw new Error("ELEVENLABS_API_KEY not set in .env.local");
   }
-  const voiceId = process.env.ELEVENLABS_VOICE_ID || ELEVENLABS_DEFAULT_VOICE;
 
   const res = await fetch(
     `https://api.elevenlabs.io/v1/text-to-speech/${voiceId}`,
@@ -287,10 +313,15 @@ export async function POST(req: NextRequest) {
     const joke = await generateJoke(match);
 
     // ── Talking head pipeline ─────────────────────────────
-    // 1. ElevenLabs TTS for the joke line.
-    // 2. Pass matched portrait + audio to Replicate veed/fabric-1.0 (480p).
-    // 3. Return the resulting video URL.
-    const audioBuffer = await generateAudio(joke);
+    // 1. Infer gender from the bio's pronouns → pick male/female voice.
+    // 2. ElevenLabs TTS for the joke line.
+    // 3. Pass matched portrait + audio to Replicate veed/fabric-1.0 (480p).
+    // 4. Return the resulting video URL.
+    const gender = inferGender(
+      match.metadata.summary || match.metadata.description || ""
+    );
+    const voiceId = pickVoice(gender);
+    const audioBuffer = await generateAudio(joke, voiceId);
 
     const portraitAbsPath = path.join(
       PORTRAITS_DIR,
@@ -314,6 +345,7 @@ export async function POST(req: NextRequest) {
       face_count: embed.face_count,
       joke,
       video_url: videoUrl,
+      voice: { gender, voice_id: voiceId },
     });
   } catch (error: unknown) {
     const message = error instanceof Error ? error.message : String(error);
