@@ -137,7 +137,7 @@ export default function Home() {
       <div className="max-w-3xl mx-auto">
         <header className="mb-8">
           <h1 className="text-4xl md:text-5xl font-serif text-stone-800 tracking-tight">
-            Find Your Historical Ancestor
+            Find Your Inheritance
           </h1>
           <p className="mt-2 text-stone-600">
             Upload or snap a photo. We&apos;ll find the historical figure you
@@ -192,7 +192,7 @@ export default function Home() {
                 disabled={!file || loading}
                 className="mt-6 px-6 py-2 bg-stone-800 text-white rounded-md hover:bg-stone-700 disabled:opacity-50 disabled:cursor-not-allowed transition-colors"
               >
-                {loading ? "Searching the ages…" : "Find my ancestor"}
+                {loading ? "Reading the will…" : "Claim my inheritance"}
               </button>
             </>
           )}
