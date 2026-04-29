@@ -1,0 +1,63 @@
+{
+  "slug": "Rosalind_Goodrich_Bates__1931",
+  "name": "Rosalind Goodrich Bates",
+  "description": "American lawyer (1894–1961)",
+  "summary": "Rosalind Anita Goodrich Boido was an American lawyer and clubwoman, based in Los Angeles, California. She was a trial attorney who practiced international law and served as a Judge Pro Tem in the Los Angeles Superior Court. She was a founder and president of the International Federation of Women Lawyers (FIDA).",
+  "image_local": "images/Rosalind_Goodrich_Bates__1931.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Rosalind_Goodrich_Bates_%281931%29.jpg/800px-Rosalind_Goodrich_Bates_%281931%29.jpg",
+  "portrait_date": "1931",
+  "original_caption": "Rosalind Goodrich Bates (1931)",
+  "extracted_name": "Rosalind Goodrich Bates",
+  "wikipedia_title": "Rosalind Goodrich Bates",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Rosalind_Goodrich_Bates",
+  "commons_file_page": "https://commons.wikimedia.org/wiki/File:Rosalind_Goodrich_Bates_(1931).jpg",
+  "wikipedia_summary": {
+    "type": "standard",
+    "title": "Rosalind Goodrich Bates",
+    "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Rosalind Goodrich Bates</span></span>",
+    "namespace": {
+      "id": 0,
+      "text": ""
+    },
+    "wikibase_item": "Q110761264",
+    "titles": {
+      "canonical": "Rosalind_Goodrich_Bates",
+      "normalized": "Rosalind Goodrich Bates",
+      "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Rosalind Goodrich Bates</span></span>"
+    },
+    "pageid": 69944470,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Rosalind_Goodrich_Bates_%281931%29.jpg/330px-Rosalind_Goodrich_Bates_%281931%29.jpg",
+      "width": 330,
+      "height": 256
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Rosalind_Goodrich_Bates_%281931%29.jpg/3840px-Rosalind_Goodrich_Bates_%281931%29.jpg",
+      "width": 5733,
+      "height": 4441
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1346419708",
+    "tid": "fc5158b4-2d32-11f1-884c-ff1ff67df275",
+    "timestamp": "2026-03-31T18:54:03Z",
+    "description": "American lawyer (1894–1961)",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Rosalind_Goodrich_Bates",
+        "revisions": "https://en.wikipedia.org/wiki/Rosalind_Goodrich_Bates?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Rosalind_Goodrich_Bates?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Rosalind_Goodrich_Bates"
+      },
+      "mobile": {
+        "page": "https://en.wikipedia.org/wiki/Rosalind_Goodrich_Bates",
+        "revisions": "https://en.wikipedia.org/wiki/Special:History/Rosalind_Goodrich_Bates",
+        "edit": "https://en.wikipedia.org/wiki/Rosalind_Goodrich_Bates?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Rosalind_Goodrich_Bates"
+      }
+    },
+    "extract": "Rosalind Anita Goodrich Boido was an American lawyer and clubwoman, based in Los Angeles, California. She was a trial attorney who practiced international law and served as a Judge Pro Tem in the Los Angeles Superior Court. She was a founder and president of the International Federation of Women Lawyers (FIDA).",
+    "extract_html": "<p><b>Rosalind Anita Goodrich Boido</b> was an American lawyer and clubwoman, based in Los Angeles, California. She was a trial attorney who practiced international law and served as a Judge Pro Tem in the Los Angeles Superior Court. She was a founder and president of the International Federation of Women Lawyers (FIDA).</p>"
+  }
+}

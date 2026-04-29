@@ -1,0 +1,63 @@
+{
+  "slug": "Farida_Arriany__c._1960__signed",
+  "name": "Farida Arriany",
+  "description": "Indonesian actress, model, and singer (1938–1977)",
+  "summary": "Frieda Thenu, better known by the stage name Farida Arriany, also known as Frieda Shagniarty, was an Indonesian actress, model, and singer. She was named the most successful Indonesian film star in the 1960s.",
+  "image_local": "images/Farida_Arriany__c._1960__signed.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Farida_Arriany%2C_c._1960_%28signed%29.jpg/800px-Farida_Arriany%2C_c._1960_%28signed%29.jpg",
+  "portrait_date": "c- 1960",
+  "original_caption": "Farida Arriany",
+  "extracted_name": "Farida Arriany",
+  "wikipedia_title": "Farida Arriany",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Farida_Arriany",
+  "commons_file_page": "https://commons.wikimedia.org/wiki/File:Farida_Arriany,_c._1960_(signed).jpg",
+  "wikipedia_summary": {
+    "type": "standard",
+    "title": "Farida Arriany",
+    "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Farida Arriany</span></span>",
+    "namespace": {
+      "id": 0,
+      "text": ""
+    },
+    "wikibase_item": "Q12482792",
+    "titles": {
+      "canonical": "Farida_Arriany",
+      "normalized": "Farida Arriany",
+      "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Farida Arriany</span></span>"
+    },
+    "pageid": 50921767,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Farida_Arriany%2C_c._1960_%28signed%29.jpg/330px-Farida_Arriany%2C_c._1960_%28signed%29.jpg",
+      "width": 330,
+      "height": 411
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/5/53/Farida_Arriany%2C_c._1960_%28signed%29.jpg",
+      "width": 3649,
+      "height": 4543
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1343060086",
+    "tid": "e00470b7-1db1-11f1-967f-0685b0143c07",
+    "timestamp": "2026-03-12T01:22:03Z",
+    "description": "Indonesian actress, model, and singer (1938–1977)",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Farida_Arriany",
+        "revisions": "https://en.wikipedia.org/wiki/Farida_Arriany?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Farida_Arriany?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Farida_Arriany"
+      },
+      "mobile": {
+        "page": "https://en.wikipedia.org/wiki/Farida_Arriany",
+        "revisions": "https://en.wikipedia.org/wiki/Special:History/Farida_Arriany",
+        "edit": "https://en.wikipedia.org/wiki/Farida_Arriany?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Farida_Arriany"
+      }
+    },
+    "extract": "Frieda Thenu, better known by the stage name Farida Arriany, also known as Frieda Shagniarty, was an Indonesian actress, model, and singer. She was named the most successful Indonesian film star in the 1960s.",
+    "extract_html": "<p><b>Frieda Thenu</b>, better known by the stage name <b>Farida Arriany</b>, also known as <b>Frieda Shagniarty</b>, was an Indonesian actress, model, and singer. She was named the most successful Indonesian film star in the 1960s.</p>"
+  }
+}

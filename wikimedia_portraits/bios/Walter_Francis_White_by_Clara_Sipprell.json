@@ -1,0 +1,63 @@
+{
+  "slug": "Walter_Francis_White_by_Clara_Sipprell",
+  "name": "Walter White (activist)",
+  "description": "American civil rights activist (1893–1955)",
+  "summary": "Walter Francis White was an American civil rights activist who led the National Association for the Advancement of Colored People (NAACP) for a quarter of a century, from 1929 until 1955. He directed a broad program of legal challenges to racial segregation and disfranchisement. He was also a journalist, novelist, and essayist.",
+  "image_local": "images/Walter_Francis_White_by_Clara_Sipprell.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Walter_Francis_White_by_Clara_Sipprell.jpg/800px-Walter_Francis_White_by_Clara_Sipprell.jpg",
+  "portrait_date": "c. 1950",
+  "original_caption": "Walter Francis White by Clara Sipprell",
+  "extracted_name": "Walter Francis White",
+  "wikipedia_title": "Walter White (activist)",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Walter_White_(activist)",
+  "commons_file_page": "https://commons.wikimedia.org/wiki/File:Walter_Francis_White_by_Clara_Sipprell.jpg",
+  "wikipedia_summary": {
+    "type": "standard",
+    "title": "Walter White (activist)",
+    "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Walter White (activist)</span></span>",
+    "namespace": {
+      "id": 0,
+      "text": ""
+    },
+    "wikibase_item": "Q3565918",
+    "titles": {
+      "canonical": "Walter_White_(activist)",
+      "normalized": "Walter White (activist)",
+      "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Walter White (activist)</span></span>"
+    },
+    "pageid": 456066,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Walter_Francis_White_by_Clara_Sipprell.jpg/330px-Walter_Francis_White_by_Clara_Sipprell.jpg",
+      "width": 330,
+      "height": 425
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Walter_Francis_White_by_Clara_Sipprell.jpg",
+      "width": 3520,
+      "height": 4536
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1351385306",
+    "tid": "eada6f46-4256-11f1-a832-6e8d354ed274",
+    "timestamp": "2026-04-27T16:34:10Z",
+    "description": "American civil rights activist (1893–1955)",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Walter_White_(activist)",
+        "revisions": "https://en.wikipedia.org/wiki/Walter_White_(activist)?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Walter_White_(activist)?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Walter_White_(activist)"
+      },
+      "mobile": {
+        "page": "https://en.wikipedia.org/wiki/Walter_White_(activist)",
+        "revisions": "https://en.wikipedia.org/wiki/Special:History/Walter_White_(activist)",
+        "edit": "https://en.wikipedia.org/wiki/Walter_White_(activist)?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Walter_White_(activist)"
+      }
+    },
+    "extract": "Walter Francis White was an American civil rights activist who led the National Association for the Advancement of Colored People (NAACP) for a quarter of a century, from 1929 until 1955. He directed a broad program of legal challenges to racial segregation and disfranchisement. He was also a journalist, novelist, and essayist.",
+    "extract_html": "<p><b>Walter Francis White</b> was an American civil rights activist who led the National Association for the Advancement of Colored People (NAACP) for a quarter of a century, from 1929 until 1955. He directed a broad program of legal challenges to racial segregation and disfranchisement. He was also a journalist, novelist, and essayist.</p>"
+  }
+}

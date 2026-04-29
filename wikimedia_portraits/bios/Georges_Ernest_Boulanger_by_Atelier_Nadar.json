@@ -1,0 +1,63 @@
+{
+  "slug": "Georges_Ernest_Boulanger_by_Atelier_Nadar",
+  "name": "Georges Ernest Boulanger",
+  "description": "French Army officer and politician (1837–1891)",
+  "summary": "Georges Ernest Jean-Marie Boulanger, nicknamed Général Revanche, was a French Army officer and politician. An enormously popular public figure during the second decade of the Third Republic, he won multiple elections. At the zenith of his popularity in January 1889, he was feared to be powerful enough to establish himself as dictator. His base of support was the working-class districts of Paris and other cities, plus rural traditionalist Catholics and royalists. He advocated revanche, révision, and restauration.",
+  "image_local": "images/Georges_Ernest_Boulanger_by_Atelier_Nadar.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Georges_Ernest_Boulanger_by_Atelier_Nadar.jpg/800px-Georges_Ernest_Boulanger_by_Atelier_Nadar.jpg",
+  "portrait_date": "1875 - 1895, probably after 1880",
+  "original_caption": "Georges Ernest Boulanger by Atelier Nadar",
+  "extracted_name": "Georges Ernest Boulanger",
+  "wikipedia_title": "Georges Ernest Boulanger",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Georges_Ernest_Boulanger",
+  "commons_file_page": "https://commons.wikimedia.org/wiki/File:Georges_Ernest_Boulanger_by_Atelier_Nadar.jpg",
+  "wikipedia_summary": {
+    "type": "standard",
+    "title": "Georges Ernest Boulanger",
+    "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Georges Ernest Boulanger</span></span>",
+    "namespace": {
+      "id": 0,
+      "text": ""
+    },
+    "wikibase_item": "Q315747",
+    "titles": {
+      "canonical": "Georges_Ernest_Boulanger",
+      "normalized": "Georges Ernest Boulanger",
+      "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Georges Ernest Boulanger</span></span>"
+    },
+    "pageid": 443834,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Georges_Ernest_Boulanger_by_Atelier_Nadar.jpg/330px-Georges_Ernest_Boulanger_by_Atelier_Nadar.jpg",
+      "width": 330,
+      "height": 464
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Georges_Ernest_Boulanger_by_Atelier_Nadar.jpg",
+      "width": 2417,
+      "height": 3395
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1347476341",
+    "tid": "2adaa16a-3211-11f1-b656-349f176c099b",
+    "timestamp": "2026-04-06T23:34:34Z",
+    "description": "French Army officer and politician (1837–1891)",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Georges_Ernest_Boulanger",
+        "revisions": "https://en.wikipedia.org/wiki/Georges_Ernest_Boulanger?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Georges_Ernest_Boulanger?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Georges_Ernest_Boulanger"
+      },
+      "mobile": {
+        "page": "https://en.wikipedia.org/wiki/Georges_Ernest_Boulanger",
+        "revisions": "https://en.wikipedia.org/wiki/Special:History/Georges_Ernest_Boulanger",
+        "edit": "https://en.wikipedia.org/wiki/Georges_Ernest_Boulanger?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Georges_Ernest_Boulanger"
+      }
+    },
+    "extract": "Georges Ernest Jean-Marie Boulanger, nicknamed Général Revanche, was a French Army officer and politician. An enormously popular public figure during the second decade of the Third Republic, he won multiple elections. At the zenith of his popularity in January 1889, he was feared to be powerful enough to establish himself as dictator. His base of support was the working-class districts of Paris and other cities, plus rural traditionalist Catholics and royalists. He advocated revanche, révision, and restauration.",
+    "extract_html": "<p><b>Georges Ernest Jean-Marie Boulanger</b>, nicknamed <b>Général Revanche</b>, was a French Army officer and politician. An enormously popular public figure during the second decade of the Third Republic, he won multiple elections. At the zenith of his popularity in January 1889, he was feared to be powerful enough to establish himself as dictator. His base of support was the working-class districts of Paris and other cities, plus rural traditionalist Catholics and royalists. He advocated <span><i lang=\"fr\">revanche</i></span>, <span><i lang=\"fr\">révision</i></span>, and <span><i lang=\"fr\">restauration</i></span>.</p>"
+  }
+}

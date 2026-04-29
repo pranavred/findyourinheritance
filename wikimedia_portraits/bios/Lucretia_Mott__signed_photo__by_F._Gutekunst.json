@@ -1,0 +1,63 @@
+{
+  "slug": "Lucretia_Mott__signed_photo__by_F._Gutekunst",
+  "name": "Lucretia Mott",
+  "description": "American Quaker abolitionist and suffragist (1793–1880)",
+  "summary": "Lucretia Mott was an American Quaker, abolitionist, women's rights activist, and social reformer. She had formed the idea of reforming the position of women in society when she was amongst the women excluded from the World Anti-Slavery Convention held in London in 1840. In 1848, she was invited by Jane Hunt to a meeting that led to the first public gathering about women's rights, the Seneca Falls Convention, during which the Declaration of Sentiments was written.",
+  "image_local": "images/Lucretia_Mott__signed_photo__by_F._Gutekunst.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Lucretia_Mott%2C_signed_photo%2C_by_F._Gutekunst.jpg/800px-Lucretia_Mott%2C_signed_photo%2C_by_F._Gutekunst.jpg",
+  "portrait_date": "1870 - 1880",
+  "original_caption": "Lucretia Mott, signed photo, by F. Gutekunst",
+  "extracted_name": "Lucretia Mott",
+  "wikipedia_title": "Lucretia Mott",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Lucretia_Mott",
+  "commons_file_page": "https://commons.wikimedia.org/wiki/File:Lucretia_Mott,_signed_photo,_by_F._Gutekunst.jpg",
+  "wikipedia_summary": {
+    "type": "standard",
+    "title": "Lucretia Mott",
+    "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Lucretia Mott</span></span>",
+    "namespace": {
+      "id": 0,
+      "text": ""
+    },
+    "wikibase_item": "Q267107",
+    "titles": {
+      "canonical": "Lucretia_Mott",
+      "normalized": "Lucretia Mott",
+      "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Lucretia Mott</span></span>"
+    },
+    "pageid": 25597820,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Lucretia_Mott%2C_signed_photo%2C_by_F._Gutekunst.jpg/330px-Lucretia_Mott%2C_signed_photo%2C_by_F._Gutekunst.jpg",
+      "width": 330,
+      "height": 469
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/0/03/Lucretia_Mott%2C_signed_photo%2C_by_F._Gutekunst.jpg",
+      "width": 1699,
+      "height": 2416
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1349243062",
+    "tid": "de1e6805-398a-11f1-bca4-17f4b7b806d0",
+    "timestamp": "2026-04-16T11:53:22Z",
+    "description": "American Quaker abolitionist and suffragist (1793–1880)",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Lucretia_Mott",
+        "revisions": "https://en.wikipedia.org/wiki/Lucretia_Mott?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Lucretia_Mott?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Lucretia_Mott"
+      },
+      "mobile": {
+        "page": "https://en.wikipedia.org/wiki/Lucretia_Mott",
+        "revisions": "https://en.wikipedia.org/wiki/Special:History/Lucretia_Mott",
+        "edit": "https://en.wikipedia.org/wiki/Lucretia_Mott?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Lucretia_Mott"
+      }
+    },
+    "extract": "Lucretia Mott was an American Quaker, abolitionist, women's rights activist, and social reformer. She had formed the idea of reforming the position of women in society when she was amongst the women excluded from the World Anti-Slavery Convention held in London in 1840. In 1848, she was invited by Jane Hunt to a meeting that led to the first public gathering about women's rights, the Seneca Falls Convention, during which the Declaration of Sentiments was written.",
+    "extract_html": "<p><b>Lucretia Mott</b> was an American Quaker, abolitionist, women's rights activist, and social reformer. She had formed the idea of reforming the position of women in society when she was amongst the women excluded from the World Anti-Slavery Convention held in London in 1840. In 1848, she was invited by Jane Hunt to a meeting that led to the first public gathering about women's rights, the Seneca Falls Convention, during which the Declaration of Sentiments was written.</p>"
+  }
+}

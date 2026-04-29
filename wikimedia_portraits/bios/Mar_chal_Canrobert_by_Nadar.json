@@ -1,0 +1,63 @@
+{
+  "slug": "Mar_chal_Canrobert_by_Nadar",
+  "name": "François Certain de Canrobert",
+  "description": "Marshal of France (1809–1895)",
+  "summary": "François Marcellin Certain de Canrobert was a French Marshal. He demonstrated ability during the Second French Empire while participating in the Battle of the Alma, the Battle of Magenta, the Battle of Solferino and the Battle of Gravelotte. A staunch supporter of Napoleon III, he became, under the French Third Republic, one of the leading figures in the Bonapartist party and chairman, from 1876 to 1894, of the Senate within the French parliamentary group Appel au peuple.",
+  "image_local": "images/Mar_chal_Canrobert_by_Nadar.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Mar%C3%A9chal_Canrobert_by_Nadar.jpg/800px-Mar%C3%A9chal_Canrobert_by_Nadar.jpg",
+  "portrait_date": "1875 - 1895, probably after 1880",
+  "original_caption": "Maréchal Canrobert by Nadar",
+  "extracted_name": "Maréchal Canrobert",
+  "wikipedia_title": "François Certain de Canrobert",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Fran%C3%A7ois_Certain_de_Canrobert",
+  "commons_file_page": "https://commons.wikimedia.org/wiki/File:Mar%C3%A9chal_Canrobert_by_Nadar.jpg",
+  "wikipedia_summary": {
+    "type": "standard",
+    "title": "François Certain de Canrobert",
+    "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">François Certain de Canrobert</span></span>",
+    "namespace": {
+      "id": 0,
+      "text": ""
+    },
+    "wikibase_item": "Q551525",
+    "titles": {
+      "canonical": "François_Certain_de_Canrobert",
+      "normalized": "François Certain de Canrobert",
+      "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">François Certain de Canrobert</span></span>"
+    },
+    "pageid": 182042,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Mar%C3%A9chal_Canrobert_by_Nadar.jpg/330px-Mar%C3%A9chal_Canrobert_by_Nadar.jpg",
+      "width": 330,
+      "height": 457
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/6/64/Mar%C3%A9chal_Canrobert_by_Nadar.jpg",
+      "width": 2379,
+      "height": 3296
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1335021721",
+    "tid": "32434720-fb0a-11f0-8b8e-c6155516eb67",
+    "timestamp": "2026-01-26T22:56:06Z",
+    "description": "Marshal of France (1809–1895)",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Fran%C3%A7ois_Certain_de_Canrobert",
+        "revisions": "https://en.wikipedia.org/wiki/Fran%C3%A7ois_Certain_de_Canrobert?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Fran%C3%A7ois_Certain_de_Canrobert?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Fran%C3%A7ois_Certain_de_Canrobert"
+      },
+      "mobile": {
+        "page": "https://en.wikipedia.org/wiki/Fran%C3%A7ois_Certain_de_Canrobert",
+        "revisions": "https://en.wikipedia.org/wiki/Special:History/Fran%C3%A7ois_Certain_de_Canrobert",
+        "edit": "https://en.wikipedia.org/wiki/Fran%C3%A7ois_Certain_de_Canrobert?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Fran%C3%A7ois_Certain_de_Canrobert"
+      }
+    },
+    "extract": "François Marcellin Certain de Canrobert was a French Marshal. He demonstrated ability during the Second French Empire while participating in the Battle of the Alma, the Battle of Magenta, the Battle of Solferino and the Battle of Gravelotte. A staunch supporter of Napoleon III, he became, under the French Third Republic, one of the leading figures in the Bonapartist party and chairman, from 1876 to 1894, of the Senate within the French parliamentary group Appel au peuple.",
+    "extract_html": "<p><b>François Marcellin Certain de Canrobert</b> was a French Marshal. He demonstrated ability during the Second French Empire while participating in the Battle of the Alma, the Battle of Magenta, the Battle of Solferino and the Battle of Gravelotte. A staunch supporter of Napoleon III, he became, under the French Third Republic, one of the leading figures in the Bonapartist party and chairman, from 1876 to 1894, of the Senate within the French parliamentary group <i>Appel au peuple</i>.</p>"
+  }
+}

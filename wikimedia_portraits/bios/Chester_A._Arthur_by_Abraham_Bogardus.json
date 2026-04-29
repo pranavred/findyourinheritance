@@ -1,0 +1,63 @@
+{
+  "slug": "Chester_A._Arthur_by_Abraham_Bogardus",
+  "name": "Chester A. Arthur",
+  "description": "President of the United States from 1881 to 1885",
+  "summary": "Chester Alan Arthur was the 21st president of the United States, serving from 1881 to 1885. He was a Republican from New York who previously served as the 20th vice president under President James A. Garfield. Assuming the presidency after Garfield's assassination, Arthur's administration saw the largest expansion of the U.S. Navy, the end of the so-called \"spoils system\", and the implementation of harsher restrictions for migrants entering from abroad.",
+  "image_local": "images/Chester_A._Arthur_by_Abraham_Bogardus.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Chester_A._Arthur_by_Abraham_Bogardus.jpg/800px-Chester_A._Arthur_by_Abraham_Bogardus.jpg",
+  "portrait_date": "1880s",
+  "original_caption": "Chester A. Arthur by Abraham Bogardus",
+  "extracted_name": "Chester A. Arthur",
+  "wikipedia_title": "Chester A. Arthur",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Chester_A._Arthur",
+  "commons_file_page": "https://commons.wikimedia.org/wiki/File:Chester_A._Arthur_by_Abraham_Bogardus.jpg",
+  "wikipedia_summary": {
+    "type": "standard",
+    "title": "Chester A. Arthur",
+    "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Chester A. Arthur</span></span>",
+    "namespace": {
+      "id": 0,
+      "text": ""
+    },
+    "wikibase_item": "Q35498",
+    "titles": {
+      "canonical": "Chester_A._Arthur",
+      "normalized": "Chester A. Arthur",
+      "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Chester A. Arthur</span></span>"
+    },
+    "pageid": 21490963,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Chester_A._Arthur_by_Abraham_Bogardus_%28cropped%29_%282%29.jpg/330px-Chester_A._Arthur_by_Abraham_Bogardus_%28cropped%29_%282%29.jpg",
+      "width": 330,
+      "height": 433
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Chester_A._Arthur_by_Abraham_Bogardus_%28cropped%29_%282%29.jpg",
+      "width": 3429,
+      "height": 4496
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1351370291",
+    "tid": "359fbbad-4246-11f1-a397-18760d9ea33d",
+    "timestamp": "2026-04-27T14:34:34Z",
+    "description": "President of the United States from 1881 to 1885",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Chester_A._Arthur",
+        "revisions": "https://en.wikipedia.org/wiki/Chester_A._Arthur?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Chester_A._Arthur?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Chester_A._Arthur"
+      },
+      "mobile": {
+        "page": "https://en.wikipedia.org/wiki/Chester_A._Arthur",
+        "revisions": "https://en.wikipedia.org/wiki/Special:History/Chester_A._Arthur",
+        "edit": "https://en.wikipedia.org/wiki/Chester_A._Arthur?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Chester_A._Arthur"
+      }
+    },
+    "extract": "Chester Alan Arthur was the 21st president of the United States, serving from 1881 to 1885. He was a Republican from New York who previously served as the 20th vice president under President James A. Garfield. Assuming the presidency after Garfield's assassination, Arthur's administration saw the largest expansion of the U.S. Navy, the end of the so-called \"spoils system\", and the implementation of harsher restrictions for migrants entering from abroad.",
+    "extract_html": "<p><b>Chester Alan Arthur</b> was the 21st president of the United States, serving from 1881 to 1885. He was a Republican from New York who previously served as the 20th vice president under President James A. Garfield. Assuming the presidency after Garfield's assassination, Arthur's administration saw the largest expansion of the U.S. Navy, the end of the so-called \"spoils system\", and the implementation of harsher restrictions for migrants entering from abroad.</p>"
+  }
+}

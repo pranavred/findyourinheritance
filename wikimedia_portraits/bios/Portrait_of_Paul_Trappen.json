@@ -1,0 +1,61 @@
+{
+  "slug": "Portrait_of_Paul_Trappen",
+  "name": "Paul Trappen",
+  "description": "",
+  "summary": "Paul Trappen was a German wrestler and weightlifter who gained a reputation as the world's strongest man circa 1915.",
+  "image_local": "images/Portrait_of_Paul_Trappen.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Portrait_of_Paul_Trappen.jpg/800px-Portrait_of_Paul_Trappen.jpg",
+  "portrait_date": "1915",
+  "original_caption": "Portrait of Paul Trappen",
+  "extracted_name": "Paul Trappen",
+  "wikipedia_title": "Paul Trappen",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Paul_Trappen",
+  "commons_file_page": "https://commons.wikimedia.org/wiki/File:Portrait_of_Paul_Trappen.jpg",
+  "wikipedia_summary": {
+    "type": "standard",
+    "title": "Paul Trappen",
+    "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Paul Trappen</span></span>",
+    "namespace": {
+      "id": 0,
+      "text": ""
+    },
+    "wikibase_item": "Q2062805",
+    "titles": {
+      "canonical": "Paul_Trappen",
+      "normalized": "Paul Trappen",
+      "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Paul Trappen</span></span>"
+    },
+    "pageid": 63230679,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Portrait_of_Paul_Trappen.jpg/330px-Portrait_of_Paul_Trappen.jpg",
+      "width": 330,
+      "height": 504
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Portrait_of_Paul_Trappen.jpg/3840px-Portrait_of_Paul_Trappen.jpg",
+      "width": 4263,
+      "height": 6514
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1329274297",
+    "tid": "47e4df25-e11c-11f0-b3e3-3cd420d301a8",
+    "timestamp": "2025-12-24T23:00:03Z",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Paul_Trappen",
+        "revisions": "https://en.wikipedia.org/wiki/Paul_Trappen?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Paul_Trappen?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Paul_Trappen"
+      },
+      "mobile": {
+        "page": "https://en.wikipedia.org/wiki/Paul_Trappen",
+        "revisions": "https://en.wikipedia.org/wiki/Special:History/Paul_Trappen",
+        "edit": "https://en.wikipedia.org/wiki/Paul_Trappen?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Paul_Trappen"
+      }
+    },
+    "extract": "Paul Trappen was a German wrestler and weightlifter who gained a reputation as the world's strongest man circa 1915.",
+    "extract_html": "<p><b>Paul Trappen</b> was a German wrestler and weightlifter who gained a reputation as the world's strongest man circa 1915.</p>"
+  }
+}

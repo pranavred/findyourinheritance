@@ -1,0 +1,63 @@
+{
+  "slug": "Avril_de_Sainte-Croix_-_Restored__cropped",
+  "name": "Avril de Sainte-Croix",
+  "description": "French feminist and author (1855–1939)",
+  "summary": "Ghénia Avril de Sainte-Croix was a French author, journalist, feminist and pacifist. For many years she led the French branch of the International Abolitionist Federation, which sought to abolish state regulation of prostitution and fought trafficking in women. She advised the French government and the League of Nations on women's issues. She was also vice-president of the International Council of Women from 1920 and President of the National Council of French Women from 1922 to 1932.",
+  "image_local": "images/Avril_de_Sainte-Croix_-_Restored__cropped.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Avril_de_Sainte-Croix_-_Restored%2C_cropped.jpg/800px-Avril_de_Sainte-Croix_-_Restored%2C_cropped.jpg",
+  "portrait_date": "1925",
+  "original_caption": "Avril de Sainte-Croix - Restored, cropped",
+  "extracted_name": "Avril de Sainte-Croix",
+  "wikipedia_title": "Avril de Sainte-Croix",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Avril_de_Sainte-Croix",
+  "commons_file_page": "https://commons.wikimedia.org/wiki/File:Avril_de_Sainte-Croix_-_Restored,_cropped.jpg",
+  "wikipedia_summary": {
+    "type": "standard",
+    "title": "Avril de Sainte-Croix",
+    "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Avril de Sainte-Croix</span></span>",
+    "namespace": {
+      "id": 0,
+      "text": ""
+    },
+    "wikibase_item": "Q15969945",
+    "titles": {
+      "canonical": "Avril_de_Sainte-Croix",
+      "normalized": "Avril de Sainte-Croix",
+      "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Avril de Sainte-Croix</span></span>"
+    },
+    "pageid": 44065954,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1923_Adrienne_Avril_de_Sainte-Croix.jpg/330px-1923_Adrienne_Avril_de_Sainte-Croix.jpg",
+      "width": 330,
+      "height": 440
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/0/01/1923_Adrienne_Avril_de_Sainte-Croix.jpg",
+      "width": 1253,
+      "height": 1670
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1348224350",
+    "tid": "c918902e-35a2-11f1-a713-37623a86e92a",
+    "timestamp": "2026-04-11T12:34:30Z",
+    "description": "French feminist and author (1855–1939)",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Avril_de_Sainte-Croix",
+        "revisions": "https://en.wikipedia.org/wiki/Avril_de_Sainte-Croix?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Avril_de_Sainte-Croix?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Avril_de_Sainte-Croix"
+      },
+      "mobile": {
+        "page": "https://en.wikipedia.org/wiki/Avril_de_Sainte-Croix",
+        "revisions": "https://en.wikipedia.org/wiki/Special:History/Avril_de_Sainte-Croix",
+        "edit": "https://en.wikipedia.org/wiki/Avril_de_Sainte-Croix?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Avril_de_Sainte-Croix"
+      }
+    },
+    "extract": "Ghénia Avril de Sainte-Croix was a French author, journalist, feminist and pacifist. For many years she led the French branch of the International Abolitionist Federation, which sought to abolish state regulation of prostitution and fought trafficking in women. She advised the French government and the League of Nations on women's issues. She was also vice-president of the International Council of Women from 1920 and President of the National Council of French Women from 1922 to 1932.",
+    "extract_html": "<p><b>Ghénia Avril de Sainte-Croix</b> was a French author, journalist, feminist and pacifist. For many years she led the French branch of the International Abolitionist Federation, which sought to abolish state regulation of prostitution and fought trafficking in women. She advised the French government and the League of Nations on women's issues. She was also vice-president of the International Council of Women from 1920 and President of the National Council of French Women from 1922 to 1932.</p>"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "slug": "Son_of_farmer_in_dust_bowl_area__Cimarron_County__Oklah_fe7dd5fd",
+  "name": "Son",
+  "description": "Male offspring",
+  "summary": "A son is a male offspring; a boy or a man in relation to his parents. The female counterpart is a daughter. From a biological perspective, a son constitutes a first degree relative.",
+  "image_local": "images/Son_of_farmer_in_dust_bowl_area__Cimarron_County__Oklah_fe7dd5fd.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Son_of_farmer_in_dust_bowl_area%2C_Cimarron_County%2C_Oklahoma%2C_8b38282%2C_original.jpg/800px-Son_of_farmer_in_dust_bowl_area%2C_Cimarron_County%2C_Oklahoma%2C_8b38282%2C_original.jpg",
+  "portrait_date": "",
+  "original_caption": "Son of farmer in dust bowl area, Cimarron County, Oklahoma, 8b38282",
+  "extracted_name": "Son",
+  "wikipedia_title": "Son",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Son",
+  "commons_file_page": "https://commons.wikimedia.org/wiki/File:Son_of_farmer_in_dust_bowl_area,_Cimarron_County,_Oklahoma,_8b38282,_original.jpg",
+  "wikipedia_summary": {
+    "type": "standard",
+    "title": "Son",
+    "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Son</span></span>",
+    "namespace": {
+      "id": 0,
+      "text": ""
+    },
+    "wikibase_item": "Q177232",
+    "titles": {
+      "canonical": "Son",
+      "normalized": "Son",
+      "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Son</span></span>"
+    },
+    "pageid": 293302,
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1332426315",
+    "tid": "4c3c3257-ef2f-11f0-a9ba-13385611153c",
+    "timestamp": "2026-01-11T20:51:27Z",
+    "description": "Male offspring",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Son",
+        "revisions": "https://en.wikipedia.org/wiki/Son?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Son?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Son"
+      },
+      "mobile": {
+        "page": "https://en.wikipedia.org/wiki/Son",
+        "revisions": "https://en.wikipedia.org/wiki/Special:History/Son",
+        "edit": "https://en.wikipedia.org/wiki/Son?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Son"
+      }
+    },
+    "extract": "A son is a male offspring; a boy or a man in relation to his parents. The female counterpart is a daughter. From a biological perspective, a son constitutes a first degree relative.",
+    "extract_html": "<p>A <b>son</b> is a male offspring; a boy or a man in relation to his parents. The female counterpart is a daughter. From a biological perspective, a son constitutes a first degree relative.</p>"
+  }
+}

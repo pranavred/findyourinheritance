@@ -1,0 +1,63 @@
+{
+  "slug": "Victoria_Claflin_Woodhull_by_Mathew_Brady_-_Oval_Portrait",
+  "name": "Victoria Woodhull",
+  "description": "American women's suffrage activist (1838–1927)",
+  "summary": "Victoria Claflin Woodhull, later Victoria Woodhull Martin, was an American leader of the women's suffrage movement who ran for president of the United States in the 1872 election. While many historians and authors agree that Woodhull was the first woman to run for the presidency, some disagree with classifying it as a true candidacy because according to the Constitution she would have been too young to be president if elected.",
+  "image_local": "images/Victoria_Claflin_Woodhull_by_Mathew_Brady_-_Oval_Portrait.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Victoria_Claflin_Woodhull_by_Mathew_Brady_-_Oval_Portrait.jpg/800px-Victoria_Claflin_Woodhull_by_Mathew_Brady_-_Oval_Portrait.jpg",
+  "portrait_date": "c. 1870",
+  "original_caption": "Victoria Claflin Woodhull by Mathew Brady - Oval Portrait",
+  "extracted_name": "Victoria Claflin Woodhull",
+  "wikipedia_title": "Victoria Woodhull",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Victoria_Woodhull",
+  "commons_file_page": "https://commons.wikimedia.org/wiki/File:Victoria_Claflin_Woodhull_by_Mathew_Brady_-_Oval_Portrait.jpg",
+  "wikipedia_summary": {
+    "type": "standard",
+    "title": "Victoria Woodhull",
+    "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Victoria Woodhull</span></span>",
+    "namespace": {
+      "id": 0,
+      "text": ""
+    },
+    "wikibase_item": "Q260378",
+    "titles": {
+      "canonical": "Victoria_Woodhull",
+      "normalized": "Victoria Woodhull",
+      "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Victoria Woodhull</span></span>"
+    },
+    "pageid": 32737,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Victoria_Claflin_Woodhull_by_Mathew_Brady_-_Oval_Portrait.jpg/330px-Victoria_Claflin_Woodhull_by_Mathew_Brady_-_Oval_Portrait.jpg",
+      "width": 330,
+      "height": 496
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Victoria_Claflin_Woodhull_by_Mathew_Brady_-_Oval_Portrait.jpg",
+      "width": 2700,
+      "height": 4056
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1340068781",
+    "tid": "9994ed1a-10f2-11f1-b9f2-e6b2be5a233f",
+    "timestamp": "2026-02-23T20:02:37Z",
+    "description": "American women's suffrage activist (1838–1927)",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Victoria_Woodhull",
+        "revisions": "https://en.wikipedia.org/wiki/Victoria_Woodhull?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Victoria_Woodhull?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Victoria_Woodhull"
+      },
+      "mobile": {
+        "page": "https://en.wikipedia.org/wiki/Victoria_Woodhull",
+        "revisions": "https://en.wikipedia.org/wiki/Special:History/Victoria_Woodhull",
+        "edit": "https://en.wikipedia.org/wiki/Victoria_Woodhull?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Victoria_Woodhull"
+      }
+    },
+    "extract": "Victoria Claflin Woodhull, later Victoria Woodhull Martin, was an American leader of the women's suffrage movement who ran for president of the United States in the 1872 election. While many historians and authors agree that Woodhull was the first woman to run for the presidency, some disagree with classifying it as a true candidacy because according to the Constitution she would have been too young to be president if elected.",
+    "extract_html": "<p><b>Victoria Claflin Woodhull</b>, later <b>Victoria Woodhull Martin</b>, was an American leader of the women's suffrage movement who ran for president of the United States in the 1872 election. While many historians and authors agree that Woodhull was the first woman to run for the presidency, some disagree with classifying it as a true candidacy because according to the Constitution she would have been too young to be president if elected.</p>"
+  }
+}

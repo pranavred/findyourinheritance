@@ -1,0 +1,63 @@
+{
+  "slug": "Santa_Claus_LCCN95504975",
+  "name": "Santa Claus",
+  "description": "Legendary Christmas figure",
+  "summary": "Santa Claus is a legendary figure originating in Western Christian culture who is said to bring gifts during the late evening and overnight hours on Christmas Eve. Christmas elves are said to make the gifts in Santa's workshop, while flying reindeer pull his sleigh through the air.",
+  "image_local": "images/Santa_Claus_LCCN95504975.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Santa_Claus_LCCN95504975.jpg/800px-Santa_Claus_LCCN95504975.jpg",
+  "portrait_date": "",
+  "original_caption": "Santa Claus LCCN95504975",
+  "extracted_name": "Santa Claus",
+  "wikipedia_title": "Santa Claus",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Santa_Claus",
+  "commons_file_page": "https://commons.wikimedia.org/wiki/File:Santa_Claus_LCCN95504975.jpg",
+  "wikipedia_summary": {
+    "type": "standard",
+    "title": "Santa Claus",
+    "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Santa Claus</span></span>",
+    "namespace": {
+      "id": 0,
+      "text": ""
+    },
+    "wikibase_item": "Q315796",
+    "titles": {
+      "canonical": "Santa_Claus",
+      "normalized": "Santa Claus",
+      "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Santa Claus</span></span>"
+    },
+    "pageid": 8720252,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Merry_Old_Santa_Claus_by_Thomas_Nast.jpg/330px-Merry_Old_Santa_Claus_by_Thomas_Nast.jpg",
+      "width": 330,
+      "height": 412
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Merry_Old_Santa_Claus_by_Thomas_Nast.jpg",
+      "width": 1283,
+      "height": 1600
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1349837162",
+    "tid": "5ceceb5d-3ba1-11f1-b829-2ed0ef455101",
+    "timestamp": "2026-04-19T03:39:26Z",
+    "description": "Legendary Christmas figure",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Santa_Claus",
+        "revisions": "https://en.wikipedia.org/wiki/Santa_Claus?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Santa_Claus?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Santa_Claus"
+      },
+      "mobile": {
+        "page": "https://en.wikipedia.org/wiki/Santa_Claus",
+        "revisions": "https://en.wikipedia.org/wiki/Special:History/Santa_Claus",
+        "edit": "https://en.wikipedia.org/wiki/Santa_Claus?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Santa_Claus"
+      }
+    },
+    "extract": "Santa Claus is a legendary figure originating in Western Christian culture who is said to bring gifts during the late evening and overnight hours on Christmas Eve. Christmas elves are said to make the gifts in Santa's workshop, while flying reindeer pull his sleigh through the air.",
+    "extract_html": "<p><b>Santa Claus</b> is a legendary figure originating in Western Christian culture who is said to bring gifts during the late evening and overnight hours on Christmas Eve. Christmas elves are said to make the gifts in Santa's workshop, while flying reindeer pull his sleigh through the air.</p>"
+  }
+}

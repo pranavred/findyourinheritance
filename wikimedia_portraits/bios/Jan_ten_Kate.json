@@ -1,0 +1,63 @@
+{
+  "slug": "Jan_ten_Kate",
+  "name": "Jan Jakob Lodewijk ten Kate",
+  "description": "Dutch divine, prose writer and poet (1819–1889)",
+  "summary": "Jan Jakob Lodewijk ten Kate was a Dutch divine, prose writer and poet.",
+  "image_local": "images/Jan_ten_Kate.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Jan_ten_Kate.jpg/800px-Jan_ten_Kate.jpg",
+  "portrait_date": "",
+  "original_caption": "Jan ten Kate",
+  "extracted_name": "Jan ten Kate",
+  "wikipedia_title": "Jan Jakob Lodewijk ten Kate",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Jan_Jakob_Lodewijk_ten_Kate",
+  "commons_file_page": "https://commons.wikimedia.org/wiki/File:Jan_ten_Kate.jpg",
+  "wikipedia_summary": {
+    "type": "standard",
+    "title": "Jan Jakob Lodewijk ten Kate",
+    "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Jan Jakob Lodewijk ten Kate</span></span>",
+    "namespace": {
+      "id": 0,
+      "text": ""
+    },
+    "wikibase_item": "Q1869897",
+    "titles": {
+      "canonical": "Jan_Jakob_Lodewijk_ten_Kate",
+      "normalized": "Jan Jakob Lodewijk ten Kate",
+      "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Jan Jakob Lodewijk ten Kate</span></span>"
+    },
+    "pageid": 585839,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Jan_Jacob_Lodewijk_ten_Kate.jpg",
+      "width": 215,
+      "height": 271
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Jan_Jacob_Lodewijk_ten_Kate.jpg",
+      "width": 215,
+      "height": 271
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1255724758",
+    "tid": "c3877fb7-9c23-11ef-b282-12fc29ff8577",
+    "timestamp": "2024-11-06T09:44:49Z",
+    "description": "Dutch divine, prose writer and poet (1819–1889)",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Jan_Jakob_Lodewijk_ten_Kate",
+        "revisions": "https://en.wikipedia.org/wiki/Jan_Jakob_Lodewijk_ten_Kate?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Jan_Jakob_Lodewijk_ten_Kate?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Jan_Jakob_Lodewijk_ten_Kate"
+      },
+      "mobile": {
+        "page": "https://en.wikipedia.org/wiki/Jan_Jakob_Lodewijk_ten_Kate",
+        "revisions": "https://en.wikipedia.org/wiki/Special:History/Jan_Jakob_Lodewijk_ten_Kate",
+        "edit": "https://en.wikipedia.org/wiki/Jan_Jakob_Lodewijk_ten_Kate?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Jan_Jakob_Lodewijk_ten_Kate"
+      }
+    },
+    "extract": "Jan Jakob Lodewijk ten Kate was a Dutch divine, prose writer and poet.",
+    "extract_html": "<p><b>Jan Jakob Lodewijk ten Kate</b> was a Dutch divine, prose writer and poet.</p>"
+  }
+}

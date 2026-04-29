@@ -1,0 +1,63 @@
+{
+  "slug": "Absalom_Baird__probably_by_the_Webster_Brothers",
+  "name": "Absalom Baird",
+  "description": "United States Army officer",
+  "summary": "Absalom Baird was a career United States Army officer who distinguished himself as a Union Army general in the American Civil War. Baird received the Medal of Honor for his military actions.",
+  "image_local": "images/Absalom_Baird__probably_by_the_Webster_Brothers.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Absalom_Baird%2C_probably_by_the_Webster_Brothers.jpg/800px-Absalom_Baird%2C_probably_by_the_Webster_Brothers.jpg",
+  "portrait_date": "",
+  "original_caption": "Absalom Baird, probably by the Webster Brothers",
+  "extracted_name": "Absalom Baird",
+  "wikipedia_title": "Absalom Baird",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Absalom_Baird",
+  "commons_file_page": "https://commons.wikimedia.org/wiki/File:Absalom_Baird,_probably_by_the_Webster_Brothers.jpg",
+  "wikipedia_summary": {
+    "type": "standard",
+    "title": "Absalom Baird",
+    "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Absalom Baird</span></span>",
+    "namespace": {
+      "id": 0,
+      "text": ""
+    },
+    "wikibase_item": "Q4669647",
+    "titles": {
+      "canonical": "Absalom_Baird",
+      "normalized": "Absalom Baird",
+      "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Absalom Baird</span></span>"
+    },
+    "pageid": 10287772,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Absalom_Baird%2C_probably_by_the_Webster_Brothers.jpg/330px-Absalom_Baird%2C_probably_by_the_Webster_Brothers.jpg",
+      "width": 330,
+      "height": 503
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Absalom_Baird%2C_probably_by_the_Webster_Brothers.jpg",
+      "width": 1504,
+      "height": 2293
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1350541458",
+    "tid": "728b3acb-3e57-11f1-830c-9c264355ee64",
+    "timestamp": "2026-04-22T14:27:53Z",
+    "description": "United States Army officer",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Absalom_Baird",
+        "revisions": "https://en.wikipedia.org/wiki/Absalom_Baird?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Absalom_Baird?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Absalom_Baird"
+      },
+      "mobile": {
+        "page": "https://en.wikipedia.org/wiki/Absalom_Baird",
+        "revisions": "https://en.wikipedia.org/wiki/Special:History/Absalom_Baird",
+        "edit": "https://en.wikipedia.org/wiki/Absalom_Baird?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Absalom_Baird"
+      }
+    },
+    "extract": "Absalom Baird was a career United States Army officer who distinguished himself as a Union Army general in the American Civil War. Baird received the Medal of Honor for his military actions.",
+    "extract_html": "<p><b>Absalom Baird</b> was a career United States Army officer who distinguished himself as a Union Army general in the American Civil War. Baird received the Medal of Honor for his military actions.</p>"
+  }
+}

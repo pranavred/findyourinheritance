@@ -1,0 +1,63 @@
+{
+  "slug": "Marian_Anderson",
+  "name": "Marian Anderson",
+  "description": "African-American contralto (1897–1993)",
+  "summary": "Marian Anderson was an American contralto. She performed a wide range of music, from opera to spirituals. Anderson performed with renowned orchestras in major concert and recital venues throughout the United States and Europe between 1925 and 1965.",
+  "image_local": "images/Marian_Anderson.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Marian_Anderson.jpg/800px-Marian_Anderson.jpg",
+  "portrait_date": "1940",
+  "original_caption": "Marian Anderson",
+  "extracted_name": "Marian Anderson",
+  "wikipedia_title": "Marian Anderson",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Marian_Anderson",
+  "commons_file_page": "https://commons.wikimedia.org/wiki/File:Marian_Anderson.jpg",
+  "wikipedia_summary": {
+    "type": "standard",
+    "title": "Marian Anderson",
+    "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Marian Anderson</span></span>",
+    "namespace": {
+      "id": 0,
+      "text": ""
+    },
+    "wikibase_item": "Q231923",
+    "titles": {
+      "canonical": "Marian_Anderson",
+      "normalized": "Marian Anderson",
+      "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Marian Anderson</span></span>"
+    },
+    "pageid": 74940,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Marian_Anderson_by_Carl_Van_Vechten_%28cropped%29.jpg/330px-Marian_Anderson_by_Carl_Van_Vechten_%28cropped%29.jpg",
+      "width": 330,
+      "height": 424
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Marian_Anderson_by_Carl_Van_Vechten_%28cropped%29.jpg",
+      "width": 2924,
+      "height": 3761
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1350137293",
+    "tid": "5052ba91-3ca7-11f1-b260-a2f8b93553aa",
+    "timestamp": "2026-04-20T10:54:33Z",
+    "description": "African-American contralto (1897–1993)",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Marian_Anderson",
+        "revisions": "https://en.wikipedia.org/wiki/Marian_Anderson?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Marian_Anderson?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Marian_Anderson"
+      },
+      "mobile": {
+        "page": "https://en.wikipedia.org/wiki/Marian_Anderson",
+        "revisions": "https://en.wikipedia.org/wiki/Special:History/Marian_Anderson",
+        "edit": "https://en.wikipedia.org/wiki/Marian_Anderson?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Marian_Anderson"
+      }
+    },
+    "extract": "Marian Anderson was an American contralto. She performed a wide range of music, from opera to spirituals. Anderson performed with renowned orchestras in major concert and recital venues throughout the United States and Europe between 1925 and 1965.",
+    "extract_html": "<p><b>Marian Anderson</b> was an American contralto. She performed a wide range of music, from opera to spirituals. Anderson performed with renowned orchestras in major concert and recital venues throughout the United States and Europe between 1925 and 1965.</p>"
+  }
+}

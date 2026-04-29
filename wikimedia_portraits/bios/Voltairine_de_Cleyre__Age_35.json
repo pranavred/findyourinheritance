@@ -1,0 +1,63 @@
+{
+  "slug": "Voltairine_de_Cleyre__Age_35",
+  "name": "Voltairine de Cleyre",
+  "description": "American anarchist writer and feminist (1866–1912)",
+  "summary": "Voltairine de Cleyre was an American anarchist feminist writer and public speaker.",
+  "image_local": "images/Voltairine_de_Cleyre__Age_35.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Voltairine_de_Cleyre_%28Age_35%29.jpg/800px-Voltairine_de_Cleyre_%28Age_35%29.jpg",
+  "portrait_date": "1901",
+  "original_caption": "Voltairine de Cleyre (Age 35)",
+  "extracted_name": "Voltairine de Cleyre",
+  "wikipedia_title": "Voltairine de Cleyre",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Voltairine_de_Cleyre",
+  "commons_file_page": "https://commons.wikimedia.org/wiki/File:Voltairine_de_Cleyre_(Age_35).jpg",
+  "wikipedia_summary": {
+    "type": "standard",
+    "title": "Voltairine de Cleyre",
+    "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Voltairine de Cleyre</span></span>",
+    "namespace": {
+      "id": 0,
+      "text": ""
+    },
+    "wikibase_item": "Q235361",
+    "titles": {
+      "canonical": "Voltairine_de_Cleyre",
+      "normalized": "Voltairine de Cleyre",
+      "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Voltairine de Cleyre</span></span>"
+    },
+    "pageid": 748619,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Voltairine_de_Cleyre_%28Age_35%29.jpg/330px-Voltairine_de_Cleyre_%28Age_35%29.jpg",
+      "width": 330,
+      "height": 494
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Voltairine_de_Cleyre_%28Age_35%29.jpg",
+      "width": 1802,
+      "height": 2695
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1351121479",
+    "tid": "2cf996b1-4111-11f1-bc77-e2b0b7e9c0ef",
+    "timestamp": "2026-04-26T01:42:25Z",
+    "description": "American anarchist writer and feminist (1866–1912)",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Voltairine_de_Cleyre",
+        "revisions": "https://en.wikipedia.org/wiki/Voltairine_de_Cleyre?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Voltairine_de_Cleyre?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Voltairine_de_Cleyre"
+      },
+      "mobile": {
+        "page": "https://en.wikipedia.org/wiki/Voltairine_de_Cleyre",
+        "revisions": "https://en.wikipedia.org/wiki/Special:History/Voltairine_de_Cleyre",
+        "edit": "https://en.wikipedia.org/wiki/Voltairine_de_Cleyre?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Voltairine_de_Cleyre"
+      }
+    },
+    "extract": "Voltairine de Cleyre was an American anarchist feminist writer and public speaker.",
+    "extract_html": "<p><b>Voltairine de Cleyre</b> was an American anarchist feminist writer and public speaker.</p>"
+  }
+}

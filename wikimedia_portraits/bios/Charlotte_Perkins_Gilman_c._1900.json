@@ -1,0 +1,63 @@
+{
+  "slug": "Charlotte_Perkins_Gilman_c._1900",
+  "name": "Charlotte Perkins Gilman",
+  "description": "American feminist, writer, artist, and lecturer (1860–1935)",
+  "summary": "Charlotte Anna Perkins Gilman, also known by her first married name Charlotte Perkins Stetson, was an American humanist, novelist, writer, lecturer, early sociologist, and advocate for social reform. She was an early and leading figure in the women's rights movement in the United States. Her works were primarily focused on gender, specifically gendered labor division in society, and the problem of male domination. Gilman is best known for the semi-autobiographical short story The Yellow Wallpaper (1892), based on her experience with postpartum depression, her manifesto calling for women's economic independence, Women and Economics (1898), and the utopian feminist novel, Herland (1915). She has been inducted into the National Women's Hall of Fame.",
+  "image_local": "images/Charlotte_Perkins_Gilman_c._1900.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Charlotte_Perkins_Gilman_c._1900.jpg/800px-Charlotte_Perkins_Gilman_c._1900.jpg",
+  "portrait_date": "ca.1900",
+  "original_caption": "Charlotte Perkins Gilman",
+  "extracted_name": "Charlotte Perkins Gilman",
+  "wikipedia_title": "Charlotte Perkins Gilman",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Charlotte_Perkins_Gilman",
+  "commons_file_page": "https://commons.wikimedia.org/wiki/File:Charlotte_Perkins_Gilman_c._1900.jpg",
+  "wikipedia_summary": {
+    "type": "standard",
+    "title": "Charlotte Perkins Gilman",
+    "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Charlotte Perkins Gilman</span></span>",
+    "namespace": {
+      "id": 0,
+      "text": ""
+    },
+    "wikibase_item": "Q287752",
+    "titles": {
+      "canonical": "Charlotte_Perkins_Gilman",
+      "normalized": "Charlotte Perkins Gilman",
+      "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Charlotte Perkins Gilman</span></span>"
+    },
+    "pageid": 105811,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Charlotte_Perkins_Gilman_c._1900.jpg/330px-Charlotte_Perkins_Gilman_c._1900.jpg",
+      "width": 330,
+      "height": 401
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/0/00/Charlotte_Perkins_Gilman_c._1900.jpg",
+      "width": 2920,
+      "height": 3544
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1347416668",
+    "tid": "baac2c31-31d0-11f1-ac4f-1bdd7c0d771e",
+    "timestamp": "2026-04-06T15:53:18Z",
+    "description": "American feminist, writer, artist, and lecturer (1860–1935)",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Charlotte_Perkins_Gilman",
+        "revisions": "https://en.wikipedia.org/wiki/Charlotte_Perkins_Gilman?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Charlotte_Perkins_Gilman?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Charlotte_Perkins_Gilman"
+      },
+      "mobile": {
+        "page": "https://en.wikipedia.org/wiki/Charlotte_Perkins_Gilman",
+        "revisions": "https://en.wikipedia.org/wiki/Special:History/Charlotte_Perkins_Gilman",
+        "edit": "https://en.wikipedia.org/wiki/Charlotte_Perkins_Gilman?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Charlotte_Perkins_Gilman"
+      }
+    },
+    "extract": "Charlotte Anna Perkins Gilman, also known by her first married name Charlotte Perkins Stetson, was an American humanist, novelist, writer, lecturer, early sociologist, and advocate for social reform. She was an early and leading figure in the women's rights movement in the United States. Her works were primarily focused on gender, specifically gendered labor division in society, and the problem of male domination. Gilman is best known for the semi-autobiographical short story The Yellow Wallpaper (1892), based on her experience with postpartum depression, her manifesto calling for women's economic independence, Women and Economics (1898), and the utopian feminist novel, Herland (1915). She has been inducted into the National Women's Hall of Fame.",
+    "extract_html": "<p><b>Charlotte Anna Perkins Gilman</b>, also known by her first married name <b>Charlotte Perkins Stetson</b>, was an American humanist, novelist, writer, lecturer, early sociologist, and advocate for social reform. She was an early and leading figure in the women's rights movement in the United States. Her works were primarily focused on gender, specifically gendered labor division in society, and the problem of male domination. Gilman is best known for the semi-autobiographical short story <i>The Yellow Wallpaper</i> (1892), based on her experience with postpartum depression, her manifesto calling for women's economic independence, <i>Women and Economics</i> (1898), and the utopian feminist novel, <span><i>Herland</i></span> (1915). She has been inducted into the National Women's Hall of Fame.</p>"
+  }
+}

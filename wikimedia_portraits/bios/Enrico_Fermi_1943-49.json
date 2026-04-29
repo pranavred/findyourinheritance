@@ -1,0 +1,63 @@
+{
+  "slug": "Enrico_Fermi_1943-49",
+  "name": "Enrico Fermi",
+  "description": "Italian-American physicist (1901–1954)",
+  "summary": "Enrico Fermi was an Italian–American physicist, renowned for being the creator of the world's first artificial nuclear reactor, the Chicago Pile-1, and a member of the Manhattan Project. He won the 1938 Nobel Prize in Physics \"for his demonstrations of the existence of new radioactive elements produced by neutron irradiation, and for his related discovery of nuclear reactions brought about by slow neutrons\". He has been called the \"architect of the nuclear age\" and the \"architect of the atomic bomb\". He was one of very few physicists to excel in both theoretical and experimental physics. With his colleagues, Fermi filed several patents related to the use of nuclear power, all of which were taken over by the US government. He made significant contributions to the development of statistical mechanics, quantum theory, and nuclear and particle physics.",
+  "image_local": "images/Enrico_Fermi_1943-49.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Enrico_Fermi_1943-49.jpg/800px-Enrico_Fermi_1943-49.jpg",
+  "portrait_date": "1943–1949",
+  "original_caption": "Enrico Fermi",
+  "extracted_name": "Enrico Fermi",
+  "wikipedia_title": "Enrico Fermi",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Enrico_Fermi",
+  "commons_file_page": "https://commons.wikimedia.org/wiki/File:Enrico_Fermi_1943-49.jpg",
+  "wikipedia_summary": {
+    "type": "standard",
+    "title": "Enrico Fermi",
+    "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Enrico Fermi</span></span>",
+    "namespace": {
+      "id": 0,
+      "text": ""
+    },
+    "wikibase_item": "Q8753",
+    "titles": {
+      "canonical": "Enrico_Fermi",
+      "normalized": "Enrico Fermi",
+      "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Enrico Fermi</span></span>"
+    },
+    "pageid": 10264,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Enrico_Fermi_1943-49.jpg/330px-Enrico_Fermi_1943-49.jpg",
+      "width": 330,
+      "height": 408
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Enrico_Fermi_1943-49.jpg",
+      "width": 2368,
+      "height": 2927
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1347109294",
+    "tid": "16a0767e-305a-11f1-82a2-8a70337a7093",
+    "timestamp": "2026-04-04T19:11:31Z",
+    "description": "Italian-American physicist (1901–1954)",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Enrico_Fermi",
+        "revisions": "https://en.wikipedia.org/wiki/Enrico_Fermi?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Enrico_Fermi?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Enrico_Fermi"
+      },
+      "mobile": {
+        "page": "https://en.wikipedia.org/wiki/Enrico_Fermi",
+        "revisions": "https://en.wikipedia.org/wiki/Special:History/Enrico_Fermi",
+        "edit": "https://en.wikipedia.org/wiki/Enrico_Fermi?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Enrico_Fermi"
+      }
+    },
+    "extract": "Enrico Fermi was an Italian–American physicist, renowned for being the creator of the world's first artificial nuclear reactor, the Chicago Pile-1, and a member of the Manhattan Project. He won the 1938 Nobel Prize in Physics \"for his demonstrations of the existence of new radioactive elements produced by neutron irradiation, and for his related discovery of nuclear reactions brought about by slow neutrons\". He has been called the \"architect of the nuclear age\" and the \"architect of the atomic bomb\". He was one of very few physicists to excel in both theoretical and experimental physics. With his colleagues, Fermi filed several patents related to the use of nuclear power, all of which were taken over by the US government. He made significant contributions to the development of statistical mechanics, quantum theory, and nuclear and particle physics.",
+    "extract_html": "<p><b>Enrico Fermi</b> was an Italian–American physicist, renowned for being the creator of the world's first artificial nuclear reactor, the Chicago Pile-1, and a member of the Manhattan Project. He won the 1938 Nobel Prize in Physics \"for his demonstrations of the existence of new radioactive elements produced by neutron irradiation, and for his related discovery of nuclear reactions brought about by slow neutrons\". He has been called the \"architect of the nuclear age\" and the \"architect of the atomic bomb\". He was one of very few physicists to excel in both theoretical and experimental physics. With his colleagues, Fermi filed several patents related to the use of nuclear power, all of which were taken over by the US government. He made significant contributions to the development of statistical mechanics, quantum theory, and nuclear and particle physics.</p>"
+  }
+}

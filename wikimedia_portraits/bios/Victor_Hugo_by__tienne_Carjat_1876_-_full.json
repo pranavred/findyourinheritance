@@ -1,0 +1,63 @@
+{
+  "slug": "Victor_Hugo_by__tienne_Carjat_1876_-_full",
+  "name": "Victor Hugo",
+  "description": "French writer and politician (1802–1885)",
+  "summary": "Victor-Marie Hugo, vicomte Hugo was a French Romantic author, poet, essayist, playwright, journalist, human rights activist and politician.",
+  "image_local": "images/Victor_Hugo_by__tienne_Carjat_1876_-_full.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Victor_Hugo_by_%C3%89tienne_Carjat_1876_-_full.jpg/800px-Victor_Hugo_by_%C3%89tienne_Carjat_1876_-_full.jpg",
+  "portrait_date": "1876",
+  "original_caption": "Victor Hugo by Étienne Carjat",
+  "extracted_name": "Victor Hugo",
+  "wikipedia_title": "Victor Hugo",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Victor_Hugo",
+  "commons_file_page": "https://commons.wikimedia.org/wiki/File:Victor_Hugo_by_%C3%89tienne_Carjat_1876_-_full.jpg",
+  "wikipedia_summary": {
+    "type": "standard",
+    "title": "Victor Hugo",
+    "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Victor Hugo</span></span>",
+    "namespace": {
+      "id": 0,
+      "text": ""
+    },
+    "wikibase_item": "Q535",
+    "titles": {
+      "canonical": "Victor_Hugo",
+      "normalized": "Victor Hugo",
+      "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Victor Hugo</span></span>"
+    },
+    "pageid": 42146,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Victor_Hugo_by_%C3%89tienne_Carjat_1876_-_full.jpg/330px-Victor_Hugo_by_%C3%89tienne_Carjat_1876_-_full.jpg",
+      "width": 330,
+      "height": 406
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Victor_Hugo_by_%C3%89tienne_Carjat_1876_-_full.jpg",
+      "width": 2140,
+      "height": 2632
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1351123766",
+    "tid": "1eac7a17-4113-11f1-b014-1555028faef7",
+    "timestamp": "2026-04-26T01:56:20Z",
+    "description": "French writer and politician (1802–1885)",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Victor_Hugo",
+        "revisions": "https://en.wikipedia.org/wiki/Victor_Hugo?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Victor_Hugo?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Victor_Hugo"
+      },
+      "mobile": {
+        "page": "https://en.wikipedia.org/wiki/Victor_Hugo",
+        "revisions": "https://en.wikipedia.org/wiki/Special:History/Victor_Hugo",
+        "edit": "https://en.wikipedia.org/wiki/Victor_Hugo?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Victor_Hugo"
+      }
+    },
+    "extract": "Victor-Marie Hugo, vicomte Hugo was a French Romantic author, poet, essayist, playwright, journalist, human rights activist and politician.",
+    "extract_html": "<p><b>Victor-Marie Hugo, vicomte Hugo</b> was a French Romantic author, poet, essayist, playwright, journalist, human rights activist and politician.</p>"
+  }
+}

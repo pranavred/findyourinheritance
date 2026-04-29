@@ -1,0 +1,63 @@
+{
+  "slug": "Rita_Levi-Montalcini__1986",
+  "name": "Rita Levi-Montalcini",
+  "description": "Italian neurologist (1909–2012)",
+  "summary": "Rita Levi-Montalcini was an Italian neurobiologist. She was awarded the 1986 Nobel Prize in Physiology or Medicine jointly with colleague Stanley Cohen for the discovery of nerve growth factor (NGF).",
+  "image_local": "images/Rita_Levi-Montalcini__1986.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Rita_Levi-Montalcini_%281986%29.jpg/800px-Rita_Levi-Montalcini_%281986%29.jpg",
+  "portrait_date": "",
+  "original_caption": "Rita Levi-Montalcini (1986)",
+  "extracted_name": "Rita Levi-Montalcini",
+  "wikipedia_title": "Rita Levi-Montalcini",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Rita_Levi-Montalcini",
+  "commons_file_page": "https://commons.wikimedia.org/wiki/File:Rita_Levi-Montalcini_(1986).jpg",
+  "wikipedia_summary": {
+    "type": "standard",
+    "title": "Rita Levi-Montalcini",
+    "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Rita Levi-Montalcini</span></span>",
+    "namespace": {
+      "id": 0,
+      "text": ""
+    },
+    "wikibase_item": "Q185007",
+    "titles": {
+      "canonical": "Rita_Levi-Montalcini",
+      "normalized": "Rita Levi-Montalcini",
+      "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Rita Levi-Montalcini</span></span>"
+    },
+    "pageid": 708064,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Rita_Levi-Montalcini_%281986%29.png/330px-Rita_Levi-Montalcini_%281986%29.png",
+      "width": 330,
+      "height": 498
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/5/57/Rita_Levi-Montalcini_%281986%29.png",
+      "width": 2517,
+      "height": 3796
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1347674289",
+    "tid": "15d5400e-32f1-11f1-a9f4-048089624649",
+    "timestamp": "2026-04-08T02:17:26Z",
+    "description": "Italian neurologist (1909–2012)",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Rita_Levi-Montalcini",
+        "revisions": "https://en.wikipedia.org/wiki/Rita_Levi-Montalcini?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Rita_Levi-Montalcini?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Rita_Levi-Montalcini"
+      },
+      "mobile": {
+        "page": "https://en.wikipedia.org/wiki/Rita_Levi-Montalcini",
+        "revisions": "https://en.wikipedia.org/wiki/Special:History/Rita_Levi-Montalcini",
+        "edit": "https://en.wikipedia.org/wiki/Rita_Levi-Montalcini?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Rita_Levi-Montalcini"
+      }
+    },
+    "extract": "Rita Levi-Montalcini was an Italian neurobiologist. She was awarded the 1986 Nobel Prize in Physiology or Medicine jointly with colleague Stanley Cohen for the discovery of nerve growth factor (NGF).",
+    "extract_html": "<p><b>Rita Levi-Montalcini</b> was an Italian neurobiologist. She was awarded the 1986 Nobel Prize in Physiology or Medicine jointly with colleague Stanley Cohen for the discovery of nerve growth factor (NGF).</p>"
+  }
+}

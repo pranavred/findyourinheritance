@@ -1,0 +1,63 @@
+{
+  "slug": "Jane_Addams_-_Bain_News_Service",
+  "name": "Jane Addams",
+  "description": "American reformer (1860–1935)",
+  "summary": "Laura Jane Addams was an American settlement activist, reformer, social worker, sociologist, public administrator, philosopher, and author. She was a leader in the history of social work and women's suffrage. In 1889, Addams co-founded Hull House, one of America's most famous settlement houses, in Chicago, Illinois, providing extensive social services to poor, largely immigrant families. Philosophically a \"radical pragmatist\", she was arguably the first woman public philosopher in the United States. In the Progressive Era, when even presidents such as Theodore Roosevelt and Woodrow Wilson identified themselves as reformers and might be seen as social activists, Addams was one of the most prominent reformers.",
+  "image_local": "images/Jane_Addams_-_Bain_News_Service.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Jane_Addams_-_Bain_News_Service.jpg/800px-Jane_Addams_-_Bain_News_Service.jpg",
+  "portrait_date": "1924 or 1926",
+  "original_caption": "Jane Addams",
+  "extracted_name": "Jane Addams",
+  "wikipedia_title": "Jane Addams",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Jane_Addams",
+  "commons_file_page": "https://commons.wikimedia.org/wiki/File:Jane_Addams_-_Bain_News_Service.jpg",
+  "wikipedia_summary": {
+    "type": "standard",
+    "title": "Jane Addams",
+    "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Jane Addams</span></span>",
+    "namespace": {
+      "id": 0,
+      "text": ""
+    },
+    "wikibase_item": "Q180989",
+    "titles": {
+      "canonical": "Jane_Addams",
+      "normalized": "Jane Addams",
+      "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Jane Addams</span></span>"
+    },
+    "pageid": 152277,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Jane_Addams_-_Bain_News_Service.jpg/330px-Jane_Addams_-_Bain_News_Service.jpg",
+      "width": 330,
+      "height": 484
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Jane_Addams_-_Bain_News_Service.jpg",
+      "width": 2961,
+      "height": 4347
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1336600577",
+    "tid": "fee27688-01f7-11f1-a3b4-9795c5f4cb4c",
+    "timestamp": "2026-02-04T18:33:27Z",
+    "description": "American reformer (1860–1935)",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Jane_Addams",
+        "revisions": "https://en.wikipedia.org/wiki/Jane_Addams?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Jane_Addams?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Jane_Addams"
+      },
+      "mobile": {
+        "page": "https://en.wikipedia.org/wiki/Jane_Addams",
+        "revisions": "https://en.wikipedia.org/wiki/Special:History/Jane_Addams",
+        "edit": "https://en.wikipedia.org/wiki/Jane_Addams?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Jane_Addams"
+      }
+    },
+    "extract": "Laura Jane Addams was an American settlement activist, reformer, social worker, sociologist, public administrator, philosopher, and author. She was a leader in the history of social work and women's suffrage. In 1889, Addams co-founded Hull House, one of America's most famous settlement houses, in Chicago, Illinois, providing extensive social services to poor, largely immigrant families. Philosophically a \"radical pragmatist\", she was arguably the first woman public philosopher in the United States. In the Progressive Era, when even presidents such as Theodore Roosevelt and Woodrow Wilson identified themselves as reformers and might be seen as social activists, Addams was one of the most prominent reformers.",
+    "extract_html": "<p><b>Laura Jane Addams</b> was an American settlement activist, reformer, social worker, sociologist, public administrator, philosopher, and author. She was a leader in the history of social work and women's suffrage. In 1889, Addams co-founded Hull House, one of America's most famous settlement houses, in Chicago, Illinois, providing extensive social services to poor, largely immigrant families. Philosophically a \"radical pragmatist\", she was arguably the first woman public philosopher in the United States. In the Progressive Era, when even presidents such as Theodore Roosevelt and Woodrow Wilson identified themselves as reformers and might be seen as social activists, Addams was one of the most prominent reformers.</p>"
+  }
+}

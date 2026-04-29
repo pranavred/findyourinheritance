@@ -1,0 +1,63 @@
+{
+  "slug": "Robert_Browning_by_Herbert_Rose_Barraud__circa_1888",
+  "name": "Robert Browning",
+  "description": "English poet and playwright (1812–1889)",
+  "summary": "Robert Browning was an English poet and playwright whose dramatic monologues put him high among the Victorian poets. He was noted for irony, characterisation, dark humour, social commentary, historical settings and challenging vocabulary and syntax.",
+  "image_local": "images/Robert_Browning_by_Herbert_Rose_Barraud__circa_1888.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Robert_Browning_by_Herbert_Rose_Barraud%2C_circa_1888.jpg/800px-Robert_Browning_by_Herbert_Rose_Barraud%2C_circa_1888.jpg",
+  "portrait_date": "",
+  "original_caption": "Robert Browning by Herbert Rose Barraud, circa 1888",
+  "extracted_name": "Robert Browning",
+  "wikipedia_title": "Robert Browning",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Robert_Browning",
+  "commons_file_page": "https://commons.wikimedia.org/wiki/File:Robert_Browning_by_Herbert_Rose_Barraud,_circa_1888.jpg",
+  "wikipedia_summary": {
+    "type": "standard",
+    "title": "Robert Browning",
+    "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Robert Browning</span></span>",
+    "namespace": {
+      "id": 0,
+      "text": ""
+    },
+    "wikibase_item": "Q233265",
+    "titles": {
+      "canonical": "Robert_Browning",
+      "normalized": "Robert Browning",
+      "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Robert Browning</span></span>"
+    },
+    "pageid": 61180,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Robert_Browning_by_Herbert_Rose_Barraud%2C_circa_1888.jpg/330px-Robert_Browning_by_Herbert_Rose_Barraud%2C_circa_1888.jpg",
+      "width": 330,
+      "height": 458
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Robert_Browning_by_Herbert_Rose_Barraud%2C_circa_1888.jpg",
+      "width": 1510,
+      "height": 2095
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1346705300",
+    "tid": "392b6755-2e81-11f1-a977-601f2f66f417",
+    "timestamp": "2026-04-02T10:46:37Z",
+    "description": "English poet and playwright (1812–1889)",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Robert_Browning",
+        "revisions": "https://en.wikipedia.org/wiki/Robert_Browning?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Robert_Browning?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Robert_Browning"
+      },
+      "mobile": {
+        "page": "https://en.wikipedia.org/wiki/Robert_Browning",
+        "revisions": "https://en.wikipedia.org/wiki/Special:History/Robert_Browning",
+        "edit": "https://en.wikipedia.org/wiki/Robert_Browning?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Robert_Browning"
+      }
+    },
+    "extract": "Robert Browning was an English poet and playwright whose dramatic monologues put him high among the Victorian poets. He was noted for irony, characterisation, dark humour, social commentary, historical settings and challenging vocabulary and syntax.",
+    "extract_html": "<p><b>Robert Browning</b> was an English poet and playwright whose dramatic monologues put him high among the Victorian poets. He was noted for irony, characterisation, dark humour, social commentary, historical settings and challenging vocabulary and syntax.</p>"
+  }
+}

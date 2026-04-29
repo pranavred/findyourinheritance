@@ -1,0 +1,63 @@
+{
+  "slug": "Raymond_Poincar__officiel",
+  "name": "Raymond Poincaré",
+  "description": "President of France from 1913 to 1920",
+  "summary": "Raymond Nicolas Landry Poincaré was a French statesman who served as President of France from 1913 to 1920, and three times as Prime Minister of France. He was a conservative leader, primarily committed to political and social stability.",
+  "image_local": "images/Raymond_Poincar__officiel.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Raymond_Poincar%C3%A9_officiel.jpg/800px-Raymond_Poincar%C3%A9_officiel.jpg",
+  "portrait_date": "1913",
+  "original_caption": "Raymond Poincaré",
+  "extracted_name": "Raymond Poincaré",
+  "wikipedia_title": "Raymond Poincaré",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Raymond_Poincar%C3%A9",
+  "commons_file_page": "https://commons.wikimedia.org/wiki/File:Raymond_Poincar%C3%A9_officiel.jpg",
+  "wikipedia_summary": {
+    "type": "standard",
+    "title": "Raymond Poincaré",
+    "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Raymond Poincaré</span></span>",
+    "namespace": {
+      "id": 0,
+      "text": ""
+    },
+    "wikibase_item": "Q191974",
+    "titles": {
+      "canonical": "Raymond_Poincaré",
+      "normalized": "Raymond Poincaré",
+      "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Raymond Poincaré</span></span>"
+    },
+    "pageid": 303726,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Raymond_Poincar%C3%A9_official_%283x4_cropped%29.jpg/330px-Raymond_Poincar%C3%A9_official_%283x4_cropped%29.jpg",
+      "width": 330,
+      "height": 438
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/8/82/Raymond_Poincar%C3%A9_official_%283x4_cropped%29.jpg",
+      "width": 1920,
+      "height": 2549
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1345357779",
+    "tid": "fe20a48e-2876-11f1-8c86-b18a80c94601",
+    "timestamp": "2026-03-25T18:18:16Z",
+    "description": "President of France from 1913 to 1920",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Raymond_Poincar%C3%A9",
+        "revisions": "https://en.wikipedia.org/wiki/Raymond_Poincar%C3%A9?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Raymond_Poincar%C3%A9?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Raymond_Poincar%C3%A9"
+      },
+      "mobile": {
+        "page": "https://en.wikipedia.org/wiki/Raymond_Poincar%C3%A9",
+        "revisions": "https://en.wikipedia.org/wiki/Special:History/Raymond_Poincar%C3%A9",
+        "edit": "https://en.wikipedia.org/wiki/Raymond_Poincar%C3%A9?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Raymond_Poincar%C3%A9"
+      }
+    },
+    "extract": "Raymond Nicolas Landry Poincaré was a French statesman who served as President of France from 1913 to 1920, and three times as Prime Minister of France. He was a conservative leader, primarily committed to political and social stability.",
+    "extract_html": "<p><b>Raymond Nicolas Landry Poincaré</b> was a French statesman who served as President of France from 1913 to 1920, and three times as Prime Minister of France. He was a conservative leader, primarily committed to political and social stability.</p>"
+  }
+}

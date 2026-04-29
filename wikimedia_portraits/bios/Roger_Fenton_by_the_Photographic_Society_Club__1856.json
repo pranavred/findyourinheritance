@@ -1,0 +1,63 @@
+{
+  "slug": "Roger_Fenton_by_the_Photographic_Society_Club__1856",
+  "name": "Roger Fenton",
+  "description": "British photographer (1819–1869)",
+  "summary": "Roger Fenton was a British photographer, noted as one of the first war photographers.",
+  "image_local": "images/Roger_Fenton_by_the_Photographic_Society_Club__1856.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Roger_Fenton_by_the_Photographic_Society_Club%2C_1856.jpg/800px-Roger_Fenton_by_the_Photographic_Society_Club%2C_1856.jpg",
+  "portrait_date": "",
+  "original_caption": "Roger Fenton by the Photographic Society Club, 1856",
+  "extracted_name": "Roger Fenton",
+  "wikipedia_title": "Roger Fenton",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Roger_Fenton",
+  "commons_file_page": "https://commons.wikimedia.org/wiki/File:Roger_Fenton_by_the_Photographic_Society_Club,_1856.jpg",
+  "wikipedia_summary": {
+    "type": "standard",
+    "title": "Roger Fenton",
+    "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Roger Fenton</span></span>",
+    "namespace": {
+      "id": 0,
+      "text": ""
+    },
+    "wikibase_item": "Q345666",
+    "titles": {
+      "canonical": "Roger_Fenton",
+      "normalized": "Roger Fenton",
+      "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Roger Fenton</span></span>"
+    },
+    "pageid": 899453,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Roger_Fenton_by_the_Photographic_Society_Club%2C_1856.jpg/330px-Roger_Fenton_by_the_Photographic_Society_Club%2C_1856.jpg",
+      "width": 330,
+      "height": 426
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/7/76/Roger_Fenton_by_the_Photographic_Society_Club%2C_1856.jpg",
+      "width": 3472,
+      "height": 4485
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1351085935",
+    "tid": "4ab4081e-40eb-11f1-8cbb-cb33fe3a383c",
+    "timestamp": "2026-04-25T21:11:14Z",
+    "description": "British photographer (1819–1869)",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Roger_Fenton",
+        "revisions": "https://en.wikipedia.org/wiki/Roger_Fenton?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Roger_Fenton?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Roger_Fenton"
+      },
+      "mobile": {
+        "page": "https://en.wikipedia.org/wiki/Roger_Fenton",
+        "revisions": "https://en.wikipedia.org/wiki/Special:History/Roger_Fenton",
+        "edit": "https://en.wikipedia.org/wiki/Roger_Fenton?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Roger_Fenton"
+      }
+    },
+    "extract": "Roger Fenton was a British photographer, noted as one of the first war photographers.",
+    "extract_html": "<p><b>Roger Fenton</b> was a British photographer, noted as one of the first war photographers.</p>"
+  }
+}

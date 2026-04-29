@@ -1,0 +1,63 @@
+{
+  "slug": "Jeannette_Rankin__Bain_News_Service__facing_front",
+  "name": "Jeannette Rankin",
+  "description": "First woman elected to U.S. Congress (1880–1973)",
+  "summary": "Jeannette Pickering Rankin was an American politician and women's rights advocate who became the first woman to hold federal office in the United States. She was elected to the U.S. House of Representatives as a Republican from Montana in 1916 for one term, then was elected again in 1940. Rankin remains the only woman ever elected to Congress from Montana.",
+  "image_local": "images/Jeannette_Rankin__Bain_News_Service__facing_front.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Jeannette_Rankin%2C_Bain_News_Service%2C_facing_front.jpg/800px-Jeannette_Rankin%2C_Bain_News_Service%2C_facing_front.jpg",
+  "portrait_date": "1917",
+  "original_caption": "Jeannette Rankin, Bain News Service, facing front",
+  "extracted_name": "Jeannette Rankin",
+  "wikipedia_title": "Jeannette Rankin",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Jeannette_Rankin",
+  "commons_file_page": "https://commons.wikimedia.org/wiki/File:Jeannette_Rankin,_Bain_News_Service,_facing_front.jpg",
+  "wikipedia_summary": {
+    "type": "standard",
+    "title": "Jeannette Rankin",
+    "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Jeannette Rankin</span></span>",
+    "namespace": {
+      "id": 0,
+      "text": ""
+    },
+    "wikibase_item": "Q232407",
+    "titles": {
+      "canonical": "Jeannette_Rankin",
+      "normalized": "Jeannette Rankin",
+      "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Jeannette Rankin</span></span>"
+    },
+    "pageid": 145013,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Jeannette_Rankin%2C_Bain_News_Service%2C_facing_front.jpg/330px-Jeannette_Rankin%2C_Bain_News_Service%2C_facing_front.jpg",
+      "width": 330,
+      "height": 490
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/2/21/Jeannette_Rankin%2C_Bain_News_Service%2C_facing_front.jpg",
+      "width": 3019,
+      "height": 4479
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1347284738",
+    "tid": "1bcef388-312e-11f1-81d7-784f3277ce62",
+    "timestamp": "2026-04-05T20:29:13Z",
+    "description": "First woman elected to U.S. Congress (1880–1973)",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Jeannette_Rankin",
+        "revisions": "https://en.wikipedia.org/wiki/Jeannette_Rankin?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Jeannette_Rankin?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Jeannette_Rankin"
+      },
+      "mobile": {
+        "page": "https://en.wikipedia.org/wiki/Jeannette_Rankin",
+        "revisions": "https://en.wikipedia.org/wiki/Special:History/Jeannette_Rankin",
+        "edit": "https://en.wikipedia.org/wiki/Jeannette_Rankin?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Jeannette_Rankin"
+      }
+    },
+    "extract": "Jeannette Pickering Rankin was an American politician and women's rights advocate who became the first woman to hold federal office in the United States. She was elected to the U.S. House of Representatives as a Republican from Montana in 1916 for one term, then was elected again in 1940. Rankin remains the only woman ever elected to Congress from Montana.",
+    "extract_html": "<p><b>Jeannette Pickering Rankin</b> was an American politician and women's rights advocate who became the first woman to hold federal office in the United States. She was elected to the U.S. House of Representatives as a Republican from Montana in 1916 for one term, then was elected again in 1940. Rankin remains the only woman ever elected to Congress from Montana.</p>"
+  }
+}

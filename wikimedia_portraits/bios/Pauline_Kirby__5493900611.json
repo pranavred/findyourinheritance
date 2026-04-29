@@ -1,0 +1,63 @@
+{
+  "slug": "Pauline_Kirby__5493900611",
+  "name": "Pauline Kirby",
+  "description": "American military nurse (1905–1981)",
+  "summary": "Pauline Kirby was an American nurse and military officer who held several positions throughout her 30 years of service in the United States Army Nurse Corps and the Army of the United States.",
+  "image_local": "images/Pauline_Kirby__5493900611.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Pauline_Kirby_%285493900611%29.jpg/800px-Pauline_Kirby_%285493900611%29.jpg",
+  "portrait_date": "1954",
+  "original_caption": "Pauline Kirby (5493900611)",
+  "extracted_name": "Pauline Kirby",
+  "wikipedia_title": "Pauline Kirby",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Pauline_Kirby",
+  "commons_file_page": "https://commons.wikimedia.org/wiki/File:Pauline_Kirby_(5493900611).jpg",
+  "wikipedia_summary": {
+    "type": "standard",
+    "title": "Pauline Kirby",
+    "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Pauline Kirby</span></span>",
+    "namespace": {
+      "id": 0,
+      "text": ""
+    },
+    "wikibase_item": "Q19613610",
+    "titles": {
+      "canonical": "Pauline_Kirby",
+      "normalized": "Pauline Kirby",
+      "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Pauline Kirby</span></span>"
+    },
+    "pageid": 49178115,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Pauline_Kirby_%285493900611%29.jpg/330px-Pauline_Kirby_%285493900611%29.jpg",
+      "width": 330,
+      "height": 407
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Pauline_Kirby_%285493900611%29.jpg",
+      "width": 1539,
+      "height": 1900
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1338436693",
+    "tid": "0e499691-0a24-11f1-a9c4-7bcbd5ed3779",
+    "timestamp": "2026-02-15T04:09:00Z",
+    "description": "American military nurse (1905–1981)",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Pauline_Kirby",
+        "revisions": "https://en.wikipedia.org/wiki/Pauline_Kirby?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Pauline_Kirby?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Pauline_Kirby"
+      },
+      "mobile": {
+        "page": "https://en.wikipedia.org/wiki/Pauline_Kirby",
+        "revisions": "https://en.wikipedia.org/wiki/Special:History/Pauline_Kirby",
+        "edit": "https://en.wikipedia.org/wiki/Pauline_Kirby?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Pauline_Kirby"
+      }
+    },
+    "extract": "Pauline Kirby was an American nurse and military officer who held several positions throughout her 30 years of service in the United States Army Nurse Corps and the Army of the United States.",
+    "extract_html": "<p><b>Pauline Kirby</b> was an American nurse and military officer who held several positions throughout her 30 years of service in the United States Army Nurse Corps and the Army of the United States.</p>"
+  }
+}

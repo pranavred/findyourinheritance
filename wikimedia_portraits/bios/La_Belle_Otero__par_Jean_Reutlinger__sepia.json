@@ -1,0 +1,63 @@
+{
+  "slug": "La_Belle_Otero__par_Jean_Reutlinger__sepia",
+  "name": "La Belle Otero",
+  "description": "Spanish dancer, actress and courtesan in France",
+  "summary": "Agustina del Carmen Otero Iglesias, better known as Carolina Otero or La Belle Otero, was a Spanish actress, dancer and courtesan. She had a reputation for great beauty and was famous for her numerous lovers.",
+  "image_local": "images/La_Belle_Otero__par_Jean_Reutlinger__sepia.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/La_Belle_Otero%2C_par_Jean_Reutlinger%2C_sepia.jpg/800px-La_Belle_Otero%2C_par_Jean_Reutlinger%2C_sepia.jpg",
+  "portrait_date": "between 1891 and 1914",
+  "original_caption": "La Belle Otero",
+  "extracted_name": "La Belle Otero",
+  "wikipedia_title": "La Belle Otero",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/La_Belle_Otero",
+  "commons_file_page": "https://commons.wikimedia.org/wiki/File:La_Belle_Otero,_par_Jean_Reutlinger,_sepia.jpg",
+  "wikipedia_summary": {
+    "type": "standard",
+    "title": "La Belle Otero",
+    "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">La Belle Otero</span></span>",
+    "namespace": {
+      "id": 0,
+      "text": ""
+    },
+    "wikibase_item": "Q275991",
+    "titles": {
+      "canonical": "La_Belle_Otero",
+      "normalized": "La Belle Otero",
+      "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">La Belle Otero</span></span>"
+    },
+    "pageid": 2836657,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/La_Belle_Otero_by_Reutlinger.jpg/330px-La_Belle_Otero_by_Reutlinger.jpg",
+      "width": 330,
+      "height": 460
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/a/a9/La_Belle_Otero_by_Reutlinger.jpg",
+      "width": 1005,
+      "height": 1400
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1344410835",
+    "tid": "c6a898d5-2435-11f1-8d30-9ac2602b0310",
+    "timestamp": "2026-03-20T08:21:21Z",
+    "description": "Spanish dancer, actress and courtesan in France",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/La_Belle_Otero",
+        "revisions": "https://en.wikipedia.org/wiki/La_Belle_Otero?action=history",
+        "edit": "https://en.wikipedia.org/wiki/La_Belle_Otero?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:La_Belle_Otero"
+      },
+      "mobile": {
+        "page": "https://en.wikipedia.org/wiki/La_Belle_Otero",
+        "revisions": "https://en.wikipedia.org/wiki/Special:History/La_Belle_Otero",
+        "edit": "https://en.wikipedia.org/wiki/La_Belle_Otero?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:La_Belle_Otero"
+      }
+    },
+    "extract": "Agustina del Carmen Otero Iglesias, better known as Carolina Otero or La Belle Otero, was a Spanish actress, dancer and courtesan. She had a reputation for great beauty and was famous for her numerous lovers.",
+    "extract_html": "<p><b>Agustina del Carmen Otero Iglesias</b>, better known as <b>Carolina Otero</b> or <b>La Belle Otero</b>, was a Spanish actress, dancer and courtesan. She had a reputation for great beauty and was famous for her numerous lovers.</p>"
+  }
+}

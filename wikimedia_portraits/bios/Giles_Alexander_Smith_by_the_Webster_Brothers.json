@@ -1,0 +1,61 @@
+{
+  "slug": "Giles_Alexander_Smith_by_the_Webster_Brothers",
+  "name": "Giles Alexander Smith",
+  "description": "",
+  "summary": "Giles Alexander Smith, was a general in the Union Army during the American Civil War.",
+  "image_local": "images/Giles_Alexander_Smith_by_the_Webster_Brothers.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Giles_Alexander_Smith_by_the_Webster_Brothers.jpg/800px-Giles_Alexander_Smith_by_the_Webster_Brothers.jpg",
+  "portrait_date": "",
+  "original_caption": "Giles Alexander Smith by the Webster Brothers",
+  "extracted_name": "Giles Alexander Smith",
+  "wikipedia_title": "Giles Alexander Smith",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Giles_Alexander_Smith",
+  "commons_file_page": "https://commons.wikimedia.org/wiki/File:Giles_Alexander_Smith_by_the_Webster_Brothers.jpg",
+  "wikipedia_summary": {
+    "type": "standard",
+    "title": "Giles Alexander Smith",
+    "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Giles Alexander Smith</span></span>",
+    "namespace": {
+      "id": 0,
+      "text": ""
+    },
+    "wikibase_item": "Q3764332",
+    "titles": {
+      "canonical": "Giles_Alexander_Smith",
+      "normalized": "Giles Alexander Smith",
+      "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Giles Alexander Smith</span></span>"
+    },
+    "pageid": 1857820,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Giles_Alexander_Smith_by_the_Webster_Brothers.jpg/330px-Giles_Alexander_Smith_by_the_Webster_Brothers.jpg",
+      "width": 330,
+      "height": 508
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/9/92/Giles_Alexander_Smith_by_the_Webster_Brothers.jpg",
+      "width": 1496,
+      "height": 2301
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1322855946",
+    "tid": "646e65fa-c44c-11f0-b547-1e9980e75994",
+    "timestamp": "2025-11-18T07:01:23Z",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Giles_Alexander_Smith",
+        "revisions": "https://en.wikipedia.org/wiki/Giles_Alexander_Smith?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Giles_Alexander_Smith?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Giles_Alexander_Smith"
+      },
+      "mobile": {
+        "page": "https://en.wikipedia.org/wiki/Giles_Alexander_Smith",
+        "revisions": "https://en.wikipedia.org/wiki/Special:History/Giles_Alexander_Smith",
+        "edit": "https://en.wikipedia.org/wiki/Giles_Alexander_Smith?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Giles_Alexander_Smith"
+      }
+    },
+    "extract": "Giles Alexander Smith, was a general in the Union Army during the American Civil War.",
+    "extract_html": "<p><b>Giles Alexander Smith</b>, was a general in the Union Army during the American Civil War.</p>"
+  }
+}

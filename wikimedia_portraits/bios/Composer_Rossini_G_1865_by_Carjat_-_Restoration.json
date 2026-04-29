@@ -1,0 +1,63 @@
+{
+  "slug": "Composer_Rossini_G_1865_by_Carjat_-_Restoration",
+  "name": "Gioachino Rossini",
+  "description": "Italian opera composer (1792–1868)",
+  "summary": "Gioachino Antonio Rossini was an Italian composer and conductor of the late Classical and early Romantic eras. While he gained most of his fame for his 39 operas, he also wrote many pieces of chamber music, piano, and some sacred music. He set new standards for both comic and serious opera before retiring from large-scale composition while still in his thirties, at the height of his popularity.",
+  "image_local": "images/Composer_Rossini_G_1865_by_Carjat_-_Restoration.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Composer_Rossini_G_1865_by_Carjat_-_Restoration.jpg/800px-Composer_Rossini_G_1865_by_Carjat_-_Restoration.jpg",
+  "portrait_date": "1865",
+  "original_caption": "Composer Rossini 1865 by Carjat",
+  "extracted_name": "Rossini",
+  "wikipedia_title": "Gioachino Rossini",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Gioachino_Rossini",
+  "commons_file_page": "https://commons.wikimedia.org/wiki/File:Composer_Rossini_G_1865_by_Carjat_-_Restoration.jpg",
+  "wikipedia_summary": {
+    "type": "standard",
+    "title": "Gioachino Rossini",
+    "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Gioachino Rossini</span></span>",
+    "namespace": {
+      "id": 0,
+      "text": ""
+    },
+    "wikibase_item": "Q9726",
+    "titles": {
+      "canonical": "Gioachino_Rossini",
+      "normalized": "Gioachino Rossini",
+      "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Gioachino Rossini</span></span>"
+    },
+    "pageid": 12406,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/9/90/Rossini_young-circa-1815.jpg",
+      "width": 300,
+      "height": 394
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/9/90/Rossini_young-circa-1815.jpg",
+      "width": 300,
+      "height": 394
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1347679340",
+    "tid": "d1e53a34-32f6-11f1-a5f8-0080becbb632",
+    "timestamp": "2026-04-08T02:58:29Z",
+    "description": "Italian opera composer (1792–1868)",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Gioachino_Rossini",
+        "revisions": "https://en.wikipedia.org/wiki/Gioachino_Rossini?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Gioachino_Rossini?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Gioachino_Rossini"
+      },
+      "mobile": {
+        "page": "https://en.wikipedia.org/wiki/Gioachino_Rossini",
+        "revisions": "https://en.wikipedia.org/wiki/Special:History/Gioachino_Rossini",
+        "edit": "https://en.wikipedia.org/wiki/Gioachino_Rossini?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Gioachino_Rossini"
+      }
+    },
+    "extract": "Gioachino Antonio Rossini was an Italian composer and conductor of the late Classical and early Romantic eras. While he gained most of his fame for his 39 operas, he also wrote many pieces of chamber music, piano, and some sacred music. He set new standards for both comic and serious opera before retiring from large-scale composition while still in his thirties, at the height of his popularity.",
+    "extract_html": "<p><b>Gioachino Antonio Rossini</b> was an Italian composer and conductor of the late Classical and early Romantic eras. While he gained most of his fame for his 39 operas, he also wrote many pieces of chamber music, piano, and some sacred music. He set new standards for both comic and serious opera before retiring from large-scale composition while still in his thirties, at the height of his popularity.</p>"
+  }
+}

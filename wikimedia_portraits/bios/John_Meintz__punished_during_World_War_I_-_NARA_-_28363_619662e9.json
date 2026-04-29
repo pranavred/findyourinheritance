@@ -1,0 +1,63 @@
+{
+  "slug": "John_Meintz__punished_during_World_War_I_-_NARA_-_28363_619662e9",
+  "name": "John T. Meints",
+  "description": "German-American farmer tarred and feathered during WW1",
+  "summary": "John T. Meints Sr. was a German-American farmer and member of the Nonpartisan League who lived in Luverne, Minnesota. On August 19, 1918, he was ambushed by 32 anti-German men who tarred and feathered Meints. Meints filed a lawsuit for $100,000 against the men but was denied.",
+  "image_local": "images/John_Meintz__punished_during_World_War_I_-_NARA_-_28363_619662e9.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/John_Meintz%2C_punished_during_World_War_I_-_NARA_-_283633_-_restored.jpg/800px-John_Meintz%2C_punished_during_World_War_I_-_NARA_-_283633_-_restored.jpg",
+  "portrait_date": "ca. 1918-1919",
+  "original_caption": "John Meintz, punished during World War I",
+  "extracted_name": "John Meintz",
+  "wikipedia_title": "John T. Meints",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/John_T._Meints",
+  "commons_file_page": "https://commons.wikimedia.org/wiki/File:John_Meintz,_punished_during_World_War_I_-_NARA_-_283633_-_restored.jpg",
+  "wikipedia_summary": {
+    "type": "standard",
+    "title": "John T. Meints",
+    "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">John T. Meints</span></span>",
+    "namespace": {
+      "id": 0,
+      "text": ""
+    },
+    "wikibase_item": "Q135321680",
+    "titles": {
+      "canonical": "John_T._Meints",
+      "normalized": "John T. Meints",
+      "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">John T. Meints</span></span>"
+    },
+    "pageid": 80338081,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/John_Meintz%2C_punished_during_World_War_I_-_NARA_-_283633_-_restored.jpg/330px-John_Meintz%2C_punished_during_World_War_I_-_NARA_-_283633_-_restored.jpg",
+      "width": 330,
+      "height": 423
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/c/cb/John_Meintz%2C_punished_during_World_War_I_-_NARA_-_283633_-_restored.jpg",
+      "width": 2308,
+      "height": 2958
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1337224022",
+    "tid": "a1735314-04a5-11f1-a8d3-44ec2f8b499d",
+    "timestamp": "2026-02-08T04:21:25Z",
+    "description": "German-American farmer tarred and feathered during WW1",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/John_T._Meints",
+        "revisions": "https://en.wikipedia.org/wiki/John_T._Meints?action=history",
+        "edit": "https://en.wikipedia.org/wiki/John_T._Meints?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:John_T._Meints"
+      },
+      "mobile": {
+        "page": "https://en.wikipedia.org/wiki/John_T._Meints",
+        "revisions": "https://en.wikipedia.org/wiki/Special:History/John_T._Meints",
+        "edit": "https://en.wikipedia.org/wiki/John_T._Meints?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:John_T._Meints"
+      }
+    },
+    "extract": "John T. Meints Sr. was a German-American farmer and member of the Nonpartisan League who lived in Luverne, Minnesota. On August 19, 1918, he was ambushed by 32 anti-German men who tarred and feathered Meints. Meints filed a lawsuit for $100,000 against the men but was denied.",
+    "extract_html": "<p><b>John T. Meints Sr.</b> was a German-American farmer and member of the Nonpartisan League who lived in Luverne, Minnesota. On August 19, 1918, he was ambushed by 32 anti-German men who tarred and feathered Meints. Meints filed a lawsuit for $100,000 against the men but was denied.</p>"
+  }
+}

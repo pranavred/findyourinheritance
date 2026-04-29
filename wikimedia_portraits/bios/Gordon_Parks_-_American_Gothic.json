@@ -1,0 +1,63 @@
+{
+  "slug": "Gordon_Parks_-_American_Gothic",
+  "name": "Gordon Parks",
+  "description": "American photographer, musician, writer and film director (1912–2006)",
+  "summary": "Gordon Roger Alexander Buchanan Parks was an American photographer, composer, author, poet, and filmmaker, who became prominent in U.S. documentary photojournalism in the 1940s through 1970s—particularly in issues of civil rights, poverty and African Americans—and in glamour photography. He is best remembered for his iconic photos of poor Americans during the 1940s, for his photographic essays for Life magazine, and as the director of the films Shaft, Shaft's Big Score, and the semiautobiographical The Learning Tree.",
+  "image_local": "images/Gordon_Parks_-_American_Gothic.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Gordon_Parks_-_American_Gothic.jpg/800px-Gordon_Parks_-_American_Gothic.jpg",
+  "portrait_date": "1942",
+  "original_caption": "Gordon Parks, American Gothic, portrait of government cleaning woman Ella Watson",
+  "extracted_name": "Gordon Parks",
+  "wikipedia_title": "Gordon Parks",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Gordon_Parks",
+  "commons_file_page": "https://commons.wikimedia.org/wiki/File:Gordon_Parks_-_American_Gothic.jpg",
+  "wikipedia_summary": {
+    "type": "standard",
+    "title": "Gordon Parks",
+    "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Gordon Parks</span></span>",
+    "namespace": {
+      "id": 0,
+      "text": ""
+    },
+    "wikibase_item": "Q365682",
+    "titles": {
+      "canonical": "Gordon_Parks",
+      "normalized": "Gordon Parks",
+      "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Gordon Parks</span></span>"
+    },
+    "pageid": 598386,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/1/14/Gordon_Parks.jpg",
+      "width": 308,
+      "height": 396
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/1/14/Gordon_Parks.jpg",
+      "width": 308,
+      "height": 396
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1349895111",
+    "tid": "df929ece-3bdb-11f1-94cb-23e907813a39",
+    "timestamp": "2026-04-19T10:38:16Z",
+    "description": "American photographer, musician, writer and film director (1912–2006)",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Gordon_Parks",
+        "revisions": "https://en.wikipedia.org/wiki/Gordon_Parks?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Gordon_Parks?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Gordon_Parks"
+      },
+      "mobile": {
+        "page": "https://en.wikipedia.org/wiki/Gordon_Parks",
+        "revisions": "https://en.wikipedia.org/wiki/Special:History/Gordon_Parks",
+        "edit": "https://en.wikipedia.org/wiki/Gordon_Parks?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Gordon_Parks"
+      }
+    },
+    "extract": "Gordon Roger Alexander Buchanan Parks was an American photographer, composer, author, poet, and filmmaker, who became prominent in U.S. documentary photojournalism in the 1940s through 1970s—particularly in issues of civil rights, poverty and African Americans—and in glamour photography. He is best remembered for his iconic photos of poor Americans during the 1940s, for his photographic essays for Life magazine, and as the director of the films Shaft, Shaft's Big Score, and the semiautobiographical The Learning Tree.",
+    "extract_html": "<p><b>Gordon Roger Alexander Buchanan Parks</b> was an American photographer, composer, author, poet, and filmmaker, who became prominent in U.S. documentary photojournalism in the 1940s through 1970s—particularly in issues of civil rights, poverty and African Americans—and in glamour photography. He is best remembered for his iconic photos of poor Americans during the 1940s, for his photographic essays for <i>Life</i> magazine, and as the director of the films <i>Shaft, Shaft's Big Score</i>, and the semiautobiographical <i>The Learning Tree</i>.</p>"
+  }
+}

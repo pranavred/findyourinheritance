@@ -1,0 +1,63 @@
+{
+  "slug": "Booker_T._Washington_by_Francis_Benjamin_Johnston__c._1895",
+  "name": "Booker T. Washington",
+  "description": "American educator, author, orator and adviser",
+  "summary": "Booker Taliaferro Washington was an American educator, author, and orator. Between 1890 and 1915, Washington was the primary leader in the African-American community and of the contemporary Black elite.",
+  "image_local": "images/Booker_T._Washington_by_Francis_Benjamin_Johnston__c._1895.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Booker_T._Washington_by_Francis_Benjamin_Johnston%2C_c._1895.jpg/800px-Booker_T._Washington_by_Francis_Benjamin_Johnston%2C_c._1895.jpg",
+  "portrait_date": "c. 1895",
+  "original_caption": "Booker T. Washington by Francis Benjamin Johnston, c. 1895",
+  "extracted_name": "Booker T. Washington",
+  "wikipedia_title": "Booker T. Washington",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Booker_T._Washington",
+  "commons_file_page": "https://commons.wikimedia.org/wiki/File:Booker_T._Washington_by_Francis_Benjamin_Johnston,_c._1895.jpg",
+  "wikipedia_summary": {
+    "type": "standard",
+    "title": "Booker T. Washington",
+    "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Booker T. Washington</span></span>",
+    "namespace": {
+      "id": 0,
+      "text": ""
+    },
+    "wikibase_item": "Q319871",
+    "titles": {
+      "canonical": "Booker_T._Washington",
+      "normalized": "Booker T. Washington",
+      "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Booker T. Washington</span></span>"
+    },
+    "pageid": 37242,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Booker_T_Washington_retouched_flattened-crop.jpg/330px-Booker_T_Washington_retouched_flattened-crop.jpg",
+      "width": 330,
+      "height": 466
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Booker_T_Washington_retouched_flattened-crop.jpg",
+      "width": 2344,
+      "height": 3313
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1350903167",
+    "tid": "d73cc7a6-400e-11f1-914b-0c993cf7e298",
+    "timestamp": "2026-04-24T18:53:11Z",
+    "description": "American educator, author, orator and adviser",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Booker_T._Washington",
+        "revisions": "https://en.wikipedia.org/wiki/Booker_T._Washington?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Booker_T._Washington?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Booker_T._Washington"
+      },
+      "mobile": {
+        "page": "https://en.wikipedia.org/wiki/Booker_T._Washington",
+        "revisions": "https://en.wikipedia.org/wiki/Special:History/Booker_T._Washington",
+        "edit": "https://en.wikipedia.org/wiki/Booker_T._Washington?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Booker_T._Washington"
+      }
+    },
+    "extract": "Booker Taliaferro Washington was an American educator, author, and orator. Between 1890 and 1915, Washington was the primary leader in the African-American community and of the contemporary Black elite.",
+    "extract_html": "<p><b>Booker Taliaferro Washington</b> was an American educator, author, and orator. Between 1890 and 1915, Washington was the primary leader in the African-American community and of the contemporary Black elite.</p>"
+  }
+}

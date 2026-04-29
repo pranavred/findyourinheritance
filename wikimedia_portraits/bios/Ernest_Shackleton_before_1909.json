@@ -1,0 +1,63 @@
+{
+  "slug": "Ernest_Shackleton_before_1909",
+  "name": "Ernest Shackleton",
+  "description": "Anglo-Irish Antarctic explorer (1874–1922)",
+  "summary": "Sir Ernest Henry Shackleton was an Anglo-Irish Antarctic explorer who led three British expeditions to the Antarctic. He was one of the principal figures of the period known as the Heroic Age of Antarctic Exploration.",
+  "image_local": "images/Ernest_Shackleton_before_1909.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Ernest_Shackleton_before_1909.jpg/800px-Ernest_Shackleton_before_1909.jpg",
+  "portrait_date": "",
+  "original_caption": "Ernest Shackleton before 1909",
+  "extracted_name": "Ernest Shackleton",
+  "wikipedia_title": "Ernest Shackleton",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Ernest_Shackleton",
+  "commons_file_page": "https://commons.wikimedia.org/wiki/File:Ernest_Shackleton_before_1909.jpg",
+  "wikipedia_summary": {
+    "type": "standard",
+    "title": "Ernest Shackleton",
+    "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Ernest Shackleton</span></span>",
+    "namespace": {
+      "id": 0,
+      "text": ""
+    },
+    "wikibase_item": "Q957543",
+    "titles": {
+      "canonical": "Ernest_Shackleton",
+      "normalized": "Ernest Shackleton",
+      "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Ernest Shackleton</span></span>"
+    },
+    "pageid": 60004,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Ernest_Shackleton_before_1909.jpg/330px-Ernest_Shackleton_before_1909.jpg",
+      "width": 330,
+      "height": 455
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Ernest_Shackleton_before_1909.jpg",
+      "width": 2409,
+      "height": 3325
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1350851720",
+    "tid": "2f56d810-3fd5-11f1-842f-b9adbf47303d",
+    "timestamp": "2026-04-24T12:00:28Z",
+    "description": "Anglo-Irish Antarctic explorer (1874–1922)",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Ernest_Shackleton",
+        "revisions": "https://en.wikipedia.org/wiki/Ernest_Shackleton?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Ernest_Shackleton?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Ernest_Shackleton"
+      },
+      "mobile": {
+        "page": "https://en.wikipedia.org/wiki/Ernest_Shackleton",
+        "revisions": "https://en.wikipedia.org/wiki/Special:History/Ernest_Shackleton",
+        "edit": "https://en.wikipedia.org/wiki/Ernest_Shackleton?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Ernest_Shackleton"
+      }
+    },
+    "extract": "Sir Ernest Henry Shackleton was an Anglo-Irish Antarctic explorer who led three British expeditions to the Antarctic. He was one of the principal figures of the period known as the Heroic Age of Antarctic Exploration.",
+    "extract_html": "<p><b>Sir Ernest Henry Shackleton</b> was an Anglo-Irish Antarctic explorer who led three British expeditions to the Antarctic. He was one of the principal figures of the period known as the Heroic Age of Antarctic Exploration.</p>"
+  }
+}

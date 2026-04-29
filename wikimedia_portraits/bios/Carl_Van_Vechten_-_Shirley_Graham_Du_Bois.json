@@ -1,0 +1,63 @@
+{
+  "slug": "Carl_Van_Vechten_-_Shirley_Graham_Du_Bois",
+  "name": "Shirley Graham Du Bois",
+  "description": "American-Ghanaian writer and activist (1896–1977)",
+  "summary": "Shirley Graham Du Bois was an American-Ghanaian writer, playwright, composer, and activist for African-American causes, among others. She won the Messner and the Anisfield-Wolf prizes for her works. She was also the second wife of activist W. E. B. Du Bois.",
+  "image_local": "images/Carl_Van_Vechten_-_Shirley_Graham_Du_Bois.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Carl_Van_Vechten_-_Shirley_Graham_Du_Bois.jpg/800px-Carl_Van_Vechten_-_Shirley_Graham_Du_Bois.jpg",
+  "portrait_date": "1946",
+  "original_caption": "Shirley Graham Du Bois",
+  "extracted_name": "Shirley Graham Du Bois",
+  "wikipedia_title": "Shirley Graham Du Bois",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Shirley_Graham_Du_Bois",
+  "commons_file_page": "https://commons.wikimedia.org/wiki/File:Carl_Van_Vechten_-_Shirley_Graham_Du_Bois.jpg",
+  "wikipedia_summary": {
+    "type": "standard",
+    "title": "Shirley Graham Du Bois",
+    "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Shirley Graham Du Bois</span></span>",
+    "namespace": {
+      "id": 0,
+      "text": ""
+    },
+    "wikibase_item": "Q3482354",
+    "titles": {
+      "canonical": "Shirley_Graham_Du_Bois",
+      "normalized": "Shirley Graham Du Bois",
+      "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Shirley Graham Du Bois</span></span>"
+    },
+    "pageid": 1720762,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Shirley_Graham_Du_Bois_1_%28cropped%29.jpg/330px-Shirley_Graham_Du_Bois_1_%28cropped%29.jpg",
+      "width": 330,
+      "height": 471
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Shirley_Graham_Du_Bois_1_%28cropped%29.jpg",
+      "width": 2964,
+      "height": 4226
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1350729823",
+    "tid": "59f253af-3f37-11f1-9762-d4a98a336349",
+    "timestamp": "2026-04-23T17:10:39Z",
+    "description": "American-Ghanaian writer and activist (1896–1977)",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Shirley_Graham_Du_Bois",
+        "revisions": "https://en.wikipedia.org/wiki/Shirley_Graham_Du_Bois?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Shirley_Graham_Du_Bois?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Shirley_Graham_Du_Bois"
+      },
+      "mobile": {
+        "page": "https://en.wikipedia.org/wiki/Shirley_Graham_Du_Bois",
+        "revisions": "https://en.wikipedia.org/wiki/Special:History/Shirley_Graham_Du_Bois",
+        "edit": "https://en.wikipedia.org/wiki/Shirley_Graham_Du_Bois?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Shirley_Graham_Du_Bois"
+      }
+    },
+    "extract": "Shirley Graham Du Bois was an American-Ghanaian writer, playwright, composer, and activist for African-American causes, among others. She won the Messner and the Anisfield-Wolf prizes for her works. She was also the second wife of activist W. E. B. Du Bois.",
+    "extract_html": "<p><b>Shirley Graham Du Bois</b> was an American-Ghanaian writer, playwright, composer, and activist for African-American causes, among others. She won the Messner and the Anisfield-Wolf prizes for her works. She was also the second wife of activist W. E. B. Du Bois.</p>"
+  }
+}

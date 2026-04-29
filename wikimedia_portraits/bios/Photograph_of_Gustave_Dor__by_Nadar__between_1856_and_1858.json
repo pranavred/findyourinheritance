@@ -1,0 +1,63 @@
+{
+  "slug": "Photograph_of_Gustave_Dor__by_Nadar__between_1856_and_1858",
+  "name": "Gustave Doré",
+  "description": "French illustrator and painter (1832–1883)",
+  "summary": "Paul Gustave Louis Christophe Doré was a French printmaker, illustrator, painter, comics artist, caricaturist, and sculptor. He is best known for his prolific output of wood-engravings illustrating classic literature, especially those for the Vulgate Bible and Dante's Divine Comedy. These achieved great international success, and he became renowned for printmaking, although his role was normally as the designer only; at the height of his career some 40 block-cutters were employed to cut his drawings onto the wooden printing blocks, usually also signing the image.",
+  "image_local": "images/Photograph_of_Gustave_Dor__by_Nadar__between_1856_and_1858.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Photograph_of_Gustave_Dor%C3%A9_by_Nadar%2C_between_1856_and_1858.jpg/800px-Photograph_of_Gustave_Dor%C3%A9_by_Nadar%2C_between_1856_and_1858.jpg",
+  "portrait_date": "",
+  "original_caption": "Photograph of Gustave Doré by Nadar, between 1856 and 1858",
+  "extracted_name": "Gustave Doré",
+  "wikipedia_title": "Gustave Doré",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Gustave_Dor%C3%A9",
+  "commons_file_page": "https://commons.wikimedia.org/wiki/File:Photograph_of_Gustave_Dor%C3%A9_by_Nadar,_between_1856_and_1858.jpg",
+  "wikipedia_summary": {
+    "type": "standard",
+    "title": "Gustave Doré",
+    "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Gustave Doré</span></span>",
+    "namespace": {
+      "id": 0,
+      "text": ""
+    },
+    "wikibase_item": "Q6682",
+    "titles": {
+      "canonical": "Gustave_Doré",
+      "normalized": "Gustave Doré",
+      "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Gustave Doré</span></span>"
+    },
+    "pageid": 266334,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Photograph_of_Gustave_Dor%C3%A9_by_Nadar%2C_between_1856_and_1858.jpg/330px-Photograph_of_Gustave_Dor%C3%A9_by_Nadar%2C_between_1856_and_1858.jpg",
+      "width": 330,
+      "height": 415
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/5/53/Photograph_of_Gustave_Dor%C3%A9_by_Nadar%2C_between_1856_and_1858.jpg",
+      "width": 2385,
+      "height": 3000
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1350445192",
+    "tid": "500b0d2f-3de2-11f1-b65b-1e271eae6aee",
+    "timestamp": "2026-04-22T00:29:24Z",
+    "description": "French illustrator and painter (1832–1883)",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Gustave_Dor%C3%A9",
+        "revisions": "https://en.wikipedia.org/wiki/Gustave_Dor%C3%A9?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Gustave_Dor%C3%A9?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Gustave_Dor%C3%A9"
+      },
+      "mobile": {
+        "page": "https://en.wikipedia.org/wiki/Gustave_Dor%C3%A9",
+        "revisions": "https://en.wikipedia.org/wiki/Special:History/Gustave_Dor%C3%A9",
+        "edit": "https://en.wikipedia.org/wiki/Gustave_Dor%C3%A9?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Gustave_Dor%C3%A9"
+      }
+    },
+    "extract": "Paul Gustave Louis Christophe Doré was a French printmaker, illustrator, painter, comics artist, caricaturist, and sculptor. He is best known for his prolific output of wood-engravings illustrating classic literature, especially those for the Vulgate Bible and Dante's Divine Comedy. These achieved great international success, and he became renowned for printmaking, although his role was normally as the designer only; at the height of his career some 40 block-cutters were employed to cut his drawings onto the wooden printing blocks, usually also signing the image.",
+    "extract_html": "<p><b>Paul Gustave Louis Christophe Doré</b> was a French printmaker, illustrator, painter, comics artist, caricaturist, and sculptor. He is best known for his prolific output of wood-engravings illustrating classic literature, especially those for the Vulgate Bible and Dante's <i>Divine Comedy</i>. These achieved great international success, and he became renowned for printmaking, although his role was normally as the designer only; at the height of his career some 40 block-cutters were employed to cut his drawings onto the wooden printing blocks, usually also signing the image.</p>"
+  }
+}

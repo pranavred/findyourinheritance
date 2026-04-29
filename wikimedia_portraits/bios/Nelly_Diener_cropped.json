@@ -1,0 +1,63 @@
+{
+  "slug": "Nelly_Diener_cropped",
+  "name": "Nelly Diener",
+  "description": "Swiss flight attendant",
+  "summary": "Nelly Hedwig Diener was a Swiss flight attendant. She was the first female flight attendant in Europe.",
+  "image_local": "images/Nelly_Diener_cropped.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Nelly_Diener_cropped.jpg/800px-Nelly_Diener_cropped.jpg",
+  "portrait_date": "1934",
+  "original_caption": "Nelly Diener cropped",
+  "extracted_name": "Nelly Diener",
+  "wikipedia_title": "Nelly Diener",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Nelly_Diener",
+  "commons_file_page": "https://commons.wikimedia.org/wiki/File:Nelly_Diener_cropped.jpg",
+  "wikipedia_summary": {
+    "type": "standard",
+    "title": "Nelly Diener",
+    "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Nelly Diener</span></span>",
+    "namespace": {
+      "id": 0,
+      "text": ""
+    },
+    "wikibase_item": "Q116342",
+    "titles": {
+      "canonical": "Nelly_Diener",
+      "normalized": "Nelly Diener",
+      "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Nelly Diener</span></span>"
+    },
+    "pageid": 51551029,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Nelly_Diener_cropped.jpg/330px-Nelly_Diener_cropped.jpg",
+      "width": 330,
+      "height": 244
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Nelly_Diener_cropped.jpg/3840px-Nelly_Diener_cropped.jpg",
+      "width": 4841,
+      "height": 3573
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1343253920",
+    "tid": "b590e2e1-1e9f-11f1-8378-f3b41f3506bc",
+    "timestamp": "2026-03-13T05:44:32Z",
+    "description": "Swiss flight attendant",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Nelly_Diener",
+        "revisions": "https://en.wikipedia.org/wiki/Nelly_Diener?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Nelly_Diener?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Nelly_Diener"
+      },
+      "mobile": {
+        "page": "https://en.wikipedia.org/wiki/Nelly_Diener",
+        "revisions": "https://en.wikipedia.org/wiki/Special:History/Nelly_Diener",
+        "edit": "https://en.wikipedia.org/wiki/Nelly_Diener?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Nelly_Diener"
+      }
+    },
+    "extract": "Nelly Hedwig Diener was a Swiss flight attendant. She was the first female flight attendant in Europe.",
+    "extract_html": "<p><b>Nelly Hedwig Diener</b> was a Swiss flight attendant. She was the first female flight attendant in Europe.</p>"
+  }
+}

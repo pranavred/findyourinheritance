@@ -1,0 +1,63 @@
+{
+  "slug": "Edward_Mitchell_Bannister_by_Gustine_L._Hurd",
+  "name": "Edward Mitchell Bannister",
+  "description": "Canadian–American painter (1828–1901)",
+  "summary": "Edward Mitchell Bannister was a Canadian–American oil painter of the American Barbizon school. Born in colonial New Brunswick, he spent his adult life in New England in the United States. There, along with his wife Christiana Carteaux, he was a prominent member of African-American cultural and political communities, such as the Boston abolition movement. Bannister received national recognition after he won a first prize in painting at the 1876 Philadelphia Centennial Exhibition. He was also a founding member of the Providence Art Club and the Rhode Island School of Design.",
+  "image_local": "images/Edward_Mitchell_Bannister_by_Gustine_L._Hurd.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Edward_Mitchell_Bannister_by_Gustine_L._Hurd.jpg/800px-Edward_Mitchell_Bannister_by_Gustine_L._Hurd.jpg",
+  "portrait_date": "c. 1880",
+  "original_caption": "Edward Mitchell Bannister by Gustine L. Hurd",
+  "extracted_name": "Edward Mitchell Bannister",
+  "wikipedia_title": "Edward Mitchell Bannister",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Edward_Mitchell_Bannister",
+  "commons_file_page": "https://commons.wikimedia.org/wiki/File:Edward_Mitchell_Bannister_by_Gustine_L._Hurd.jpg",
+  "wikipedia_summary": {
+    "type": "standard",
+    "title": "Edward Mitchell Bannister",
+    "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Edward Mitchell Bannister</span></span>",
+    "namespace": {
+      "id": 0,
+      "text": ""
+    },
+    "wikibase_item": "Q1293032",
+    "titles": {
+      "canonical": "Edward_Mitchell_Bannister",
+      "normalized": "Edward Mitchell Bannister",
+      "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Edward Mitchell Bannister</span></span>"
+    },
+    "pageid": 9997,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Edward_Mitchell_Bannister_by_Gustine_L._Hurd.jpg/330px-Edward_Mitchell_Bannister_by_Gustine_L._Hurd.jpg",
+      "width": 330,
+      "height": 497
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/8/85/Edward_Mitchell_Bannister_by_Gustine_L._Hurd.jpg",
+      "width": 3452,
+      "height": 5200
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1330489862",
+    "tid": "00f66cb2-e67b-11f0-97aa-23b1dbd22308",
+    "timestamp": "2025-12-31T19:00:42Z",
+    "description": "Canadian–American painter (1828–1901)",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Edward_Mitchell_Bannister",
+        "revisions": "https://en.wikipedia.org/wiki/Edward_Mitchell_Bannister?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Edward_Mitchell_Bannister?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Edward_Mitchell_Bannister"
+      },
+      "mobile": {
+        "page": "https://en.wikipedia.org/wiki/Edward_Mitchell_Bannister",
+        "revisions": "https://en.wikipedia.org/wiki/Special:History/Edward_Mitchell_Bannister",
+        "edit": "https://en.wikipedia.org/wiki/Edward_Mitchell_Bannister?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Edward_Mitchell_Bannister"
+      }
+    },
+    "extract": "Edward Mitchell Bannister was a Canadian–American oil painter of the American Barbizon school. Born in colonial New Brunswick, he spent his adult life in New England in the United States. There, along with his wife Christiana Carteaux, he was a prominent member of African-American cultural and political communities, such as the Boston abolition movement. Bannister received national recognition after he won a first prize in painting at the 1876 Philadelphia Centennial Exhibition. He was also a founding member of the Providence Art Club and the Rhode Island School of Design.",
+    "extract_html": "<p><b>Edward Mitchell Bannister</b> was a Canadian–American oil painter of the American Barbizon school. Born in colonial New Brunswick, he spent his adult life in New England in the United States. There, along with his wife Christiana Carteaux, he was a prominent member of African-American cultural and political communities, such as the Boston abolition movement. Bannister received national recognition after he won a first prize in painting at the 1876 Philadelphia Centennial Exhibition. He was also a founding member of the Providence Art Club and the Rhode Island School of Design.</p>"
+  }
+}

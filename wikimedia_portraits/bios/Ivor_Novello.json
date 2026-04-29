@@ -1,0 +1,63 @@
+{
+  "slug": "Ivor_Novello",
+  "name": "Ivor Novello",
+  "description": "Welsh composer and actor (1893–1951)",
+  "summary": "Ivor Novello was a Welsh actor, dramatist, singer and composer who became one of the most popular British entertainers of the first half of the 20th century.",
+  "image_local": "images/Ivor_Novello.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Ivor_Novello.jpg/800px-Ivor_Novello.jpg",
+  "portrait_date": "1923",
+  "original_caption": "Ivor Novello",
+  "extracted_name": "Ivor Novello",
+  "wikipedia_title": "Ivor Novello",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Ivor_Novello",
+  "commons_file_page": "https://commons.wikimedia.org/wiki/File:Ivor_Novello.jpg",
+  "wikipedia_summary": {
+    "type": "standard",
+    "title": "Ivor Novello",
+    "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Ivor Novello</span></span>",
+    "namespace": {
+      "id": 0,
+      "text": ""
+    },
+    "wikibase_item": "Q436693",
+    "titles": {
+      "canonical": "Ivor_Novello",
+      "normalized": "Ivor Novello",
+      "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Ivor Novello</span></span>"
+    },
+    "pageid": 47154,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Ivor_Novello.jpg/330px-Ivor_Novello.jpg",
+      "width": 330,
+      "height": 505
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Ivor_Novello.jpg",
+      "width": 2552,
+      "height": 3905
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1330509021",
+    "tid": "1b3a4397-e68f-11f0-ba6d-f25fac7c7444",
+    "timestamp": "2025-12-31T21:24:36Z",
+    "description": "Welsh composer and actor (1893–1951)",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Ivor_Novello",
+        "revisions": "https://en.wikipedia.org/wiki/Ivor_Novello?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Ivor_Novello?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Ivor_Novello"
+      },
+      "mobile": {
+        "page": "https://en.wikipedia.org/wiki/Ivor_Novello",
+        "revisions": "https://en.wikipedia.org/wiki/Special:History/Ivor_Novello",
+        "edit": "https://en.wikipedia.org/wiki/Ivor_Novello?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Ivor_Novello"
+      }
+    },
+    "extract": "Ivor Novello was a Welsh actor, dramatist, singer and composer who became one of the most popular British entertainers of the first half of the 20th century.",
+    "extract_html": "<p><b>Ivor Novello</b> was a Welsh actor, dramatist, singer and composer who became one of the most popular British entertainers of the first half of the 20th century.</p>"
+  }
+}

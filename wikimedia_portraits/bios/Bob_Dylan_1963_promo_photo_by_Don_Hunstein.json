@@ -1,0 +1,63 @@
+{
+  "slug": "Bob_Dylan_1963_promo_photo_by_Don_Hunstein",
+  "name": "Bob Dylan",
+  "description": "American singer-songwriter (born 1941)",
+  "summary": "Bob Dylan is an American singer-songwriter. Described as one of the greatest songwriters of all time, Dylan has been a major figure in popular culture over his 69-year career. With an estimated 125 million records sold worldwide, he is one of the best-selling musicians. Dylan added increasingly sophisticated lyrical techniques to the folk music of the early 1960s, infusing it \"with the intellectualism of classic literature and poetry\". His lyrics incorporated political, social, and philosophical influences, defying pop music conventions and appealing to the burgeoning counterculture.",
+  "image_local": "images/Bob_Dylan_1963_promo_photo_by_Don_Hunstein.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Bob_Dylan_1963_promo_photo_by_Don_Hunstein.jpg/800px-Bob_Dylan_1963_promo_photo_by_Don_Hunstein.jpg",
+  "portrait_date": "",
+  "original_caption": "Bob Dylan 1963 promo photo by Don Hunstein",
+  "extracted_name": "Bob Dylan",
+  "wikipedia_title": "Bob Dylan",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Bob_Dylan",
+  "commons_file_page": "https://commons.wikimedia.org/wiki/File:Bob_Dylan_1963_promo_photo_by_Don_Hunstein.jpg",
+  "wikipedia_summary": {
+    "type": "standard",
+    "title": "Bob Dylan",
+    "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Bob Dylan</span></span>",
+    "namespace": {
+      "id": 0,
+      "text": ""
+    },
+    "wikibase_item": "Q392",
+    "titles": {
+      "canonical": "Bob_Dylan",
+      "normalized": "Bob Dylan",
+      "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Bob Dylan</span></span>"
+    },
+    "pageid": 4637590,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/DylanYoungKilkenny140719v2_%2850_of_52%29_%2852246124397%29_%28cropped%29.jpg/330px-DylanYoungKilkenny140719v2_%2850_of_52%29_%2852246124397%29_%28cropped%29.jpg",
+      "width": 330,
+      "height": 441
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/2/2a/DylanYoungKilkenny140719v2_%2850_of_52%29_%2852246124397%29_%28cropped%29.jpg",
+      "width": 1620,
+      "height": 2165
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1350785059",
+    "tid": "9fd00b33-3f79-11f1-a32d-1937c0cb5204",
+    "timestamp": "2026-04-24T01:05:03Z",
+    "description": "American singer-songwriter (born 1941)",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Bob_Dylan",
+        "revisions": "https://en.wikipedia.org/wiki/Bob_Dylan?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Bob_Dylan?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Bob_Dylan"
+      },
+      "mobile": {
+        "page": "https://en.wikipedia.org/wiki/Bob_Dylan",
+        "revisions": "https://en.wikipedia.org/wiki/Special:History/Bob_Dylan",
+        "edit": "https://en.wikipedia.org/wiki/Bob_Dylan?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Bob_Dylan"
+      }
+    },
+    "extract": "Bob Dylan is an American singer-songwriter. Described as one of the greatest songwriters of all time, Dylan has been a major figure in popular culture over his 69-year career. With an estimated 125 million records sold worldwide, he is one of the best-selling musicians. Dylan added increasingly sophisticated lyrical techniques to the folk music of the early 1960s, infusing it \"with the intellectualism of classic literature and poetry\". His lyrics incorporated political, social, and philosophical influences, defying pop music conventions and appealing to the burgeoning counterculture.",
+    "extract_html": "<p><b>Bob Dylan</b> is an American singer-songwriter. Described as one of the greatest songwriters of all time, Dylan has been a major figure in popular culture over his 69-year career. With an estimated 125 million records sold worldwide, he is one of the best-selling musicians. Dylan added increasingly sophisticated lyrical techniques to the folk music of the early 1960s, infusing it \"with the intellectualism of classic literature and poetry\". His lyrics incorporated political, social, and philosophical influences, defying pop music conventions and appealing to the burgeoning counterculture.</p>"
+  }
+}

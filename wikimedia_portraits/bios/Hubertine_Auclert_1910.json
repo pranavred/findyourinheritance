@@ -1,0 +1,63 @@
+{
+  "slug": "Hubertine_Auclert_1910",
+  "name": "Hubertine Auclert",
+  "description": "French feminist and campaigner",
+  "summary": "Hubertine Auclert was a leading French feminist and a campaigner for women's suffrage.",
+  "image_local": "images/Hubertine_Auclert_1910.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Hubertine_Auclert_1910.jpg/800px-Hubertine_Auclert_1910.jpg",
+  "portrait_date": "1910",
+  "original_caption": "Hubertine Auclert 1910",
+  "extracted_name": "Hubertine Auclert",
+  "wikipedia_title": "Hubertine Auclert",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Hubertine_Auclert",
+  "commons_file_page": "https://commons.wikimedia.org/wiki/File:Hubertine_Auclert_1910.jpg",
+  "wikipedia_summary": {
+    "type": "standard",
+    "title": "Hubertine Auclert",
+    "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Hubertine Auclert</span></span>",
+    "namespace": {
+      "id": 0,
+      "text": ""
+    },
+    "wikibase_item": "Q448953",
+    "titles": {
+      "canonical": "Hubertine_Auclert",
+      "normalized": "Hubertine Auclert",
+      "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Hubertine Auclert</span></span>"
+    },
+    "pageid": 1068192,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Hubertine_Auclert_1910.jpg/330px-Hubertine_Auclert_1910.jpg",
+      "width": 330,
+      "height": 455
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Hubertine_Auclert_1910.jpg",
+      "width": 1948,
+      "height": 2683
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1342746879",
+    "tid": "b996e6d6-1c88-11f1-b4c9-fabf824e9517",
+    "timestamp": "2026-03-10T13:54:58Z",
+    "description": "French feminist and campaigner",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Hubertine_Auclert",
+        "revisions": "https://en.wikipedia.org/wiki/Hubertine_Auclert?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Hubertine_Auclert?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Hubertine_Auclert"
+      },
+      "mobile": {
+        "page": "https://en.wikipedia.org/wiki/Hubertine_Auclert",
+        "revisions": "https://en.wikipedia.org/wiki/Special:History/Hubertine_Auclert",
+        "edit": "https://en.wikipedia.org/wiki/Hubertine_Auclert?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Hubertine_Auclert"
+      }
+    },
+    "extract": "Hubertine Auclert was a leading French feminist and a campaigner for women's suffrage.",
+    "extract_html": "<p><b>Hubertine Auclert</b> was a leading French feminist and a campaigner for women's suffrage.</p>"
+  }
+}

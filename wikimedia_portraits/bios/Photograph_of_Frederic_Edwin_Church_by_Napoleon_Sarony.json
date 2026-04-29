@@ -1,0 +1,63 @@
+{
+  "slug": "Photograph_of_Frederic_Edwin_Church_by_Napoleon_Sarony",
+  "name": "Frederic Edwin Church",
+  "description": "American landscape painter (1826–1900)",
+  "summary": "Frederic Edwin Church was an American landscape painter born in Hartford, Connecticut. He was a central figure in the Hudson River School of American landscape painters, best known for painting large landscapes, often depicting mountains, waterfalls, and sunsets. Church's paintings put an emphasis on realistic detail, dramatic light, and panoramic views. He debuted some of his major works in single-painting exhibitions to a paying and often enthralled audience in New York City. In his prime, he was one of the most famous painters in the United States.",
+  "image_local": "images/Photograph_of_Frederic_Edwin_Church_by_Napoleon_Sarony.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Photograph_of_Frederic_Edwin_Church_by_Napoleon_Sarony.jpg/800px-Photograph_of_Frederic_Edwin_Church_by_Napoleon_Sarony.jpg",
+  "portrait_date": "1868",
+  "original_caption": "Photograph of Frederic Edwin Church by Napoleon Sarony",
+  "extracted_name": "Frederic Edwin Church",
+  "wikipedia_title": "Frederic Edwin Church",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Frederic_Edwin_Church",
+  "commons_file_page": "https://commons.wikimedia.org/wiki/File:Photograph_of_Frederic_Edwin_Church_by_Napoleon_Sarony.jpg",
+  "wikipedia_summary": {
+    "type": "standard",
+    "title": "Frederic Edwin Church",
+    "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Frederic Edwin Church</span></span>",
+    "namespace": {
+      "id": 0,
+      "text": ""
+    },
+    "wikibase_item": "Q366212",
+    "titles": {
+      "canonical": "Frederic_Edwin_Church",
+      "normalized": "Frederic Edwin Church",
+      "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Frederic Edwin Church</span></span>"
+    },
+    "pageid": 277766,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Photograph_of_Frederic_Edwin_Church_by_Napoleon_Sarony.jpg/330px-Photograph_of_Frederic_Edwin_Church_by_Napoleon_Sarony.jpg",
+      "width": 330,
+      "height": 496
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Photograph_of_Frederic_Edwin_Church_by_Napoleon_Sarony.jpg",
+      "width": 3009,
+      "height": 4522
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1349165227",
+    "tid": "01bac055-393d-11f1-9c75-ac097d81d9e7",
+    "timestamp": "2026-04-16T02:36:01Z",
+    "description": "American landscape painter (1826–1900)",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Frederic_Edwin_Church",
+        "revisions": "https://en.wikipedia.org/wiki/Frederic_Edwin_Church?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Frederic_Edwin_Church?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Frederic_Edwin_Church"
+      },
+      "mobile": {
+        "page": "https://en.wikipedia.org/wiki/Frederic_Edwin_Church",
+        "revisions": "https://en.wikipedia.org/wiki/Special:History/Frederic_Edwin_Church",
+        "edit": "https://en.wikipedia.org/wiki/Frederic_Edwin_Church?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Frederic_Edwin_Church"
+      }
+    },
+    "extract": "Frederic Edwin Church was an American landscape painter born in Hartford, Connecticut. He was a central figure in the Hudson River School of American landscape painters, best known for painting large landscapes, often depicting mountains, waterfalls, and sunsets. Church's paintings put an emphasis on realistic detail, dramatic light, and panoramic views. He debuted some of his major works in single-painting exhibitions to a paying and often enthralled audience in New York City. In his prime, he was one of the most famous painters in the United States.",
+    "extract_html": "<p><b>Frederic Edwin Church</b> was an American landscape painter born in Hartford, Connecticut. He was a central figure in the Hudson River School of American landscape painters, best known for painting large landscapes, often depicting mountains, waterfalls, and sunsets. Church's paintings put an emphasis on realistic detail, dramatic light, and panoramic views. He debuted some of his major works in single-painting exhibitions to a paying and often enthralled audience in New York City. In his prime, he was one of the most famous painters in the United States.</p>"
+  }
+}

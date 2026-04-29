@@ -1,0 +1,63 @@
+{
+  "slug": "Ethel_Reed__ca._1895__by_Frances_Benjamin_Johnston",
+  "name": "Ethel Reed",
+  "description": "American graphic artist (1874–1912)",
+  "summary": "Ethel Reed was an American graphic artist. In the 1890s, her works received critical acclaim in America and Europe. In 2016, they were on exhibit in the Metropolitan Museum of Art and Museum of Modern Art in New York, the National Museum of American History in Washington, D.C., the Fine Arts Museums of San Francisco, the Frederick R. Weisman Art Museum of the University of Minnesota in Minneapolis, and the Nelson-Atkins Museum of Art in Kansas City.",
+  "image_local": "images/Ethel_Reed__ca._1895__by_Frances_Benjamin_Johnston.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Ethel_Reed_%28ca._1895%29_by_Frances_Benjamin_Johnston.jpg/800px-Ethel_Reed_%28ca._1895%29_by_Frances_Benjamin_Johnston.jpg",
+  "portrait_date": "c. 1895",
+  "original_caption": "Ethel Reed (ca. 1895)",
+  "extracted_name": "Ethel Reed",
+  "wikipedia_title": "Ethel Reed",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Ethel_Reed",
+  "commons_file_page": "https://commons.wikimedia.org/wiki/File:Ethel_Reed_(ca._1895)_by_Frances_Benjamin_Johnston.jpg",
+  "wikipedia_summary": {
+    "type": "standard",
+    "title": "Ethel Reed",
+    "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Ethel Reed</span></span>",
+    "namespace": {
+      "id": 0,
+      "text": ""
+    },
+    "wikibase_item": "Q4394452",
+    "titles": {
+      "canonical": "Ethel_Reed",
+      "normalized": "Ethel Reed",
+      "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Ethel Reed</span></span>"
+    },
+    "pageid": 4007764,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Ethel_Reed_%28ca._1895%29_by_Frances_Benjamin_Johnston.jpg/330px-Ethel_Reed_%28ca._1895%29_by_Frances_Benjamin_Johnston.jpg",
+      "width": 330,
+      "height": 503
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Ethel_Reed_%28ca._1895%29_by_Frances_Benjamin_Johnston.jpg",
+      "width": 2971,
+      "height": 4529
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1343149656",
+    "tid": "074954ff-1e27-11f1-80c1-fc36c88a31b7",
+    "timestamp": "2026-03-12T15:20:40Z",
+    "description": "American graphic artist (1874–1912)",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Ethel_Reed",
+        "revisions": "https://en.wikipedia.org/wiki/Ethel_Reed?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Ethel_Reed?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Ethel_Reed"
+      },
+      "mobile": {
+        "page": "https://en.wikipedia.org/wiki/Ethel_Reed",
+        "revisions": "https://en.wikipedia.org/wiki/Special:History/Ethel_Reed",
+        "edit": "https://en.wikipedia.org/wiki/Ethel_Reed?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Ethel_Reed"
+      }
+    },
+    "extract": "Ethel Reed was an American graphic artist. In the 1890s, her works received critical acclaim in America and Europe. In 2016, they were on exhibit in the Metropolitan Museum of Art and Museum of Modern Art in New York, the National Museum of American History in Washington, D.C., the Fine Arts Museums of San Francisco, the Frederick R. Weisman Art Museum of the University of Minnesota in Minneapolis, and the Nelson-Atkins Museum of Art in Kansas City.",
+    "extract_html": "<p><b>Ethel Reed</b> was an American graphic artist. In the 1890s, her works received critical acclaim in America and Europe. In 2016, they were on exhibit in the Metropolitan Museum of Art and Museum of Modern Art in New York, the National Museum of American History in Washington, D.C., the Fine Arts Museums of San Francisco, the Frederick R. Weisman Art Museum of the University of Minnesota in Minneapolis, and the Nelson-Atkins Museum of Art in Kansas City.</p>"
+  }
+}

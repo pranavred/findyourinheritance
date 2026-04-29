@@ -1,0 +1,63 @@
+{
+  "slug": "Helen_Keller_circa_1920_-_restored",
+  "name": "Helen Keller",
+  "description": "American author and activist (1880–1968)",
+  "summary": "Helen Adams Keller was an American author, disability rights advocate, political activist and lecturer. Born in West Tuscumbia, Alabama, she lost her sight and her hearing after a bout of illness when she was 19 months old. She then communicated primarily using home signs until the age of seven, when she met her first teacher and life-long companion Anne Sullivan. Sullivan taught Keller language, including reading and writing. After an education at both specialist and mainstream schools, Keller attended Radcliffe College of Harvard University and became the first deafblind person in the United States to earn a Bachelor of Arts degree.",
+  "image_local": "images/Helen_Keller_circa_1920_-_restored.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Helen_Keller_circa_1920_-_restored.jpg/800px-Helen_Keller_circa_1920_-_restored.jpg",
+  "portrait_date": "c. 1920",
+  "original_caption": "Helen Keller circa 1920 - restored",
+  "extracted_name": "Helen Keller",
+  "wikipedia_title": "Helen Keller",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Helen_Keller",
+  "commons_file_page": "https://commons.wikimedia.org/wiki/File:Helen_Keller_circa_1920_-_restored.jpg",
+  "wikipedia_summary": {
+    "type": "standard",
+    "title": "Helen Keller",
+    "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Helen Keller</span></span>",
+    "namespace": {
+      "id": 0,
+      "text": ""
+    },
+    "wikibase_item": "Q38203",
+    "titles": {
+      "canonical": "Helen_Keller",
+      "normalized": "Helen Keller",
+      "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Helen Keller</span></span>"
+    },
+    "pageid": 14254,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Helen_Keller_%28circa_1904%29.jpg/330px-Helen_Keller_%28circa_1904%29.jpg",
+      "width": 330,
+      "height": 411
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Helen_Keller_%28circa_1904%29.jpg",
+      "width": 2837,
+      "height": 3534
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1349801522",
+    "tid": "37eb7f0f-3b87-11f1-8c86-e5fe91050a6c",
+    "timestamp": "2026-04-19T00:32:17Z",
+    "description": "American author and activist (1880–1968)",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Helen_Keller",
+        "revisions": "https://en.wikipedia.org/wiki/Helen_Keller?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Helen_Keller?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Helen_Keller"
+      },
+      "mobile": {
+        "page": "https://en.wikipedia.org/wiki/Helen_Keller",
+        "revisions": "https://en.wikipedia.org/wiki/Special:History/Helen_Keller",
+        "edit": "https://en.wikipedia.org/wiki/Helen_Keller?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Helen_Keller"
+      }
+    },
+    "extract": "Helen Adams Keller was an American author, disability rights advocate, political activist and lecturer. Born in West Tuscumbia, Alabama, she lost her sight and her hearing after a bout of illness when she was 19 months old. She then communicated primarily using home signs until the age of seven, when she met her first teacher and life-long companion Anne Sullivan. Sullivan taught Keller language, including reading and writing. After an education at both specialist and mainstream schools, Keller attended Radcliffe College of Harvard University and became the first deafblind person in the United States to earn a Bachelor of Arts degree.",
+    "extract_html": "<p><b>Helen Adams Keller</b> was an American author, disability rights advocate, political activist and lecturer. Born in West Tuscumbia, Alabama, she lost her sight and her hearing after a bout of illness when she was 19 months old. She then communicated primarily using home signs until the age of seven, when she met her first teacher and life-long companion Anne Sullivan. Sullivan taught Keller language, including reading and writing. After an education at both specialist and mainstream schools, Keller attended Radcliffe College of Harvard University and became the first deafblind person in the United States to earn a Bachelor of Arts degree.</p>"
+  }
+}

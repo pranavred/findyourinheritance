@@ -1,0 +1,63 @@
+{
+  "slug": "Holger_Drachmann__fra_Kl_bels_samling_-_Restoration",
+  "name": "Holger Drachmann",
+  "description": "Danish author and painter (1846–1908)",
+  "summary": "Holger Henrik Herholdt Drachmann was a Danish poet, dramatist and painter. He was a member of the Skagen artistic colony and became a figure of the Scandinavian Modern Breakthrough Movement.",
+  "image_local": "images/Holger_Drachmann__fra_Kl_bels_samling_-_Restoration.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Holger_Drachmann%2C_fra_Kl%C3%A6bels_samling_-_Restoration.jpg/800px-Holger_Drachmann%2C_fra_Kl%C3%A6bels_samling_-_Restoration.jpg",
+  "portrait_date": "1908",
+  "original_caption": "Holger Drachmann, fra Klæbels samling - Restoration",
+  "extracted_name": "Holger Drachmann",
+  "wikipedia_title": "Holger Drachmann",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Holger_Drachmann",
+  "commons_file_page": "https://commons.wikimedia.org/wiki/File:Holger_Drachmann,_fra_Kl%C3%A6bels_samling_-_Restoration.jpg",
+  "wikipedia_summary": {
+    "type": "standard",
+    "title": "Holger Drachmann",
+    "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Holger Drachmann</span></span>",
+    "namespace": {
+      "id": 0,
+      "text": ""
+    },
+    "wikibase_item": "Q966764",
+    "titles": {
+      "canonical": "Holger_Drachmann",
+      "normalized": "Holger Drachmann",
+      "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Holger Drachmann</span></span>"
+    },
+    "pageid": 491466,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Holger_Drachmann%2C_fra_Kl%C3%A6bels_samling_-_Restoration.jpg/330px-Holger_Drachmann%2C_fra_Kl%C3%A6bels_samling_-_Restoration.jpg",
+      "width": 330,
+      "height": 475
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Holger_Drachmann%2C_fra_Kl%C3%A6bels_samling_-_Restoration.jpg/3840px-Holger_Drachmann%2C_fra_Kl%C3%A6bels_samling_-_Restoration.jpg",
+      "width": 9380,
+      "height": 13512
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1267493628",
+    "tid": "f7aced14-cb4d-11ef-b749-84f14960ec92",
+    "timestamp": "2025-01-05T10:15:20Z",
+    "description": "Danish author and painter (1846–1908)",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Holger_Drachmann",
+        "revisions": "https://en.wikipedia.org/wiki/Holger_Drachmann?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Holger_Drachmann?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Holger_Drachmann"
+      },
+      "mobile": {
+        "page": "https://en.wikipedia.org/wiki/Holger_Drachmann",
+        "revisions": "https://en.wikipedia.org/wiki/Special:History/Holger_Drachmann",
+        "edit": "https://en.wikipedia.org/wiki/Holger_Drachmann?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Holger_Drachmann"
+      }
+    },
+    "extract": "Holger Henrik Herholdt Drachmann was a Danish poet, dramatist and painter. He was a member of the Skagen artistic colony and became a figure of the Scandinavian Modern Breakthrough Movement.",
+    "extract_html": "<p><b>Holger Henrik Herholdt Drachmann</b> was a Danish poet, dramatist and painter. He was a member of the Skagen artistic colony and became a figure of the Scandinavian Modern Breakthrough Movement.</p>"
+  }
+}

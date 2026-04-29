@@ -1,0 +1,63 @@
+{
+  "slug": "Ed_Walsh_portrait_1911",
+  "name": "Ed Walsh",
+  "description": "American baseball player and manager (1881–1959)",
+  "summary": "Edward Augustine Walsh was an American pitcher and manager in Major League Baseball, nicknamed \"Big Ed\". From 1906 to 1912 he was one of the best pitchers in baseball. Walsh holds the record for lowest career earned run average, 1.82. He is one of two modern (post-1901) pitchers to win 40 or more games in a single season, and the last pitcher to do so. He is the last pitcher from any team to throw more than 400 innings in a single season, a feat he accomplished in 1907 and 1908. Though injuries shortened his career, he was inducted into the Baseball Hall of Fame in 1946.",
+  "image_local": "images/Ed_Walsh_portrait_1911.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Ed_Walsh_portrait_1911.jpg/800px-Ed_Walsh_portrait_1911.jpg",
+  "portrait_date": "1911",
+  "original_caption": "Ed Walsh",
+  "extracted_name": "Ed Walsh",
+  "wikipedia_title": "Ed Walsh",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Ed_Walsh",
+  "commons_file_page": "https://commons.wikimedia.org/wiki/File:Ed_Walsh_portrait_1911.jpg",
+  "wikipedia_summary": {
+    "type": "standard",
+    "title": "Ed Walsh",
+    "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Ed Walsh</span></span>",
+    "namespace": {
+      "id": 0,
+      "text": ""
+    },
+    "wikibase_item": "Q1282549",
+    "titles": {
+      "canonical": "Ed_Walsh",
+      "normalized": "Ed Walsh",
+      "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Ed Walsh</span></span>"
+    },
+    "pageid": 843909,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Ed_Walsh_portrait_1911.jpg/330px-Ed_Walsh_portrait_1911.jpg",
+      "width": 330,
+      "height": 227
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Ed_Walsh_portrait_1911.jpg/3840px-Ed_Walsh_portrait_1911.jpg",
+      "width": 4788,
+      "height": 3300
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1345730720",
+    "tid": "4083e768-2a1d-11f1-b263-4c936374924f",
+    "timestamp": "2026-03-27T20:40:55Z",
+    "description": "American baseball player and manager (1881–1959)",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Ed_Walsh",
+        "revisions": "https://en.wikipedia.org/wiki/Ed_Walsh?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Ed_Walsh?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Ed_Walsh"
+      },
+      "mobile": {
+        "page": "https://en.wikipedia.org/wiki/Ed_Walsh",
+        "revisions": "https://en.wikipedia.org/wiki/Special:History/Ed_Walsh",
+        "edit": "https://en.wikipedia.org/wiki/Ed_Walsh?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Ed_Walsh"
+      }
+    },
+    "extract": "Edward Augustine Walsh was an American pitcher and manager in Major League Baseball, nicknamed \"Big Ed\". From 1906 to 1912 he was one of the best pitchers in baseball. Walsh holds the record for lowest career earned run average, 1.82. He is one of two modern (post-1901) pitchers to win 40 or more games in a single season, and the last pitcher to do so. He is the last pitcher from any team to throw more than 400 innings in a single season, a feat he accomplished in 1907 and 1908. Though injuries shortened his career, he was inducted into the Baseball Hall of Fame in 1946.",
+    "extract_html": "<p><b>Edward Augustine Walsh</b> was an American pitcher and manager in Major League Baseball, nicknamed \"<b>Big Ed</b>\". From 1906 to 1912 he was one of the best pitchers in baseball. Walsh holds the record for lowest career earned run average, 1.82. He is one of two modern (post-1901) pitchers to win 40 or more games in a single season, and the last pitcher to do so. He is the last pitcher from any team to throw more than 400 innings in a single season, a feat he accomplished in 1907 and 1908. Though injuries shortened his career, he was inducted into the Baseball Hall of Fame in 1946.</p>"
+  }
+}

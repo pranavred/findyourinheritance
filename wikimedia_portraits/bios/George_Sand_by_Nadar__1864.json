@@ -1,0 +1,63 @@
+{
+  "slug": "George_Sand_by_Nadar__1864",
+  "name": "George Sand",
+  "description": "French novelist and memoirist (1804–1876)",
+  "summary": "Amantine Lucile Aurore Dupin de Francueil, best known by her pen name George Sand, was a French novelist, memoirist and journalist. Being more renowned than either Victor Hugo or Honoré de Balzac in Britain in the 1830s and 1840s, Sand is recognised as one of the most notable writers of the European Romantic era. She has more than 50 volumes of various works to her credit, including tales, plays and political texts, alongside her 70 novels.",
+  "image_local": "images/George_Sand_by_Nadar__1864.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/George_Sand_by_Nadar%2C_1864.jpg/800px-George_Sand_by_Nadar%2C_1864.jpg",
+  "portrait_date": "1864",
+  "original_caption": "George Sand",
+  "extracted_name": "George Sand",
+  "wikipedia_title": "George Sand",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/George_Sand",
+  "commons_file_page": "https://commons.wikimedia.org/wiki/File:George_Sand_by_Nadar,_1864.jpg",
+  "wikipedia_summary": {
+    "type": "standard",
+    "title": "George Sand",
+    "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">George Sand</span></span>",
+    "namespace": {
+      "id": 0,
+      "text": ""
+    },
+    "wikibase_item": "Q3816",
+    "titles": {
+      "canonical": "George_Sand",
+      "normalized": "George Sand",
+      "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">George Sand</span></span>"
+    },
+    "pageid": 52592,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/George_Sand_by_Nadar%2C_1864.jpg/330px-George_Sand_by_Nadar%2C_1864.jpg",
+      "width": 330,
+      "height": 418
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/5/54/George_Sand_by_Nadar%2C_1864.jpg",
+      "width": 2211,
+      "height": 2800
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1351325845",
+    "tid": "a4f9bae0-420e-11f1-ad8c-15fec3593e22",
+    "timestamp": "2026-04-27T07:56:49Z",
+    "description": "French novelist and memoirist (1804–1876)",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/George_Sand",
+        "revisions": "https://en.wikipedia.org/wiki/George_Sand?action=history",
+        "edit": "https://en.wikipedia.org/wiki/George_Sand?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:George_Sand"
+      },
+      "mobile": {
+        "page": "https://en.wikipedia.org/wiki/George_Sand",
+        "revisions": "https://en.wikipedia.org/wiki/Special:History/George_Sand",
+        "edit": "https://en.wikipedia.org/wiki/George_Sand?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:George_Sand"
+      }
+    },
+    "extract": "Amantine Lucile Aurore Dupin de Francueil, best known by her pen name George Sand, was a French novelist, memoirist and journalist. Being more renowned than either Victor Hugo or Honoré de Balzac in Britain in the 1830s and 1840s, Sand is recognised as one of the most notable writers of the European Romantic era. She has more than 50 volumes of various works to her credit, including tales, plays and political texts, alongside her 70 novels.",
+    "extract_html": "<p><b>Amantine Lucile Aurore Dupin de Francueil</b>, best known by her pen name <b>George Sand</b>, was a French novelist, memoirist and journalist. Being more renowned than either Victor Hugo or Honoré de Balzac in Britain in the 1830s and 1840s, Sand is recognised as one of the most notable writers of the European Romantic era. She has more than 50 volumes of various works to her credit, including tales, plays and political texts, alongside her 70 novels.</p>"
+  }
+}

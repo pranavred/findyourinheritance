@@ -1,0 +1,63 @@
+{
+  "slug": "Jacques_Offenbach_by_Nadar",
+  "name": "Jacques Offenbach",
+  "description": "German-born French composer (1819–1880)",
+  "summary": "Jacques Offenbach was a German-born French composer, cellist and impresario. He is remembered for his nearly 100 operettas of the 1850s to the 1870s, and his uncompleted opera The Tales of Hoffmann. He was a powerful influence on later composers of the operetta genre, particularly Franz von Suppé, Johann Strauss II and Arthur Sullivan. His best-known works were continually revived during the 20th century, and many of his operettas continue to be staged in the 21st. The Tales of Hoffmann remains part of the standard opera repertory.",
+  "image_local": "images/Jacques_Offenbach_by_Nadar.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Jacques_Offenbach_by_Nadar.jpg/800px-Jacques_Offenbach_by_Nadar.jpg",
+  "portrait_date": "1860s",
+  "original_caption": "Jacques Offenbach by Nadar",
+  "extracted_name": "Jacques Offenbach",
+  "wikipedia_title": "Jacques Offenbach",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Jacques_Offenbach",
+  "commons_file_page": "https://commons.wikimedia.org/wiki/File:Jacques_Offenbach_by_Nadar.jpg",
+  "wikipedia_summary": {
+    "type": "standard",
+    "title": "Jacques Offenbach",
+    "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Jacques Offenbach</span></span>",
+    "namespace": {
+      "id": 0,
+      "text": ""
+    },
+    "wikibase_item": "Q41555",
+    "titles": {
+      "canonical": "Jacques_Offenbach",
+      "normalized": "Jacques Offenbach",
+      "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Jacques Offenbach</span></span>"
+    },
+    "pageid": 65414,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Jacques_Offenbach_by_Nadar.jpg/330px-Jacques_Offenbach_by_Nadar.jpg",
+      "width": 330,
+      "height": 507
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Jacques_Offenbach_by_Nadar.jpg",
+      "width": 2501,
+      "height": 3840
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1351353698",
+    "tid": "d2a5289e-4233-11f1-ad21-691d7b994f34",
+    "timestamp": "2026-04-27T12:22:57Z",
+    "description": "German-born French composer (1819–1880)",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Jacques_Offenbach",
+        "revisions": "https://en.wikipedia.org/wiki/Jacques_Offenbach?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Jacques_Offenbach?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Jacques_Offenbach"
+      },
+      "mobile": {
+        "page": "https://en.wikipedia.org/wiki/Jacques_Offenbach",
+        "revisions": "https://en.wikipedia.org/wiki/Special:History/Jacques_Offenbach",
+        "edit": "https://en.wikipedia.org/wiki/Jacques_Offenbach?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Jacques_Offenbach"
+      }
+    },
+    "extract": "Jacques Offenbach was a German-born French composer, cellist and impresario. He is remembered for his nearly 100 operettas of the 1850s to the 1870s, and his uncompleted opera The Tales of Hoffmann. He was a powerful influence on later composers of the operetta genre, particularly Franz von Suppé, Johann Strauss II and Arthur Sullivan. His best-known works were continually revived during the 20th century, and many of his operettas continue to be staged in the 21st. The Tales of Hoffmann remains part of the standard opera repertory.",
+    "extract_html": "<p><b>Jacques Offenbach</b> was a German-born French composer, cellist and impresario. He is remembered for his nearly 100 operettas of the 1850s to the 1870s, and his uncompleted opera <i>The Tales of Hoffmann</i>. He was a powerful influence on later composers of the operetta genre, particularly Franz von Suppé, Johann Strauss II and Arthur Sullivan. His best-known works were continually revived during the 20th century, and many of his operettas continue to be staged in the 21st. <i>The Tales of Hoffmann</i> remains part of the standard opera repertory.</p>"
+  }
+}

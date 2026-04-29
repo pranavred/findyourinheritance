@@ -1,0 +1,63 @@
+{
+  "slug": "Johann_Strauss_II_by_Fritz_Luckhardt",
+  "name": "Johann Strauss II",
+  "description": "Austrian composer (1825–1899)",
+  "summary": "Johann Baptist Strauss II, also known as Johann Strauss Jr., the Younger or the Son, was an Austrian composer of light music, particularly dance music and operettas, as well as a violinist. He composed over 500 waltzes, polkas, quadrilles, and other types of dance music, as well as several operettas and a ballet.",
+  "image_local": "images/Johann_Strauss_II_by_Fritz_Luckhardt.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Johann_Strauss_II_by_Fritz_Luckhardt.jpg/800px-Johann_Strauss_II_by_Fritz_Luckhardt.jpg",
+  "portrait_date": "1899",
+  "original_caption": "Johann Strauss II by Fritz Luckhardt",
+  "extracted_name": "Johann Strauss II",
+  "wikipedia_title": "Johann Strauss II",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Johann_Strauss_II",
+  "commons_file_page": "https://commons.wikimedia.org/wiki/File:Johann_Strauss_II_by_Fritz_Luckhardt.jpg",
+  "wikipedia_summary": {
+    "type": "standard",
+    "title": "Johann Strauss II",
+    "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Johann Strauss II</span></span>",
+    "namespace": {
+      "id": 0,
+      "text": ""
+    },
+    "wikibase_item": "Q83309",
+    "titles": {
+      "canonical": "Johann_Strauss_II",
+      "normalized": "Johann Strauss II",
+      "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Johann Strauss II</span></span>"
+    },
+    "pageid": 133392,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Johann_Strauss_II_by_Fritz_Luckhardt_3-4_crop.jpg/330px-Johann_Strauss_II_by_Fritz_Luckhardt_3-4_crop.jpg",
+      "width": 330,
+      "height": 440
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Johann_Strauss_II_by_Fritz_Luckhardt_3-4_crop.jpg",
+      "width": 2393,
+      "height": 3190
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1350236053",
+    "tid": "6f7e3913-3d01-11f1-969e-2f600707b297",
+    "timestamp": "2026-04-20T21:39:40Z",
+    "description": "Austrian composer (1825–1899)",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Johann_Strauss_II",
+        "revisions": "https://en.wikipedia.org/wiki/Johann_Strauss_II?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Johann_Strauss_II?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Johann_Strauss_II"
+      },
+      "mobile": {
+        "page": "https://en.wikipedia.org/wiki/Johann_Strauss_II",
+        "revisions": "https://en.wikipedia.org/wiki/Special:History/Johann_Strauss_II",
+        "edit": "https://en.wikipedia.org/wiki/Johann_Strauss_II?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Johann_Strauss_II"
+      }
+    },
+    "extract": "Johann Baptist Strauss II, also known as Johann Strauss Jr., the Younger or the Son, was an Austrian composer of light music, particularly dance music and operettas, as well as a violinist. He composed over 500 waltzes, polkas, quadrilles, and other types of dance music, as well as several operettas and a ballet.",
+    "extract_html": "<p><b>Johann Baptist Strauss II</b>, also known as <b>Johann Strauss Jr.</b>, <b>the Younger</b> or <b>the Son</b>, was an Austrian composer of light music, particularly dance music and operettas, as well as a violinist. He composed over 500 waltzes, polkas, quadrilles, and other types of dance music, as well as several operettas and a ballet.</p>"
+  }
+}

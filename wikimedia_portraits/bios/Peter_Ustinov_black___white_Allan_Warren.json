@@ -1,0 +1,63 @@
+{
+  "slug": "Peter_Ustinov_black___white_Allan_Warren",
+  "name": "Peter Ustinov",
+  "description": "British actor and humanitarian (1921–2004)",
+  "summary": "Sir Peter Alexander Ustinov was a British actor and humanitarian. An internationally known raconteur, he was a fixture on television talk shows and lecture circuits for much of his career. Ustinov received numerous accolades including two Academy Awards, three Primetime Emmy Awards, a Golden Globe Award, a Laurel Award, a Silver Bear, a Photoplay Award, a CableACE Award, an Evening Standard British Film Award and a Grammy Award, as well as nominations for three BAFTA Awards, two Tony Awards, two Laurence Olivier Awards, and a Gemini Award. In 1992, Ustinov was awarded with the British Academy Britannia Award.",
+  "image_local": "images/Peter_Ustinov_black___white_Allan_Warren.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Peter_Ustinov_black_%26_white_Allan_Warren.jpg/800px-Peter_Ustinov_black_%26_white_Allan_Warren.jpg",
+  "portrait_date": "1986",
+  "original_caption": "Sir Peter Ustinov",
+  "extracted_name": "Peter Ustinov",
+  "wikipedia_title": "Peter Ustinov",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Peter_Ustinov",
+  "commons_file_page": "https://commons.wikimedia.org/wiki/File:Peter_Ustinov_black_%26_white_Allan_Warren.jpg",
+  "wikipedia_summary": {
+    "type": "standard",
+    "title": "Peter Ustinov",
+    "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Peter Ustinov</span></span>",
+    "namespace": {
+      "id": 0,
+      "text": ""
+    },
+    "wikibase_item": "Q55796",
+    "titles": {
+      "canonical": "Peter_Ustinov",
+      "normalized": "Peter Ustinov",
+      "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Peter Ustinov</span></span>"
+    },
+    "pageid": 167975,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Sir_Peter_Ustinov_Allan_Warren.jpg/330px-Sir_Peter_Ustinov_Allan_Warren.jpg",
+      "width": 330,
+      "height": 337
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Sir_Peter_Ustinov_Allan_Warren.jpg/3840px-Sir_Peter_Ustinov_Allan_Warren.jpg",
+      "width": 4845,
+      "height": 4947
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1347881754",
+    "tid": "75be0db2-3407-11f1-8c25-c28631cbb7e5",
+    "timestamp": "2026-04-09T11:30:07Z",
+    "description": "British actor and humanitarian (1921–2004)",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Peter_Ustinov",
+        "revisions": "https://en.wikipedia.org/wiki/Peter_Ustinov?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Peter_Ustinov?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Peter_Ustinov"
+      },
+      "mobile": {
+        "page": "https://en.wikipedia.org/wiki/Peter_Ustinov",
+        "revisions": "https://en.wikipedia.org/wiki/Special:History/Peter_Ustinov",
+        "edit": "https://en.wikipedia.org/wiki/Peter_Ustinov?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Peter_Ustinov"
+      }
+    },
+    "extract": "Sir Peter Alexander Ustinov was a British actor and humanitarian. An internationally known raconteur, he was a fixture on television talk shows and lecture circuits for much of his career. Ustinov received numerous accolades including two Academy Awards, three Primetime Emmy Awards, a Golden Globe Award, a Laurel Award, a Silver Bear, a Photoplay Award, a CableACE Award, an Evening Standard British Film Award and a Grammy Award, as well as nominations for three BAFTA Awards, two Tony Awards, two Laurence Olivier Awards, and a Gemini Award. In 1992, Ustinov was awarded with the British Academy Britannia Award.",
+    "extract_html": "<p><b>Sir Peter Alexander Ustinov</b> was a British actor and humanitarian. An internationally known raconteur, he was a fixture on television talk shows and lecture circuits for much of his career. Ustinov received <span class=\"mw-selflink-fragment\">numerous accolades</span> including two Academy Awards, three Primetime Emmy Awards, a Golden Globe Award, a Laurel Award, a Silver Bear, a Photoplay Award, a CableACE Award, an Evening Standard British Film Award and a Grammy Award, as well as nominations for three BAFTA Awards, two Tony Awards, two Laurence Olivier Awards, and a Gemini Award. In 1992, Ustinov was awarded with the British Academy Britannia Award.</p>"
+  }
+}

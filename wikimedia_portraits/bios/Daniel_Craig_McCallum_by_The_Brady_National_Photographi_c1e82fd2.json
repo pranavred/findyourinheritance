@@ -1,0 +1,63 @@
+{
+  "slug": "Daniel_Craig_McCallum_by_The_Brady_National_Photographi_c1e82fd2",
+  "name": "Daniel McCallum",
+  "description": "Canadian engineer and early organizational theorist",
+  "summary": "Daniel Craig McCallum was a Scottish-born American railroad engineer, general manager of the New York and Erie Railroad and Union Brevet Major General of the United States Military Railroad during the American Civil War, known as one of the early pioneers of management. He set down a group of general principles of management, and is credited for having developed the first modern organizational chart.",
+  "image_local": "images/Daniel_Craig_McCallum_by_The_Brady_National_Photographi_c1e82fd2.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Daniel_Craig_McCallum_by_The_Brady_National_Photographic_Art_Gallery.jpg/800px-Daniel_Craig_McCallum_by_The_Brady_National_Photographic_Art_Gallery.jpg",
+  "portrait_date": "1860",
+  "original_caption": "Daniel Craig McCallum",
+  "extracted_name": "Daniel Craig McCallum",
+  "wikipedia_title": "Daniel McCallum",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Daniel_McCallum",
+  "commons_file_page": "https://commons.wikimedia.org/wiki/File:Daniel_Craig_McCallum_by_The_Brady_National_Photographic_Art_Gallery.jpg",
+  "wikipedia_summary": {
+    "type": "standard",
+    "title": "Daniel McCallum",
+    "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Daniel McCallum</span></span>",
+    "namespace": {
+      "id": 0,
+      "text": ""
+    },
+    "wikibase_item": "Q2615836",
+    "titles": {
+      "canonical": "Daniel_McCallum",
+      "normalized": "Daniel McCallum",
+      "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Daniel McCallum</span></span>"
+    },
+    "pageid": 462149,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Daniel_Craig_McCallum_by_The_Brady_National_Photographic_Art_Gallery.jpg/330px-Daniel_Craig_McCallum_by_The_Brady_National_Photographic_Art_Gallery.jpg",
+      "width": 330,
+      "height": 525
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Daniel_Craig_McCallum_by_The_Brady_National_Photographic_Art_Gallery.jpg/3840px-Daniel_Craig_McCallum_by_The_Brady_National_Photographic_Art_Gallery.jpg",
+      "width": 4410,
+      "height": 7021
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1351307765",
+    "tid": "e8e0c221-41f6-11f1-a1f8-8ac8025bec7c",
+    "timestamp": "2026-04-27T05:06:55Z",
+    "description": "Canadian engineer and early organizational theorist",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Daniel_McCallum",
+        "revisions": "https://en.wikipedia.org/wiki/Daniel_McCallum?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Daniel_McCallum?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Daniel_McCallum"
+      },
+      "mobile": {
+        "page": "https://en.wikipedia.org/wiki/Daniel_McCallum",
+        "revisions": "https://en.wikipedia.org/wiki/Special:History/Daniel_McCallum",
+        "edit": "https://en.wikipedia.org/wiki/Daniel_McCallum?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Daniel_McCallum"
+      }
+    },
+    "extract": "Daniel Craig McCallum was a Scottish-born American railroad engineer, general manager of the New York and Erie Railroad and Union Brevet Major General of the United States Military Railroad during the American Civil War, known as one of the early pioneers of management. He set down a group of general principles of management, and is credited for having developed the first modern organizational chart.",
+    "extract_html": "<p><b>Daniel Craig McCallum</b> was a Scottish-born American railroad engineer, general manager of the New York and Erie Railroad and Union Brevet Major General of the United States Military Railroad during the American Civil War, known as one of the early pioneers of management. He set down a group of general principles of management, and is credited for having developed the first modern organizational chart.</p>"
+  }
+}

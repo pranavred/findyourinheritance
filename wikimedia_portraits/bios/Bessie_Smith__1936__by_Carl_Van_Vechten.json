@@ -1,0 +1,63 @@
+{
+  "slug": "Bessie_Smith__1936__by_Carl_Van_Vechten",
+  "name": "Bessie Smith",
+  "description": "American blues singer (1892–1937)",
+  "summary": "Bessie Smith was an African-American blues singer widely renowned during the Jazz Age. Nicknamed the \"Empress of the Blues\" and formerly Queen of the Blues, she was the most popular female blues singer of the 1930s. Inducted into the Rock and Roll Hall of Fame in 1989, she is often regarded as one of the greatest singers of her era and was a major influence on fellow blues singers, as well as jazz vocalists.",
+  "image_local": "images/Bessie_Smith__1936__by_Carl_Van_Vechten.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Bessie_Smith_%281936%29_by_Carl_Van_Vechten.jpg/800px-Bessie_Smith_%281936%29_by_Carl_Van_Vechten.jpg",
+  "portrait_date": "1936",
+  "original_caption": "Bessie Smith (1936) by Carl Van Vechten",
+  "extracted_name": "Bessie Smith",
+  "wikipedia_title": "Bessie Smith",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Bessie_Smith",
+  "commons_file_page": "https://commons.wikimedia.org/wiki/File:Bessie_Smith_(1936)_by_Carl_Van_Vechten.jpg",
+  "wikipedia_summary": {
+    "type": "standard",
+    "title": "Bessie Smith",
+    "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Bessie Smith</span></span>",
+    "namespace": {
+      "id": 0,
+      "text": ""
+    },
+    "wikibase_item": "Q93349",
+    "titles": {
+      "canonical": "Bessie_Smith",
+      "normalized": "Bessie Smith",
+      "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Bessie Smith</span></span>"
+    },
+    "pageid": 52116,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Bessie_Smith_%281936%29_by_Carl_Van_Vechten.jpg/330px-Bessie_Smith_%281936%29_by_Carl_Van_Vechten.jpg",
+      "width": 330,
+      "height": 422
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Bessie_Smith_%281936%29_by_Carl_Van_Vechten.jpg/3840px-Bessie_Smith_%281936%29_by_Carl_Van_Vechten.jpg",
+      "width": 4338,
+      "height": 5546
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1346366972",
+    "tid": "a0baa859-2d01-11f1-b1a7-52609825ffb6",
+    "timestamp": "2026-03-31T13:00:44Z",
+    "description": "American blues singer (1892–1937)",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Bessie_Smith",
+        "revisions": "https://en.wikipedia.org/wiki/Bessie_Smith?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Bessie_Smith?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Bessie_Smith"
+      },
+      "mobile": {
+        "page": "https://en.wikipedia.org/wiki/Bessie_Smith",
+        "revisions": "https://en.wikipedia.org/wiki/Special:History/Bessie_Smith",
+        "edit": "https://en.wikipedia.org/wiki/Bessie_Smith?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Bessie_Smith"
+      }
+    },
+    "extract": "Bessie Smith was an African-American blues singer widely renowned during the Jazz Age. Nicknamed the \"Empress of the Blues\" and formerly Queen of the Blues, she was the most popular female blues singer of the 1930s. Inducted into the Rock and Roll Hall of Fame in 1989, she is often regarded as one of the greatest singers of her era and was a major influence on fellow blues singers, as well as jazz vocalists.",
+    "extract_html": "<p><b>Bessie Smith</b> was an African-American blues singer widely renowned during the Jazz Age. Nicknamed the \"Empress of the Blues\" and formerly Queen of the Blues, she was the most popular female blues singer of the 1930s. Inducted into the Rock and Roll Hall of Fame in 1989, she is often regarded as one of the greatest singers of her era and was a major influence on fellow blues singers, as well as jazz vocalists.</p>"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "slug": "Louis_Pasteur__foto_av_Paul_Nadar__Crisco_edit",
+  "name": "Louis Pasteur",
+  "description": "French chemist, pharmacist and microbiologist (1822–1895)",
+  "summary": "Louis Pasteur was a French chemist, pharmacist, and microbiologist renowned for his discoveries of the principles of vaccination, microbial fermentation, and pasteurization, the last of which was named after him. His research in chemistry led to remarkable breakthroughs in the understanding of the causes and preventions of diseases, which laid down the foundations of hygiene, public health and much of modern medicine. Pasteur's works are credited with saving millions of lives through the developments of vaccines for rabies and anthrax. He is regarded as one of the founders of modern bacteriology and has been honored as the \"father of bacteriology\" and the \"father of microbiology\".",
+  "image_local": "images/Louis_Pasteur__foto_av_Paul_Nadar__Crisco_edit.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Louis_Pasteur%2C_foto_av_Paul_Nadar%2C_Crisco_edit.jpg/800px-Louis_Pasteur%2C_foto_av_Paul_Nadar%2C_Crisco_edit.jpg",
+  "portrait_date": "1895",
+  "original_caption": "Louis Pasteur, photo by Paul Nadar",
+  "extracted_name": "Louis Pasteur",
+  "wikipedia_title": "Louis Pasteur",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Louis_Pasteur",
+  "commons_file_page": "https://commons.wikimedia.org/wiki/File:Louis_Pasteur,_foto_av_Paul_Nadar,_Crisco_edit.jpg",
+  "wikipedia_summary": {
+    "type": "standard",
+    "title": "Louis Pasteur",
+    "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Louis Pasteur</span></span>",
+    "namespace": {
+      "id": 0,
+      "text": ""
+    },
+    "wikibase_item": "Q529",
+    "titles": {
+      "canonical": "Louis_Pasteur",
+      "normalized": "Louis Pasteur",
+      "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Louis Pasteur</span></span>"
+    },
+    "pageid": 17740,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Louis_Pasteur%2C_foto_av_Paul_Nadar%2C_Crisco_edit.jpg/330px-Louis_Pasteur%2C_foto_av_Paul_Nadar%2C_Crisco_edit.jpg",
+      "width": 330,
+      "height": 455
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Louis_Pasteur%2C_foto_av_Paul_Nadar%2C_Crisco_edit.jpg",
+      "width": 2388,
+      "height": 3292
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1345355893",
+    "tid": "6078a85f-2875-11f1-80e5-d4ec0cb55da0",
+    "timestamp": "2026-03-25T18:06:42Z",
+    "description": "French chemist, pharmacist and microbiologist (1822–1895)",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Louis_Pasteur",
+        "revisions": "https://en.wikipedia.org/wiki/Louis_Pasteur?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Louis_Pasteur?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Louis_Pasteur"
+      },
+      "mobile": {
+        "page": "https://en.wikipedia.org/wiki/Louis_Pasteur",
+        "revisions": "https://en.wikipedia.org/wiki/Special:History/Louis_Pasteur",
+        "edit": "https://en.wikipedia.org/wiki/Louis_Pasteur?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Louis_Pasteur"
+      }
+    },
+    "extract": "Louis Pasteur was a French chemist, pharmacist, and microbiologist renowned for his discoveries of the principles of vaccination, microbial fermentation, and pasteurization, the last of which was named after him. His research in chemistry led to remarkable breakthroughs in the understanding of the causes and preventions of diseases, which laid down the foundations of hygiene, public health and much of modern medicine. Pasteur's works are credited with saving millions of lives through the developments of vaccines for rabies and anthrax. He is regarded as one of the founders of modern bacteriology and has been honored as the \"father of bacteriology\" and the \"father of microbiology\".",
+    "extract_html": "<p><b>Louis Pasteur</b> was a French chemist, pharmacist, and microbiologist renowned for his discoveries of the principles of vaccination, microbial fermentation, and pasteurization, the last of which was named after him. His research in chemistry led to remarkable breakthroughs in the understanding of the causes and preventions of diseases, which laid down the foundations of hygiene, public health and much of modern medicine. Pasteur's works are credited with saving millions of lives through the developments of vaccines for rabies and anthrax. He is regarded as one of the founders of modern bacteriology and has been honored as the \"father of bacteriology\" and the \"father of microbiology\".</p>"
+  }
+}

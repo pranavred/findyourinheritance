@@ -1,0 +1,63 @@
+{
+  "slug": "Learie_Constantine_1930_03",
+  "name": "Learie Constantine",
+  "description": "West Indian cricketer and politician",
+  "summary": "Learie Nicholas Constantine, Baron Constantine was a Trinidadian cricketer, lawyer and politician who served as Trinidad and Tobago's High Commissioner to the United Kingdom and became the UK's first black peer. He played 18 Test matches for the West Indies before the Second World War and took the team's first wicket in Test cricket. An advocate against racial discrimination, in later life he was influential in the passing of the 1965 Race Relations Act in Britain. He was knighted in 1962 and made a life peer in 1969.",
+  "image_local": "images/Learie_Constantine_1930_03.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Learie_Constantine_1930_03.jpg/800px-Learie_Constantine_1930_03.jpg",
+  "portrait_date": "",
+  "original_caption": "Learie Constantine 1930 03",
+  "extracted_name": "Learie Constantine",
+  "wikipedia_title": "Learie Constantine",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Learie_Constantine",
+  "commons_file_page": "https://commons.wikimedia.org/wiki/File:Learie_Constantine_1930_03.jpg",
+  "wikipedia_summary": {
+    "type": "standard",
+    "title": "Learie Constantine",
+    "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Learie Constantine</span></span>",
+    "namespace": {
+      "id": 0,
+      "text": ""
+    },
+    "wikibase_item": "Q3228666",
+    "titles": {
+      "canonical": "Learie_Constantine",
+      "normalized": "Learie Constantine",
+      "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Learie Constantine</span></span>"
+    },
+    "pageid": 1734619,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Learie_Constantine_1930_03.jpg/330px-Learie_Constantine_1930_03.jpg",
+      "width": 330,
+      "height": 409
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Learie_Constantine_1930_03.jpg",
+      "width": 2488,
+      "height": 3082
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1327501578",
+    "tid": "d89b0b3a-d917-11f0-88b4-3d36ddc79143",
+    "timestamp": "2025-12-14T18:08:09Z",
+    "description": "West Indian cricketer and politician",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Learie_Constantine",
+        "revisions": "https://en.wikipedia.org/wiki/Learie_Constantine?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Learie_Constantine?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Learie_Constantine"
+      },
+      "mobile": {
+        "page": "https://en.wikipedia.org/wiki/Learie_Constantine",
+        "revisions": "https://en.wikipedia.org/wiki/Special:History/Learie_Constantine",
+        "edit": "https://en.wikipedia.org/wiki/Learie_Constantine?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Learie_Constantine"
+      }
+    },
+    "extract": "Learie Nicholas Constantine, Baron Constantine was a Trinidadian cricketer, lawyer and politician who served as Trinidad and Tobago's High Commissioner to the United Kingdom and became the UK's first black peer. He played 18 Test matches for the West Indies before the Second World War and took the team's first wicket in Test cricket. An advocate against racial discrimination, in later life he was influential in the passing of the 1965 Race Relations Act in Britain. He was knighted in 1962 and made a life peer in 1969.",
+    "extract_html": "<p><b>Learie Nicholas Constantine, Baron Constantine</b> was a Trinidadian cricketer, lawyer and politician who served as Trinidad and Tobago's High Commissioner to the United Kingdom and became the UK's first black peer. He played 18 Test matches for the West Indies before the Second World War and took the team's first wicket in Test cricket. An advocate against racial discrimination, in later life he was influential in the passing of the 1965 Race Relations Act in Britain. He was knighted in 1962 and made a life peer in 1969.</p>"
+  }
+}

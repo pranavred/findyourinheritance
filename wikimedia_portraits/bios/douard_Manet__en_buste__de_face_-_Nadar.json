@@ -1,0 +1,63 @@
+{
+  "slug": "douard_Manet__en_buste__de_face_-_Nadar",
+  "name": "Édouard Manet",
+  "description": "French painter (1832–1883)",
+  "summary": "Édouard Manet was a French modernist painter. He was one of the first 19th-century artists to paint modern life, as well as a pivotal figure in the transition from Realism to Impressionism.",
+  "image_local": "images/douard_Manet__en_buste__de_face_-_Nadar.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/%C3%89douard_Manet%2C_en_buste%2C_de_face_-_Nadar.jpg/800px-%C3%89douard_Manet%2C_en_buste%2C_de_face_-_Nadar.jpg",
+  "portrait_date": "1870",
+  "original_caption": "Édouard Manet, en buste, de face - Nadar",
+  "extracted_name": "Édouard Manet",
+  "wikipedia_title": "Édouard Manet",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/%C3%89douard_Manet",
+  "commons_file_page": "https://commons.wikimedia.org/wiki/File:%C3%89douard_Manet,_en_buste,_de_face_-_Nadar.jpg",
+  "wikipedia_summary": {
+    "type": "standard",
+    "title": "Édouard Manet",
+    "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Édouard Manet</span></span>",
+    "namespace": {
+      "id": 0,
+      "text": ""
+    },
+    "wikibase_item": "Q40599",
+    "titles": {
+      "canonical": "Édouard_Manet",
+      "normalized": "Édouard Manet",
+      "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Édouard Manet</span></span>"
+    },
+    "pageid": 9615,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/%C3%89douard_Manet%2C_en_buste%2C_de_face_-_Nadar.jpg/330px-%C3%89douard_Manet%2C_en_buste%2C_de_face_-_Nadar.jpg",
+      "width": 330,
+      "height": 439
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/%C3%89douard_Manet%2C_en_buste%2C_de_face_-_Nadar.jpg/3840px-%C3%89douard_Manet%2C_en_buste%2C_de_face_-_Nadar.jpg",
+      "width": 4701,
+      "height": 6253
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1350794245",
+    "tid": "643a3d03-3f83-11f1-b4c5-555368380249",
+    "timestamp": "2026-04-24T02:14:58Z",
+    "description": "French painter (1832–1883)",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/%C3%89douard_Manet",
+        "revisions": "https://en.wikipedia.org/wiki/%C3%89douard_Manet?action=history",
+        "edit": "https://en.wikipedia.org/wiki/%C3%89douard_Manet?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:%C3%89douard_Manet"
+      },
+      "mobile": {
+        "page": "https://en.wikipedia.org/wiki/%C3%89douard_Manet",
+        "revisions": "https://en.wikipedia.org/wiki/Special:History/%C3%89douard_Manet",
+        "edit": "https://en.wikipedia.org/wiki/%C3%89douard_Manet?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:%C3%89douard_Manet"
+      }
+    },
+    "extract": "Édouard Manet was a French modernist painter. He was one of the first 19th-century artists to paint modern life, as well as a pivotal figure in the transition from Realism to Impressionism.",
+    "extract_html": "<p><b>Édouard Manet</b> was a French modernist painter. He was one of the first 19th-century artists to paint modern life, as well as a pivotal figure in the transition from Realism to Impressionism.</p>"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "slug": "Ottmar_Mergenthaler__at_approximately_45_years_old",
+  "name": "Ottmar Mergenthaler",
+  "description": "German-American inventor (1854–1899)",
+  "summary": "Ottmar Mergenthaler was a German-American inventor who invented the linotype machine, the first device that could easily and quickly set complete lines of type for use in printing presses. This machine revolutionized the art of printing.",
+  "image_local": "images/Ottmar_Mergenthaler__at_approximately_45_years_old.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Ottmar_Mergenthaler%2C_at_approximately_45_years_old.jpg/800px-Ottmar_Mergenthaler%2C_at_approximately_45_years_old.jpg",
+  "portrait_date": "",
+  "original_caption": "Ottmar Mergenthaler, at approximately 45 years old",
+  "extracted_name": "Ottmar Mergenthaler",
+  "wikipedia_title": "Ottmar Mergenthaler",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Ottmar_Mergenthaler",
+  "commons_file_page": "https://commons.wikimedia.org/wiki/File:Ottmar_Mergenthaler,_at_approximately_45_years_old.jpg",
+  "wikipedia_summary": {
+    "type": "standard",
+    "title": "Ottmar Mergenthaler",
+    "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Ottmar Mergenthaler</span></span>",
+    "namespace": {
+      "id": 0,
+      "text": ""
+    },
+    "wikibase_item": "Q213701",
+    "titles": {
+      "canonical": "Ottmar_Mergenthaler",
+      "normalized": "Ottmar Mergenthaler",
+      "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Ottmar Mergenthaler</span></span>"
+    },
+    "pageid": 269903,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Ottmar_Mergenthaler%2C_at_approximately_45_years_old.jpg/330px-Ottmar_Mergenthaler%2C_at_approximately_45_years_old.jpg",
+      "width": 330,
+      "height": 395
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Ottmar_Mergenthaler%2C_at_approximately_45_years_old.jpg/3840px-Ottmar_Mergenthaler%2C_at_approximately_45_years_old.jpg",
+      "width": 6421,
+      "height": 7687
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1338515655",
+    "tid": "1f7bbef5-0a8f-11f1-bf0d-a8fdf1871cb3",
+    "timestamp": "2026-02-15T16:55:25Z",
+    "description": "German-American inventor (1854–1899)",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Ottmar_Mergenthaler",
+        "revisions": "https://en.wikipedia.org/wiki/Ottmar_Mergenthaler?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Ottmar_Mergenthaler?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Ottmar_Mergenthaler"
+      },
+      "mobile": {
+        "page": "https://en.wikipedia.org/wiki/Ottmar_Mergenthaler",
+        "revisions": "https://en.wikipedia.org/wiki/Special:History/Ottmar_Mergenthaler",
+        "edit": "https://en.wikipedia.org/wiki/Ottmar_Mergenthaler?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Ottmar_Mergenthaler"
+      }
+    },
+    "extract": "Ottmar Mergenthaler was a German-American inventor who invented the linotype machine, the first device that could easily and quickly set complete lines of type for use in printing presses. This machine revolutionized the art of printing.",
+    "extract_html": "<p><b>Ottmar Mergenthaler</b> was a German-American inventor who invented the linotype machine, the first device that could easily and quickly set complete lines of type for use in printing presses. This machine revolutionized the art of printing.</p>"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "slug": "Julia_Margaret_Cameron_-_John_Herschel__Metropolitan_Mu_d0609905",
+  "name": "John Herschel",
+  "description": "English polymath (1792–1871)",
+  "summary": "Sir John Frederick William Herschel, 1st Baronet was an English polymath active as a mathematician, astronomer, chemist, inventor and experimental photographer who invented the blueprint and did botanical work.",
+  "image_local": "images/Julia_Margaret_Cameron_-_John_Herschel__Metropolitan_Mu_d0609905.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Julia_Margaret_Cameron_-_John_Herschel_%28Metropolitan_Museum_of_Art_copy%2C_restored%29_levels.jpg/800px-Julia_Margaret_Cameron_-_John_Herschel_%28Metropolitan_Museum_of_Art_copy%2C_restored%29_levels.jpg",
+  "portrait_date": "1867",
+  "original_caption": "John Herschel by Julia Margaret Cameron (Metropolitan Museum of Art copy, restored) levels",
+  "extracted_name": "John Herschel",
+  "wikipedia_title": "John Herschel",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/John_Herschel",
+  "commons_file_page": "https://commons.wikimedia.org/wiki/File:Julia_Margaret_Cameron_-_John_Herschel_(Metropolitan_Museum_of_Art_copy,_restored)_levels.jpg",
+  "wikipedia_summary": {
+    "type": "standard",
+    "title": "John Herschel",
+    "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">John Herschel</span></span>",
+    "namespace": {
+      "id": 0,
+      "text": ""
+    },
+    "wikibase_item": "Q14278",
+    "titles": {
+      "canonical": "John_Herschel",
+      "normalized": "John Herschel",
+      "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">John Herschel</span></span>"
+    },
+    "pageid": 43592,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Sir_John_Frederick_William_Herschel._Mezzotint_by_W._Ward%2C_1_Wellcome_V0002717_%28cropped%29-34-%28brightness%29.jpg/330px-Sir_John_Frederick_William_Herschel._Mezzotint_by_W._Ward%2C_1_Wellcome_V0002717_%28cropped%29-34-%28brightness%29.jpg",
+      "width": 330,
+      "height": 422
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Sir_John_Frederick_William_Herschel._Mezzotint_by_W._Ward%2C_1_Wellcome_V0002717_%28cropped%29-34-%28brightness%29.jpg",
+      "width": 1755,
+      "height": 2243
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1350774660",
+    "tid": "d5bac17a-3f6c-11f1-8cef-d7732ecffe40",
+    "timestamp": "2026-04-23T23:33:30Z",
+    "description": "English polymath (1792–1871)",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/John_Herschel",
+        "revisions": "https://en.wikipedia.org/wiki/John_Herschel?action=history",
+        "edit": "https://en.wikipedia.org/wiki/John_Herschel?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:John_Herschel"
+      },
+      "mobile": {
+        "page": "https://en.wikipedia.org/wiki/John_Herschel",
+        "revisions": "https://en.wikipedia.org/wiki/Special:History/John_Herschel",
+        "edit": "https://en.wikipedia.org/wiki/John_Herschel?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:John_Herschel"
+      }
+    },
+    "extract": "Sir John Frederick William Herschel, 1st Baronet was an English polymath active as a mathematician, astronomer, chemist, inventor and experimental photographer who invented the blueprint and did botanical work.",
+    "extract_html": "<p><b>Sir John Frederick William Herschel, 1st Baronet</b> was an English polymath active as a mathematician, astronomer, chemist, inventor and experimental photographer who invented the blueprint and did botanical work.</p>"
+  }
+}

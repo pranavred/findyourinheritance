@@ -1,0 +1,63 @@
+{
+  "slug": "Sharon_Tate_Valley_of_the_Dolls_1967_-_Restoration",
+  "name": "Sharon Tate",
+  "description": "American actress and model (1943–1969)",
+  "summary": "Sharon Marie Tate Polanski was an American actress and model. During the 1960s, she appeared in advertisements and small television roles before appearing in films as well as working as a model. After receiving positive reviews for her comedic and dramatic acting performances, Tate was hailed as one of Hollywood's most promising newcomers, being compared favorably with Marilyn Monroe.",
+  "image_local": "images/Sharon_Tate_Valley_of_the_Dolls_1967_-_Restoration.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Sharon_Tate_Valley_of_the_Dolls_1967_-_Restoration.jpg/800px-Sharon_Tate_Valley_of_the_Dolls_1967_-_Restoration.jpg",
+  "portrait_date": "1967",
+  "original_caption": "Sharon Tate, still from Valley of the Dolls",
+  "extracted_name": "Sharon Tate",
+  "wikipedia_title": "Sharon Tate",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Sharon_Tate",
+  "commons_file_page": "https://commons.wikimedia.org/wiki/File:Sharon_Tate_Valley_of_the_Dolls_1967_-_Restoration.jpg",
+  "wikipedia_summary": {
+    "type": "standard",
+    "title": "Sharon Tate",
+    "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Sharon Tate</span></span>",
+    "namespace": {
+      "id": 0,
+      "text": ""
+    },
+    "wikibase_item": "Q228699",
+    "titles": {
+      "canonical": "Sharon_Tate",
+      "normalized": "Sharon Tate",
+      "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Sharon Tate</span></span>"
+    },
+    "pageid": 44735,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Sharon_Tate_1969.jpg/330px-Sharon_Tate_1969.jpg",
+      "width": 330,
+      "height": 405
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Sharon_Tate_1969.jpg",
+      "width": 3148,
+      "height": 3864
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1351194176",
+    "tid": "09206d53-417e-11f1-bb0a-5828af6ed81a",
+    "timestamp": "2026-04-26T14:41:40Z",
+    "description": "American actress and model (1943–1969)",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Sharon_Tate",
+        "revisions": "https://en.wikipedia.org/wiki/Sharon_Tate?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Sharon_Tate?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Sharon_Tate"
+      },
+      "mobile": {
+        "page": "https://en.wikipedia.org/wiki/Sharon_Tate",
+        "revisions": "https://en.wikipedia.org/wiki/Special:History/Sharon_Tate",
+        "edit": "https://en.wikipedia.org/wiki/Sharon_Tate?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Sharon_Tate"
+      }
+    },
+    "extract": "Sharon Marie Tate Polanski was an American actress and model. During the 1960s, she appeared in advertisements and small television roles before appearing in films as well as working as a model. After receiving positive reviews for her comedic and dramatic acting performances, Tate was hailed as one of Hollywood's most promising newcomers, being compared favorably with Marilyn Monroe.",
+    "extract_html": "<p><b>Sharon Marie Tate Polanski</b> was an American actress and model. During the 1960s, she appeared in advertisements and small television roles before appearing in films as well as working as a model. After receiving positive reviews for her comedic and dramatic acting performances, Tate was hailed as one of Hollywood's most promising newcomers, being compared favorably with Marilyn Monroe.</p>"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "slug": "Guzman_Blanco__Antonio__Gallica__Nadar",
+  "name": "Antonio Guzmán Blanco",
+  "description": "President of Venezuela (1829–1899)",
+  "summary": "Antonio Leocadio Guzmán Blanco was a Venezuelan military leader, statesman, diplomat and politician. He was the president of Venezuela for three separate terms, from 1870 until 1877, from 1879 until 1884, and from 1886 until 1887 and General during the Venezuelan Federal War.",
+  "image_local": "images/Guzman_Blanco__Antonio__Gallica__Nadar.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Guzman_Blanco%2C_Antonio%2C_Gallica%2C_Nadar.jpg/800px-Guzman_Blanco%2C_Antonio%2C_Gallica%2C_Nadar.jpg",
+  "portrait_date": "",
+  "original_caption": "Guzman Blanco, Antonio, Gallica, Nadar",
+  "extracted_name": "Guzman Blanco",
+  "wikipedia_title": "Antonio Guzmán Blanco",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Antonio_Guzm%C3%A1n_Blanco",
+  "commons_file_page": "https://commons.wikimedia.org/wiki/File:Guzman_Blanco,_Antonio,_Gallica,_Nadar.jpg",
+  "wikipedia_summary": {
+    "type": "standard",
+    "title": "Antonio Guzmán Blanco",
+    "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Antonio Guzmán Blanco</span></span>",
+    "namespace": {
+      "id": 0,
+      "text": ""
+    },
+    "wikibase_item": "Q602420",
+    "titles": {
+      "canonical": "Antonio_Guzmán_Blanco",
+      "normalized": "Antonio Guzmán Blanco",
+      "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Antonio Guzmán Blanco</span></span>"
+    },
+    "pageid": 466640,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Martin_Tovar_y_Tovar_20_restored.jpg/330px-Martin_Tovar_y_Tovar_20_restored.jpg",
+      "width": 330,
+      "height": 445
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Martin_Tovar_y_Tovar_20_restored.jpg",
+      "width": 1089,
+      "height": 1469
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1345779930",
+    "tid": "8067bf29-2a57-11f1-8100-d2484bbe89e6",
+    "timestamp": "2026-03-28T03:37:53Z",
+    "description": "President of Venezuela (1829–1899)",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Antonio_Guzm%C3%A1n_Blanco",
+        "revisions": "https://en.wikipedia.org/wiki/Antonio_Guzm%C3%A1n_Blanco?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Antonio_Guzm%C3%A1n_Blanco?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Antonio_Guzm%C3%A1n_Blanco"
+      },
+      "mobile": {
+        "page": "https://en.wikipedia.org/wiki/Antonio_Guzm%C3%A1n_Blanco",
+        "revisions": "https://en.wikipedia.org/wiki/Special:History/Antonio_Guzm%C3%A1n_Blanco",
+        "edit": "https://en.wikipedia.org/wiki/Antonio_Guzm%C3%A1n_Blanco?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Antonio_Guzm%C3%A1n_Blanco"
+      }
+    },
+    "extract": "Antonio Leocadio Guzmán Blanco was a Venezuelan military leader, statesman, diplomat and politician. He was the president of Venezuela for three separate terms, from 1870 until 1877, from 1879 until 1884, and from 1886 until 1887 and General during the Venezuelan Federal War.",
+    "extract_html": "<p><b>Antonio Leocadio Guzmán Blanco</b> was a Venezuelan military leader, statesman, diplomat and politician. He was the president of Venezuela for three separate terms, from 1870 until 1877, from 1879 until 1884, and from 1886 until 1887 and General during the Venezuelan Federal War.</p>"
+  }
+}

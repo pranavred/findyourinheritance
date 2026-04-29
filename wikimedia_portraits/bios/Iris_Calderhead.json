@@ -1,0 +1,63 @@
+{
+  "slug": "Iris_Calderhead",
+  "name": "Iris Calderhead",
+  "description": "American suffragist (1889–1966)",
+  "summary": "Iris Calderhead was an American suffragist and organizer in the National Woman's Party. She earned an A.B. in English from the University of Kansas in 1910 and completed a graduate degree at Bryn Mawr College in 1913. She was the daughter of William A. Calderhead, the congressional representative for Kansas' 5th District from 1895 to 1911.",
+  "image_local": "images/Iris_Calderhead.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Iris_Calderhead.jpg/800px-Iris_Calderhead.jpg",
+  "portrait_date": "between 1913 and 1917",
+  "original_caption": "Iris Calderhead",
+  "extracted_name": "Iris Calderhead",
+  "wikipedia_title": "Iris Calderhead",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Iris_Calderhead",
+  "commons_file_page": "https://commons.wikimedia.org/wiki/File:Iris_Calderhead.jpg",
+  "wikipedia_summary": {
+    "type": "standard",
+    "title": "Iris Calderhead",
+    "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Iris Calderhead</span></span>",
+    "namespace": {
+      "id": 0,
+      "text": ""
+    },
+    "wikibase_item": "Q26816949",
+    "titles": {
+      "canonical": "Iris_Calderhead",
+      "normalized": "Iris Calderhead",
+      "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Iris Calderhead</span></span>"
+    },
+    "pageid": 51072681,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Iris_Calderhead.jpg/330px-Iris_Calderhead.jpg",
+      "width": 330,
+      "height": 494
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/4/40/Iris_Calderhead.jpg",
+      "width": 1459,
+      "height": 2182
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1334252055",
+    "tid": "003f8a47-f790-11f0-8058-282ebd173988",
+    "timestamp": "2026-01-22T12:43:50Z",
+    "description": "American suffragist (1889–1966)",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Iris_Calderhead",
+        "revisions": "https://en.wikipedia.org/wiki/Iris_Calderhead?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Iris_Calderhead?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Iris_Calderhead"
+      },
+      "mobile": {
+        "page": "https://en.wikipedia.org/wiki/Iris_Calderhead",
+        "revisions": "https://en.wikipedia.org/wiki/Special:History/Iris_Calderhead",
+        "edit": "https://en.wikipedia.org/wiki/Iris_Calderhead?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Iris_Calderhead"
+      }
+    },
+    "extract": "Iris Calderhead was an American suffragist and organizer in the National Woman's Party. She earned an A.B. in English from the University of Kansas in 1910 and completed a graduate degree at Bryn Mawr College in 1913. She was the daughter of William A. Calderhead, the congressional representative for Kansas' 5th District from 1895 to 1911.",
+    "extract_html": "<p><b>Iris Calderhead</b> was an American suffragist and organizer in the National Woman's Party. She earned an A.B. in English from the University of Kansas in 1910 and completed a graduate degree at Bryn Mawr College in 1913. She was the daughter of William A. Calderhead, the congressional representative for Kansas' 5th District from 1895 to 1911.</p>"
+  }
+}

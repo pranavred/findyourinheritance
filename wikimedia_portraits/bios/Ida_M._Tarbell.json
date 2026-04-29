@@ -1,0 +1,63 @@
+{
+  "slug": "Ida_M._Tarbell",
+  "name": "Ida Tarbell",
+  "description": "American writer, journalist, biographer and lecturer (1857–1944)",
+  "summary": "Ida Minerva Tarbell was an American writer, investigative journalist, biographer, and lecturer. She was one of the leading muckrakers and reformers of the Progressive Era of the late 19th and early 20th centuries and was a pioneer of investigative journalism.",
+  "image_local": "images/Ida_M._Tarbell.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Ida_M._Tarbell.jpg/800px-Ida_M._Tarbell.jpg",
+  "portrait_date": "1904",
+  "original_caption": "Ida M. Tarbell",
+  "extracted_name": "Ida M. Tarbell",
+  "wikipedia_title": "Ida Tarbell",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Ida_Tarbell",
+  "commons_file_page": "https://commons.wikimedia.org/wiki/File:Ida_M._Tarbell.jpg",
+  "wikipedia_summary": {
+    "type": "standard",
+    "title": "Ida Tarbell",
+    "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Ida Tarbell</span></span>",
+    "namespace": {
+      "id": 0,
+      "text": ""
+    },
+    "wikibase_item": "Q271712",
+    "titles": {
+      "canonical": "Ida_Tarbell",
+      "normalized": "Ida Tarbell",
+      "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Ida Tarbell</span></span>"
+    },
+    "pageid": 196063,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Ida_M._Tarbell_crop.jpg/330px-Ida_M._Tarbell_crop.jpg",
+      "width": 330,
+      "height": 392
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/6/68/Ida_M._Tarbell_crop.jpg",
+      "width": 1988,
+      "height": 2364
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1351252392",
+    "tid": "4d3161d1-41ba-11f1-89e6-b405d0cb3195",
+    "timestamp": "2026-04-26T21:53:04Z",
+    "description": "American writer, journalist, biographer and lecturer (1857–1944)",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Ida_Tarbell",
+        "revisions": "https://en.wikipedia.org/wiki/Ida_Tarbell?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Ida_Tarbell?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Ida_Tarbell"
+      },
+      "mobile": {
+        "page": "https://en.wikipedia.org/wiki/Ida_Tarbell",
+        "revisions": "https://en.wikipedia.org/wiki/Special:History/Ida_Tarbell",
+        "edit": "https://en.wikipedia.org/wiki/Ida_Tarbell?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Ida_Tarbell"
+      }
+    },
+    "extract": "Ida Minerva Tarbell was an American writer, investigative journalist, biographer, and lecturer. She was one of the leading muckrakers and reformers of the Progressive Era of the late 19th and early 20th centuries and was a pioneer of investigative journalism.",
+    "extract_html": "<p><b>Ida Minerva Tarbell</b> was an American writer, investigative journalist, biographer, and lecturer. She was one of the leading muckrakers and reformers of the Progressive Era of the late 19th and early 20th centuries and was a pioneer of investigative journalism.</p>"
+  }
+}

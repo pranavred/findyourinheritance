@@ -1,0 +1,63 @@
+{
+  "slug": "Shoeless_Joe_Jackson_by_Conlon__1913",
+  "name": "Shoeless Joe Jackson",
+  "description": "American baseball player (1887–1951)",
+  "summary": "Joseph Jefferson Jackson, nicknamed \"Shoeless Joe\", was an American professional baseball outfielder who played in Major League Baseball (MLB) in the early 20th century. His .356 career batting average is one of the highest in major-league history. Jackson is often remembered for his association with the Black Sox Scandal in which eight members of the 1919 Chicago White Sox participated in a conspiracy to fix the World Series. As a result, Commissioner Kenesaw Mountain Landis permanently banned Jackson and the other seven players from professional baseball after the 1920 season. During the World Series in question, Jackson had led both teams in several statistical categories and set a World Series record with 12 base hits, including, during the last game, the only home run in that World Series. Jackson's role in the scandal, banishment from the game, and exclusion from the Baseball Hall of Fame have been fiercely debated. In 2025, Commissioner Rob Manfred removed Jackson and other deceased players from the MLB's permanently ineligible list, thus lifting the ban and making him once again eligible for the hall of fame.",
+  "image_local": "images/Shoeless_Joe_Jackson_by_Conlon__1913.jpeg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Shoeless_Joe_Jackson_by_Conlon%2C_1913.jpeg/800px-Shoeless_Joe_Jackson_by_Conlon%2C_1913.jpeg",
+  "portrait_date": "1913",
+  "original_caption": "Shoeless Joe Jackson, 1913",
+  "extracted_name": "Shoeless Joe Jackson",
+  "wikipedia_title": "Shoeless Joe Jackson",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Shoeless_Joe_Jackson",
+  "commons_file_page": "https://commons.wikimedia.org/wiki/File:Shoeless_Joe_Jackson_by_Conlon,_1913.jpeg",
+  "wikipedia_summary": {
+    "type": "standard",
+    "title": "Shoeless Joe Jackson",
+    "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Shoeless Joe Jackson</span></span>",
+    "namespace": {
+      "id": 0,
+      "text": ""
+    },
+    "wikibase_item": "Q955322",
+    "titles": {
+      "canonical": "Shoeless_Joe_Jackson",
+      "normalized": "Shoeless Joe Jackson",
+      "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Shoeless Joe Jackson</span></span>"
+    },
+    "pageid": 149419,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Shoeless_Joe_Jackson_by_Conlon%2C_1913.jpeg/330px-Shoeless_Joe_Jackson_by_Conlon%2C_1913.jpeg",
+      "width": 330,
+      "height": 236
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Shoeless_Joe_Jackson_by_Conlon%2C_1913.jpeg",
+      "width": 2400,
+      "height": 1714
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1345561901",
+    "tid": "d354525d-294b-11f1-a464-8dcc87c56471",
+    "timestamp": "2026-03-26T19:41:47Z",
+    "description": "American baseball player (1887–1951)",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Shoeless_Joe_Jackson",
+        "revisions": "https://en.wikipedia.org/wiki/Shoeless_Joe_Jackson?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Shoeless_Joe_Jackson?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Shoeless_Joe_Jackson"
+      },
+      "mobile": {
+        "page": "https://en.wikipedia.org/wiki/Shoeless_Joe_Jackson",
+        "revisions": "https://en.wikipedia.org/wiki/Special:History/Shoeless_Joe_Jackson",
+        "edit": "https://en.wikipedia.org/wiki/Shoeless_Joe_Jackson?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Shoeless_Joe_Jackson"
+      }
+    },
+    "extract": "Joseph Jefferson Jackson, nicknamed \"Shoeless Joe\", was an American professional baseball outfielder who played in Major League Baseball (MLB) in the early 20th century. His .356 career batting average is one of the highest in major-league history. Jackson is often remembered for his association with the Black Sox Scandal in which eight members of the 1919 Chicago White Sox participated in a conspiracy to fix the World Series. As a result, Commissioner Kenesaw Mountain Landis permanently banned Jackson and the other seven players from professional baseball after the 1920 season. During the World Series in question, Jackson had led both teams in several statistical categories and set a World Series record with 12 base hits, including, during the last game, the only home run in that World Series. Jackson's role in the scandal, banishment from the game, and exclusion from the Baseball Hall of Fame have been fiercely debated. In 2025, Commissioner Rob Manfred removed Jackson and other deceased players from the MLB's permanently ineligible list, thus lifting the ban and making him once again eligible for the hall of fame.",
+    "extract_html": "<p><b>Joseph Jefferson Jackson</b>, nicknamed \"<b>Shoeless Joe</b>\", was an American professional baseball outfielder who played in Major League Baseball (MLB) in the early 20th century. His .356 career batting average is one of the highest in major-league history. Jackson is often remembered for his association with the Black Sox Scandal in which eight members of the 1919 Chicago White Sox participated in a conspiracy to fix the World Series. As a result, Commissioner Kenesaw Mountain Landis permanently banned Jackson and the other seven players from professional baseball after the 1920 season. During the World Series in question, Jackson had led both teams in several statistical categories and set a World Series record with 12 base hits, including, during the last game, the only home run in that World Series. Jackson's role in the scandal, banishment from the game, and exclusion from the Baseball Hall of Fame have been fiercely debated. In 2025, Commissioner Rob Manfred removed Jackson and other deceased players from the MLB's permanently ineligible list, thus lifting the ban and making him once again eligible for the hall of fame.</p>"
+  }
+}

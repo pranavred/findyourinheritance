@@ -1,0 +1,63 @@
+{
+  "slug": "Eleftherios_Venizelos_1917",
+  "name": "Eleftherios Venizelos",
+  "description": "Prime Minister of Greece (1910–20; 1928–33)",
+  "summary": "Eleftherios Kyriakou Venizelos was a Cretan Greek statesman and prominent leader of the Greek national liberation movement. As the leader of the Liberal Party, Venizelos served as prime minister of Greece for over 12 years, spanning eight terms from 1910 to 1933.",
+  "image_local": "images/Eleftherios_Venizelos_1917.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Eleftherios_Venizelos_1917.jpg/800px-Eleftherios_Venizelos_1917.jpg",
+  "portrait_date": "1917",
+  "original_caption": "Eleftherios Venizelos 1917.jpg/2",
+  "extracted_name": "Eleftherios Venizelos",
+  "wikipedia_title": "Eleftherios Venizelos",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Eleftherios_Venizelos",
+  "commons_file_page": "https://commons.wikimedia.org/wiki/File:Eleftherios_Venizelos_1917.jpg",
+  "wikipedia_summary": {
+    "type": "standard",
+    "title": "Eleftherios Venizelos",
+    "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Eleftherios Venizelos</span></span>",
+    "namespace": {
+      "id": 0,
+      "text": ""
+    },
+    "wikibase_item": "Q205545",
+    "titles": {
+      "canonical": "Eleftherios_Venizelos",
+      "normalized": "Eleftherios Venizelos",
+      "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Eleftherios Venizelos</span></span>"
+    },
+    "pageid": 305256,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Eleftherios_Venizelos_1919_%283x4_cropped%29.jpg/330px-Eleftherios_Venizelos_1919_%283x4_cropped%29.jpg",
+      "width": 330,
+      "height": 440
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/0/01/Eleftherios_Venizelos_1919_%283x4_cropped%29.jpg",
+      "width": 973,
+      "height": 1298
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1350304013",
+    "tid": "46c962fe-3d40-11f1-9ba4-fa2e88d4aa11",
+    "timestamp": "2026-04-21T05:09:30Z",
+    "description": "Prime Minister of Greece (1910–20; 1928–33)",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Eleftherios_Venizelos",
+        "revisions": "https://en.wikipedia.org/wiki/Eleftherios_Venizelos?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Eleftherios_Venizelos?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Eleftherios_Venizelos"
+      },
+      "mobile": {
+        "page": "https://en.wikipedia.org/wiki/Eleftherios_Venizelos",
+        "revisions": "https://en.wikipedia.org/wiki/Special:History/Eleftherios_Venizelos",
+        "edit": "https://en.wikipedia.org/wiki/Eleftherios_Venizelos?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Eleftherios_Venizelos"
+      }
+    },
+    "extract": "Eleftherios Kyriakou Venizelos was a Cretan Greek statesman and prominent leader of the Greek national liberation movement. As the leader of the Liberal Party, Venizelos served as prime minister of Greece for over 12 years, spanning eight terms from 1910 to 1933.",
+    "extract_html": "<p><b>Eleftherios Kyriakou Venizelos</b> was a Cretan Greek statesman and prominent leader of the Greek national liberation movement. As the leader of the Liberal Party, Venizelos served as prime minister of Greece for over 12 years, spanning eight terms from 1910 to 1933.</p>"
+  }
+}

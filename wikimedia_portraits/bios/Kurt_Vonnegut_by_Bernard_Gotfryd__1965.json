@@ -1,0 +1,63 @@
+{
+  "slug": "Kurt_Vonnegut_by_Bernard_Gotfryd__1965",
+  "name": "Kurt Vonnegut",
+  "description": "American author (1922–2007)",
+  "summary": "Kurt Vonnegut was an American author known for his satirical and darkly humorous novels. His published work includes fourteen novels, three short-story collections, five plays, and five nonfiction works over fifty years; further works have been published since his death.",
+  "image_local": "images/Kurt_Vonnegut_by_Bernard_Gotfryd__1965.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Kurt_Vonnegut_by_Bernard_Gotfryd_%281965%29.jpg/800px-Kurt_Vonnegut_by_Bernard_Gotfryd_%281965%29.jpg",
+  "portrait_date": "1965",
+  "original_caption": "Kurt Vonnegut (by Bernard Gotfryd)",
+  "extracted_name": "Kurt Vonnegut",
+  "wikipedia_title": "Kurt Vonnegut",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Kurt_Vonnegut",
+  "commons_file_page": "https://commons.wikimedia.org/wiki/File:Kurt_Vonnegut_by_Bernard_Gotfryd_(1965).jpg",
+  "wikipedia_summary": {
+    "type": "standard",
+    "title": "Kurt Vonnegut",
+    "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Kurt Vonnegut</span></span>",
+    "namespace": {
+      "id": 0,
+      "text": ""
+    },
+    "wikibase_item": "Q49074",
+    "titles": {
+      "canonical": "Kurt_Vonnegut",
+      "normalized": "Kurt Vonnegut",
+      "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Kurt Vonnegut</span></span>"
+    },
+    "pageid": 16861,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Kurt_Vonnegut_by_Bernard_Gotfryd_%281965%29.jpg/330px-Kurt_Vonnegut_by_Bernard_Gotfryd_%281965%29.jpg",
+      "width": 330,
+      "height": 490
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/8/89/Kurt_Vonnegut_by_Bernard_Gotfryd_%281965%29.jpg",
+      "width": 3243,
+      "height": 4815
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1351120410",
+    "tid": "16067602-4110-11f1-b126-e2dab13303ba",
+    "timestamp": "2026-04-26T01:34:37Z",
+    "description": "American author (1922–2007)",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Kurt_Vonnegut",
+        "revisions": "https://en.wikipedia.org/wiki/Kurt_Vonnegut?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Kurt_Vonnegut?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Kurt_Vonnegut"
+      },
+      "mobile": {
+        "page": "https://en.wikipedia.org/wiki/Kurt_Vonnegut",
+        "revisions": "https://en.wikipedia.org/wiki/Special:History/Kurt_Vonnegut",
+        "edit": "https://en.wikipedia.org/wiki/Kurt_Vonnegut?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Kurt_Vonnegut"
+      }
+    },
+    "extract": "Kurt Vonnegut was an American author known for his satirical and darkly humorous novels. His published work includes fourteen novels, three short-story collections, five plays, and five nonfiction works over fifty years; further works have been published since his death.",
+    "extract_html": "<p><b>Kurt Vonnegut</b> was an American author known for his satirical and darkly humorous novels. His published work includes fourteen novels, three short-story collections, five plays, and five nonfiction works over fifty years; further works have been published since his death.</p>"
+  }
+}

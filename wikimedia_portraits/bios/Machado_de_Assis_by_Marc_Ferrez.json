@@ -1,0 +1,63 @@
+{
+  "slug": "Machado_de_Assis_by_Marc_Ferrez",
+  "name": "Machado de Assis",
+  "description": "Brazilian writer (1839–1908)",
+  "summary": "Joaquim Maria Machado de Assis, sometimes called Bruxo do Cosme Velho, was a pioneer Brazilian novelist, poet, playwright and short story writer, widely regarded as the greatest writer of Brazilian literature. In 1897, he founded and became the first President of the Brazilian Academy of Letters. He was multilingual, having taught himself French, English, German and Greek later in life.",
+  "image_local": "images/Machado_de_Assis_by_Marc_Ferrez.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Machado_de_Assis_by_Marc_Ferrez.jpg/800px-Machado_de_Assis_by_Marc_Ferrez.jpg",
+  "portrait_date": "",
+  "original_caption": "Machado de Assis by Marc Ferrez.jpg/2",
+  "extracted_name": "Machado de Assis",
+  "wikipedia_title": "Machado de Assis",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Machado_de_Assis",
+  "commons_file_page": "https://commons.wikimedia.org/wiki/File:Machado_de_Assis_by_Marc_Ferrez.jpg",
+  "wikipedia_summary": {
+    "type": "standard",
+    "title": "Machado de Assis",
+    "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Machado de Assis</span></span>",
+    "namespace": {
+      "id": 0,
+      "text": ""
+    },
+    "wikibase_item": "Q311145",
+    "titles": {
+      "canonical": "Machado_de_Assis",
+      "normalized": "Machado de Assis",
+      "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Machado de Assis</span></span>"
+    },
+    "pageid": 319743,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Machado_de_Assis_by_Marc_Ferrez.jpg/330px-Machado_de_Assis_by_Marc_Ferrez.jpg",
+      "width": 330,
+      "height": 445
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Machado_de_Assis_by_Marc_Ferrez.jpg/3840px-Machado_de_Assis_by_Marc_Ferrez.jpg",
+      "width": 4567,
+      "height": 6156
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1351319942",
+    "tid": "2d745901-4207-11f1-8c2a-471a34629252",
+    "timestamp": "2026-04-27T07:03:22Z",
+    "description": "Brazilian writer (1839–1908)",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Machado_de_Assis",
+        "revisions": "https://en.wikipedia.org/wiki/Machado_de_Assis?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Machado_de_Assis?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Machado_de_Assis"
+      },
+      "mobile": {
+        "page": "https://en.wikipedia.org/wiki/Machado_de_Assis",
+        "revisions": "https://en.wikipedia.org/wiki/Special:History/Machado_de_Assis",
+        "edit": "https://en.wikipedia.org/wiki/Machado_de_Assis?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Machado_de_Assis"
+      }
+    },
+    "extract": "Joaquim Maria Machado de Assis, sometimes called Bruxo do Cosme Velho, was a pioneer Brazilian novelist, poet, playwright and short story writer, widely regarded as the greatest writer of Brazilian literature. In 1897, he founded and became the first President of the Brazilian Academy of Letters. He was multilingual, having taught himself French, English, German and Greek later in life.",
+    "extract_html": "<p><b>Joaquim Maria Machado de Assis</b>, sometimes called <i>Bruxo do Cosme Velho</i>, was a pioneer Brazilian novelist, poet, playwright and short story writer, widely regarded as the greatest writer of Brazilian literature. In 1897, he founded and became the first President of the Brazilian Academy of Letters. He was multilingual, having taught himself French, English, German and Greek later in life.</p>"
+  }
+}

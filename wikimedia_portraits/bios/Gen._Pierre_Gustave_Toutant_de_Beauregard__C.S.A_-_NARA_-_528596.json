@@ -1,0 +1,63 @@
+{
+  "slug": "Gen._Pierre_Gustave_Toutant_de_Beauregard__C.S.A_-_NARA_-_528596",
+  "name": "P. G. T. Beauregard",
+  "description": "Confederate States Army general (1818–1893)",
+  "summary": "Pierre Gustave Toutant-Beauregard was an American military officer known for being the Confederate general who started the American Civil War at the battle of Fort Sumter on April 12, 1861. Today, he is commonly referred to as P. G. T. Beauregard, but he rarely used his first name as an adult. He signed correspondence as G. T. Beauregard.",
+  "image_local": "images/Gen._Pierre_Gustave_Toutant_de_Beauregard__C.S.A_-_NARA_-_528596.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Gen._Pierre_Gustave_Toutant_de_Beauregard%2C_C.S.A_-_NARA_-_528596.jpg/800px-Gen._Pierre_Gustave_Toutant_de_Beauregard%2C_C.S.A_-_NARA_-_528596.jpg",
+  "portrait_date": "1860-1865",
+  "original_caption": "Gen. Pierre Gustave Toutant de Beauregard",
+  "extracted_name": "Pierre Gustave Toutant de Beauregard",
+  "wikipedia_title": "P. G. T. Beauregard",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/P._G._T._Beauregard",
+  "commons_file_page": "https://commons.wikimedia.org/wiki/File:Gen._Pierre_Gustave_Toutant_de_Beauregard,_C.S.A_-_NARA_-_528596.jpg",
+  "wikipedia_summary": {
+    "type": "standard",
+    "title": "P. G. T. Beauregard",
+    "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">P. G. T. Beauregard</span></span>",
+    "namespace": {
+      "id": 0,
+      "text": ""
+    },
+    "wikibase_item": "Q313976",
+    "titles": {
+      "canonical": "P._G._T._Beauregard",
+      "normalized": "P. G. T. Beauregard",
+      "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">P. G. T. Beauregard</span></span>"
+    },
+    "pageid": 102810,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Gen._Pierre_Gustave_Toutant_de_Beauregard%2C_C.S.A_-_NARA_-_528596.jpg/330px-Gen._Pierre_Gustave_Toutant_de_Beauregard%2C_C.S.A_-_NARA_-_528596.jpg",
+      "width": 330,
+      "height": 406
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/2/23/Gen._Pierre_Gustave_Toutant_de_Beauregard%2C_C.S.A_-_NARA_-_528596.jpg",
+      "width": 2440,
+      "height": 3000
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1349853840",
+    "tid": "2919c50e-3bb1-11f1-81ff-b96e62cacacb",
+    "timestamp": "2026-04-19T05:32:31Z",
+    "description": "Confederate States Army general (1818–1893)",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/P._G._T._Beauregard",
+        "revisions": "https://en.wikipedia.org/wiki/P._G._T._Beauregard?action=history",
+        "edit": "https://en.wikipedia.org/wiki/P._G._T._Beauregard?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:P._G._T._Beauregard"
+      },
+      "mobile": {
+        "page": "https://en.wikipedia.org/wiki/P._G._T._Beauregard",
+        "revisions": "https://en.wikipedia.org/wiki/Special:History/P._G._T._Beauregard",
+        "edit": "https://en.wikipedia.org/wiki/P._G._T._Beauregard?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:P._G._T._Beauregard"
+      }
+    },
+    "extract": "Pierre Gustave Toutant-Beauregard was an American military officer known for being the Confederate general who started the American Civil War at the battle of Fort Sumter on April 12, 1861. Today, he is commonly referred to as P. G. T. Beauregard, but he rarely used his first name as an adult. He signed correspondence as G. T. Beauregard.",
+    "extract_html": "<p><b>Pierre Gustave Toutant-Beauregard</b> was an American military officer known for being the Confederate general who started the American Civil War at the battle of Fort Sumter on April 12, 1861. Today, he is commonly referred to as <b>P. G. T. Beauregard</b>, but he rarely used his first name as an adult. He signed correspondence as <b>G. T. Beauregard</b>.</p>"
+  }
+}

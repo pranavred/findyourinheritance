@@ -1,0 +1,63 @@
+{
+  "slug": "Mary_Garrity_-_Ida_B._Wells-Barnett_-_Google_Art_Projec_3733943f",
+  "name": "Ida B. Wells",
+  "description": "American journalist and civil rights activist (1862–1931)",
+  "summary": "Ida Bell Wells-Barnett was an American investigative journalist, sociologist, educator, and early leader in the civil rights movement. She was one of the founders of the National Association for the Advancement of Colored People (NAACP). Wells dedicated her career to combating prejudice and violence, and advocating for African-American equality—especially for women.",
+  "image_local": "images/Mary_Garrity_-_Ida_B._Wells-Barnett_-_Google_Art_Projec_3733943f.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Mary_Garrity_-_Ida_B._Wells-Barnett_-_Google_Art_Project_-_restoration_crop.jpg/800px-Mary_Garrity_-_Ida_B._Wells-Barnett_-_Google_Art_Project_-_restoration_crop.jpg",
+  "portrait_date": "ca. 1893",
+  "original_caption": "Ida B. Wells-Barnett",
+  "extracted_name": "Ida B. Wells-Barnett",
+  "wikipedia_title": "Ida B. Wells",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Ida_B._Wells",
+  "commons_file_page": "https://commons.wikimedia.org/wiki/File:Mary_Garrity_-_Ida_B._Wells-Barnett_-_Google_Art_Project_-_restoration_crop.jpg",
+  "wikipedia_summary": {
+    "type": "standard",
+    "title": "Ida B. Wells",
+    "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Ida B. Wells</span></span>",
+    "namespace": {
+      "id": 0,
+      "text": ""
+    },
+    "wikibase_item": "Q289428",
+    "titles": {
+      "canonical": "Ida_B._Wells",
+      "normalized": "Ida B. Wells",
+      "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Ida B. Wells</span></span>"
+    },
+    "pageid": 394117,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Mary_Garrity_-_Ida_B._Wells-Barnett_-_Google_Art_Project_-_restoration_crop.jpg/330px-Mary_Garrity_-_Ida_B._Wells-Barnett_-_Google_Art_Project_-_restoration_crop.jpg",
+      "width": 330,
+      "height": 471
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Mary_Garrity_-_Ida_B._Wells-Barnett_-_Google_Art_Project_-_restoration_crop.jpg",
+      "width": 2673,
+      "height": 3818
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1351451442",
+    "tid": "ef784416-42a1-11f1-9709-56d6a5a9cd27",
+    "timestamp": "2026-04-28T01:31:10Z",
+    "description": "American journalist and civil rights activist (1862–1931)",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Ida_B._Wells",
+        "revisions": "https://en.wikipedia.org/wiki/Ida_B._Wells?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Ida_B._Wells?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Ida_B._Wells"
+      },
+      "mobile": {
+        "page": "https://en.wikipedia.org/wiki/Ida_B._Wells",
+        "revisions": "https://en.wikipedia.org/wiki/Special:History/Ida_B._Wells",
+        "edit": "https://en.wikipedia.org/wiki/Ida_B._Wells?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Ida_B._Wells"
+      }
+    },
+    "extract": "Ida Bell Wells-Barnett was an American investigative journalist, sociologist, educator, and early leader in the civil rights movement. She was one of the founders of the National Association for the Advancement of Colored People (NAACP). Wells dedicated her career to combating prejudice and violence, and advocating for African-American equality—especially for women.",
+    "extract_html": "<p><b>Ida Bell Wells-Barnett</b> was an American investigative journalist, sociologist, educator, and early leader in the civil rights movement. She was one of the founders of the National Association for the Advancement of Colored People (NAACP). Wells dedicated her career to combating prejudice and violence, and advocating for African-American equality—especially for women.</p>"
+  }
+}

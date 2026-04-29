@@ -1,0 +1,63 @@
+{
+  "slug": "Anna_Fernqvist__rollportr_tt_-_SMV_-_H1_122_-_Restoration",
+  "name": "Anna Bartels",
+  "description": "Swedish operatic soprano (1869–1950)",
+  "summary": "Anna Katarina Bartels née Fernquist was a Swedish operatic soprano. She made her debut at the Royal Swedish Opera in 1897 in the title role of Flotow's Martha. Engaged by the company for the next 20 years, she gained popularity as a soubrette and coloratura soprano, performing Swedish premieres: such as Musette in Puccini's La bohème and Woglinde in Wagner's Rheingold. She later turned also to mezzo-soprano roles. In 1923, she was awarded the Litteris et Artibus medal.",
+  "image_local": "images/Anna_Fernqvist__rollportr_tt_-_SMV_-_H1_122_-_Restoration.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Anna_Fernqvist%2C_rollportr%C3%A4tt_-_SMV_-_H1_122_-_Restoration.jpg/800px-Anna_Fernqvist%2C_rollportr%C3%A4tt_-_SMV_-_H1_122_-_Restoration.jpg",
+  "portrait_date": "1901",
+  "original_caption": "Anna Fernqvist, rollporträtt - SMV - H1 122 - Restoration",
+  "extracted_name": "Anna Fernqvist",
+  "wikipedia_title": "Anna Bartels",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Anna_Bartels",
+  "commons_file_page": "https://commons.wikimedia.org/wiki/File:Anna_Fernqvist,_rollportr%C3%A4tt_-_SMV_-_H1_122_-_Restoration.jpg",
+  "wikipedia_summary": {
+    "type": "standard",
+    "title": "Anna Bartels",
+    "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Anna Bartels</span></span>",
+    "namespace": {
+      "id": 0,
+      "text": ""
+    },
+    "wikibase_item": "Q26240336",
+    "titles": {
+      "canonical": "Anna_Bartels",
+      "normalized": "Anna Bartels",
+      "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Anna Bartels</span></span>"
+    },
+    "pageid": 70635081,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Anna_Fernqvist%2C_rollportr%C3%A4tt_-_SMV_-_H1_122_-_Restoration.jpg/330px-Anna_Fernqvist%2C_rollportr%C3%A4tt_-_SMV_-_H1_122_-_Restoration.jpg",
+      "width": 330,
+      "height": 471
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/4/48/Anna_Fernqvist%2C_rollportr%C3%A4tt_-_SMV_-_H1_122_-_Restoration.jpg",
+      "width": 2318,
+      "height": 3307
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1326865862",
+    "tid": "98b4fa73-d675-11f0-808f-786101973e0b",
+    "timestamp": "2025-12-11T09:41:41Z",
+    "description": "Swedish operatic soprano (1869–1950)",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Anna_Bartels",
+        "revisions": "https://en.wikipedia.org/wiki/Anna_Bartels?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Anna_Bartels?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Anna_Bartels"
+      },
+      "mobile": {
+        "page": "https://en.wikipedia.org/wiki/Anna_Bartels",
+        "revisions": "https://en.wikipedia.org/wiki/Special:History/Anna_Bartels",
+        "edit": "https://en.wikipedia.org/wiki/Anna_Bartels?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Anna_Bartels"
+      }
+    },
+    "extract": "Anna Katarina Bartels née Fernquist was a Swedish operatic soprano. She made her debut at the Royal Swedish Opera in 1897 in the title role of Flotow's Martha. Engaged by the company for the next 20 years, she gained popularity as a soubrette and coloratura soprano, performing Swedish premieres: such as Musette in Puccini's La bohème and Woglinde in Wagner's Rheingold. She later turned also to mezzo-soprano roles. In 1923, she was awarded the Litteris et Artibus medal.",
+    "extract_html": "<p><b>Anna Katarina Bartels</b> née <b>Fernquist</b> was a Swedish operatic soprano. She made her debut at the Royal Swedish Opera in 1897 in the title role of Flotow's <i>Martha</i>. Engaged by the company for the next 20 years, she gained popularity as a soubrette and coloratura soprano, performing Swedish premieres: such as Musette in Puccini's <i>La bohème</i> and Woglinde in Wagner's <i>Rheingold</i>. She later turned also to mezzo-soprano roles. In 1923, she was awarded the Litteris et Artibus medal.</p>"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "slug": "Sammy_Davis_Jnr_Allan_Warren",
+  "name": "Sammy Davis Jr.",
+  "description": "American singer and actor (1925–1990)",
+  "summary": "Samuel George Davis Jr. was an American singer, actor, comedian, dancer, and musician.",
+  "image_local": "images/Sammy_Davis_Jnr_Allan_Warren.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Sammy_Davis_Jnr_Allan_Warren.jpg/800px-Sammy_Davis_Jnr_Allan_Warren.jpg",
+  "portrait_date": "1986",
+  "original_caption": "Sammy Davis Jr., by Allan Warren",
+  "extracted_name": "Sammy Davis Jr.",
+  "wikipedia_title": "Sammy Davis Jr.",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Sammy_Davis_Jr.",
+  "commons_file_page": "https://commons.wikimedia.org/wiki/File:Sammy_Davis_Jnr_Allan_Warren.jpg",
+  "wikipedia_summary": {
+    "type": "standard",
+    "title": "Sammy Davis Jr.",
+    "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Sammy Davis Jr.</span></span>",
+    "namespace": {
+      "id": 0,
+      "text": ""
+    },
+    "wikibase_item": "Q297816",
+    "titles": {
+      "canonical": "Sammy_Davis_Jr.",
+      "normalized": "Sammy Davis Jr.",
+      "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Sammy Davis Jr.</span></span>"
+    },
+    "pageid": 194551,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Sammy_Davis_Jr._1972.jpg/330px-Sammy_Davis_Jr._1972.jpg",
+      "width": 330,
+      "height": 405
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/3/31/Sammy_Davis_Jr._1972.jpg",
+      "width": 756,
+      "height": 928
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1349875920",
+    "tid": "1a3e0b3e-3bc7-11f1-aa22-6ceacceb9c5f",
+    "timestamp": "2026-04-19T08:09:35Z",
+    "description": "American singer and actor (1925–1990)",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Sammy_Davis_Jr.",
+        "revisions": "https://en.wikipedia.org/wiki/Sammy_Davis_Jr.?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Sammy_Davis_Jr.?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Sammy_Davis_Jr."
+      },
+      "mobile": {
+        "page": "https://en.wikipedia.org/wiki/Sammy_Davis_Jr.",
+        "revisions": "https://en.wikipedia.org/wiki/Special:History/Sammy_Davis_Jr.",
+        "edit": "https://en.wikipedia.org/wiki/Sammy_Davis_Jr.?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Sammy_Davis_Jr."
+      }
+    },
+    "extract": "Samuel George Davis Jr. was an American singer, actor, comedian, dancer, and musician.",
+    "extract_html": "<p><b>Samuel George Davis Jr.</b> was an American singer, actor, comedian, dancer, and musician.</p>"
+  }
+}

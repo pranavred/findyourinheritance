@@ -1,0 +1,63 @@
+{
+  "slug": "Edith_Kermit_Carow_Roosevelt_by_Frances_Benjamin_Johnston",
+  "name": "Edith Roosevelt",
+  "description": "First Lady of the United States from 1901 to 1909",
+  "summary": "Edith Kermit Roosevelt was the second wife of President Theodore Roosevelt and the first lady of the United States from 1901 to 1909. She had previously been the second lady of the United States in 1901 and the first lady of New York from 1899 to 1900.",
+  "image_local": "images/Edith_Kermit_Carow_Roosevelt_by_Frances_Benjamin_Johnston.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Edith_Kermit_Carow_Roosevelt_by_Frances_Benjamin_Johnston.jpg/800px-Edith_Kermit_Carow_Roosevelt_by_Frances_Benjamin_Johnston.jpg",
+  "portrait_date": "1903",
+  "original_caption": "Edith Kermit Carow Roosevelt by Frances Benjamin Johnston",
+  "extracted_name": "Edith Kermit Carow Roosevelt",
+  "wikipedia_title": "Edith Roosevelt",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Edith_Roosevelt",
+  "commons_file_page": "https://commons.wikimedia.org/wiki/File:Edith_Kermit_Carow_Roosevelt_by_Frances_Benjamin_Johnston.jpg",
+  "wikipedia_summary": {
+    "type": "standard",
+    "title": "Edith Roosevelt",
+    "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Edith Roosevelt</span></span>",
+    "namespace": {
+      "id": 0,
+      "text": ""
+    },
+    "wikibase_item": "Q237590",
+    "titles": {
+      "canonical": "Edith_Roosevelt",
+      "normalized": "Edith Roosevelt",
+      "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Edith Roosevelt</span></span>"
+    },
+    "pageid": 415586,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Edith_Kermit_Carow_Roosevelt_by_Frances_Benjamin_Johnston_%28cropped%29.jpg/330px-Edith_Kermit_Carow_Roosevelt_by_Frances_Benjamin_Johnston_%28cropped%29.jpg",
+      "width": 330,
+      "height": 440
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Edith_Kermit_Carow_Roosevelt_by_Frances_Benjamin_Johnston_%28cropped%29.jpg",
+      "width": 1606,
+      "height": 2140
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1350637615",
+    "tid": "fa0b9761-3ebd-11f1-95e8-aa256b8c27a8",
+    "timestamp": "2026-04-23T02:41:49Z",
+    "description": "First Lady of the United States from 1901 to 1909",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Edith_Roosevelt",
+        "revisions": "https://en.wikipedia.org/wiki/Edith_Roosevelt?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Edith_Roosevelt?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Edith_Roosevelt"
+      },
+      "mobile": {
+        "page": "https://en.wikipedia.org/wiki/Edith_Roosevelt",
+        "revisions": "https://en.wikipedia.org/wiki/Special:History/Edith_Roosevelt",
+        "edit": "https://en.wikipedia.org/wiki/Edith_Roosevelt?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Edith_Roosevelt"
+      }
+    },
+    "extract": "Edith Kermit Roosevelt was the second wife of President Theodore Roosevelt and the first lady of the United States from 1901 to 1909. She had previously been the second lady of the United States in 1901 and the first lady of New York from 1899 to 1900.",
+    "extract_html": "<p><b>Edith Kermit Roosevelt</b> was the second wife of President Theodore Roosevelt and the first lady of the United States from 1901 to 1909. She had previously been the second lady of the United States in 1901 and the first lady of New York from 1899 to 1900.</p>"
+  }
+}

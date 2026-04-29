@@ -1,0 +1,63 @@
+{
+  "slug": "Self_portrait_of_Edward_Sheriff_Curtis",
+  "name": "Edward S. Curtis",
+  "description": "American ethnologist and photographer (1868–1952)",
+  "summary": "Edward Sheriff Curtis was an American photographer and ethnologist whose work focused on the American West and Native American people. Sometimes referred to as the \"Shadow Catcher\", Curtis traveled the United States to document and record the dwindling ways of life of various native tribes through photographs and audio recordings.",
+  "image_local": "images/Self_portrait_of_Edward_Sheriff_Curtis.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Self_portrait_of_Edward_Sheriff_Curtis.jpg/800px-Self_portrait_of_Edward_Sheriff_Curtis.jpg",
+  "portrait_date": "",
+  "original_caption": "Self portrait of Edward Sheriff Curtis",
+  "extracted_name": "Edward Sheriff Curtis",
+  "wikipedia_title": "Edward S. Curtis",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Edward_S._Curtis",
+  "commons_file_page": "https://commons.wikimedia.org/wiki/File:Self_portrait_of_Edward_Sheriff_Curtis.jpg",
+  "wikipedia_summary": {
+    "type": "standard",
+    "title": "Edward S. Curtis",
+    "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Edward S. Curtis</span></span>",
+    "namespace": {
+      "id": 0,
+      "text": ""
+    },
+    "wikibase_item": "Q433128",
+    "titles": {
+      "canonical": "Edward_S._Curtis",
+      "normalized": "Edward S. Curtis",
+      "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Edward S. Curtis</span></span>"
+    },
+    "pageid": 1370087,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Self_portrait_of_Edward_Sheriff_Curtis.jpg/330px-Self_portrait_of_Edward_Sheriff_Curtis.jpg",
+      "width": 330,
+      "height": 474
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Self_portrait_of_Edward_Sheriff_Curtis.jpg",
+      "width": 2606,
+      "height": 3740
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1329229946",
+    "tid": "f587ca6d-e0e3-11f0-9fb3-85c057aa911f",
+    "timestamp": "2025-12-24T16:16:53Z",
+    "description": "American ethnologist and photographer (1868–1952)",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Edward_S._Curtis",
+        "revisions": "https://en.wikipedia.org/wiki/Edward_S._Curtis?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Edward_S._Curtis?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Edward_S._Curtis"
+      },
+      "mobile": {
+        "page": "https://en.wikipedia.org/wiki/Edward_S._Curtis",
+        "revisions": "https://en.wikipedia.org/wiki/Special:History/Edward_S._Curtis",
+        "edit": "https://en.wikipedia.org/wiki/Edward_S._Curtis?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Edward_S._Curtis"
+      }
+    },
+    "extract": "Edward Sheriff Curtis was an American photographer and ethnologist whose work focused on the American West and Native American people. Sometimes referred to as the \"Shadow Catcher\", Curtis traveled the United States to document and record the dwindling ways of life of various native tribes through photographs and audio recordings.",
+    "extract_html": "<p><b>Edward Sheriff Curtis</b> was an American photographer and ethnologist whose work focused on the American West and Native American people. Sometimes referred to as the \"Shadow Catcher\", Curtis traveled the United States to document and record the dwindling ways of life of various native tribes through photographs and audio recordings.</p>"
+  }
+}

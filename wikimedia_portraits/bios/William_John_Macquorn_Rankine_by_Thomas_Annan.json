@@ -1,0 +1,63 @@
+{
+  "slug": "William_John_Macquorn_Rankine_by_Thomas_Annan",
+  "name": "W. J. M. Rankine",
+  "description": "Scottish mechanical engineer (1820–1872)",
+  "summary": "William John Macquorn Rankine was a Scottish mathematician and physicist. He was a founding contributor, with Rudolf Clausius and William Thomson, to the science of thermodynamics, particularly focusing on its First Law. He developed the Rankine scale, a Fahrenheit-based equivalent to the Celsius-based Kelvin scale of temperature.",
+  "image_local": "images/William_John_Macquorn_Rankine_by_Thomas_Annan.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/William_John_Macquorn_Rankine_by_Thomas_Annan.jpg/800px-William_John_Macquorn_Rankine_by_Thomas_Annan.jpg",
+  "portrait_date": "1887",
+  "original_caption": "William John Macquorn Rankine by Thomas Annan",
+  "extracted_name": "William John Macquorn Rankine",
+  "wikipedia_title": "W. J. M. Rankine",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/W._J._M._Rankine",
+  "commons_file_page": "https://commons.wikimedia.org/wiki/File:William_John_Macquorn_Rankine_by_Thomas_Annan.jpg",
+  "wikipedia_summary": {
+    "type": "standard",
+    "title": "W. J. M. Rankine",
+    "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">W. J. M. Rankine</span></span>",
+    "namespace": {
+      "id": 0,
+      "text": ""
+    },
+    "wikibase_item": "Q232149",
+    "titles": {
+      "canonical": "W._J._M._Rankine",
+      "normalized": "W. J. M. Rankine",
+      "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">W. J. M. Rankine</span></span>"
+    },
+    "pageid": 262149,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/William_John_Macquorn_Rankine_by_Thomas_Annan.jpg/330px-William_John_Macquorn_Rankine_by_Thomas_Annan.jpg",
+      "width": 330,
+      "height": 434
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/e/e9/William_John_Macquorn_Rankine_by_Thomas_Annan.jpg",
+      "width": 1920,
+      "height": 2527
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1348366612",
+    "tid": "2f9fbc26-3640-11f1-b776-60b39b6bde98",
+    "timestamp": "2026-04-12T07:21:13Z",
+    "description": "Scottish mechanical engineer (1820–1872)",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/W._J._M._Rankine",
+        "revisions": "https://en.wikipedia.org/wiki/W._J._M._Rankine?action=history",
+        "edit": "https://en.wikipedia.org/wiki/W._J._M._Rankine?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:W._J._M._Rankine"
+      },
+      "mobile": {
+        "page": "https://en.wikipedia.org/wiki/W._J._M._Rankine",
+        "revisions": "https://en.wikipedia.org/wiki/Special:History/W._J._M._Rankine",
+        "edit": "https://en.wikipedia.org/wiki/W._J._M._Rankine?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:W._J._M._Rankine"
+      }
+    },
+    "extract": "William John Macquorn Rankine was a Scottish mathematician and physicist. He was a founding contributor, with Rudolf Clausius and William Thomson, to the science of thermodynamics, particularly focusing on its First Law. He developed the Rankine scale, a Fahrenheit-based equivalent to the Celsius-based Kelvin scale of temperature.",
+    "extract_html": "<p><b>William John Macquorn Rankine</b> was a Scottish mathematician and physicist. He was a founding contributor, with Rudolf Clausius and William Thomson, to the science of thermodynamics, particularly focusing on its First Law. He developed the Rankine scale, a Fahrenheit-based equivalent to the Celsius-based Kelvin scale of temperature.</p>"
+  }
+}

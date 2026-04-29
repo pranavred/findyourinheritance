@@ -1,0 +1,63 @@
+{
+  "slug": "NPG_2010_112_Lucia_Chamberlain_by_Zaida_Ben-Yusuf",
+  "name": "Lucia Chamberlain",
+  "description": "American novelist (1882–1978)",
+  "summary": "Lucia Chamberlain was an American novelist. Her 1909 book The Other Side of the Door was the basis of a 1916 film of the same name, and her 1917 short story \"The Underside\" formed the basis of the 1920 film Blackmail. The 1916 film The Wedding Guest is also based on her writing.",
+  "image_local": "images/NPG_2010_112_Lucia_Chamberlain_by_Zaida_Ben-Yusuf.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/NPG_2010_112_Lucia_Chamberlain_by_Zaida_Ben-Yusuf.jpg/800px-NPG_2010_112_Lucia_Chamberlain_by_Zaida_Ben-Yusuf.jpg",
+  "portrait_date": "1908",
+  "original_caption": "Lucia Chamberlain by Zaida Ben-Yusuf.jpg/2",
+  "extracted_name": "Lucia Chamberlain",
+  "wikipedia_title": "Lucia Chamberlain",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Lucia_Chamberlain",
+  "commons_file_page": "https://commons.wikimedia.org/wiki/File:NPG_2010_112_Lucia_Chamberlain_by_Zaida_Ben-Yusuf.jpg",
+  "wikipedia_summary": {
+    "type": "standard",
+    "title": "Lucia Chamberlain",
+    "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Lucia Chamberlain</span></span>",
+    "namespace": {
+      "id": 0,
+      "text": ""
+    },
+    "wikibase_item": "Q21546570",
+    "titles": {
+      "canonical": "Lucia_Chamberlain",
+      "normalized": "Lucia Chamberlain",
+      "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Lucia Chamberlain</span></span>"
+    },
+    "pageid": 7986048,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/NPG_2010_112_Lucia_Chamberlain_by_Zaida_Ben-Yusuf.jpg/330px-NPG_2010_112_Lucia_Chamberlain_by_Zaida_Ben-Yusuf.jpg",
+      "width": 330,
+      "height": 563
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/f/fb/NPG_2010_112_Lucia_Chamberlain_by_Zaida_Ben-Yusuf.jpg",
+      "width": 2494,
+      "height": 4255
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1314545237",
+    "tid": "4abe9edb-9f28-11f0-9cea-986c86b22678",
+    "timestamp": "2025-10-02T00:39:45Z",
+    "description": "American novelist (1882–1978)",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Lucia_Chamberlain",
+        "revisions": "https://en.wikipedia.org/wiki/Lucia_Chamberlain?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Lucia_Chamberlain?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Lucia_Chamberlain"
+      },
+      "mobile": {
+        "page": "https://en.wikipedia.org/wiki/Lucia_Chamberlain",
+        "revisions": "https://en.wikipedia.org/wiki/Special:History/Lucia_Chamberlain",
+        "edit": "https://en.wikipedia.org/wiki/Lucia_Chamberlain?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Lucia_Chamberlain"
+      }
+    },
+    "extract": "Lucia Chamberlain was an American novelist. Her 1909 book The Other Side of the Door was the basis of a 1916 film of the same name, and her 1917 short story \"The Underside\" formed the basis of the 1920 film Blackmail. The 1916 film The Wedding Guest is also based on her writing.",
+    "extract_html": "<p><b>Lucia Chamberlain</b> was an American novelist. Her 1909 book <i>The Other Side of the Door</i> was the basis of a 1916 film of the same name, and her 1917 short story \"The Underside\" formed the basis of the 1920 film <i>Blackmail</i>. The 1916 film <i>The Wedding Guest</i> is also based on her writing.</p>"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "slug": "Portrait_of_Charles_Nettleton_1893_Talma___Co._H3995",
+  "name": "Charles Nettleton",
+  "description": "Australian photographer",
+  "summary": "Charles Nettleton (1826–1902) was an Australian photographer who worked in Victoria. Nettleton used the wet plate process throughout his career.",
+  "image_local": "images/Portrait_of_Charles_Nettleton_1893_Talma___Co._H3995.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Portrait_of_Charles_Nettleton_1893_Talma_%26_Co._H3995.jpg/800px-Portrait_of_Charles_Nettleton_1893_Talma_%26_Co._H3995.jpg",
+  "portrait_date": "1893",
+  "original_caption": "Portrait of Charles Nettleton 1893 Talma & Co. H3995",
+  "extracted_name": "Charles Nettleton",
+  "wikipedia_title": "Charles Nettleton",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Charles_Nettleton",
+  "commons_file_page": "https://commons.wikimedia.org/wiki/File:Portrait_of_Charles_Nettleton_1893_Talma_%26_Co._H3995.jpg",
+  "wikipedia_summary": {
+    "type": "standard",
+    "title": "Charles Nettleton",
+    "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Charles Nettleton</span></span>",
+    "namespace": {
+      "id": 0,
+      "text": ""
+    },
+    "wikibase_item": "Q20748399",
+    "titles": {
+      "canonical": "Charles_Nettleton",
+      "normalized": "Charles Nettleton",
+      "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Charles Nettleton</span></span>"
+    },
+    "pageid": 45057126,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Portrait_of_Charles_Nettleton_1893_Talma_%26_Co._H3995.jpg/330px-Portrait_of_Charles_Nettleton_1893_Talma_%26_Co._H3995.jpg",
+      "width": 330,
+      "height": 461
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Portrait_of_Charles_Nettleton_1893_Talma_%26_Co._H3995.jpg",
+      "width": 2894,
+      "height": 4046
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1317741323",
+    "tid": "030b85fe-ad24-11f0-8e2e-7dbae709a25c",
+    "timestamp": "2025-10-19T19:44:23Z",
+    "description": "Australian photographer",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Charles_Nettleton",
+        "revisions": "https://en.wikipedia.org/wiki/Charles_Nettleton?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Charles_Nettleton?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Charles_Nettleton"
+      },
+      "mobile": {
+        "page": "https://en.wikipedia.org/wiki/Charles_Nettleton",
+        "revisions": "https://en.wikipedia.org/wiki/Special:History/Charles_Nettleton",
+        "edit": "https://en.wikipedia.org/wiki/Charles_Nettleton?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Charles_Nettleton"
+      }
+    },
+    "extract": "Charles Nettleton (1826–1902) was an Australian photographer who worked in Victoria. Nettleton used the wet plate process throughout his career.",
+    "extract_html": "<p><b>Charles Nettleton</b> (1826–1902) was an Australian photographer who worked in Victoria. Nettleton used the wet plate process throughout his career.</p>"
+  }
+}

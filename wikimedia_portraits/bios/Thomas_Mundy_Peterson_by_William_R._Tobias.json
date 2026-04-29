@@ -1,0 +1,63 @@
+{
+  "slug": "Thomas_Mundy_Peterson_by_William_R._Tobias",
+  "name": "Thomas Mundy Peterson",
+  "description": "First African-American to vote (1824–1904)",
+  "summary": "Thomas Mundy Peterson of Perth Amboy, New Jersey, has been claimed to be the first African American to vote in an election under the just-enacted provisions of the 15th Amendment to the United States Constitution.",
+  "image_local": "images/Thomas_Mundy_Peterson_by_William_R._Tobias.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Thomas_Mundy_Peterson_by_William_R._Tobias.jpg/800px-Thomas_Mundy_Peterson_by_William_R._Tobias.jpg",
+  "portrait_date": "1884",
+  "original_caption": "Thomas Mundy Peterson by William R. Tobias",
+  "extracted_name": "Thomas Mundy Peterson",
+  "wikipedia_title": "Thomas Mundy Peterson",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Thomas_Mundy_Peterson",
+  "commons_file_page": "https://commons.wikimedia.org/wiki/File:Thomas_Mundy_Peterson_by_William_R._Tobias.jpg",
+  "wikipedia_summary": {
+    "type": "standard",
+    "title": "Thomas Mundy Peterson",
+    "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Thomas Mundy Peterson</span></span>",
+    "namespace": {
+      "id": 0,
+      "text": ""
+    },
+    "wikibase_item": "Q7792613",
+    "titles": {
+      "canonical": "Thomas_Mundy_Peterson",
+      "normalized": "Thomas Mundy Peterson",
+      "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Thomas Mundy Peterson</span></span>"
+    },
+    "pageid": 433001,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Thomas_Mundy_Peterson_by_William_R._Tobias.jpg/330px-Thomas_Mundy_Peterson_by_William_R._Tobias.jpg",
+      "width": 330,
+      "height": 455
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Thomas_Mundy_Peterson_by_William_R._Tobias.jpg/3840px-Thomas_Mundy_Peterson_by_William_R._Tobias.jpg",
+      "width": 5704,
+      "height": 7868
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1346245478",
+    "tid": "b16f0d48-2c70-11f1-9c18-4d2ef7498747",
+    "timestamp": "2026-03-30T19:43:15Z",
+    "description": "First African-American to vote (1824–1904)",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Thomas_Mundy_Peterson",
+        "revisions": "https://en.wikipedia.org/wiki/Thomas_Mundy_Peterson?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Thomas_Mundy_Peterson?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Thomas_Mundy_Peterson"
+      },
+      "mobile": {
+        "page": "https://en.wikipedia.org/wiki/Thomas_Mundy_Peterson",
+        "revisions": "https://en.wikipedia.org/wiki/Special:History/Thomas_Mundy_Peterson",
+        "edit": "https://en.wikipedia.org/wiki/Thomas_Mundy_Peterson?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Thomas_Mundy_Peterson"
+      }
+    },
+    "extract": "Thomas Mundy Peterson of Perth Amboy, New Jersey, has been claimed to be the first African American to vote in an election under the just-enacted provisions of the 15th Amendment to the United States Constitution.",
+    "extract_html": "<p><b>Thomas Mundy Peterson</b> of Perth Amboy, New Jersey, has been claimed to be the first African American to vote in an election under the just-enacted provisions of the 15th Amendment to the United States Constitution.</p>"
+  }
+}

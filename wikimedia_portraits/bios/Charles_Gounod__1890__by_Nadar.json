@@ -1,0 +1,63 @@
+{
+  "slug": "Charles_Gounod__1890__by_Nadar",
+  "name": "Charles Gounod",
+  "description": "French composer (1818–1893)",
+  "summary": "Charles-François Gounod was a French composer. He wrote twelve operas, of which the most popular has always been Faust (1859); his Roméo et Juliette (1867) also remains in the international repertoire. He composed a large amount of church music, many songs, and popular short pieces including his \"Ave Maria\" and \"Funeral March of a Marionette\".",
+  "image_local": "images/Charles_Gounod__1890__by_Nadar.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Charles_Gounod_%281890%29_by_Nadar.jpg/800px-Charles_Gounod_%281890%29_by_Nadar.jpg",
+  "portrait_date": "1890",
+  "original_caption": "Charles Gounod by Nadar",
+  "extracted_name": "Charles Gounod",
+  "wikipedia_title": "Charles Gounod",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Charles_Gounod",
+  "commons_file_page": "https://commons.wikimedia.org/wiki/File:Charles_Gounod_(1890)_by_Nadar.jpg",
+  "wikipedia_summary": {
+    "type": "standard",
+    "title": "Charles Gounod",
+    "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Charles Gounod</span></span>",
+    "namespace": {
+      "id": 0,
+      "text": ""
+    },
+    "wikibase_item": "Q180278",
+    "titles": {
+      "canonical": "Charles_Gounod",
+      "normalized": "Charles Gounod",
+      "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Charles Gounod</span></span>"
+    },
+    "pageid": 87319,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Charles_Gounod_-_photogr._Bayard_%26_Bertall_-_btv1b84542916.jpg/330px-Charles_Gounod_-_photogr._Bayard_%26_Bertall_-_btv1b84542916.jpg",
+      "width": 330,
+      "height": 550
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Charles_Gounod_-_photogr._Bayard_%26_Bertall_-_btv1b84542916.jpg",
+      "width": 1252,
+      "height": 2088
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1345823418",
+    "tid": "36ec9396-2a9a-11f1-af7d-6cc009eb7a24",
+    "timestamp": "2026-03-28T11:35:26Z",
+    "description": "French composer (1818–1893)",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Charles_Gounod",
+        "revisions": "https://en.wikipedia.org/wiki/Charles_Gounod?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Charles_Gounod?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Charles_Gounod"
+      },
+      "mobile": {
+        "page": "https://en.wikipedia.org/wiki/Charles_Gounod",
+        "revisions": "https://en.wikipedia.org/wiki/Special:History/Charles_Gounod",
+        "edit": "https://en.wikipedia.org/wiki/Charles_Gounod?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Charles_Gounod"
+      }
+    },
+    "extract": "Charles-François Gounod was a French composer. He wrote twelve operas, of which the most popular has always been Faust (1859); his Roméo et Juliette (1867) also remains in the international repertoire. He composed a large amount of church music, many songs, and popular short pieces including his \"Ave Maria\" and \"Funeral March of a Marionette\".",
+    "extract_html": "<p><b>Charles-François Gounod</b> was a French composer. He wrote twelve operas, of which the most popular has always been <i>Faust</i> (1859); his <i>Roméo et Juliette</i> (1867) also remains in the international repertoire. He composed a large amount of church music, many songs, and popular short pieces including his \"Ave Maria\" and \"Funeral March of a Marionette\".</p>"
+  }
+}

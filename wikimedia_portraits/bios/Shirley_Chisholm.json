@@ -1,0 +1,63 @@
+{
+  "slug": "Shirley_Chisholm",
+  "name": "Shirley Chisholm",
+  "description": "American politician (1924–2005)",
+  "summary": "Shirley Anita Chisholm was an American politician who, in 1968, became the first black woman to be elected to the United States Congress. Chisholm represented New York's 12th congressional district, a district centered in Bedford–Stuyvesant, Brooklyn for seven terms from 1969 to 1983. In 1972, she became the first black candidate for a major-party nomination for President of the United States and the first woman to run for the Democratic Party's presidential nomination. Throughout her career, she was known for taking \"a resolute stand against economic, social, and political injustices\", as well as being a strong supporter of black civil rights and women's rights.",
+  "image_local": "images/Shirley_Chisholm.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Shirley_Chisholm.jpg/800px-Shirley_Chisholm.jpg",
+  "portrait_date": "1972",
+  "original_caption": "Shirley Chisholm",
+  "extracted_name": "Shirley Chisholm",
+  "wikipedia_title": "Shirley Chisholm",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Shirley_Chisholm",
+  "commons_file_page": "https://commons.wikimedia.org/wiki/File:Shirley_Chisholm.jpg",
+  "wikipedia_summary": {
+    "type": "standard",
+    "title": "Shirley Chisholm",
+    "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Shirley Chisholm</span></span>",
+    "namespace": {
+      "id": 0,
+      "text": ""
+    },
+    "wikibase_item": "Q239657",
+    "titles": {
+      "canonical": "Shirley_Chisholm",
+      "normalized": "Shirley Chisholm",
+      "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Shirley Chisholm</span></span>"
+    },
+    "pageid": 567269,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Shirley_Chisholm.jpg/330px-Shirley_Chisholm.jpg",
+      "width": 330,
+      "height": 492
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/1/10/Shirley_Chisholm.jpg",
+      "width": 3014,
+      "height": 4492
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1347946540",
+    "tid": "416c3d4b-344b-11f1-bbbd-e4087f294e8f",
+    "timestamp": "2026-04-09T19:35:25Z",
+    "description": "American politician (1924–2005)",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Shirley_Chisholm",
+        "revisions": "https://en.wikipedia.org/wiki/Shirley_Chisholm?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Shirley_Chisholm?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Shirley_Chisholm"
+      },
+      "mobile": {
+        "page": "https://en.wikipedia.org/wiki/Shirley_Chisholm",
+        "revisions": "https://en.wikipedia.org/wiki/Special:History/Shirley_Chisholm",
+        "edit": "https://en.wikipedia.org/wiki/Shirley_Chisholm?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Shirley_Chisholm"
+      }
+    },
+    "extract": "Shirley Anita Chisholm was an American politician who, in 1968, became the first black woman to be elected to the United States Congress. Chisholm represented New York's 12th congressional district, a district centered in Bedford–Stuyvesant, Brooklyn for seven terms from 1969 to 1983. In 1972, she became the first black candidate for a major-party nomination for President of the United States and the first woman to run for the Democratic Party's presidential nomination. Throughout her career, she was known for taking \"a resolute stand against economic, social, and political injustices\", as well as being a strong supporter of black civil rights and women's rights.",
+    "extract_html": "<p><b>Shirley Anita Chisholm</b> was an American politician who, in 1968, became the first black woman to be elected to the United States Congress. Chisholm represented New York's 12th congressional district, a district centered in Bedford–Stuyvesant, Brooklyn for seven terms from 1969 to 1983. In 1972, she became the first black candidate for a major-party nomination for President of the United States and the first woman to run for the Democratic Party's presidential nomination. Throughout her career, she was known for taking \"a resolute stand against economic, social, and political injustices\", as well as being a strong supporter of black civil rights and women's rights.</p>"
+  }
+}

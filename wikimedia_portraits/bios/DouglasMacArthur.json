@@ -1,0 +1,63 @@
+{
+  "slug": "DouglasMacArthur",
+  "name": "Douglas MacArthur",
+  "description": "American general (1880–1964)",
+  "summary": "Douglas MacArthur was an American general who served as a top commander during World War II and the Korean War, achieving the rank of General of the Army. He served with distinction in World War I; as chief of staff of the United States Army from 1930 to 1935; as Supreme Commander, Southwest Pacific Area, from 1942 to 1945; as Supreme Commander for the Allied Powers overseeing the occupation of Japan from 1945 to 1951; and as head of the United Nations Command in the Korean War from 1950 to 1951. MacArthur was nominated for the Medal of Honor three times, and awarded it for his WWII service in the Philippines. He is one of only five people to hold the rank of General of the Army, and the only person to hold the rank of Field Marshal in the Philippine Army.",
+  "image_local": "images/DouglasMacArthur.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/DouglasMacArthur.jpg/800px-DouglasMacArthur.jpg",
+  "portrait_date": "1944",
+  "original_caption": "General Douglas MacArthur",
+  "extracted_name": "Douglas MacArthur",
+  "wikipedia_title": "Douglas MacArthur",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Douglas_MacArthur",
+  "commons_file_page": "https://commons.wikimedia.org/wiki/File:DouglasMacArthur.jpg",
+  "wikipedia_summary": {
+    "type": "standard",
+    "title": "Douglas MacArthur",
+    "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Douglas MacArthur</span></span>",
+    "namespace": {
+      "id": 0,
+      "text": ""
+    },
+    "wikibase_item": "Q127417",
+    "titles": {
+      "canonical": "Douglas_MacArthur",
+      "normalized": "Douglas MacArthur",
+      "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Douglas MacArthur</span></span>"
+    },
+    "pageid": 48596,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/MacArthur_Manila_%28cropped2%29.jpg/330px-MacArthur_Manila_%28cropped2%29.jpg",
+      "width": 330,
+      "height": 402
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/b/bc/MacArthur_Manila_%28cropped2%29.jpg",
+      "width": 2633,
+      "height": 3211
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1348547886",
+    "tid": "6177576c-36fe-11f1-901b-67b09960ccd3",
+    "timestamp": "2026-04-13T06:02:41Z",
+    "description": "American general (1880–1964)",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Douglas_MacArthur",
+        "revisions": "https://en.wikipedia.org/wiki/Douglas_MacArthur?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Douglas_MacArthur?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Douglas_MacArthur"
+      },
+      "mobile": {
+        "page": "https://en.wikipedia.org/wiki/Douglas_MacArthur",
+        "revisions": "https://en.wikipedia.org/wiki/Special:History/Douglas_MacArthur",
+        "edit": "https://en.wikipedia.org/wiki/Douglas_MacArthur?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Douglas_MacArthur"
+      }
+    },
+    "extract": "Douglas MacArthur was an American general who served as a top commander during World War II and the Korean War, achieving the rank of General of the Army. He served with distinction in World War I; as chief of staff of the United States Army from 1930 to 1935; as Supreme Commander, Southwest Pacific Area, from 1942 to 1945; as Supreme Commander for the Allied Powers overseeing the occupation of Japan from 1945 to 1951; and as head of the United Nations Command in the Korean War from 1950 to 1951. MacArthur was nominated for the Medal of Honor three times, and awarded it for his WWII service in the Philippines. He is one of only five people to hold the rank of General of the Army, and the only person to hold the rank of Field Marshal in the Philippine Army.",
+    "extract_html": "<p><b>Douglas MacArthur</b> was an American general who served as a top commander during World War II and the Korean War, achieving the rank of General of the Army. He served with distinction in World War I; as chief of staff of the United States Army from 1930 to 1935; as Supreme Commander, Southwest Pacific Area, from 1942 to 1945; as Supreme Commander for the Allied Powers overseeing the occupation of Japan from 1945 to 1951; and as head of the United Nations Command in the Korean War from 1950 to 1951. MacArthur was nominated for the Medal of Honor three times, and awarded it for his WWII service in the Philippines. He is one of only five people to hold the rank of General of the Army, and the only person to hold the rank of Field Marshal in the Philippine Army.</p>"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "slug": "Maria_von_Braun_6330121_edited",
+  "name": "Wernher von Braun",
+  "description": "German American aerospace engineer (1912–1977)",
+  "summary": "Wernher Magnus Maximilian Freiherr von Braun was a German American aerospace engineer and space architect. He became a member of the Nazi Party and then the Allgemeine SS to support his rocket work. He led the development of rocket technology in Nazi Germany, and later of rocket and space technology in the US.",
+  "image_local": "images/Maria_von_Braun_6330121_edited.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Maria_von_Braun_6330121_edited.jpg/800px-Maria_von_Braun_6330121_edited.jpg",
+  "portrait_date": "1963",
+  "original_caption": "Maria von Braun",
+  "extracted_name": "Maria von Braun",
+  "wikipedia_title": "Wernher von Braun",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Wernher_von_Braun",
+  "commons_file_page": "https://commons.wikimedia.org/wiki/File:Maria_von_Braun_6330121_edited.jpg",
+  "wikipedia_summary": {
+    "type": "standard",
+    "title": "Wernher von Braun",
+    "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Wernher von Braun</span></span>",
+    "namespace": {
+      "id": 0,
+      "text": ""
+    },
+    "wikibase_item": "Q57384",
+    "titles": {
+      "canonical": "Wernher_von_Braun",
+      "normalized": "Wernher von Braun",
+      "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Wernher von Braun</span></span>"
+    },
+    "pageid": 33783,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Wernher_von_Braun_crop.jpg/330px-Wernher_von_Braun_crop.jpg",
+      "width": 330,
+      "height": 413
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Wernher_von_Braun_crop.jpg",
+      "width": 2035,
+      "height": 2545
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1350446261",
+    "tid": "64033f22-3de3-11f1-968d-8a0cd4bebb4a",
+    "timestamp": "2026-04-22T00:37:07Z",
+    "description": "German American aerospace engineer (1912–1977)",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Wernher_von_Braun",
+        "revisions": "https://en.wikipedia.org/wiki/Wernher_von_Braun?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Wernher_von_Braun?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Wernher_von_Braun"
+      },
+      "mobile": {
+        "page": "https://en.wikipedia.org/wiki/Wernher_von_Braun",
+        "revisions": "https://en.wikipedia.org/wiki/Special:History/Wernher_von_Braun",
+        "edit": "https://en.wikipedia.org/wiki/Wernher_von_Braun?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Wernher_von_Braun"
+      }
+    },
+    "extract": "Wernher Magnus Maximilian Freiherr von Braun was a German American aerospace engineer and space architect. He became a member of the Nazi Party and then the Allgemeine SS to support his rocket work. He led the development of rocket technology in Nazi Germany, and later of rocket and space technology in the US.",
+    "extract_html": "<p><b>Wernher Magnus Maximilian Freiherr von Braun</b> was a German American aerospace engineer and space architect. He became a member of the Nazi Party and then the <i>Allgemeine SS</i> to support his rocket work. He led the development of rocket technology in Nazi Germany, and later of rocket and space technology in the US.</p>"
+  }
+}

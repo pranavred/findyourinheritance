@@ -1,0 +1,63 @@
+{
+  "slug": "Gene_Autry__NPG_94_39",
+  "name": "Gene Autry",
+  "description": "American actor (1907–1998)",
+  "summary": "Orvon Grover \"Gene\" Autry, nicknamed the Singing Cowboy, was an American actor, musician, singer, composer, rodeo performer, and baseball team owner. He largely gained fame by singing in a crooning style on radio, in films, and on television for more than three decades, beginning in the early 1930s. During that time, he personified the straight-shooting hero—honest, brave, and true.",
+  "image_local": "images/Gene_Autry__NPG_94_39.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Gene_Autry%2C_NPG_94_39.jpg/800px-Gene_Autry%2C_NPG_94_39.jpg",
+  "portrait_date": "1942",
+  "original_caption": "Gene Autry",
+  "extracted_name": "Gene Autry",
+  "wikipedia_title": "Gene Autry",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Gene_Autry",
+  "commons_file_page": "https://commons.wikimedia.org/wiki/File:Gene_Autry,_NPG_94_39.jpg",
+  "wikipedia_summary": {
+    "type": "standard",
+    "title": "Gene Autry",
+    "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Gene Autry</span></span>",
+    "namespace": {
+      "id": 0,
+      "text": ""
+    },
+    "wikibase_item": "Q342723",
+    "titles": {
+      "canonical": "Gene_Autry",
+      "normalized": "Gene Autry",
+      "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Gene Autry</span></span>"
+    },
+    "pageid": 176742,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Gene_Autry%2C_NPG_94_39.jpg/330px-Gene_Autry%2C_NPG_94_39.jpg",
+      "width": 330,
+      "height": 407
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Gene_Autry%2C_NPG_94_39.jpg",
+      "width": 3648,
+      "height": 4494
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1348707635",
+    "tid": "443f9ae9-3791-11f1-9aba-51f6a6735fb3",
+    "timestamp": "2026-04-13T23:34:08Z",
+    "description": "American actor (1907–1998)",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Gene_Autry",
+        "revisions": "https://en.wikipedia.org/wiki/Gene_Autry?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Gene_Autry?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Gene_Autry"
+      },
+      "mobile": {
+        "page": "https://en.wikipedia.org/wiki/Gene_Autry",
+        "revisions": "https://en.wikipedia.org/wiki/Special:History/Gene_Autry",
+        "edit": "https://en.wikipedia.org/wiki/Gene_Autry?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Gene_Autry"
+      }
+    },
+    "extract": "Orvon Grover \"Gene\" Autry, nicknamed the Singing Cowboy, was an American actor, musician, singer, composer, rodeo performer, and baseball team owner. He largely gained fame by singing in a crooning style on radio, in films, and on television for more than three decades, beginning in the early 1930s. During that time, he personified the straight-shooting hero—honest, brave, and true.",
+    "extract_html": "<p><b>Orvon Grover</b> \"<b>Gene</b>\" <b>Autry</b>, nicknamed <b>the Singing Cowboy</b>, was an American actor, musician, singer, composer, rodeo performer, and baseball team owner. He largely gained fame by singing in a crooning style on radio, in films, and on television for more than three decades, beginning in the early 1930s. During that time, he personified the straight-shooting hero—honest, brave, and true.</p>"
+  }
+}

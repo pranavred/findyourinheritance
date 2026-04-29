@@ -1,0 +1,63 @@
+{
+  "slug": "Claude_Debussy_by_Atelier_Nadar",
+  "name": "Claude Debussy",
+  "description": "French classical composer (1862–1918)",
+  "summary": "Achille Claude Debussy was a French composer. He is sometimes seen as the first Impressionist composer, although he vigorously rejected the term. He was among the most influential composers of the late 19th and early 20th centuries.",
+  "image_local": "images/Claude_Debussy_by_Atelier_Nadar.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Claude_Debussy_by_Atelier_Nadar.jpg/800px-Claude_Debussy_by_Atelier_Nadar.jpg",
+  "portrait_date": "",
+  "original_caption": "Claude Debussy by Atelier Nadar",
+  "extracted_name": "Claude Debussy",
+  "wikipedia_title": "Claude Debussy",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Claude_Debussy",
+  "commons_file_page": "https://commons.wikimedia.org/wiki/File:Claude_Debussy_by_Atelier_Nadar.jpg",
+  "wikipedia_summary": {
+    "type": "standard",
+    "title": "Claude Debussy",
+    "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Claude Debussy</span></span>",
+    "namespace": {
+      "id": 0,
+      "text": ""
+    },
+    "wikibase_item": "Q4700",
+    "titles": {
+      "canonical": "Claude_Debussy",
+      "normalized": "Claude Debussy",
+      "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Claude Debussy</span></span>"
+    },
+    "pageid": 6260,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Claude_Debussy_by_Atelier_Nadar.jpg/330px-Claude_Debussy_by_Atelier_Nadar.jpg",
+      "width": 330,
+      "height": 461
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Claude_Debussy_by_Atelier_Nadar.jpg",
+      "width": 1982,
+      "height": 2771
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1351531506",
+    "tid": "4ff59923-4317-11f1-8e3c-64d18f73f20d",
+    "timestamp": "2026-04-28T15:31:23Z",
+    "description": "French classical composer (1862–1918)",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Claude_Debussy",
+        "revisions": "https://en.wikipedia.org/wiki/Claude_Debussy?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Claude_Debussy?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Claude_Debussy"
+      },
+      "mobile": {
+        "page": "https://en.wikipedia.org/wiki/Claude_Debussy",
+        "revisions": "https://en.wikipedia.org/wiki/Special:History/Claude_Debussy",
+        "edit": "https://en.wikipedia.org/wiki/Claude_Debussy?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Claude_Debussy"
+      }
+    },
+    "extract": "Achille Claude Debussy was a French composer. He is sometimes seen as the first Impressionist composer, although he vigorously rejected the term. He was among the most influential composers of the late 19th and early 20th centuries.",
+    "extract_html": "<p><b>Achille Claude Debussy</b> was a French composer. He is sometimes seen as the first Impressionist composer, although he vigorously rejected the term. He was among the most influential composers of the late 19th and early 20th centuries.</p>"
+  }
+}

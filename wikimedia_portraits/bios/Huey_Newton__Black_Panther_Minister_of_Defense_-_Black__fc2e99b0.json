@@ -1,0 +1,63 @@
+{
+  "slug": "Huey_Newton__Black_Panther_Minister_of_Defense_-_Black__fc2e99b0",
+  "name": "Huey P. Newton",
+  "description": "Founder of the Black Panther Party (1942–1989)",
+  "summary": "Huey Percy Newton was an African American revolutionary and political activist who co-founded the Marxist–Leninist political and militant organization the Black Panther Party (BPP) with fellow activist Bobby Seale in 1966. He ran the party as its main leader and crafted its ten-point manifesto with Seale. Under his leadership, the party organized numerous social programs and community events, advocated for collective defense, and threatened political violence in service of their goals.",
+  "image_local": "images/Huey_Newton__Black_Panther_Minister_of_Defense_-_Black__fc2e99b0.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Huey_Newton%2C_Black_Panther_Minister_of_Defense_-_Black_Panther_poster.jpg/800px-Huey_Newton%2C_Black_Panther_Minister_of_Defense_-_Black_Panther_poster.jpg",
+  "portrait_date": "",
+  "original_caption": "Huey Newton, Black Panther Minister of Defense - Black Panther poster",
+  "extracted_name": "Huey Newton",
+  "wikipedia_title": "Huey P. Newton",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Huey_P._Newton",
+  "commons_file_page": "https://commons.wikimedia.org/wiki/File:Huey_Newton,_Black_Panther_Minister_of_Defense_-_Black_Panther_poster.jpg",
+  "wikipedia_summary": {
+    "type": "standard",
+    "title": "Huey P. Newton",
+    "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Huey P. Newton</span></span>",
+    "namespace": {
+      "id": 0,
+      "text": ""
+    },
+    "wikibase_item": "Q360570",
+    "titles": {
+      "canonical": "Huey_P._Newton",
+      "normalized": "Huey P. Newton",
+      "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Huey P. Newton</span></span>"
+    },
+    "pageid": 182440,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Huey_Newton%2C_Black_Panther_Minister_of_Defense_-_Black_Panther_poster.jpg/330px-Huey_Newton%2C_Black_Panther_Minister_of_Defense_-_Black_Panther_poster.jpg",
+      "width": 330,
+      "height": 487
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Huey_Newton%2C_Black_Panther_Minister_of_Defense_-_Black_Panther_poster.jpg/3840px-Huey_Newton%2C_Black_Panther_Minister_of_Defense_-_Black_Panther_poster.jpg",
+      "width": 5188,
+      "height": 7656
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1350011162",
+    "tid": "c240ebcd-3c3a-11f1-89b4-dd2e07cf7c71",
+    "timestamp": "2026-04-19T21:57:29Z",
+    "description": "Founder of the Black Panther Party (1942–1989)",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Huey_P._Newton",
+        "revisions": "https://en.wikipedia.org/wiki/Huey_P._Newton?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Huey_P._Newton?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Huey_P._Newton"
+      },
+      "mobile": {
+        "page": "https://en.wikipedia.org/wiki/Huey_P._Newton",
+        "revisions": "https://en.wikipedia.org/wiki/Special:History/Huey_P._Newton",
+        "edit": "https://en.wikipedia.org/wiki/Huey_P._Newton?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Huey_P._Newton"
+      }
+    },
+    "extract": "Huey Percy Newton was an African American revolutionary and political activist who co-founded the Marxist–Leninist political and militant organization the Black Panther Party (BPP) with fellow activist Bobby Seale in 1966. He ran the party as its main leader and crafted its ten-point manifesto with Seale. Under his leadership, the party organized numerous social programs and community events, advocated for collective defense, and threatened political violence in service of their goals.",
+    "extract_html": "<p><b>Huey Percy Newton</b> was an African American revolutionary and political activist who co-founded the Marxist–Leninist political and militant organization the Black Panther Party (BPP) with fellow activist Bobby Seale in 1966. He ran the party as its main leader and crafted its ten-point manifesto with Seale. Under his leadership, the party organized numerous social programs and community events, advocated for collective defense, and threatened political violence in service of their goals.</p>"
+  }
+}

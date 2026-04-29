@@ -1,0 +1,63 @@
+{
+  "slug": "Pach_Brothers_-_George_Foster_Peabody",
+  "name": "George Foster Peabody",
+  "description": "American banker and philanthropist (1852–1938)",
+  "summary": "George Foster Peabody was an American banker and philanthropist.",
+  "image_local": "images/Pach_Brothers_-_George_Foster_Peabody.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Pach_Brothers_-_George_Foster_Peabody.jpg/800px-Pach_Brothers_-_George_Foster_Peabody.jpg",
+  "portrait_date": "1907",
+  "original_caption": "George Foster Peabody",
+  "extracted_name": "George Foster Peabody",
+  "wikipedia_title": "George Foster Peabody",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/George_Foster_Peabody",
+  "commons_file_page": "https://commons.wikimedia.org/wiki/File:Pach_Brothers_-_George_Foster_Peabody.jpg",
+  "wikipedia_summary": {
+    "type": "standard",
+    "title": "George Foster Peabody",
+    "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">George Foster Peabody</span></span>",
+    "namespace": {
+      "id": 0,
+      "text": ""
+    },
+    "wikibase_item": "Q328898",
+    "titles": {
+      "canonical": "George_Foster_Peabody",
+      "normalized": "George Foster Peabody",
+      "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">George Foster Peabody</span></span>"
+    },
+    "pageid": 566810,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Pach_Brothers_-_George_Foster_Peabody_%28cropped_2%29.jpg/330px-Pach_Brothers_-_George_Foster_Peabody_%28cropped_2%29.jpg",
+      "width": 330,
+      "height": 477
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/0/04/Pach_Brothers_-_George_Foster_Peabody_%28cropped_2%29.jpg",
+      "width": 3553,
+      "height": 5140
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1343813871",
+    "tid": "fa8c71cc-214a-11f1-a619-5047c5a8a9f6",
+    "timestamp": "2026-03-16T15:15:34Z",
+    "description": "American banker and philanthropist (1852–1938)",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/George_Foster_Peabody",
+        "revisions": "https://en.wikipedia.org/wiki/George_Foster_Peabody?action=history",
+        "edit": "https://en.wikipedia.org/wiki/George_Foster_Peabody?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:George_Foster_Peabody"
+      },
+      "mobile": {
+        "page": "https://en.wikipedia.org/wiki/George_Foster_Peabody",
+        "revisions": "https://en.wikipedia.org/wiki/Special:History/George_Foster_Peabody",
+        "edit": "https://en.wikipedia.org/wiki/George_Foster_Peabody?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:George_Foster_Peabody"
+      }
+    },
+    "extract": "George Foster Peabody was an American banker and philanthropist.",
+    "extract_html": "<p><b>George Foster Peabody</b> was an American banker and philanthropist.</p>"
+  }
+}

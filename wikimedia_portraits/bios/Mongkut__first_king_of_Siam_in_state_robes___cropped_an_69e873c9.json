@@ -1,0 +1,63 @@
+{
+  "slug": "Mongkut__first_king_of_Siam_in_state_robes___cropped_an_69e873c9",
+  "name": "Mongkut",
+  "description": "King of Siam from 1851 to 1868",
+  "summary": "Mongkut, posthumously honoured as King Mongkut the Great, was the fourth king of Siam from the Chakri dynasty, titled Rama IV. He reigned from 1851 until his death in 1868.",
+  "image_local": "images/Mongkut__first_king_of_Siam_in_state_robes___cropped_an_69e873c9.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Mongkut%2C_first_king_of_Siam_in_state_robes_%E2%80%93_cropped_and_restored.jpg/800px-Mongkut%2C_first_king_of_Siam_in_state_robes_%E2%80%93_cropped_and_restored.jpg",
+  "portrait_date": "",
+  "original_caption": "Mongkut, first king of Siam in state robes – cropped and restored",
+  "extracted_name": "Mongkut",
+  "wikipedia_title": "Mongkut",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Mongkut",
+  "commons_file_page": "https://commons.wikimedia.org/wiki/File:Mongkut,_first_king_of_Siam_in_state_robes_%E2%80%93_cropped_and_restored.jpg",
+  "wikipedia_summary": {
+    "type": "standard",
+    "title": "Mongkut",
+    "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Mongkut</span></span>",
+    "namespace": {
+      "id": 0,
+      "text": ""
+    },
+    "wikibase_item": "Q312849",
+    "titles": {
+      "canonical": "Mongkut",
+      "normalized": "Mongkut",
+      "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Mongkut</span></span>"
+    },
+    "pageid": 240910,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/First_King_of_Siam_MET_DP-573-001_%28cropped%29.jpg/330px-First_King_of_Siam_MET_DP-573-001_%28cropped%29.jpg",
+      "width": 330,
+      "height": 481
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/5/5f/First_King_of_Siam_MET_DP-573-001_%28cropped%29.jpg",
+      "width": 2155,
+      "height": 3142
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1350592065",
+    "tid": "5ef9c75f-3e8b-11f1-839c-50d41fceb2fa",
+    "timestamp": "2026-04-22T20:39:34Z",
+    "description": "King of Siam from 1851 to 1868",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Mongkut",
+        "revisions": "https://en.wikipedia.org/wiki/Mongkut?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Mongkut?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Mongkut"
+      },
+      "mobile": {
+        "page": "https://en.wikipedia.org/wiki/Mongkut",
+        "revisions": "https://en.wikipedia.org/wiki/Special:History/Mongkut",
+        "edit": "https://en.wikipedia.org/wiki/Mongkut?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Mongkut"
+      }
+    },
+    "extract": "Mongkut, posthumously honoured as King Mongkut the Great, was the fourth king of Siam from the Chakri dynasty, titled Rama IV. He reigned from 1851 until his death in 1868.",
+    "extract_html": "<p><b>Mongkut</b>, posthumously honoured as <b>King Mongkut the Great</b>, was the fourth king of Siam from the Chakri dynasty, titled <b>Rama IV</b>. He reigned from 1851 until his death in 1868.</p>"
+  }
+}

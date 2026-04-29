@@ -1,0 +1,63 @@
+{
+  "slug": "Leo_Tolstoy_1897__black_and_white__37767u",
+  "name": "Leo Tolstoy",
+  "description": "Russian writer (1828–1910)",
+  "summary": "Count Lev Nikolayevich Tolstoy, usually referred to in English as Leo Tolstoy, was a Russian writer. He is regarded as one of the greatest and most influential authors of all time.",
+  "image_local": "images/Leo_Tolstoy_1897__black_and_white__37767u.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Leo_Tolstoy_1897%2C_black_and_white%2C_37767u.jpg/800px-Leo_Tolstoy_1897%2C_black_and_white%2C_37767u.jpg",
+  "portrait_date": "1897",
+  "original_caption": "Leo Tolstoy",
+  "extracted_name": "Leo Tolstoy",
+  "wikipedia_title": "Leo Tolstoy",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Leo_Tolstoy",
+  "commons_file_page": "https://commons.wikimedia.org/wiki/File:Leo_Tolstoy_1897,_black_and_white,_37767u.jpg",
+  "wikipedia_summary": {
+    "type": "standard",
+    "title": "Leo Tolstoy",
+    "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Leo Tolstoy</span></span>",
+    "namespace": {
+      "id": 0,
+      "text": ""
+    },
+    "wikibase_item": "Q7243",
+    "titles": {
+      "canonical": "Leo_Tolstoy",
+      "normalized": "Leo Tolstoy",
+      "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Leo Tolstoy</span></span>"
+    },
+    "pageid": 18622119,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Leo_Tolstoy_1908_Portrait_%283x4_cropped%29.jpg/330px-Leo_Tolstoy_1908_Portrait_%283x4_cropped%29.jpg",
+      "width": 330,
+      "height": 437
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/b/be/Leo_Tolstoy_1908_Portrait_%283x4_cropped%29.jpg",
+      "width": 1470,
+      "height": 1947
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1351374060",
+    "tid": "78639317-424a-11f1-89b8-8f0b67aaf4e7",
+    "timestamp": "2026-04-27T15:05:04Z",
+    "description": "Russian writer (1828–1910)",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Leo_Tolstoy",
+        "revisions": "https://en.wikipedia.org/wiki/Leo_Tolstoy?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Leo_Tolstoy?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Leo_Tolstoy"
+      },
+      "mobile": {
+        "page": "https://en.wikipedia.org/wiki/Leo_Tolstoy",
+        "revisions": "https://en.wikipedia.org/wiki/Special:History/Leo_Tolstoy",
+        "edit": "https://en.wikipedia.org/wiki/Leo_Tolstoy?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Leo_Tolstoy"
+      }
+    },
+    "extract": "Count Lev Nikolayevich Tolstoy, usually referred to in English as Leo Tolstoy, was a Russian writer. He is regarded as one of the greatest and most influential authors of all time.",
+    "extract_html": "<p>Count <b>Lev Nikolayevich Tolstoy</b>, usually referred to in English as <b>Leo Tolstoy</b>, was a Russian writer. He is regarded as one of the greatest and most influential authors of all time.</p>"
+  }
+}

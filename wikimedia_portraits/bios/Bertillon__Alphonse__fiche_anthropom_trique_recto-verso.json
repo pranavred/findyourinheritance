@@ -1,0 +1,63 @@
+{
+  "slug": "Bertillon__Alphonse__fiche_anthropom_trique_recto-verso",
+  "name": "Alphonse Bertillon",
+  "description": "French police officer and biometrics researcher (1853–1914)",
+  "summary": "Alphonse Bertillon was a French police officer and biometrics researcher who applied the anthropological technique of anthropometry to law enforcement, creating an identification system based on physical measurements.",
+  "image_local": "images/Bertillon__Alphonse__fiche_anthropom_trique_recto-verso.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Bertillon%2C_Alphonse%2C_fiche_anthropom%C3%A9trique_recto-verso.jpg/800px-Bertillon%2C_Alphonse%2C_fiche_anthropom%C3%A9trique_recto-verso.jpg",
+  "portrait_date": "1893",
+  "original_caption": "Alphonse Bertillon",
+  "extracted_name": "Alphonse Bertillon",
+  "wikipedia_title": "Alphonse Bertillon",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Alphonse_Bertillon",
+  "commons_file_page": "https://commons.wikimedia.org/wiki/File:Bertillon,_Alphonse,_fiche_anthropom%C3%A9trique_recto-verso.jpg",
+  "wikipedia_summary": {
+    "type": "standard",
+    "title": "Alphonse Bertillon",
+    "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Alphonse Bertillon</span></span>",
+    "namespace": {
+      "id": 0,
+      "text": ""
+    },
+    "wikibase_item": "Q568386",
+    "titles": {
+      "canonical": "Alphonse_Bertillon",
+      "normalized": "Alphonse Bertillon",
+      "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Alphonse Bertillon</span></span>"
+    },
+    "pageid": 934121,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Parle_class_2162889173_72eaace2e1_o.jpg/330px-Parle_class_2162889173_72eaace2e1_o.jpg",
+      "width": 330,
+      "height": 239
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/8/80/Parle_class_2162889173_72eaace2e1_o.jpg",
+      "width": 1024,
+      "height": 742
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1351360931",
+    "tid": "b7d6b2a1-423b-11f1-8f4c-5ef92a3c69f9",
+    "timestamp": "2026-04-27T13:19:28Z",
+    "description": "French police officer and biometrics researcher (1853–1914)",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Alphonse_Bertillon",
+        "revisions": "https://en.wikipedia.org/wiki/Alphonse_Bertillon?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Alphonse_Bertillon?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Alphonse_Bertillon"
+      },
+      "mobile": {
+        "page": "https://en.wikipedia.org/wiki/Alphonse_Bertillon",
+        "revisions": "https://en.wikipedia.org/wiki/Special:History/Alphonse_Bertillon",
+        "edit": "https://en.wikipedia.org/wiki/Alphonse_Bertillon?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Alphonse_Bertillon"
+      }
+    },
+    "extract": "Alphonse Bertillon was a French police officer and biometrics researcher who applied the anthropological technique of anthropometry to law enforcement, creating an identification system based on physical measurements.",
+    "extract_html": "<p><b>Alphonse Bertillon</b> was a French police officer and biometrics researcher who applied the anthropological technique of anthropometry to law enforcement, creating an identification system based on physical measurements.</p>"
+  }
+}

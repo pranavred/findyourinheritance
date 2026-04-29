@@ -1,0 +1,63 @@
+{
+  "slug": "Alice_Paul__1915__by_Harris___Ewing",
+  "name": "Alice Paul",
+  "description": "American activist (1885–1977)",
+  "summary": "Alice Stokes Paul was an American Quaker, suffragette, suffragist, feminist, and women's rights activist, and one of the foremost leaders and strategists of the campaign for the Nineteenth Amendment to the United States Constitution, which prohibits sex discrimination in the right to vote. Paul initiated, and along with Lucy Burns and others, strategized events such as the Woman Suffrage Procession and the Silent Sentinels, which were part of the successful campaign that resulted in the amendment's passage in August 1920.",
+  "image_local": "images/Alice_Paul__1915__by_Harris___Ewing.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Alice_Paul_%281915%29_by_Harris_%26_Ewing.jpg/800px-Alice_Paul_%281915%29_by_Harris_%26_Ewing.jpg",
+  "portrait_date": "1915",
+  "original_caption": "Alice Paul (1915) by Harris & Ewing",
+  "extracted_name": "Alice Paul",
+  "wikipedia_title": "Alice Paul",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Alice_Paul",
+  "commons_file_page": "https://commons.wikimedia.org/wiki/File:Alice_Paul_(1915)_by_Harris_%26_Ewing.jpg",
+  "wikipedia_summary": {
+    "type": "standard",
+    "title": "Alice Paul",
+    "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Alice Paul</span></span>",
+    "namespace": {
+      "id": 0,
+      "text": ""
+    },
+    "wikibase_item": "Q127328",
+    "titles": {
+      "canonical": "Alice_Paul",
+      "normalized": "Alice Paul",
+      "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Alice Paul</span></span>"
+    },
+    "pageid": 526315,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Alice_Paul_cph.3a38295.jpg/330px-Alice_Paul_cph.3a38295.jpg",
+      "width": 330,
+      "height": 471
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Alice_Paul_cph.3a38295.jpg",
+      "width": 1053,
+      "height": 1503
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1350766210",
+    "tid": "3d6b1175-3f61-11f1-af24-686d0e0962ac",
+    "timestamp": "2026-04-23T22:10:30Z",
+    "description": "American activist (1885–1977)",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Alice_Paul",
+        "revisions": "https://en.wikipedia.org/wiki/Alice_Paul?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Alice_Paul?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Alice_Paul"
+      },
+      "mobile": {
+        "page": "https://en.wikipedia.org/wiki/Alice_Paul",
+        "revisions": "https://en.wikipedia.org/wiki/Special:History/Alice_Paul",
+        "edit": "https://en.wikipedia.org/wiki/Alice_Paul?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Alice_Paul"
+      }
+    },
+    "extract": "Alice Stokes Paul was an American Quaker, suffragette, suffragist, feminist, and women's rights activist, and one of the foremost leaders and strategists of the campaign for the Nineteenth Amendment to the United States Constitution, which prohibits sex discrimination in the right to vote. Paul initiated, and along with Lucy Burns and others, strategized events such as the Woman Suffrage Procession and the Silent Sentinels, which were part of the successful campaign that resulted in the amendment's passage in August 1920.",
+    "extract_html": "<p><b>Alice Stokes Paul</b> was an American Quaker, suffragette, suffragist, feminist, and women's rights activist, and one of the foremost leaders and strategists of the campaign for the Nineteenth Amendment to the United States Constitution, which prohibits sex discrimination in the right to vote. Paul initiated, and along with Lucy Burns and others, strategized events such as the Woman Suffrage Procession and the Silent Sentinels, which were part of the successful campaign that resulted in the amendment's passage in August 1920.</p>"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "slug": "Gaucho1868b",
+  "name": "Gaucho",
+  "description": "Skilled horseman in South America",
+  "summary": "A gaucho or gaúcho is a skilled horseman, reputed to be brave and unruly. The figure of the gaucho is a folk symbol mainly in Argentina and Uruguay but also in Paraguay, southern Brazil, southern Bolivia, and southern Chile. Gauchos became greatly admired and renowned in legend, folklore, and literature and became an important part of their regional cultural tradition. Beginning late in the 19th century, after the heyday of the gauchos, they were celebrated by South American writers.",
+  "image_local": "images/Gaucho1868b.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Gaucho1868b.jpg/800px-Gaucho1868b.jpg",
+  "portrait_date": "1868",
+  "original_caption": "Gaucho",
+  "extracted_name": "Gaucho",
+  "wikipedia_title": "Gaucho",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Gaucho",
+  "commons_file_page": "https://commons.wikimedia.org/wiki/File:Gaucho1868b.jpg",
+  "wikipedia_summary": {
+    "type": "standard",
+    "title": "Gaucho",
+    "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Gaucho</span></span>",
+    "namespace": {
+      "id": 0,
+      "text": ""
+    },
+    "wikibase_item": "Q210377",
+    "titles": {
+      "canonical": "Gaucho",
+      "normalized": "Gaucho",
+      "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Gaucho</span></span>"
+    },
+    "pageid": 386905,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Gaucho1868b.jpg/330px-Gaucho1868b.jpg",
+      "width": 330,
+      "height": 620
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Gaucho1868b.jpg",
+      "width": 2289,
+      "height": 4303
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1347937453",
+    "tid": "2ba64cad-3442-11f1-87eb-927971afd903",
+    "timestamp": "2026-04-09T18:30:23Z",
+    "description": "Skilled horseman in South America",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Gaucho",
+        "revisions": "https://en.wikipedia.org/wiki/Gaucho?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Gaucho?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Gaucho"
+      },
+      "mobile": {
+        "page": "https://en.wikipedia.org/wiki/Gaucho",
+        "revisions": "https://en.wikipedia.org/wiki/Special:History/Gaucho",
+        "edit": "https://en.wikipedia.org/wiki/Gaucho?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Gaucho"
+      }
+    },
+    "extract": "A gaucho or gaúcho is a skilled horseman, reputed to be brave and unruly. The figure of the gaucho is a folk symbol mainly in Argentina and Uruguay but also in Paraguay, southern Brazil, southern Bolivia, and southern Chile. Gauchos became greatly admired and renowned in legend, folklore, and literature and became an important part of their regional cultural tradition. Beginning late in the 19th century, after the heyday of the gauchos, they were celebrated by South American writers.",
+    "extract_html": "<p>A <b>gaucho</b> or <b>gaúcho</b> is a skilled horseman, reputed to be brave and unruly. The figure of the gaucho is a folk symbol mainly in Argentina and Uruguay but also in Paraguay, southern Brazil, southern Bolivia, and southern Chile. Gauchos became greatly admired and renowned in legend, folklore, and literature and became an important part of their regional cultural tradition. Beginning late in the 19th century, after the heyday of the gauchos, they were celebrated by South American writers.</p>"
+  }
+}

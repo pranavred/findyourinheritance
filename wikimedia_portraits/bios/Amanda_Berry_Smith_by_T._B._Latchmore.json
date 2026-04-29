@@ -1,0 +1,63 @@
+{
+  "slug": "Amanda_Berry_Smith_by_T._B._Latchmore",
+  "name": "Amanda Smith",
+  "description": "African-American evangelist",
+  "summary": "Amanda Smith was an American Methodist preacher and former slave who funded the Amanda Smith Orphanage and Industrial Home for Abandoned and Destitute Colored Children in Harvey, Illinois. She was a leader in the Wesleyan-Holiness movement, preaching the doctrine of entire sanctification throughout Methodist camp meetings across the world.",
+  "image_local": "images/Amanda_Berry_Smith_by_T._B._Latchmore.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Amanda_Berry_Smith_by_T._B._Latchmore.jpg/800px-Amanda_Berry_Smith_by_T._B._Latchmore.jpg",
+  "portrait_date": "c. 1885",
+  "original_caption": "Amanda Berry Smith by T. B. Latchmore",
+  "extracted_name": "Amanda Berry Smith",
+  "wikipedia_title": "Amanda Smith",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Amanda_Smith",
+  "commons_file_page": "https://commons.wikimedia.org/wiki/File:Amanda_Berry_Smith_by_T._B._Latchmore.jpg",
+  "wikipedia_summary": {
+    "type": "standard",
+    "title": "Amanda Smith",
+    "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Amanda Smith</span></span>",
+    "namespace": {
+      "id": 0,
+      "text": ""
+    },
+    "wikibase_item": "Q4739765",
+    "titles": {
+      "canonical": "Amanda_Smith",
+      "normalized": "Amanda Smith",
+      "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Amanda Smith</span></span>"
+    },
+    "pageid": 1834041,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Amanda_Berry_Smith_by_T._B._Latchmore.jpg/330px-Amanda_Berry_Smith_by_T._B._Latchmore.jpg",
+      "width": 330,
+      "height": 521
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Amanda_Berry_Smith_by_T._B._Latchmore.jpg",
+      "width": 2568,
+      "height": 4058
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1347709948",
+    "tid": "7e3f164e-3327-11f1-9d3b-2f07ed5235dd",
+    "timestamp": "2026-04-08T08:46:54Z",
+    "description": "African-American evangelist",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Amanda_Smith",
+        "revisions": "https://en.wikipedia.org/wiki/Amanda_Smith?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Amanda_Smith?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Amanda_Smith"
+      },
+      "mobile": {
+        "page": "https://en.wikipedia.org/wiki/Amanda_Smith",
+        "revisions": "https://en.wikipedia.org/wiki/Special:History/Amanda_Smith",
+        "edit": "https://en.wikipedia.org/wiki/Amanda_Smith?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Amanda_Smith"
+      }
+    },
+    "extract": "Amanda Smith was an American Methodist preacher and former slave who funded the Amanda Smith Orphanage and Industrial Home for Abandoned and Destitute Colored Children in Harvey, Illinois. She was a leader in the Wesleyan-Holiness movement, preaching the doctrine of entire sanctification throughout Methodist camp meetings across the world.",
+    "extract_html": "<p><b>Amanda Smith</b> was an American Methodist preacher and former slave who funded the Amanda Smith Orphanage and Industrial Home for Abandoned and Destitute Colored Children in Harvey, Illinois. She was a leader in the Wesleyan-Holiness movement, preaching the doctrine of entire sanctification throughout Methodist camp meetings across the world.</p>"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "slug": "Self-portrait_of_Jeremiah_Gurney",
+  "name": "Jeremiah Gurney",
+  "description": "American daguerreotype photographer",
+  "summary": "Jeremiah Gurney was an American daguerreotype photographer operating in New York.",
+  "image_local": "images/Self-portrait_of_Jeremiah_Gurney.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Self-portrait_of_Jeremiah_Gurney.jpg/800px-Self-portrait_of_Jeremiah_Gurney.jpg",
+  "portrait_date": "c. 1869",
+  "original_caption": "Self-portrait of Jeremiah Gurney",
+  "extracted_name": "Jeremiah Gurney",
+  "wikipedia_title": "Jeremiah Gurney",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Jeremiah_Gurney",
+  "commons_file_page": "https://commons.wikimedia.org/wiki/File:Self-portrait_of_Jeremiah_Gurney.jpg",
+  "wikipedia_summary": {
+    "type": "standard",
+    "title": "Jeremiah Gurney",
+    "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Jeremiah Gurney</span></span>",
+    "namespace": {
+      "id": 0,
+      "text": ""
+    },
+    "wikibase_item": "Q3495664",
+    "titles": {
+      "canonical": "Jeremiah_Gurney",
+      "normalized": "Jeremiah Gurney",
+      "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Jeremiah Gurney</span></span>"
+    },
+    "pageid": 23000847,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Self-portrait_of_Jeremiah_Gurney.jpg/330px-Self-portrait_of_Jeremiah_Gurney.jpg",
+      "width": 330,
+      "height": 467
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/2/24/Self-portrait_of_Jeremiah_Gurney.jpg",
+      "width": 2571,
+      "height": 3638
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1323662640",
+    "tid": "3d30e448-c814-11f0-a49a-cfb100d82d5a",
+    "timestamp": "2025-11-23T02:29:30Z",
+    "description": "American daguerreotype photographer",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Jeremiah_Gurney",
+        "revisions": "https://en.wikipedia.org/wiki/Jeremiah_Gurney?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Jeremiah_Gurney?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Jeremiah_Gurney"
+      },
+      "mobile": {
+        "page": "https://en.wikipedia.org/wiki/Jeremiah_Gurney",
+        "revisions": "https://en.wikipedia.org/wiki/Special:History/Jeremiah_Gurney",
+        "edit": "https://en.wikipedia.org/wiki/Jeremiah_Gurney?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Jeremiah_Gurney"
+      }
+    },
+    "extract": "Jeremiah Gurney was an American daguerreotype photographer operating in New York.",
+    "extract_html": "<p><b>Jeremiah Gurney</b> was an American daguerreotype photographer operating in New York.</p>"
+  }
+}

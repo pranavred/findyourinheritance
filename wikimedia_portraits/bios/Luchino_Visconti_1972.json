@@ -1,0 +1,63 @@
+{
+  "slug": "Luchino_Visconti_1972",
+  "name": "Luchino Visconti",
+  "description": "Italian theatre, opera, and cinema director (1906-1976)",
+  "summary": "Luchino Visconti di Modrone, Count of Lonate Pozzolo was an Italian filmmaker, theatre and opera director, and screenwriter. He was one of the fathers of cinematic neorealism but later moved towards luxurious, sweeping epics dealing with themes of beauty, decadence, death, and European history, especially the decay of the nobility and the bourgeoisie. Critic Jonathan Jones wrote that \"no one did as much to shape Italian cinema as Luchino Visconti.”",
+  "image_local": "images/Luchino_Visconti_1972.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Luchino_Visconti_1972.jpg/800px-Luchino_Visconti_1972.jpg",
+  "portrait_date": "1972",
+  "original_caption": "Luchino Visconti",
+  "extracted_name": "Luchino Visconti",
+  "wikipedia_title": "Luchino Visconti",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Luchino_Visconti",
+  "commons_file_page": "https://commons.wikimedia.org/wiki/File:Luchino_Visconti_1972.jpg",
+  "wikipedia_summary": {
+    "type": "standard",
+    "title": "Luchino Visconti",
+    "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Luchino Visconti</span></span>",
+    "namespace": {
+      "id": 0,
+      "text": ""
+    },
+    "wikibase_item": "Q13888",
+    "titles": {
+      "canonical": "Luchino_Visconti",
+      "normalized": "Luchino Visconti",
+      "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Luchino Visconti</span></span>"
+    },
+    "pageid": 44822,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Luchino_Visconti_1972b.jpg/330px-Luchino_Visconti_1972b.jpg",
+      "width": 330,
+      "height": 435
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Luchino_Visconti_1972b.jpg",
+      "width": 714,
+      "height": 941
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1348277158",
+    "tid": "67c0e512-35db-11f1-88b3-48332ee0d4f6",
+    "timestamp": "2026-04-11T19:19:48Z",
+    "description": "Italian theatre, opera, and cinema director (1906-1976)",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Luchino_Visconti",
+        "revisions": "https://en.wikipedia.org/wiki/Luchino_Visconti?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Luchino_Visconti?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Luchino_Visconti"
+      },
+      "mobile": {
+        "page": "https://en.wikipedia.org/wiki/Luchino_Visconti",
+        "revisions": "https://en.wikipedia.org/wiki/Special:History/Luchino_Visconti",
+        "edit": "https://en.wikipedia.org/wiki/Luchino_Visconti?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Luchino_Visconti"
+      }
+    },
+    "extract": "Luchino Visconti di Modrone, Count of Lonate Pozzolo was an Italian filmmaker, theatre and opera director, and screenwriter. He was one of the fathers of cinematic neorealism but later moved towards luxurious, sweeping epics dealing with themes of beauty, decadence, death, and European history, especially the decay of the nobility and the bourgeoisie. Critic Jonathan Jones wrote that \"no one did as much to shape Italian cinema as Luchino Visconti.”",
+    "extract_html": "<p><b>Luchino Visconti di Modrone, Count of Lonate Pozzolo</b> was an Italian filmmaker, theatre and opera director, and screenwriter. He was one of the fathers of cinematic neorealism but later moved towards luxurious, sweeping epics dealing with themes of beauty, decadence, death, and European history, especially the decay of the nobility and the bourgeoisie. Critic Jonathan Jones wrote that \"no one did as much to shape Italian cinema as Luchino Visconti.”</p>"
+  }
+}

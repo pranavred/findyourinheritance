@@ -1,0 +1,63 @@
+{
+  "slug": "Karl_Marx_by_John_Jabez_Edwin_Mayall_1875_-_Restored",
+  "name": "Karl Marx",
+  "description": "German philosopher and socialist (1818–1883)",
+  "summary": "Karl Marx was a German philosopher, social and political theorist, economist, historian, journalist, and revolutionary socialist. He developed the theory of historical materialism, analyzing class struggle under capitalism and predicting the system's overthrow by the proletariat in favor of communism. Marx co-authored The Communist Manifesto (1848) with his lifelong friend Friedrich Engels, and undertook a critique of classical political economy in his magnum opus, Das Kapital (1867–1894). Marx's ideas and their subsequent development, collectively known as Marxism, have had enormous influence and have influenced revolutionary movements in many countries.",
+  "image_local": "images/Karl_Marx_by_John_Jabez_Edwin_Mayall_1875_-_Restored.png",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Karl_Marx_by_John_Jabez_Edwin_Mayall_1875_-_Restored.png/800px-Karl_Marx_by_John_Jabez_Edwin_Mayall_1875_-_Restored.png",
+  "portrait_date": "",
+  "original_caption": "Karl Marx by John Jabez Edwin Mayall 1875 - Restored",
+  "extracted_name": "Karl Marx",
+  "wikipedia_title": "Karl Marx",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Karl_Marx",
+  "commons_file_page": "https://commons.wikimedia.org/wiki/File:Karl_Marx_by_John_Jabez_Edwin_Mayall_1875_-_Restored.png",
+  "wikipedia_summary": {
+    "type": "standard",
+    "title": "Karl Marx",
+    "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Karl Marx</span></span>",
+    "namespace": {
+      "id": 0,
+      "text": ""
+    },
+    "wikibase_item": "Q9061",
+    "titles": {
+      "canonical": "Karl_Marx",
+      "normalized": "Karl Marx",
+      "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Karl Marx</span></span>"
+    },
+    "pageid": 16743,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Karl_Marx_by_John_Jabez_Edwin_Mayall_1875_-_Restored_%26_Adjusted_%283x4_cropped_b%29.png/330px-Karl_Marx_by_John_Jabez_Edwin_Mayall_1875_-_Restored_%26_Adjusted_%283x4_cropped_b%29.png",
+      "width": 330,
+      "height": 440
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Karl_Marx_by_John_Jabez_Edwin_Mayall_1875_-_Restored_%26_Adjusted_%283x4_cropped_b%29.png",
+      "width": 2010,
+      "height": 2682
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1351583905",
+    "tid": "54d63e01-434f-11f1-a0bb-eaced6107ec9",
+    "timestamp": "2026-04-28T22:12:23Z",
+    "description": "German philosopher and socialist (1818–1883)",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Karl_Marx",
+        "revisions": "https://en.wikipedia.org/wiki/Karl_Marx?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Karl_Marx?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Karl_Marx"
+      },
+      "mobile": {
+        "page": "https://en.wikipedia.org/wiki/Karl_Marx",
+        "revisions": "https://en.wikipedia.org/wiki/Special:History/Karl_Marx",
+        "edit": "https://en.wikipedia.org/wiki/Karl_Marx?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Karl_Marx"
+      }
+    },
+    "extract": "Karl Marx was a German philosopher, social and political theorist, economist, historian, journalist, and revolutionary socialist. He developed the theory of historical materialism, analyzing class struggle under capitalism and predicting the system's overthrow by the proletariat in favor of communism. Marx co-authored The Communist Manifesto (1848) with his lifelong friend Friedrich Engels, and undertook a critique of classical political economy in his magnum opus, Das Kapital (1867–1894). Marx's ideas and their subsequent development, collectively known as Marxism, have had enormous influence and have influenced revolutionary movements in many countries.",
+    "extract_html": "<p><b>Karl Marx</b> was a German philosopher, social and political theorist, economist, historian, journalist, and revolutionary socialist. He developed the theory of historical materialism, analyzing class struggle under capitalism and predicting the system's overthrow by the proletariat in favor of communism. Marx co-authored <i>The Communist Manifesto</i> (1848) with his lifelong friend Friedrich Engels, and undertook a critique of classical political economy in his magnum opus, <i>Das Kapital</i> (1867–1894). Marx's ideas and their subsequent development, collectively known as Marxism, have had enormous influence and have influenced revolutionary movements in many countries.</p>"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "slug": "Phyllis_Diller_by_Allan_Warren",
+  "name": "Phyllis Diller",
+  "description": "American comedian and actress (1917–2012)",
+  "summary": "Phyllis Ada Diller was an American stand-up comedian, actress, author, musician and visual artist, who displayed eccentric stage persona, self-deprecating humor, wild hair and clothes, and exaggerated, cackling laugh.",
+  "image_local": "images/Phyllis_Diller_by_Allan_Warren.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Phyllis_Diller_by_Allan_Warren.jpg/800px-Phyllis_Diller_by_Allan_Warren.jpg",
+  "portrait_date": "",
+  "original_caption": "Phyllis Diller by Allan Warren",
+  "extracted_name": "Phyllis Diller",
+  "wikipedia_title": "Phyllis Diller",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Phyllis_Diller",
+  "commons_file_page": "https://commons.wikimedia.org/wiki/File:Phyllis_Diller_by_Allan_Warren.jpg",
+  "wikipedia_summary": {
+    "type": "standard",
+    "title": "Phyllis Diller",
+    "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Phyllis Diller</span></span>",
+    "namespace": {
+      "id": 0,
+      "text": ""
+    },
+    "wikibase_item": "Q230512",
+    "titles": {
+      "canonical": "Phyllis_Diller",
+      "normalized": "Phyllis Diller",
+      "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Phyllis Diller</span></span>"
+    },
+    "pageid": 345491,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Phyllis_Diller_by_Allan_Warren.jpg/330px-Phyllis_Diller_by_Allan_Warren.jpg",
+      "width": 330,
+      "height": 431
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Phyllis_Diller_by_Allan_Warren.jpg/3840px-Phyllis_Diller_by_Allan_Warren.jpg",
+      "width": 7005,
+      "height": 9148
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1349588136",
+    "tid": "e7f6b431-3ac1-11f1-b6c2-865ed9b84143",
+    "timestamp": "2026-04-18T00:59:52Z",
+    "description": "American comedian and actress (1917–2012)",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Phyllis_Diller",
+        "revisions": "https://en.wikipedia.org/wiki/Phyllis_Diller?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Phyllis_Diller?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Phyllis_Diller"
+      },
+      "mobile": {
+        "page": "https://en.wikipedia.org/wiki/Phyllis_Diller",
+        "revisions": "https://en.wikipedia.org/wiki/Special:History/Phyllis_Diller",
+        "edit": "https://en.wikipedia.org/wiki/Phyllis_Diller?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Phyllis_Diller"
+      }
+    },
+    "extract": "Phyllis Ada Diller was an American stand-up comedian, actress, author, musician and visual artist, who displayed eccentric stage persona, self-deprecating humor, wild hair and clothes, and exaggerated, cackling laugh.",
+    "extract_html": "<p><b>Phyllis Ada Diller</b> was an American stand-up comedian, actress, author, musician and visual artist, who displayed eccentric stage persona, self-deprecating humor, wild hair and clothes, and exaggerated, cackling laugh.</p>"
+  }
+}

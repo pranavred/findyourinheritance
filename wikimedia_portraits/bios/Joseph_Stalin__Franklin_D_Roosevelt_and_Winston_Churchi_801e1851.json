@@ -1,0 +1,63 @@
+{
+  "slug": "Joseph_Stalin__Franklin_D_Roosevelt_and_Winston_Churchi_801e1851",
+  "name": "Joseph Stalin",
+  "description": "Leader of the Soviet Union from 1924 to 1953",
+  "summary": "Joseph Vissarionovich Stalin was a Soviet revolutionary and politician who led the Soviet Union from 1924 until his death in 1953. He held office as general secretary of the Communist Party from 1922 to 1952 and as premier from 1941 until his death. Despite initially governing the country as part of a collective leadership, he eventually consolidated power to become a dictator by the 1930s. Stalin codified the Communist Party's official interpretation of Marxism as Marxism–Leninism, and his version of it is referred to as Stalinism.",
+  "image_local": "images/Joseph_Stalin__Franklin_D_Roosevelt_and_Winston_Churchi_801e1851.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Joseph_Stalin%2C_Franklin_D_Roosevelt_and_Winston_Churchill%2C_in_Teheran%2C_1943%2C_edit.jpg/800px-Joseph_Stalin%2C_Franklin_D_Roosevelt_and_Winston_Churchill%2C_in_Teheran%2C_1943%2C_edit.jpg",
+  "portrait_date": "1943",
+  "original_caption": "Stalin, Roosevelt, and Churchill in Tehran.",
+  "extracted_name": "Stalin",
+  "wikipedia_title": "Joseph Stalin",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Joseph_Stalin",
+  "commons_file_page": "https://commons.wikimedia.org/wiki/File:Joseph_Stalin,_Franklin_D_Roosevelt_and_Winston_Churchill,_in_Teheran,_1943,_edit.jpg",
+  "wikipedia_summary": {
+    "type": "standard",
+    "title": "Joseph Stalin",
+    "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Joseph Stalin</span></span>",
+    "namespace": {
+      "id": 0,
+      "text": ""
+    },
+    "wikibase_item": "Q855",
+    "titles": {
+      "canonical": "Joseph_Stalin",
+      "normalized": "Joseph Stalin",
+      "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Joseph Stalin</span></span>"
+    },
+    "pageid": 15641,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Joseph_Stalin_in_1932_%284%29_%28cropped%29%282%29.jpg/330px-Joseph_Stalin_in_1932_%284%29_%28cropped%29%282%29.jpg",
+      "width": 330,
+      "height": 447
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Joseph_Stalin_in_1932_%284%29_%28cropped%29%282%29.jpg",
+      "width": 690,
+      "height": 934
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1350697736",
+    "tid": "6f5585ea-3f13-11f1-9d9e-532f103c7832",
+    "timestamp": "2026-04-23T12:53:33Z",
+    "description": "Leader of the Soviet Union from 1924 to 1953",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Joseph_Stalin",
+        "revisions": "https://en.wikipedia.org/wiki/Joseph_Stalin?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Joseph_Stalin?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Joseph_Stalin"
+      },
+      "mobile": {
+        "page": "https://en.wikipedia.org/wiki/Joseph_Stalin",
+        "revisions": "https://en.wikipedia.org/wiki/Special:History/Joseph_Stalin",
+        "edit": "https://en.wikipedia.org/wiki/Joseph_Stalin?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Joseph_Stalin"
+      }
+    },
+    "extract": "Joseph Vissarionovich Stalin was a Soviet revolutionary and politician who led the Soviet Union from 1924 until his death in 1953. He held office as general secretary of the Communist Party from 1922 to 1952 and as premier from 1941 until his death. Despite initially governing the country as part of a collective leadership, he eventually consolidated power to become a dictator by the 1930s. Stalin codified the Communist Party's official interpretation of Marxism as Marxism–Leninism, and his version of it is referred to as Stalinism.",
+    "extract_html": "<p><b>Joseph Vissarionovich Stalin</b> was a Soviet revolutionary and politician who led the Soviet Union from 1924 until his death in 1953. He held office as general secretary of the Communist Party from 1922 to 1952 and as premier from 1941 until his death. Despite initially governing the country as part of a collective leadership, he eventually consolidated power to become a dictator by the 1930s. Stalin codified the Communist Party's official interpretation of Marxism as Marxism–Leninism, and his version of it is referred to as Stalinism.</p>"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "slug": "Renoir__Pierre-Auguste__by_Dornac__BNF_Gallica",
+  "name": "Pierre-Auguste Renoir",
+  "description": "French painter and sculptor (1841–1919)",
+  "summary": "Pierre-Auguste Renoir was a French artist who was a leading painter in the development of the Impressionist style. It has been said that, as a celebrator of beauty and especially feminine sensuality, \"Renoir is the final representative of a tradition which runs directly from Rubens to Watteau.\"",
+  "image_local": "images/Renoir__Pierre-Auguste__by_Dornac__BNF_Gallica.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Renoir%2C_Pierre-Auguste%2C_by_Dornac%2C_BNF_Gallica.jpg/800px-Renoir%2C_Pierre-Auguste%2C_by_Dornac%2C_BNF_Gallica.jpg",
+  "portrait_date": "ca.1910",
+  "original_caption": "Pierre-Auguste Renoir",
+  "extracted_name": "Pierre-Auguste Renoir",
+  "wikipedia_title": "Pierre-Auguste Renoir",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Pierre-Auguste_Renoir",
+  "commons_file_page": "https://commons.wikimedia.org/wiki/File:Renoir,_Pierre-Auguste,_by_Dornac,_BNF_Gallica.jpg",
+  "wikipedia_summary": {
+    "type": "standard",
+    "title": "Pierre-Auguste Renoir",
+    "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Pierre-Auguste Renoir</span></span>",
+    "namespace": {
+      "id": 0,
+      "text": ""
+    },
+    "wikibase_item": "Q39931",
+    "titles": {
+      "canonical": "Pierre-Auguste_Renoir",
+      "normalized": "Pierre-Auguste Renoir",
+      "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Pierre-Auguste Renoir</span></span>"
+    },
+    "pageid": 24546,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Pierre_Auguste_Renoir%2C_uncropped_image.jpg/330px-Pierre_Auguste_Renoir%2C_uncropped_image.jpg",
+      "width": 330,
+      "height": 409
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/6/67/Pierre_Auguste_Renoir%2C_uncropped_image.jpg",
+      "width": 525,
+      "height": 650
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1350794365",
+    "tid": "787e3a7c-3f83-11f1-a9b4-89e3d04a50b2",
+    "timestamp": "2026-04-24T02:15:32Z",
+    "description": "French painter and sculptor (1841–1919)",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Pierre-Auguste_Renoir",
+        "revisions": "https://en.wikipedia.org/wiki/Pierre-Auguste_Renoir?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Pierre-Auguste_Renoir?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Pierre-Auguste_Renoir"
+      },
+      "mobile": {
+        "page": "https://en.wikipedia.org/wiki/Pierre-Auguste_Renoir",
+        "revisions": "https://en.wikipedia.org/wiki/Special:History/Pierre-Auguste_Renoir",
+        "edit": "https://en.wikipedia.org/wiki/Pierre-Auguste_Renoir?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Pierre-Auguste_Renoir"
+      }
+    },
+    "extract": "Pierre-Auguste Renoir was a French artist who was a leading painter in the development of the Impressionist style. It has been said that, as a celebrator of beauty and especially feminine sensuality, \"Renoir is the final representative of a tradition which runs directly from Rubens to Watteau.\"",
+    "extract_html": "<p><b>Pierre-Auguste Renoir</b> was a French artist who was a leading painter in the development of the Impressionist style. It has been said that, as a celebrator of beauty and especially feminine sensuality, \"Renoir is the final representative of a tradition which runs directly from Rubens to Watteau.\"</p>"
+  }
+}

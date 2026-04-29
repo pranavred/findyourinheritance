@@ -1,0 +1,63 @@
+{
+  "slug": "Emmeline_Pankhurst__seated__1913",
+  "name": "Emmeline Pankhurst",
+  "description": "British suffragette (1858–1928)",
+  "summary": "Emmeline Pankhurst was a British political activist who organised the British suffragette movement and helped women to win the right to vote in Great Britain and Ireland in 1918. In 1999, Time named her as one of the 100 Most Important People of the 20th Century, stating that \"she shaped an idea of objects for our time\" and \"shook society into a new pattern from which there could be no going back\". She was widely criticised for her militant tactics, and historians disagree about their effectiveness, but her work is recognised as a crucial element in achieving women's suffrage in the United Kingdom.",
+  "image_local": "images/Emmeline_Pankhurst__seated__1913.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Emmeline_Pankhurst%2C_seated_%281913%29.jpg/800px-Emmeline_Pankhurst%2C_seated_%281913%29.jpg",
+  "portrait_date": "1913",
+  "original_caption": "Emmeline Pankhurst (1913)",
+  "extracted_name": "Emmeline Pankhurst",
+  "wikipedia_title": "Emmeline Pankhurst",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Emmeline_Pankhurst",
+  "commons_file_page": "https://commons.wikimedia.org/wiki/File:Emmeline_Pankhurst,_seated_(1913).jpg",
+  "wikipedia_summary": {
+    "type": "standard",
+    "title": "Emmeline Pankhurst",
+    "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Emmeline Pankhurst</span></span>",
+    "namespace": {
+      "id": 0,
+      "text": ""
+    },
+    "wikibase_item": "Q211519",
+    "titles": {
+      "canonical": "Emmeline_Pankhurst",
+      "normalized": "Emmeline Pankhurst",
+      "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Emmeline Pankhurst</span></span>"
+    },
+    "pageid": 60557,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Emmeline_Pankhurst%2C_seated_%281913%29.jpg/330px-Emmeline_Pankhurst%2C_seated_%281913%29.jpg",
+      "width": 330,
+      "height": 435
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/2/25/Emmeline_Pankhurst%2C_seated_%281913%29.jpg",
+      "width": 3125,
+      "height": 4122
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1350338133",
+    "tid": "c10fdc8f-3d6c-11f1-af72-ef5e32a6b024",
+    "timestamp": "2026-04-21T10:27:53Z",
+    "description": "British suffragette (1858–1928)",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Emmeline_Pankhurst",
+        "revisions": "https://en.wikipedia.org/wiki/Emmeline_Pankhurst?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Emmeline_Pankhurst?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Emmeline_Pankhurst"
+      },
+      "mobile": {
+        "page": "https://en.wikipedia.org/wiki/Emmeline_Pankhurst",
+        "revisions": "https://en.wikipedia.org/wiki/Special:History/Emmeline_Pankhurst",
+        "edit": "https://en.wikipedia.org/wiki/Emmeline_Pankhurst?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Emmeline_Pankhurst"
+      }
+    },
+    "extract": "Emmeline Pankhurst was a British political activist who organised the British suffragette movement and helped women to win the right to vote in Great Britain and Ireland in 1918. In 1999, Time named her as one of the 100 Most Important People of the 20th Century, stating that \"she shaped an idea of objects for our time\" and \"shook society into a new pattern from which there could be no going back\". She was widely criticised for her militant tactics, and historians disagree about their effectiveness, but her work is recognised as a crucial element in achieving women's suffrage in the United Kingdom.",
+    "extract_html": "<p><b>Emmeline Pankhurst</b> was a British political activist who organised the British suffragette movement and helped women to win the right to vote in Great Britain and Ireland in 1918. In 1999, <i>Time</i> named her as one of the 100 Most Important People of the 20th Century, stating that \"she shaped an idea of objects for our time\" and \"shook society into a new pattern from which there could be no going back\". She was widely criticised for her militant tactics, and historians disagree about their effectiveness, but her work is recognised as a crucial element in achieving women's suffrage in the United Kingdom.</p>"
+  }
+}

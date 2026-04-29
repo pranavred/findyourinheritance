@@ -1,0 +1,63 @@
+{
+  "slug": "Louisa_May_Alcott__c._1870_-_Warren_s_Portraits__Boston",
+  "name": "Louisa May Alcott",
+  "description": "American novelist (1832–1888)",
+  "summary": "Louisa May Alcott was an American novelist, short story writer, and poet best known for writing the novel Little Women (1868) and its sequels Good Wives (1869), Little Men (1871), and Jo's Boys (1886). Raised in New England by her transcendentalist parents, Abigail May and Amos Bronson Alcott, she grew up among many well-known intellectuals of the day, including Margaret Fuller, Ralph Waldo Emerson, Nathaniel Hawthorne, and Henry David Thoreau. Encouraged by her family, Alcott began writing from an early age.",
+  "image_local": "images/Louisa_May_Alcott__c._1870_-_Warren_s_Portraits__Boston.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Louisa_May_Alcott%2C_c._1870_-_Warren%27s_Portraits%2C_Boston.jpg/800px-Louisa_May_Alcott%2C_c._1870_-_Warren%27s_Portraits%2C_Boston.jpg",
+  "portrait_date": "1870",
+  "original_caption": "Louisa May Alcott, c. 1870 - Warren's Portraits, Boston",
+  "extracted_name": "Louisa May Alcott",
+  "wikipedia_title": "Louisa May Alcott",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Louisa_May_Alcott",
+  "commons_file_page": "https://commons.wikimedia.org/wiki/File:Louisa_May_Alcott,_c._1870_-_Warren%27s_Portraits,_Boston.jpg",
+  "wikipedia_summary": {
+    "type": "standard",
+    "title": "Louisa May Alcott",
+    "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Louisa May Alcott</span></span>",
+    "namespace": {
+      "id": 0,
+      "text": ""
+    },
+    "wikibase_item": "Q185696",
+    "titles": {
+      "canonical": "Louisa_May_Alcott",
+      "normalized": "Louisa May Alcott",
+      "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Louisa May Alcott</span></span>"
+    },
+    "pageid": 18002,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Louisa_May_Alcott%2C_c._1870_-_Warren%27s_Portraits%2C_Boston.jpg/330px-Louisa_May_Alcott%2C_c._1870_-_Warren%27s_Portraits%2C_Boston.jpg",
+      "width": 330,
+      "height": 537
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/8/82/Louisa_May_Alcott%2C_c._1870_-_Warren%27s_Portraits%2C_Boston.jpg",
+      "width": 1815,
+      "height": 2956
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1351345594",
+    "tid": "fcf1e9ce-4229-11f1-b285-9b364da2ec4e",
+    "timestamp": "2026-04-27T11:12:33Z",
+    "description": "American novelist (1832–1888)",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Louisa_May_Alcott",
+        "revisions": "https://en.wikipedia.org/wiki/Louisa_May_Alcott?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Louisa_May_Alcott?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Louisa_May_Alcott"
+      },
+      "mobile": {
+        "page": "https://en.wikipedia.org/wiki/Louisa_May_Alcott",
+        "revisions": "https://en.wikipedia.org/wiki/Special:History/Louisa_May_Alcott",
+        "edit": "https://en.wikipedia.org/wiki/Louisa_May_Alcott?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Louisa_May_Alcott"
+      }
+    },
+    "extract": "Louisa May Alcott was an American novelist, short story writer, and poet best known for writing the novel Little Women (1868) and its sequels Good Wives (1869), Little Men (1871), and Jo's Boys (1886). Raised in New England by her transcendentalist parents, Abigail May and Amos Bronson Alcott, she grew up among many well-known intellectuals of the day, including Margaret Fuller, Ralph Waldo Emerson, Nathaniel Hawthorne, and Henry David Thoreau. Encouraged by her family, Alcott began writing from an early age.",
+    "extract_html": "<p><b>Louisa May Alcott</b> was an American novelist, short story writer, and poet best known for writing the novel <i>Little Women</i> (1868) and its sequels <i>Good Wives</i> (1869), <i>Little Men</i> (1871), and <i>Jo's Boys</i> (1886). Raised in New England by her transcendentalist parents, Abigail May and Amos Bronson Alcott, she grew up among many well-known intellectuals of the day, including Margaret Fuller, Ralph Waldo Emerson, Nathaniel Hawthorne, and Henry David Thoreau. Encouraged by her family, Alcott began writing from an early age.</p>"
+  }
+}

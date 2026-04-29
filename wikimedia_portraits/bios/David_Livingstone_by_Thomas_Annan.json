@@ -1,0 +1,63 @@
+{
+  "slug": "David_Livingstone_by_Thomas_Annan",
+  "name": "David Livingstone",
+  "description": "British colonialist and missionary to Africa (1813–1873)",
+  "summary": " David Livingstone was a Scottish doctor, Congregationalist, pioneer Christian missionary with the London Missionary Society, and an explorer in Africa. Livingstone was married to Mary Moffat Livingstone, from the prominent 18th-century Moffat missionary family. Livingstone came to have a mythic status as a Protestant missionary martyr, working-class \"rags-to-riches\" inspirational story, scientific investigator and explorer, imperial reformer, anti-slavery crusader, and advocate of British commercial and colonial expansion. As a result, he became one of the most popular British heroes of the late 19th-century Victorian era.",
+  "image_local": "images/David_Livingstone_by_Thomas_Annan.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/David_Livingstone_by_Thomas_Annan.jpg/800px-David_Livingstone_by_Thomas_Annan.jpg",
+  "portrait_date": "1864",
+  "original_caption": "David Livingstone by Thomas Annan",
+  "extracted_name": "David Livingstone",
+  "wikipedia_title": "David Livingstone",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/David_Livingstone",
+  "commons_file_page": "https://commons.wikimedia.org/wiki/File:David_Livingstone_by_Thomas_Annan.jpg",
+  "wikipedia_summary": {
+    "type": "standard",
+    "title": "David Livingstone",
+    "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">David Livingstone</span></span>",
+    "namespace": {
+      "id": 0,
+      "text": ""
+    },
+    "wikibase_item": "Q48373",
+    "titles": {
+      "canonical": "David_Livingstone",
+      "normalized": "David Livingstone",
+      "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">David Livingstone</span></span>"
+    },
+    "pageid": 53528,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/David_Livingstone_by_Thomas_Annan.jpg/330px-David_Livingstone_by_Thomas_Annan.jpg",
+      "width": 330,
+      "height": 403
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/f/f2/David_Livingstone_by_Thomas_Annan.jpg",
+      "width": 1920,
+      "height": 2347
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1351283281",
+    "tid": "c641b1c9-41dc-11f1-a18e-531068cee9ef",
+    "timestamp": "2026-04-27T01:59:50Z",
+    "description": "British colonialist and missionary to Africa (1813–1873)",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/David_Livingstone",
+        "revisions": "https://en.wikipedia.org/wiki/David_Livingstone?action=history",
+        "edit": "https://en.wikipedia.org/wiki/David_Livingstone?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:David_Livingstone"
+      },
+      "mobile": {
+        "page": "https://en.wikipedia.org/wiki/David_Livingstone",
+        "revisions": "https://en.wikipedia.org/wiki/Special:History/David_Livingstone",
+        "edit": "https://en.wikipedia.org/wiki/David_Livingstone?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:David_Livingstone"
+      }
+    },
+    "extract": " David Livingstone was a Scottish doctor, Congregationalist, pioneer Christian missionary with the London Missionary Society, and an explorer in Africa. Livingstone was married to Mary Moffat Livingstone, from the prominent 18th-century Moffat missionary family. Livingstone came to have a mythic status as a Protestant missionary martyr, working-class \"rags-to-riches\" inspirational story, scientific investigator and explorer, imperial reformer, anti-slavery crusader, and advocate of British commercial and colonial expansion. As a result, he became one of the most popular British heroes of the late 19th-century Victorian era.",
+    "extract_html": "<p><b> David Livingstone</b> was a Scottish doctor, Congregationalist, pioneer Christian missionary with the London Missionary Society, and an explorer in Africa. Livingstone was married to Mary Moffat Livingstone, from the prominent 18th-century Moffat missionary family. Livingstone came to have a mythic status as a Protestant missionary martyr, working-class \"rags-to-riches\" inspirational story, scientific investigator and explorer, imperial reformer, anti-slavery crusader, and advocate of British commercial and colonial expansion. As a result, he became one of the most popular British heroes of the late 19th-century Victorian era.</p>"
+  }
+}

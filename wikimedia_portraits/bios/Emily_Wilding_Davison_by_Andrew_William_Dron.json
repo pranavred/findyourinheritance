@@ -1,0 +1,63 @@
+{
+  "slug": "Emily_Wilding_Davison_by_Andrew_William_Dron",
+  "name": "Emily Davison",
+  "description": "English suffragette and militant activist (1872–1913)",
+  "summary": "Emily Wilding Davison was an English suffragette who fought for votes for women in Britain in the early twentieth century. A member of the Women's Social and Political Union (WSPU) and a militant fighter for her cause, she was arrested on nine occasions, went on hunger strike seven times and was force-fed on forty-nine occasions. She died after being hit by King George V's horse Anmer at the 1913 Derby when she walked onto the track during the race.",
+  "image_local": "images/Emily_Wilding_Davison_by_Andrew_William_Dron.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Emily_Wilding_Davison_by_Andrew_William_Dron.jpg/800px-Emily_Wilding_Davison_by_Andrew_William_Dron.jpg",
+  "portrait_date": "c. 1910-12",
+  "original_caption": "Emily Wilding Davison by Andrew William Dron",
+  "extracted_name": "Emily Wilding Davison",
+  "wikipedia_title": "Emily Davison",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Emily_Davison",
+  "commons_file_page": "https://commons.wikimedia.org/wiki/File:Emily_Wilding_Davison_by_Andrew_William_Dron.jpg",
+  "wikipedia_summary": {
+    "type": "standard",
+    "title": "Emily Davison",
+    "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Emily Davison</span></span>",
+    "namespace": {
+      "id": 0,
+      "text": ""
+    },
+    "wikibase_item": "Q254858",
+    "titles": {
+      "canonical": "Emily_Davison",
+      "normalized": "Emily Davison",
+      "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Emily Davison</span></span>"
+    },
+    "pageid": 60559,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Emily_Wilding_Davison_by_Andrew_William_Dron.jpg/330px-Emily_Wilding_Davison_by_Andrew_William_Dron.jpg",
+      "width": 330,
+      "height": 522
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Emily_Wilding_Davison_by_Andrew_William_Dron.jpg",
+      "width": 2844,
+      "height": 4496
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1345339597",
+    "tid": "8ea1bb33-2864-11f1-8366-fc9dc06011a0",
+    "timestamp": "2026-03-25T16:06:18Z",
+    "description": "English suffragette and militant activist (1872–1913)",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Emily_Davison",
+        "revisions": "https://en.wikipedia.org/wiki/Emily_Davison?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Emily_Davison?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Emily_Davison"
+      },
+      "mobile": {
+        "page": "https://en.wikipedia.org/wiki/Emily_Davison",
+        "revisions": "https://en.wikipedia.org/wiki/Special:History/Emily_Davison",
+        "edit": "https://en.wikipedia.org/wiki/Emily_Davison?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Emily_Davison"
+      }
+    },
+    "extract": "Emily Wilding Davison was an English suffragette who fought for votes for women in Britain in the early twentieth century. A member of the Women's Social and Political Union (WSPU) and a militant fighter for her cause, she was arrested on nine occasions, went on hunger strike seven times and was force-fed on forty-nine occasions. She died after being hit by King George V's horse Anmer at the 1913 Derby when she walked onto the track during the race.",
+    "extract_html": "<p><b>Emily Wilding Davison</b> was an English suffragette who fought for votes for women in Britain in the early twentieth century. A member of the Women's Social and Political Union (WSPU) and a militant fighter for her cause, she was arrested on nine occasions, went on hunger strike seven times and was force-fed on forty-nine occasions. She died after being hit by King George V's horse Anmer at the 1913 Derby when she walked onto the track during the race.</p>"
+  }
+}

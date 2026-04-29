@@ -1,0 +1,63 @@
+{
+  "slug": "Alice_C._Evans__National_Photo_Company_portrait__circa_1915",
+  "name": "Alice Catherine Evans",
+  "description": "American microbiologist (1881–1975)",
+  "summary": "Alice Catherine Evans was an American microbiologist. She became a researcher at the U.S. Department of Agriculture where she investigated bacteriology in milk and cheese. She proved that Bacillus abortus caused the disease brucellosis in both cattle and humans, which led to the pasteurization of milk in the US in 1930. Evans was the first woman president elected by the Society of American Bacteriologists.",
+  "image_local": "images/Alice_C._Evans__National_Photo_Company_portrait__circa_1915.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Alice_C._Evans%2C_National_Photo_Company_portrait%2C_circa_1915.jpg/800px-Alice_C._Evans%2C_National_Photo_Company_portrait%2C_circa_1915.jpg",
+  "portrait_date": "ca. 1915",
+  "original_caption": "Alice C. Evans, circa 1915",
+  "extracted_name": "Alice C. Evans",
+  "wikipedia_title": "Alice Catherine Evans",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Alice_Catherine_Evans",
+  "commons_file_page": "https://commons.wikimedia.org/wiki/File:Alice_C._Evans,_National_Photo_Company_portrait,_circa_1915.jpg",
+  "wikipedia_summary": {
+    "type": "standard",
+    "title": "Alice Catherine Evans",
+    "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Alice Catherine Evans</span></span>",
+    "namespace": {
+      "id": 0,
+      "text": ""
+    },
+    "wikibase_item": "Q4725769",
+    "titles": {
+      "canonical": "Alice_Catherine_Evans",
+      "normalized": "Alice Catherine Evans",
+      "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Alice Catherine Evans</span></span>"
+    },
+    "pageid": 11748811,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Alice_C._Evans%2C_National_Photo_Company_portrait%2C_circa_1915.jpg/330px-Alice_C._Evans%2C_National_Photo_Company_portrait%2C_circa_1915.jpg",
+      "width": 330,
+      "height": 275
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Alice_C._Evans%2C_National_Photo_Company_portrait%2C_circa_1915.jpg/3840px-Alice_C._Evans%2C_National_Photo_Company_portrait%2C_circa_1915.jpg",
+      "width": 6015,
+      "height": 5008
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1344002912",
+    "tid": "187ed23d-222e-11f1-a9fa-0e63d78dc196",
+    "timestamp": "2026-03-17T18:21:20Z",
+    "description": "American microbiologist (1881–1975)",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Alice_Catherine_Evans",
+        "revisions": "https://en.wikipedia.org/wiki/Alice_Catherine_Evans?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Alice_Catherine_Evans?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Alice_Catherine_Evans"
+      },
+      "mobile": {
+        "page": "https://en.wikipedia.org/wiki/Alice_Catherine_Evans",
+        "revisions": "https://en.wikipedia.org/wiki/Special:History/Alice_Catherine_Evans",
+        "edit": "https://en.wikipedia.org/wiki/Alice_Catherine_Evans?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Alice_Catherine_Evans"
+      }
+    },
+    "extract": "Alice Catherine Evans was an American microbiologist. She became a researcher at the U.S. Department of Agriculture where she investigated bacteriology in milk and cheese. She proved that Bacillus abortus caused the disease brucellosis in both cattle and humans, which led to the pasteurization of milk in the US in 1930. Evans was the first woman president elected by the Society of American Bacteriologists.",
+    "extract_html": "<p><b>Alice Catherine Evans</b> was an American microbiologist. She became a researcher at the U.S. Department of Agriculture where she investigated bacteriology in milk and cheese. She proved that <i>Bacillus abortus</i> caused the disease brucellosis in both cattle and humans, which led to the pasteurization of milk in the US in 1930. Evans was the first woman president elected by the Society of American Bacteriologists.</p>"
+  }
+}

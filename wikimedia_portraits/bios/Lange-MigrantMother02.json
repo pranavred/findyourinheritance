@@ -1,0 +1,63 @@
+{
+  "slug": "Lange-MigrantMother02",
+  "name": "Migrant Mother",
+  "description": "1936 photograph by Dorothea Lange",
+  "summary": "Migrant Mother is a photograph taken in 1936 in Nipomo, California, by American photographer Dorothea Lange during her time with the Resettlement Administration. The 28.3 by 21.8 cm gelatin silver print depicts a mother anxiously gazing into the distance, with an infant in her lap and two older children huddling close by. The photo captures the plight of migrant farm workers who arrived in California en masse looking for employment during the Great Depression. Initially anonymous, the woman in the photo was identified as Florence Owens Thompson in 1978, following the work of a journalist for the California-based newspaper The Modesto Bee.",
+  "image_local": "images/Lange-MigrantMother02.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Lange-MigrantMother02.jpg/800px-Lange-MigrantMother02.jpg",
+  "portrait_date": "1936",
+  "original_caption": "Migrant Mother by D. Lange",
+  "extracted_name": "Migrant Mother",
+  "wikipedia_title": "Migrant Mother",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Migrant_Mother",
+  "commons_file_page": "https://commons.wikimedia.org/wiki/File:Lange-MigrantMother02.jpg",
+  "wikipedia_summary": {
+    "type": "standard",
+    "title": "Migrant Mother",
+    "displaytitle": "<i>Migrant Mother</i>",
+    "namespace": {
+      "id": 0,
+      "text": ""
+    },
+    "wikibase_item": "Q3332083",
+    "titles": {
+      "canonical": "Migrant_Mother",
+      "normalized": "Migrant Mother",
+      "display": "<i>Migrant Mother</i>"
+    },
+    "pageid": 52535046,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Lange-MigrantMother02.jpg/330px-Lange-MigrantMother02.jpg",
+      "width": 330,
+      "height": 429
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Lange-MigrantMother02.jpg/3840px-Lange-MigrantMother02.jpg",
+      "width": 6205,
+      "height": 8066
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1351496885",
+    "tid": "e067b49d-42e6-11f1-8918-0bff7d8510ac",
+    "timestamp": "2026-04-28T09:44:40Z",
+    "description": "1936 photograph by Dorothea Lange",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Migrant_Mother",
+        "revisions": "https://en.wikipedia.org/wiki/Migrant_Mother?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Migrant_Mother?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Migrant_Mother"
+      },
+      "mobile": {
+        "page": "https://en.wikipedia.org/wiki/Migrant_Mother",
+        "revisions": "https://en.wikipedia.org/wiki/Special:History/Migrant_Mother",
+        "edit": "https://en.wikipedia.org/wiki/Migrant_Mother?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Migrant_Mother"
+      }
+    },
+    "extract": "Migrant Mother is a photograph taken in 1936 in Nipomo, California, by American photographer Dorothea Lange during her time with the Resettlement Administration. The 28.3 by 21.8 cm gelatin silver print depicts a mother anxiously gazing into the distance, with an infant in her lap and two older children huddling close by. The photo captures the plight of migrant farm workers who arrived in California en masse looking for employment during the Great Depression. Initially anonymous, the woman in the photo was identified as Florence Owens Thompson in 1978, following the work of a journalist for the California-based newspaper The Modesto Bee.",
+    "extract_html": "<p><i><b>Migrant Mother</b></i> is a photograph taken in 1936 in Nipomo, California, by American photographer Dorothea Lange during her time with the Resettlement Administration. The 28.3 by 21.8 cm gelatin silver print depicts a mother anxiously gazing into the distance, with an infant in her lap and two older children huddling close by. The photo captures the plight of migrant farm workers who arrived in California <i>en masse</i> looking for employment during the Great Depression. Initially anonymous, the woman in the photo was identified as Florence Owens Thompson in 1978, following the work of a journalist for the California-based newspaper <i>The Modesto Bee</i>.</p>"
+  }
+}

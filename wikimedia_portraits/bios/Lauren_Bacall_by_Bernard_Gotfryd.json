@@ -1,0 +1,63 @@
+{
+  "slug": "Lauren_Bacall_by_Bernard_Gotfryd",
+  "name": "Lauren Bacall",
+  "description": "American actress (1924–2014)",
+  "summary": "Betty Joan Perske, known professionally as Lauren Bacall, was an American actress. She was named the 20th-greatest female star of classic Hollywood cinema by the American Film Institute and was one of the last surviving major stars from the Golden Age of Hollywood cinema. She received an Academy Honorary Award in 2009 in recognition of her contribution to the Golden Age of motion pictures.",
+  "image_local": "images/Lauren_Bacall_by_Bernard_Gotfryd.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Lauren_Bacall_by_Bernard_Gotfryd.jpg/800px-Lauren_Bacall_by_Bernard_Gotfryd.jpg",
+  "portrait_date": "c. 1976-1979",
+  "original_caption": "Lauren Bacall by Bernard Gotfryd",
+  "extracted_name": "Lauren Bacall",
+  "wikipedia_title": "Lauren Bacall",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Lauren_Bacall",
+  "commons_file_page": "https://commons.wikimedia.org/wiki/File:Lauren_Bacall_by_Bernard_Gotfryd.jpg",
+  "wikipedia_summary": {
+    "type": "standard",
+    "title": "Lauren Bacall",
+    "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Lauren Bacall</span></span>",
+    "namespace": {
+      "id": 0,
+      "text": ""
+    },
+    "wikibase_item": "Q104000",
+    "titles": {
+      "canonical": "Lauren_Bacall",
+      "normalized": "Lauren Bacall",
+      "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Lauren Bacall</span></span>"
+    },
+    "pageid": 261087,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Lauren_Bacall_1945_press_photo.jpg/330px-Lauren_Bacall_1945_press_photo.jpg",
+      "width": 330,
+      "height": 425
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/7/76/Lauren_Bacall_1945_press_photo.jpg",
+      "width": 776,
+      "height": 1000
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1349606505",
+    "tid": "a79f32b7-3ad1-11f1-a064-f5c6a909d09c",
+    "timestamp": "2026-04-18T02:52:36Z",
+    "description": "American actress (1924–2014)",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Lauren_Bacall",
+        "revisions": "https://en.wikipedia.org/wiki/Lauren_Bacall?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Lauren_Bacall?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Lauren_Bacall"
+      },
+      "mobile": {
+        "page": "https://en.wikipedia.org/wiki/Lauren_Bacall",
+        "revisions": "https://en.wikipedia.org/wiki/Special:History/Lauren_Bacall",
+        "edit": "https://en.wikipedia.org/wiki/Lauren_Bacall?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Lauren_Bacall"
+      }
+    },
+    "extract": "Betty Joan Perske, known professionally as Lauren Bacall, was an American actress. She was named the 20th-greatest female star of classic Hollywood cinema by the American Film Institute and was one of the last surviving major stars from the Golden Age of Hollywood cinema. She received an Academy Honorary Award in 2009 in recognition of her contribution to the Golden Age of motion pictures.",
+    "extract_html": "<p><b>Betty Joan Perske</b>, known professionally as <b>Lauren Bacall</b>, was an American actress. She was named the 20th-greatest female star of classic Hollywood cinema by the American Film Institute and was one of the last surviving major stars from the Golden Age of Hollywood cinema. She received an Academy Honorary Award in 2009 in recognition of her contribution to the Golden Age of motion pictures.</p>"
+  }
+}

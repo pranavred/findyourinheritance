@@ -1,0 +1,63 @@
+{
+  "slug": "Cary_Grant__1932",
+  "name": "Cary Grant",
+  "description": "British-American actor (1904–1986)",
+  "summary": "Cary Grant was an English-American actor. Known for his blended British and American accent, debonair demeanor, lighthearted approach to acting, and sense of comic timing, he was one of classic Hollywood's definitive leading men. He was nominated twice for the Academy Award, received an Academy Honorary Award in 1970, and received the Kennedy Center Honor in 1981. He was named the second-greatest male star of the Golden Age of Hollywood by the American Film Institute in 1999.",
+  "image_local": "images/Cary_Grant__1932.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Cary_Grant%2C_1932.jpg/800px-Cary_Grant%2C_1932.jpg",
+  "portrait_date": "",
+  "original_caption": "Cary Grant, 1932",
+  "extracted_name": "Cary Grant",
+  "wikipedia_title": "Cary Grant",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Cary_Grant",
+  "commons_file_page": "https://commons.wikimedia.org/wiki/File:Cary_Grant,_1932.jpg",
+  "wikipedia_summary": {
+    "type": "standard",
+    "title": "Cary Grant",
+    "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Cary Grant</span></span>",
+    "namespace": {
+      "id": 0,
+      "text": ""
+    },
+    "wikibase_item": "Q83410",
+    "titles": {
+      "canonical": "Cary_Grant",
+      "normalized": "Cary Grant",
+      "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Cary Grant</span></span>"
+    },
+    "pageid": 38965,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Cary_Grant_%281958%29.jpg/330px-Cary_Grant_%281958%29.jpg",
+      "width": 330,
+      "height": 443
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/2/28/Cary_Grant_%281958%29.jpg",
+      "width": 1743,
+      "height": 2340
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1351557785",
+    "tid": "598cf8e9-4333-11f1-a23d-c8ed57d046fe",
+    "timestamp": "2026-04-28T18:52:05Z",
+    "description": "British-American actor (1904–1986)",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Cary_Grant",
+        "revisions": "https://en.wikipedia.org/wiki/Cary_Grant?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Cary_Grant?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Cary_Grant"
+      },
+      "mobile": {
+        "page": "https://en.wikipedia.org/wiki/Cary_Grant",
+        "revisions": "https://en.wikipedia.org/wiki/Special:History/Cary_Grant",
+        "edit": "https://en.wikipedia.org/wiki/Cary_Grant?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Cary_Grant"
+      }
+    },
+    "extract": "Cary Grant was an English-American actor. Known for his blended British and American accent, debonair demeanor, lighthearted approach to acting, and sense of comic timing, he was one of classic Hollywood's definitive leading men. He was nominated twice for the Academy Award, received an Academy Honorary Award in 1970, and received the Kennedy Center Honor in 1981. He was named the second-greatest male star of the Golden Age of Hollywood by the American Film Institute in 1999.",
+    "extract_html": "<p><b>Cary Grant</b> was an English-American actor. Known for his blended British and American accent, debonair demeanor, lighthearted approach to acting, and sense of comic timing, he was one of classic Hollywood's definitive leading men. He was nominated twice for the Academy Award, received an Academy Honorary Award in 1970, and received the Kennedy Center Honor in 1981. He was named the second-greatest male star of the Golden Age of Hollywood by the American Film Institute in 1999.</p>"
+  }
+}

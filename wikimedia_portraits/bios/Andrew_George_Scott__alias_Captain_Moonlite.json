@@ -1,0 +1,63 @@
+{
+  "slug": "Andrew_George_Scott__alias_Captain_Moonlite",
+  "name": "Captain Moonlite",
+  "description": "Australian bushranger (1842–1880)",
+  "summary": "Andrew George Scott, also known as Captain Moonlite, though also referred to as Alexander Charles Scott and Captain Moonlight, was an Irish-born New Zealand immigrant to the Colony of Victoria, a bushranger there and in the Colony of New South Wales, and an eventual and current day Australian folk figure.",
+  "image_local": "images/Andrew_George_Scott__alias_Captain_Moonlite.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Andrew_George_Scott%2C_alias_Captain_Moonlite.jpg/800px-Andrew_George_Scott%2C_alias_Captain_Moonlite.jpg",
+  "portrait_date": "ca. 1879",
+  "original_caption": "Andrew George Scott, alias Captain Moonlite",
+  "extracted_name": "Andrew George Scott",
+  "wikipedia_title": "Captain Moonlite",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Captain_Moonlite",
+  "commons_file_page": "https://commons.wikimedia.org/wiki/File:Andrew_George_Scott,_alias_Captain_Moonlite.jpg",
+  "wikipedia_summary": {
+    "type": "standard",
+    "title": "Captain Moonlite",
+    "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Captain Moonlite</span></span>",
+    "namespace": {
+      "id": 0,
+      "text": ""
+    },
+    "wikibase_item": "Q5036742",
+    "titles": {
+      "canonical": "Captain_Moonlite",
+      "normalized": "Captain Moonlite",
+      "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Captain Moonlite</span></span>"
+    },
+    "pageid": 5926656,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Andrew_George_Scott%2C_alias_Captain_Moonlite.jpg/330px-Andrew_George_Scott%2C_alias_Captain_Moonlite.jpg",
+      "width": 330,
+      "height": 527
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Andrew_George_Scott%2C_alias_Captain_Moonlite.jpg",
+      "width": 1861,
+      "height": 2974
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1348440968",
+    "tid": "7c63b4e3-3699-11f1-8a4f-9276d6a809f4",
+    "timestamp": "2026-04-12T18:00:27Z",
+    "description": "Australian bushranger (1842–1880)",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Captain_Moonlite",
+        "revisions": "https://en.wikipedia.org/wiki/Captain_Moonlite?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Captain_Moonlite?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Captain_Moonlite"
+      },
+      "mobile": {
+        "page": "https://en.wikipedia.org/wiki/Captain_Moonlite",
+        "revisions": "https://en.wikipedia.org/wiki/Special:History/Captain_Moonlite",
+        "edit": "https://en.wikipedia.org/wiki/Captain_Moonlite?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Captain_Moonlite"
+      }
+    },
+    "extract": "Andrew George Scott, also known as Captain Moonlite, though also referred to as Alexander Charles Scott and Captain Moonlight, was an Irish-born New Zealand immigrant to the Colony of Victoria, a bushranger there and in the Colony of New South Wales, and an eventual and current day Australian folk figure.",
+    "extract_html": "<p><b>Andrew George Scott</b>, also known as <b>Captain Moonlite</b>, though also referred to as <b>Alexander Charles Scott</b> and <b>Captain Moonlight</b>, was an Irish-born New Zealand immigrant to the Colony of Victoria, a bushranger there and in the Colony of New South Wales, and an eventual and current day Australian folk figure.</p>"
+  }
+}

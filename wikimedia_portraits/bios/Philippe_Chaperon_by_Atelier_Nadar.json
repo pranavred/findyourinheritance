@@ -1,0 +1,63 @@
+{
+  "slug": "Philippe_Chaperon_by_Atelier_Nadar",
+  "name": "Philippe Chaperon",
+  "description": "French painter and scenographer",
+  "summary": "Philippe Chaperon was a French painter and scenic designer, particularly known for his work at the Paris Opera. He produced stage designs for the premieres of numerous 19th-century operas, including Verdi's Don Carlos and Aida, Massenet's Le Cid, Saint-Saëns's Henri VIII, part two of Berlioz's Les Troyens and the first performances in France of Verdi's Otello and Rigoletto and Wagner's Tannhäuser.",
+  "image_local": "images/Philippe_Chaperon_by_Atelier_Nadar.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Philippe_Chaperon_by_Atelier_Nadar.jpg/800px-Philippe_Chaperon_by_Atelier_Nadar.jpg",
+  "portrait_date": "1900",
+  "original_caption": "Philippe Chaperon by Atelier Nadar",
+  "extracted_name": "Philippe Chaperon",
+  "wikipedia_title": "Philippe Chaperon",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Philippe_Chaperon",
+  "commons_file_page": "https://commons.wikimedia.org/wiki/File:Philippe_Chaperon_by_Atelier_Nadar.jpg",
+  "wikipedia_summary": {
+    "type": "standard",
+    "title": "Philippe Chaperon",
+    "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Philippe Chaperon</span></span>",
+    "namespace": {
+      "id": 0,
+      "text": ""
+    },
+    "wikibase_item": "Q26241155",
+    "titles": {
+      "canonical": "Philippe_Chaperon",
+      "normalized": "Philippe Chaperon",
+      "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Philippe Chaperon</span></span>"
+    },
+    "pageid": 59852338,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Philippe_Chaperon_by_Atelier_Nadar.jpg/330px-Philippe_Chaperon_by_Atelier_Nadar.jpg",
+      "width": 330,
+      "height": 472
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Philippe_Chaperon_by_Atelier_Nadar.jpg",
+      "width": 2426,
+      "height": 3468
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1350792923",
+    "tid": "0e18cc61-3f82-11f1-8056-392ce055681f",
+    "timestamp": "2026-04-24T02:05:24Z",
+    "description": "French painter and scenographer",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Philippe_Chaperon",
+        "revisions": "https://en.wikipedia.org/wiki/Philippe_Chaperon?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Philippe_Chaperon?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Philippe_Chaperon"
+      },
+      "mobile": {
+        "page": "https://en.wikipedia.org/wiki/Philippe_Chaperon",
+        "revisions": "https://en.wikipedia.org/wiki/Special:History/Philippe_Chaperon",
+        "edit": "https://en.wikipedia.org/wiki/Philippe_Chaperon?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Philippe_Chaperon"
+      }
+    },
+    "extract": "Philippe Chaperon was a French painter and scenic designer, particularly known for his work at the Paris Opera. He produced stage designs for the premieres of numerous 19th-century operas, including Verdi's Don Carlos and Aida, Massenet's Le Cid, Saint-Saëns's Henri VIII, part two of Berlioz's Les Troyens and the first performances in France of Verdi's Otello and Rigoletto and Wagner's Tannhäuser.",
+    "extract_html": "<p><b>Philippe Chaperon</b> was a French painter and scenic designer, particularly known for his work at the Paris Opera. He produced stage designs for the premieres of numerous 19th-century operas, including Verdi's <i>Don Carlos</i> and <i>Aida</i>, Massenet's <i>Le Cid</i>, Saint-Saëns's <i>Henri VIII</i>, part two of Berlioz's <i>Les Troyens</i> and the first performances in France of Verdi's <i>Otello</i> and <i>Rigoletto</i> and Wagner's <i>Tannhäuser</i>.</p>"
+  }
+}

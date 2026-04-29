@@ -1,0 +1,63 @@
+{
+  "slug": "Cabinet_card_of_William_Howard_Taft_by_Pach_Brothers_-__fee8dafa",
+  "name": "William Howard Taft",
+  "description": "President of the United States from 1909 to 1913",
+  "summary": "William Howard Taft was the 27th president of the United States from 1909 to 1913 and the tenth chief justice of the United States from 1921 to 1930. He is the only person to have held both offices.",
+  "image_local": "images/Cabinet_card_of_William_Howard_Taft_by_Pach_Brothers_-__fee8dafa.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Cabinet_card_of_William_Howard_Taft_by_Pach_Brothers_-_Cropped_to_image.jpg/800px-Cabinet_card_of_William_Howard_Taft_by_Pach_Brothers_-_Cropped_to_image.jpg",
+  "portrait_date": "",
+  "original_caption": "Cabinet card of William Howard Taft by Pach Brothers - Cropped to image",
+  "extracted_name": "William Howard Taft",
+  "wikipedia_title": "William Howard Taft",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/William_Howard_Taft",
+  "commons_file_page": "https://commons.wikimedia.org/wiki/File:Cabinet_card_of_William_Howard_Taft_by_Pach_Brothers_-_Cropped_to_image.jpg",
+  "wikipedia_summary": {
+    "type": "standard",
+    "title": "William Howard Taft",
+    "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">William Howard Taft</span></span>",
+    "namespace": {
+      "id": 0,
+      "text": ""
+    },
+    "wikibase_item": "Q35648",
+    "titles": {
+      "canonical": "William_Howard_Taft",
+      "normalized": "William Howard Taft",
+      "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">William Howard Taft</span></span>"
+    },
+    "pageid": 33522,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/William_Howard_Taft_by_Pach_Brothers_%283x4_ropped%29_%28cropped%29.jpg/330px-William_Howard_Taft_by_Pach_Brothers_%283x4_ropped%29_%28cropped%29.jpg",
+      "width": 330,
+      "height": 413
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/William_Howard_Taft_by_Pach_Brothers_%283x4_ropped%29_%28cropped%29.jpg/3840px-William_Howard_Taft_by_Pach_Brothers_%283x4_ropped%29_%28cropped%29.jpg",
+      "width": 3988,
+      "height": 4985
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1350843837",
+    "tid": "134e3948-3fcb-11f1-8ebc-878773910562",
+    "timestamp": "2026-04-24T10:48:06Z",
+    "description": "President of the United States from 1909 to 1913",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/William_Howard_Taft",
+        "revisions": "https://en.wikipedia.org/wiki/William_Howard_Taft?action=history",
+        "edit": "https://en.wikipedia.org/wiki/William_Howard_Taft?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:William_Howard_Taft"
+      },
+      "mobile": {
+        "page": "https://en.wikipedia.org/wiki/William_Howard_Taft",
+        "revisions": "https://en.wikipedia.org/wiki/Special:History/William_Howard_Taft",
+        "edit": "https://en.wikipedia.org/wiki/William_Howard_Taft?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:William_Howard_Taft"
+      }
+    },
+    "extract": "William Howard Taft was the 27th president of the United States from 1909 to 1913 and the tenth chief justice of the United States from 1921 to 1930. He is the only person to have held both offices.",
+    "extract_html": "<p><b>William Howard Taft</b> was the 27th president of the United States from 1909 to 1913 and the tenth chief justice of the United States from 1921 to 1930. He is the only person to have held both offices.</p>"
+  }
+}

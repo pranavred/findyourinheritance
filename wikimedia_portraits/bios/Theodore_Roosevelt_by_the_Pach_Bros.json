@@ -1,0 +1,63 @@
+{
+  "slug": "Theodore_Roosevelt_by_the_Pach_Bros",
+  "name": "Theodore Roosevelt",
+  "description": "President of the United States from 1901 to 1909",
+  "summary": "Theodore Roosevelt Jr. was the 26th president of the United States from 1901 to 1909. Roosevelt was vice president for six months under William McKinley and became president after McKinley's assassination in 1901. He was 42 years old upon his first inauguration, making him the youngest person to hold the office.",
+  "image_local": "images/Theodore_Roosevelt_by_the_Pach_Bros.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Theodore_Roosevelt_by_the_Pach_Bros.jpg/800px-Theodore_Roosevelt_by_the_Pach_Bros.jpg",
+  "portrait_date": "",
+  "original_caption": "Theodore Roosevelt by the Pach Bros",
+  "extracted_name": "Theodore Roosevelt",
+  "wikipedia_title": "Theodore Roosevelt",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Theodore_Roosevelt",
+  "commons_file_page": "https://commons.wikimedia.org/wiki/File:Theodore_Roosevelt_by_the_Pach_Bros.jpg",
+  "wikipedia_summary": {
+    "type": "standard",
+    "title": "Theodore Roosevelt",
+    "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Theodore Roosevelt</span></span>",
+    "namespace": {
+      "id": 0,
+      "text": ""
+    },
+    "wikibase_item": "Q33866",
+    "titles": {
+      "canonical": "Theodore_Roosevelt",
+      "normalized": "Theodore Roosevelt",
+      "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Theodore Roosevelt</span></span>"
+    },
+    "pageid": 30535,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Theodore_Roosevelt_by_the_Pach_Bros_%284x5_cropped%29.jpg/330px-Theodore_Roosevelt_by_the_Pach_Bros_%284x5_cropped%29.jpg",
+      "width": 330,
+      "height": 413
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Theodore_Roosevelt_by_the_Pach_Bros_%284x5_cropped%29.jpg",
+      "width": 2680,
+      "height": 3355
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1351261438",
+    "tid": "af4392d5-41c5-11f1-af3c-8243dd0cdde2",
+    "timestamp": "2026-04-26T23:14:33Z",
+    "description": "President of the United States from 1901 to 1909",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Theodore_Roosevelt",
+        "revisions": "https://en.wikipedia.org/wiki/Theodore_Roosevelt?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Theodore_Roosevelt?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Theodore_Roosevelt"
+      },
+      "mobile": {
+        "page": "https://en.wikipedia.org/wiki/Theodore_Roosevelt",
+        "revisions": "https://en.wikipedia.org/wiki/Special:History/Theodore_Roosevelt",
+        "edit": "https://en.wikipedia.org/wiki/Theodore_Roosevelt?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Theodore_Roosevelt"
+      }
+    },
+    "extract": "Theodore Roosevelt Jr. was the 26th president of the United States from 1901 to 1909. Roosevelt was vice president for six months under William McKinley and became president after McKinley's assassination in 1901. He was 42 years old upon his first inauguration, making him the youngest person to hold the office.",
+    "extract_html": "<p><b>Theodore Roosevelt Jr.</b> was the 26th president of the United States from 1901 to 1909. Roosevelt was vice president for six months under William McKinley and became president after McKinley's assassination in 1901. He was 42 years old upon his first inauguration, making him the youngest person to hold the office.</p>"
+  }
+}

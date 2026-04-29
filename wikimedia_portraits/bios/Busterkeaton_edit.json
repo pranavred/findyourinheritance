@@ -1,0 +1,63 @@
+{
+  "slug": "Busterkeaton_edit",
+  "name": "Buster Keaton",
+  "description": "American actor and filmmaker (1895–1966)",
+  "summary": "Joseph Frank \"Buster\" Keaton was an American actor, comedian and filmmaker. He is best known for his silent films during the 1920s, in which he performed physical comedy and inventive stunts. He frequently maintained a stoic, deadpan facial expression that became his trademark and earned him the nickname \"The Great Stone Face\".",
+  "image_local": "images/Busterkeaton_edit.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Busterkeaton_edit.jpg/800px-Busterkeaton_edit.jpg",
+  "portrait_date": "",
+  "original_caption": "Buster Keaton, 1920",
+  "extracted_name": "Buster Keaton",
+  "wikipedia_title": "Buster Keaton",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Buster_Keaton",
+  "commons_file_page": "https://commons.wikimedia.org/wiki/File:Busterkeaton_edit.jpg",
+  "wikipedia_summary": {
+    "type": "standard",
+    "title": "Buster Keaton",
+    "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Buster Keaton</span></span>",
+    "namespace": {
+      "id": 0,
+      "text": ""
+    },
+    "wikibase_item": "Q103949",
+    "titles": {
+      "canonical": "Buster_Keaton",
+      "normalized": "Buster Keaton",
+      "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Buster Keaton</span></span>"
+    },
+    "pageid": 43055,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Busterkeaton_edit.jpg/330px-Busterkeaton_edit.jpg",
+      "width": 330,
+      "height": 473
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Busterkeaton_edit.jpg/3840px-Busterkeaton_edit.jpg",
+      "width": 4182,
+      "height": 5990
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1349736627",
+    "tid": "e11784b4-3b51-11f1-bf6c-51baae578ac3",
+    "timestamp": "2026-04-18T18:10:28Z",
+    "description": "American actor and filmmaker (1895–1966)",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Buster_Keaton",
+        "revisions": "https://en.wikipedia.org/wiki/Buster_Keaton?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Buster_Keaton?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Buster_Keaton"
+      },
+      "mobile": {
+        "page": "https://en.wikipedia.org/wiki/Buster_Keaton",
+        "revisions": "https://en.wikipedia.org/wiki/Special:History/Buster_Keaton",
+        "edit": "https://en.wikipedia.org/wiki/Buster_Keaton?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Buster_Keaton"
+      }
+    },
+    "extract": "Joseph Frank \"Buster\" Keaton was an American actor, comedian and filmmaker. He is best known for his silent films during the 1920s, in which he performed physical comedy and inventive stunts. He frequently maintained a stoic, deadpan facial expression that became his trademark and earned him the nickname \"The Great Stone Face\".",
+    "extract_html": "<p><b>Joseph Frank</b> \"<b>Buster</b>\" <b>Keaton</b> was an American actor, comedian and filmmaker. He is best known for his silent films during the 1920s, in which he performed physical comedy and inventive stunts. He frequently maintained a stoic, deadpan facial expression that became his trademark and earned him the nickname \"The Great Stone Face\".</p>"
+  }
+}

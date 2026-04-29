@@ -1,0 +1,63 @@
+{
+  "slug": "tienne_Carjat__Portrait_of_Charles_Baudelaire__circa_1862",
+  "name": "Étienne Carjat",
+  "description": "French artist (1828–1906)",
+  "summary": "Étienne Carjat was a French journalist, caricaturist and photographer. He co-founded the magazine Le Diogène, and founded the review Le Boulevard. He is best known for his numerous portraits and caricatures of political, literary and artistic Parisian figures. His best-known work is the iconic portrait of Arthur Rimbaud which he took in October 1871. The location of much of his photography is untraceable after being sold to a Mr. Roth in 1923.",
+  "image_local": "images/tienne_Carjat__Portrait_of_Charles_Baudelaire__circa_1862.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/%C3%89tienne_Carjat%2C_Portrait_of_Charles_Baudelaire%2C_circa_1862.jpg/800px-%C3%89tienne_Carjat%2C_Portrait_of_Charles_Baudelaire%2C_circa_1862.jpg",
+  "portrait_date": "1862",
+  "original_caption": "Étienne Carjat, Portrait of Charles Baudelaire",
+  "extracted_name": "Étienne Carjat",
+  "wikipedia_title": "Étienne Carjat",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/%C3%89tienne_Carjat",
+  "commons_file_page": "https://commons.wikimedia.org/wiki/File:%C3%89tienne_Carjat,_Portrait_of_Charles_Baudelaire,_circa_1862.jpg",
+  "wikipedia_summary": {
+    "type": "standard",
+    "title": "Étienne Carjat",
+    "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Étienne Carjat</span></span>",
+    "namespace": {
+      "id": 0,
+      "text": ""
+    },
+    "wikibase_item": "Q2442116",
+    "titles": {
+      "canonical": "Étienne_Carjat",
+      "normalized": "Étienne Carjat",
+      "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Étienne Carjat</span></span>"
+    },
+    "pageid": 21491820,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Carjat_by_Carjat_BNF_Gallica.jpg/330px-Carjat_by_Carjat_BNF_Gallica.jpg",
+      "width": 330,
+      "height": 521
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Carjat_by_Carjat_BNF_Gallica.jpg",
+      "width": 1003,
+      "height": 1584
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1328705273",
+    "tid": "cd8736bc-de5d-11f0-8dc2-6b514ecfb8f9",
+    "timestamp": "2025-12-21T11:11:31Z",
+    "description": "French artist (1828–1906)",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/%C3%89tienne_Carjat",
+        "revisions": "https://en.wikipedia.org/wiki/%C3%89tienne_Carjat?action=history",
+        "edit": "https://en.wikipedia.org/wiki/%C3%89tienne_Carjat?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:%C3%89tienne_Carjat"
+      },
+      "mobile": {
+        "page": "https://en.wikipedia.org/wiki/%C3%89tienne_Carjat",
+        "revisions": "https://en.wikipedia.org/wiki/Special:History/%C3%89tienne_Carjat",
+        "edit": "https://en.wikipedia.org/wiki/%C3%89tienne_Carjat?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:%C3%89tienne_Carjat"
+      }
+    },
+    "extract": "Étienne Carjat was a French journalist, caricaturist and photographer. He co-founded the magazine Le Diogène, and founded the review Le Boulevard. He is best known for his numerous portraits and caricatures of political, literary and artistic Parisian figures. His best-known work is the iconic portrait of Arthur Rimbaud which he took in October 1871. The location of much of his photography is untraceable after being sold to a Mr. Roth in 1923.",
+    "extract_html": "<p><b>Étienne Carjat</b> was a French journalist, caricaturist and photographer. He co-founded the magazine <i>Le Diogène</i>, and founded the review <span><i lang=\"fr\">Le Boulevard</i></span>. He is best known for his numerous portraits and caricatures of political, literary and artistic Parisian figures. His best-known work is the iconic portrait of Arthur Rimbaud which he took in October 1871. The location of much of his photography is untraceable after being sold to a Mr. Roth in 1923.</p>"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "slug": "Margaret_D._Foster__in_Lab__4_October_1919",
+  "name": "Margaret D. Foster",
+  "description": "American chemist (1895–1970)",
+  "summary": "Margaret Dorothy Foster was an American chemist. She worked for the United States Geological Survey, and was recruited to work on the Manhattan Project. She wrote dozens of research papers on the chemistry of the natural world and assaying methods.",
+  "image_local": "images/Margaret_D._Foster__in_Lab__4_October_1919.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Margaret_D._Foster%2C_in_Lab%2C_4_October_1919.jpg/800px-Margaret_D._Foster%2C_in_Lab%2C_4_October_1919.jpg",
+  "portrait_date": "1919",
+  "original_caption": "Margaret D. Foster, in Lab, 4 October 1919",
+  "extracted_name": "Margaret D. Foster",
+  "wikipedia_title": "Margaret D. Foster",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Margaret_D._Foster",
+  "commons_file_page": "https://commons.wikimedia.org/wiki/File:Margaret_D._Foster,_in_Lab,_4_October_1919.jpg",
+  "wikipedia_summary": {
+    "type": "standard",
+    "title": "Margaret D. Foster",
+    "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Margaret D. Foster</span></span>",
+    "namespace": {
+      "id": 0,
+      "text": ""
+    },
+    "wikibase_item": "Q16006757",
+    "titles": {
+      "canonical": "Margaret_D._Foster",
+      "normalized": "Margaret D. Foster",
+      "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Margaret D. Foster</span></span>"
+    },
+    "pageid": 42239032,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Margaret_D._Foster%2C_in_Lab%2C_4_October_1919.jpg/330px-Margaret_D._Foster%2C_in_Lab%2C_4_October_1919.jpg",
+      "width": 330,
+      "height": 278
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Margaret_D._Foster%2C_in_Lab%2C_4_October_1919.jpg/3840px-Margaret_D._Foster%2C_in_Lab%2C_4_October_1919.jpg",
+      "width": 4297,
+      "height": 3625
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1324234256",
+    "tid": "c74da499-cab9-11f0-b089-3c08b4f15a4a",
+    "timestamp": "2025-11-26T11:19:31Z",
+    "description": "American chemist (1895–1970)",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Margaret_D._Foster",
+        "revisions": "https://en.wikipedia.org/wiki/Margaret_D._Foster?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Margaret_D._Foster?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Margaret_D._Foster"
+      },
+      "mobile": {
+        "page": "https://en.wikipedia.org/wiki/Margaret_D._Foster",
+        "revisions": "https://en.wikipedia.org/wiki/Special:History/Margaret_D._Foster",
+        "edit": "https://en.wikipedia.org/wiki/Margaret_D._Foster?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Margaret_D._Foster"
+      }
+    },
+    "extract": "Margaret Dorothy Foster was an American chemist. She worked for the United States Geological Survey, and was recruited to work on the Manhattan Project. She wrote dozens of research papers on the chemistry of the natural world and assaying methods.",
+    "extract_html": "<p><b>Margaret Dorothy Foster</b> was an American chemist. She worked for the United States Geological Survey, and was recruited to work on the Manhattan Project. She wrote dozens of research papers on the chemistry of the natural world and assaying methods.</p>"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "slug": "Alexander_Graham_Bell_1895_NPG_77_363",
+  "name": "Alexander Graham Bell",
+  "description": "Inventor of the telephone (1847–1922)",
+  "summary": "Alexander Graham Bell was a Scottish-born Canadian-American inventor, scientist, and engineer who is credited with patenting the first practical telephone. He also co-founded the American Telephone and Telegraph Company (AT&T) in 1885.",
+  "image_local": "images/Alexander_Graham_Bell_1895_NPG_77_363.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Alexander_Graham_Bell_1895_NPG_77_363.jpg/800px-Alexander_Graham_Bell_1895_NPG_77_363.jpg",
+  "portrait_date": "",
+  "original_caption": "Alexander Graham Bell 1895 NPG 77 363",
+  "extracted_name": "Alexander Graham Bell",
+  "wikipedia_title": "Alexander Graham Bell",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Alexander_Graham_Bell",
+  "commons_file_page": "https://commons.wikimedia.org/wiki/File:Alexander_Graham_Bell_1895_NPG_77_363.jpg",
+  "wikipedia_summary": {
+    "type": "standard",
+    "title": "Alexander Graham Bell",
+    "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Alexander Graham Bell</span></span>",
+    "namespace": {
+      "id": 0,
+      "text": ""
+    },
+    "wikibase_item": "Q34286",
+    "titles": {
+      "canonical": "Alexander_Graham_Bell",
+      "normalized": "Alexander Graham Bell",
+      "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Alexander Graham Bell</span></span>"
+    },
+    "pageid": 852,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Alexander_Graham_Bell_1895_NPG_77_363.jpg/330px-Alexander_Graham_Bell_1895_NPG_77_363.jpg",
+      "width": 330,
+      "height": 489
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Alexander_Graham_Bell_1895_NPG_77_363.jpg/3840px-Alexander_Graham_Bell_1895_NPG_77_363.jpg",
+      "width": 4726,
+      "height": 7001
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1350597628",
+    "tid": "eac22369-3e90-11f1-8348-087c597d700a",
+    "timestamp": "2026-04-22T21:19:16Z",
+    "description": "Inventor of the telephone (1847–1922)",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Alexander_Graham_Bell",
+        "revisions": "https://en.wikipedia.org/wiki/Alexander_Graham_Bell?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Alexander_Graham_Bell?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Alexander_Graham_Bell"
+      },
+      "mobile": {
+        "page": "https://en.wikipedia.org/wiki/Alexander_Graham_Bell",
+        "revisions": "https://en.wikipedia.org/wiki/Special:History/Alexander_Graham_Bell",
+        "edit": "https://en.wikipedia.org/wiki/Alexander_Graham_Bell?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Alexander_Graham_Bell"
+      }
+    },
+    "extract": "Alexander Graham Bell was a Scottish-born Canadian-American inventor, scientist, and engineer who is credited with patenting the first practical telephone. He also co-founded the American Telephone and Telegraph Company (AT&T) in 1885.",
+    "extract_html": "<p><b>Alexander Graham Bell</b> was a Scottish-born Canadian-American inventor, scientist, and engineer who is credited with patenting the first practical telephone. He also co-founded the American Telephone and Telegraph Company (AT&amp;T) in 1885.</p>"
+  }
+}

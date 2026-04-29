@@ -1,0 +1,63 @@
+{
+  "slug": "Alberto_Santos-Dumont_by_Nadar",
+  "name": "Alberto Santos-Dumont",
+  "description": "Brazilian aviation pioneer (1873–1932)",
+  "summary": "Alberto Santos-Dumont was a Brazilian aeronaut, sportsman, inventor, and one of the few people to have contributed significantly to the early development of both lighter-than-air and heavier-than-air aircraft. The heir of a wealthy family of coffee producers, he dedicated himself to aeronautical study and experimentation in Paris, where he spent most of his adult life. He designed, built, and flew the first powered airships and won the Deutsch prize in 1901, when he flew around the Eiffel Tower in his airship No. 6, becoming one of the most famous people in the world in the early 20th century.",
+  "image_local": "images/Alberto_Santos-Dumont_by_Nadar.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Alberto_Santos-Dumont_by_Nadar.jpg/800px-Alberto_Santos-Dumont_by_Nadar.jpg",
+  "portrait_date": "",
+  "original_caption": "Alberto Santos-Dumont by Nadar",
+  "extracted_name": "Alberto Santos-Dumont",
+  "wikipedia_title": "Alberto Santos-Dumont",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Alberto_Santos-Dumont",
+  "commons_file_page": "https://commons.wikimedia.org/wiki/File:Alberto_Santos-Dumont_by_Nadar.jpg",
+  "wikipedia_summary": {
+    "type": "standard",
+    "title": "Alberto Santos-Dumont",
+    "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Alberto Santos-Dumont</span></span>",
+    "namespace": {
+      "id": 0,
+      "text": ""
+    },
+    "wikibase_item": "Q313211",
+    "titles": {
+      "canonical": "Alberto_Santos-Dumont",
+      "normalized": "Alberto Santos-Dumont",
+      "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Alberto Santos-Dumont</span></span>"
+    },
+    "pageid": 152687,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Alberto_Santos-Dumont_by_Zaida_Ben-Yusuf.jpg/330px-Alberto_Santos-Dumont_by_Zaida_Ben-Yusuf.jpg",
+      "width": 330,
+      "height": 435
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/1/18/Alberto_Santos-Dumont_by_Zaida_Ben-Yusuf.jpg",
+      "width": 2395,
+      "height": 3155
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1351423048",
+    "tid": "da89bbda-427d-11f1-8a31-4128265f0ba5",
+    "timestamp": "2026-04-27T21:12:53Z",
+    "description": "Brazilian aviation pioneer (1873–1932)",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Alberto_Santos-Dumont",
+        "revisions": "https://en.wikipedia.org/wiki/Alberto_Santos-Dumont?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Alberto_Santos-Dumont?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Alberto_Santos-Dumont"
+      },
+      "mobile": {
+        "page": "https://en.wikipedia.org/wiki/Alberto_Santos-Dumont",
+        "revisions": "https://en.wikipedia.org/wiki/Special:History/Alberto_Santos-Dumont",
+        "edit": "https://en.wikipedia.org/wiki/Alberto_Santos-Dumont?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Alberto_Santos-Dumont"
+      }
+    },
+    "extract": "Alberto Santos-Dumont was a Brazilian aeronaut, sportsman, inventor, and one of the few people to have contributed significantly to the early development of both lighter-than-air and heavier-than-air aircraft. The heir of a wealthy family of coffee producers, he dedicated himself to aeronautical study and experimentation in Paris, where he spent most of his adult life. He designed, built, and flew the first powered airships and won the Deutsch prize in 1901, when he flew around the Eiffel Tower in his airship No. 6, becoming one of the most famous people in the world in the early 20th century.",
+    "extract_html": "<p><b>Alberto Santos-Dumont</b> was a Brazilian aeronaut, sportsman, inventor, and one of the few people to have contributed significantly to the early development of both lighter-than-air and heavier-than-air aircraft. The heir of a wealthy family of coffee producers, he dedicated himself to aeronautical study and experimentation in Paris, where he spent most of his adult life. He designed, built, and flew the first powered airships and won the Deutsch prize in 1901, when he flew around the Eiffel Tower in his airship No. 6, becoming one of the most famous people in the world in the early 20th century.</p>"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "slug": "Dorothy_Houston_Jacobson_1967",
+  "name": "Dorothy Houston Jacobson",
+  "description": "American political scientist and educator (1907–1985)",
+  "summary": "Dorothy Houston Jacobson was an American political scientist and educator. She was a co-founder and chair of the Minnesota Democratic–Farmer–Labor Party, and served as Assistant Secretary for International Affairs at the United States Department of Agriculture from 1964 to 1969, during the Johnson administration.",
+  "image_local": "images/Dorothy_Houston_Jacobson_1967.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Dorothy_Houston_Jacobson_1967.jpg/800px-Dorothy_Houston_Jacobson_1967.jpg",
+  "portrait_date": "1967",
+  "original_caption": "Dorothy Houston Jacobson",
+  "extracted_name": "Dorothy Houston Jacobson",
+  "wikipedia_title": "Dorothy Houston Jacobson",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Dorothy_Houston_Jacobson",
+  "commons_file_page": "https://commons.wikimedia.org/wiki/File:Dorothy_Houston_Jacobson_1967.jpg",
+  "wikipedia_summary": {
+    "type": "standard",
+    "title": "Dorothy Houston Jacobson",
+    "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Dorothy Houston Jacobson</span></span>",
+    "namespace": {
+      "id": 0,
+      "text": ""
+    },
+    "wikibase_item": "Q111077345",
+    "titles": {
+      "canonical": "Dorothy_Houston_Jacobson",
+      "normalized": "Dorothy Houston Jacobson",
+      "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Dorothy Houston Jacobson</span></span>"
+    },
+    "pageid": 70211762,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Dorothy_Houston_Jacobson_1967_-_Crop.jpg/330px-Dorothy_Houston_Jacobson_1967_-_Crop.jpg",
+      "width": 330,
+      "height": 273
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Dorothy_Houston_Jacobson_1967_-_Crop.jpg/3840px-Dorothy_Houston_Jacobson_1967_-_Crop.jpg",
+      "width": 4681,
+      "height": 3870
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1350759019",
+    "tid": "b7e361f9-3f58-11f1-aca8-5cf682a3b451",
+    "timestamp": "2026-04-23T21:09:30Z",
+    "description": "American political scientist and educator (1907–1985)",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Dorothy_Houston_Jacobson",
+        "revisions": "https://en.wikipedia.org/wiki/Dorothy_Houston_Jacobson?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Dorothy_Houston_Jacobson?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Dorothy_Houston_Jacobson"
+      },
+      "mobile": {
+        "page": "https://en.wikipedia.org/wiki/Dorothy_Houston_Jacobson",
+        "revisions": "https://en.wikipedia.org/wiki/Special:History/Dorothy_Houston_Jacobson",
+        "edit": "https://en.wikipedia.org/wiki/Dorothy_Houston_Jacobson?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Dorothy_Houston_Jacobson"
+      }
+    },
+    "extract": "Dorothy Houston Jacobson was an American political scientist and educator. She was a co-founder and chair of the Minnesota Democratic–Farmer–Labor Party, and served as Assistant Secretary for International Affairs at the United States Department of Agriculture from 1964 to 1969, during the Johnson administration.",
+    "extract_html": "<p><b>Dorothy Houston Jacobson</b> was an American political scientist and educator. She was a co-founder and chair of the Minnesota Democratic–Farmer–Labor Party, and served as Assistant Secretary for International Affairs at the United States Department of Agriculture from 1964 to 1969, during the Johnson administration.</p>"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "slug": "Alice_Roosevelt_by_Frances_Benjamin_Johnston",
+  "name": "Alice Roosevelt Longworth",
+  "description": "American writer and socialite (1884–1980)",
+  "summary": "Alice Lee Roosevelt Longworth was an American writer and socialite. She was the eldest child of U.S. president Theodore Roosevelt and his only child with his first wife, Alice Hathaway Lee Roosevelt. Longworth led an unconventional and controversial life. Her marriage to Representative Nicholas Longworth III, a Republican Party leader and the 38th speaker of the U.S. House of Representatives, was shaky, and her only child, Paulina, was from her affair with Senator William Borah.",
+  "image_local": "images/Alice_Roosevelt_by_Frances_Benjamin_Johnston.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Alice_Roosevelt_by_Frances_Benjamin_Johnston.jpg/800px-Alice_Roosevelt_by_Frances_Benjamin_Johnston.jpg",
+  "portrait_date": "1903",
+  "original_caption": "Alice Roosevelt by Frances Benjamin Johnston",
+  "extracted_name": "Alice Roosevelt",
+  "wikipedia_title": "Alice Roosevelt Longworth",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Alice_Roosevelt_Longworth",
+  "commons_file_page": "https://commons.wikimedia.org/wiki/File:Alice_Roosevelt_by_Frances_Benjamin_Johnston.jpg",
+  "wikipedia_summary": {
+    "type": "standard",
+    "title": "Alice Roosevelt Longworth",
+    "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Alice Roosevelt Longworth</span></span>",
+    "namespace": {
+      "id": 0,
+      "text": ""
+    },
+    "wikibase_item": "Q2836665",
+    "titles": {
+      "canonical": "Alice_Roosevelt_Longworth",
+      "normalized": "Alice Roosevelt Longworth",
+      "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Alice Roosevelt Longworth</span></span>"
+    },
+    "pageid": 583302,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/LONGWORTH%2C_NICHOLAS%2C_MRS._LCCN2016857348.jpg/330px-LONGWORTH%2C_NICHOLAS%2C_MRS._LCCN2016857348.jpg",
+      "width": 330,
+      "height": 396
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/LONGWORTH%2C_NICHOLAS%2C_MRS._LCCN2016857348.jpg/3840px-LONGWORTH%2C_NICHOLAS%2C_MRS._LCCN2016857348.jpg",
+      "width": 8079,
+      "height": 9697
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1351582487",
+    "tid": "759d93cc-434d-11f1-be58-f32dd2c7927f",
+    "timestamp": "2026-04-28T21:58:59Z",
+    "description": "American writer and socialite (1884–1980)",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Alice_Roosevelt_Longworth",
+        "revisions": "https://en.wikipedia.org/wiki/Alice_Roosevelt_Longworth?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Alice_Roosevelt_Longworth?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Alice_Roosevelt_Longworth"
+      },
+      "mobile": {
+        "page": "https://en.wikipedia.org/wiki/Alice_Roosevelt_Longworth",
+        "revisions": "https://en.wikipedia.org/wiki/Special:History/Alice_Roosevelt_Longworth",
+        "edit": "https://en.wikipedia.org/wiki/Alice_Roosevelt_Longworth?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Alice_Roosevelt_Longworth"
+      }
+    },
+    "extract": "Alice Lee Roosevelt Longworth was an American writer and socialite. She was the eldest child of U.S. president Theodore Roosevelt and his only child with his first wife, Alice Hathaway Lee Roosevelt. Longworth led an unconventional and controversial life. Her marriage to Representative Nicholas Longworth III, a Republican Party leader and the 38th speaker of the U.S. House of Representatives, was shaky, and her only child, Paulina, was from her affair with Senator William Borah.",
+    "extract_html": "<p><b>Alice Lee Roosevelt Longworth</b> was an American writer and socialite. She was the eldest child of U.S. president Theodore Roosevelt and his only child with his first wife, Alice Hathaway Lee Roosevelt. Longworth led an unconventional and controversial life. Her marriage to Representative Nicholas Longworth III, a Republican Party leader and the 38th speaker of the U.S. House of Representatives, was shaky, and her only child, Paulina, was from her affair with Senator William Borah.</p>"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "slug": "Edgar_A._Poe_-_NARA_-_528345__cropped",
+  "name": "Edgar Allan Poe",
+  "description": "American writer and critic (1809–1849)",
+  "summary": "Edgar Allan Poe was an American writer, poet, editor, and literary critic who is best known for his poetry and short stories, particularly his tales involving mystery and the macabre. He is widely regarded as one of the central figures of Romanticism and Gothic fiction in the United States and of early American literature. Poe was one of the country's first successful practitioners of the short story, and is generally considered to be one of the pioneers of the detective fiction genre. In addition, he is credited with contributing significantly to the emergence of science fiction. He is the first well-known American writer to earn a living exclusively through writing, which resulted in a financially difficult life and career.",
+  "image_local": "images/Edgar_A._Poe_-_NARA_-_528345__cropped.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Edgar_A._Poe_-_NARA_-_528345_%28cropped%29.jpg/800px-Edgar_A._Poe_-_NARA_-_528345_%28cropped%29.jpg",
+  "portrait_date": "before 1849",
+  "original_caption": "Edgar Allan Poe, by Mathew Brady",
+  "extracted_name": "Edgar Allan Poe",
+  "wikipedia_title": "Edgar Allan Poe",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Edgar_Allan_Poe",
+  "commons_file_page": "https://commons.wikimedia.org/wiki/File:Edgar_A._Poe_-_NARA_-_528345_(cropped).jpg",
+  "wikipedia_summary": {
+    "type": "standard",
+    "title": "Edgar Allan Poe",
+    "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Edgar Allan Poe</span></span>",
+    "namespace": {
+      "id": 0,
+      "text": ""
+    },
+    "wikibase_item": "Q16867",
+    "titles": {
+      "canonical": "Edgar_Allan_Poe",
+      "normalized": "Edgar Allan Poe",
+      "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Edgar Allan Poe</span></span>"
+    },
+    "pageid": 9549,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Edgar_Allan_Poe%2C_circa_1849%2C_restored%2C_squared_off.jpg/330px-Edgar_Allan_Poe%2C_circa_1849%2C_restored%2C_squared_off.jpg",
+      "width": 330,
+      "height": 464
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/9/97/Edgar_Allan_Poe%2C_circa_1849%2C_restored%2C_squared_off.jpg",
+      "width": 1556,
+      "height": 2188
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1351120621",
+    "tid": "4f3ee541-4110-11f1-9b8d-c1b147085db4",
+    "timestamp": "2026-04-26T01:36:13Z",
+    "description": "American writer and critic (1809–1849)",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Edgar_Allan_Poe",
+        "revisions": "https://en.wikipedia.org/wiki/Edgar_Allan_Poe?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Edgar_Allan_Poe?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Edgar_Allan_Poe"
+      },
+      "mobile": {
+        "page": "https://en.wikipedia.org/wiki/Edgar_Allan_Poe",
+        "revisions": "https://en.wikipedia.org/wiki/Special:History/Edgar_Allan_Poe",
+        "edit": "https://en.wikipedia.org/wiki/Edgar_Allan_Poe?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Edgar_Allan_Poe"
+      }
+    },
+    "extract": "Edgar Allan Poe was an American writer, poet, editor, and literary critic who is best known for his poetry and short stories, particularly his tales involving mystery and the macabre. He is widely regarded as one of the central figures of Romanticism and Gothic fiction in the United States and of early American literature. Poe was one of the country's first successful practitioners of the short story, and is generally considered to be one of the pioneers of the detective fiction genre. In addition, he is credited with contributing significantly to the emergence of science fiction. He is the first well-known American writer to earn a living exclusively through writing, which resulted in a financially difficult life and career.",
+    "extract_html": "<p><b>Edgar Allan Poe</b> was an American writer, poet, editor, and literary critic who is best known for his poetry and short stories, particularly his tales involving mystery and the macabre. He is widely regarded as one of the central figures of Romanticism and Gothic fiction in the United States and of early American literature. Poe was one of the country's first successful practitioners of the short story, and is generally considered to be one of the pioneers of the detective fiction genre. In addition, he is credited with contributing significantly to the emergence of science fiction. He is the first well-known American writer to earn a living exclusively through writing, which resulted in a financially difficult life and career.</p>"
+  }
+}

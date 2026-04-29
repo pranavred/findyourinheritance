@@ -1,0 +1,63 @@
+{
+  "slug": "Peary",
+  "name": "Robert Peary",
+  "description": "American explorer (1856–1920)",
+  "summary": "Robert Edwin Peary was an American explorer and officer in the United States Navy who made several expeditions to the Arctic in the late 19th and early 20th centuries. He was long credited as being the discoverer of the geographic North Pole in April 1909, having led the first expedition to have claimed this achievement, although it is now considered unlikely that he actually reached the Pole.",
+  "image_local": "images/Peary.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Peary.jpg/800px-Peary.jpg",
+  "portrait_date": "ca.1900",
+  "original_caption": "Robert Peary (1856–1920), US Navy rear admiral, engineer and North Pole explorer",
+  "extracted_name": "Robert Peary",
+  "wikipedia_title": "Robert Peary",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Robert_Peary",
+  "commons_file_page": "https://commons.wikimedia.org/wiki/File:Peary.jpg",
+  "wikipedia_summary": {
+    "type": "standard",
+    "title": "Robert Peary",
+    "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Robert Peary</span></span>",
+    "namespace": {
+      "id": 0,
+      "text": ""
+    },
+    "wikibase_item": "Q186585",
+    "titles": {
+      "canonical": "Robert_Peary",
+      "normalized": "Robert Peary",
+      "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Robert Peary</span></span>"
+    },
+    "pageid": 61004,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Robert_Peary_self-portrait%2C_1909.jpg/330px-Robert_Peary_self-portrait%2C_1909.jpg",
+      "width": 330,
+      "height": 439
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Robert_Peary_self-portrait%2C_1909.jpg",
+      "width": 2408,
+      "height": 3203
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1340027277",
+    "tid": "c2ed552f-10c9-11f1-ac77-5ba6abb8f091",
+    "timestamp": "2026-02-23T15:10:17Z",
+    "description": "American explorer (1856–1920)",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Robert_Peary",
+        "revisions": "https://en.wikipedia.org/wiki/Robert_Peary?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Robert_Peary?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Robert_Peary"
+      },
+      "mobile": {
+        "page": "https://en.wikipedia.org/wiki/Robert_Peary",
+        "revisions": "https://en.wikipedia.org/wiki/Special:History/Robert_Peary",
+        "edit": "https://en.wikipedia.org/wiki/Robert_Peary?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Robert_Peary"
+      }
+    },
+    "extract": "Robert Edwin Peary was an American explorer and officer in the United States Navy who made several expeditions to the Arctic in the late 19th and early 20th centuries. He was long credited as being the discoverer of the geographic North Pole in April 1909, having led the first expedition to have claimed this achievement, although it is now considered unlikely that he actually reached the Pole.",
+    "extract_html": "<p><b>Robert Edwin Peary</b> was an American explorer and officer in the United States Navy who made several expeditions to the Arctic in the late 19th and early 20th centuries. He was long credited as being the discoverer of the geographic North Pole in April 1909, having led the first expedition to have claimed this achievement, although it is now considered unlikely that he actually reached the Pole.</p>"
+  }
+}

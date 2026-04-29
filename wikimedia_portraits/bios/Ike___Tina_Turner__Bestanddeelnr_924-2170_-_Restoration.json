@@ -1,0 +1,63 @@
+{
+  "slug": "Ike___Tina_Turner__Bestanddeelnr_924-2170_-_Restoration",
+  "name": "Ike & Tina Turner",
+  "description": "American musical duo",
+  "summary": "Ike & Tina Turner was an American musical duo consisting of husband-and-wife Ike Turner and Tina Turner. From 1960 to 1976, they performed live as the Ike & Tina Turner Revue, supported by the Kings of Rhythm and backing vocalists, the Ikettes. They were regarded as \"one of the most potent live acts on the R&B circuit\" and \"leading exponents\" of soul music. They have sold more than 10 million records.",
+  "image_local": "images/Ike___Tina_Turner__Bestanddeelnr_924-2170_-_Restoration.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Ike_%26_Tina_Turner%2C_Bestanddeelnr_924-2170_-_Restoration.jpg/800px-Ike_%26_Tina_Turner%2C_Bestanddeelnr_924-2170_-_Restoration.jpg",
+  "portrait_date": "1971",
+  "original_caption": "Ike & Tina Turner",
+  "extracted_name": "Ike & Tina Turner",
+  "wikipedia_title": "Ike & Tina Turner",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Ike_%26_Tina_Turner",
+  "commons_file_page": "https://commons.wikimedia.org/wiki/File:Ike_%26_Tina_Turner,_Bestanddeelnr_924-2170_-_Restoration.jpg",
+  "wikipedia_summary": {
+    "type": "standard",
+    "title": "Ike & Tina Turner",
+    "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Ike &amp; Tina Turner</span></span>",
+    "namespace": {
+      "id": 0,
+      "text": ""
+    },
+    "wikibase_item": "Q1165506",
+    "titles": {
+      "canonical": "Ike_&_Tina_Turner",
+      "normalized": "Ike & Tina Turner",
+      "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Ike &amp; Tina Turner</span></span>"
+    },
+    "pageid": 205130,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Ike_%26_Tina_Turner_Midnight_Special_1974.jpg/330px-Ike_%26_Tina_Turner_Midnight_Special_1974.jpg",
+      "width": 330,
+      "height": 419
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Ike_%26_Tina_Turner_Midnight_Special_1974.jpg",
+      "width": 1342,
+      "height": 1703
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1340400195",
+    "tid": "98c59d64-124f-11f1-866f-887a16114c5f",
+    "timestamp": "2026-02-25T13:40:50Z",
+    "description": "American musical duo",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Ike_%26_Tina_Turner",
+        "revisions": "https://en.wikipedia.org/wiki/Ike_%26_Tina_Turner?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Ike_%26_Tina_Turner?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Ike_%26_Tina_Turner"
+      },
+      "mobile": {
+        "page": "https://en.wikipedia.org/wiki/Ike_%26_Tina_Turner",
+        "revisions": "https://en.wikipedia.org/wiki/Special:History/Ike_%26_Tina_Turner",
+        "edit": "https://en.wikipedia.org/wiki/Ike_%26_Tina_Turner?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Ike_%26_Tina_Turner"
+      }
+    },
+    "extract": "Ike & Tina Turner was an American musical duo consisting of husband-and-wife Ike Turner and Tina Turner. From 1960 to 1976, they performed live as the Ike & Tina Turner Revue, supported by the Kings of Rhythm and backing vocalists, the Ikettes. They were regarded as \"one of the most potent live acts on the R&B circuit\" and \"leading exponents\" of soul music. They have sold more than 10 million records.",
+    "extract_html": "<p><b>Ike &amp; Tina Turner</b> was an American musical duo consisting of husband-and-wife Ike Turner and Tina Turner. From 1960 to 1976, they performed live as the <b>Ike &amp; Tina Turner Revue</b>, supported by the Kings of Rhythm and backing vocalists, the Ikettes. They were regarded as \"one of the most potent live acts on the R&amp;B circuit\" and \"leading exponents\" of soul music. They have sold more than 10 million records.</p>"
+  }
+}

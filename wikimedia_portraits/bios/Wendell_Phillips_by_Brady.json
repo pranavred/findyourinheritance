@@ -1,0 +1,63 @@
+{
+  "slug": "Wendell_Phillips_by_Brady",
+  "name": "Wendell Phillips",
+  "description": "American abolitionist and advocate (1811–1884)",
+  "summary": "Wendell Phillips was an American abolitionist, labor reformer, temperance activist, advocate for Native Americans, orator, and attorney.",
+  "image_local": "images/Wendell_Phillips_by_Brady.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Wendell_Phillips_by_Brady.jpg/800px-Wendell_Phillips_by_Brady.jpg",
+  "portrait_date": "1853-1860",
+  "original_caption": "Wendell Phillips by Brady",
+  "extracted_name": "Wendell Phillips",
+  "wikipedia_title": "Wendell Phillips",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Wendell_Phillips",
+  "commons_file_page": "https://commons.wikimedia.org/wiki/File:Wendell_Phillips_by_Brady.jpg",
+  "wikipedia_summary": {
+    "type": "standard",
+    "title": "Wendell Phillips",
+    "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Wendell Phillips</span></span>",
+    "namespace": {
+      "id": 0,
+      "text": ""
+    },
+    "wikibase_item": "Q530310",
+    "titles": {
+      "canonical": "Wendell_Phillips",
+      "normalized": "Wendell Phillips",
+      "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Wendell Phillips</span></span>"
+    },
+    "pageid": 376964,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Wendell_Phillips_by_Brady.jpg/330px-Wendell_Phillips_by_Brady.jpg",
+      "width": 330,
+      "height": 451
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/3/34/Wendell_Phillips_by_Brady.jpg",
+      "width": 2296,
+      "height": 3140
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1346462121",
+    "tid": "5109c9f2-2d5d-11f1-b34a-a1ab6df24f07",
+    "timestamp": "2026-03-31T23:57:04Z",
+    "description": "American abolitionist and advocate (1811–1884)",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Wendell_Phillips",
+        "revisions": "https://en.wikipedia.org/wiki/Wendell_Phillips?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Wendell_Phillips?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Wendell_Phillips"
+      },
+      "mobile": {
+        "page": "https://en.wikipedia.org/wiki/Wendell_Phillips",
+        "revisions": "https://en.wikipedia.org/wiki/Special:History/Wendell_Phillips",
+        "edit": "https://en.wikipedia.org/wiki/Wendell_Phillips?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Wendell_Phillips"
+      }
+    },
+    "extract": "Wendell Phillips was an American abolitionist, labor reformer, temperance activist, advocate for Native Americans, orator, and attorney.",
+    "extract_html": "<p><b>Wendell Phillips</b> was an American abolitionist, labor reformer, temperance activist, advocate for Native Americans, orator, and attorney.</p>"
+  }
+}

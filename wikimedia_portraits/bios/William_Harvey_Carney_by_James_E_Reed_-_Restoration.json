@@ -1,0 +1,63 @@
+{
+  "slug": "William_Harvey_Carney_by_James_E_Reed_-_Restoration",
+  "name": "William Harvey Carney",
+  "description": "American soldier (1840–1908)",
+  "summary": "William Harvey Carney was an American soldier during the American Civil War. Born enslaved, he was awarded the Medal of Honor in 1900 for his gallantry in saving the regimental colors during the Battle of Fort Wagner in 1863. The action for which he received the Medal of Honor preceded that of any other African American Medal of Honor recipient; however, his medal was actually one of the last to be awarded for Civil War service. Some African Americans received the Medal of Honor as early as April 1865.",
+  "image_local": "images/William_Harvey_Carney_by_James_E_Reed_-_Restoration.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/William_Harvey_Carney_by_James_E_Reed_-_Restoration.jpg/800px-William_Harvey_Carney_by_James_E_Reed_-_Restoration.jpg",
+  "portrait_date": "between 1901 and 1908",
+  "original_caption": "William Harvey Carney by James E Reed - Restoration",
+  "extracted_name": "William Harvey Carney",
+  "wikipedia_title": "William Harvey Carney",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/William_Harvey_Carney",
+  "commons_file_page": "https://commons.wikimedia.org/wiki/File:William_Harvey_Carney_by_James_E_Reed_-_Restoration.jpg",
+  "wikipedia_summary": {
+    "type": "standard",
+    "title": "William Harvey Carney",
+    "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">William Harvey Carney</span></span>",
+    "namespace": {
+      "id": 0,
+      "text": ""
+    },
+    "wikibase_item": "Q8010989",
+    "titles": {
+      "canonical": "William_Harvey_Carney",
+      "normalized": "William Harvey Carney",
+      "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">William Harvey Carney</span></span>"
+    },
+    "pageid": 72732,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/William_Harvey_Carney_by_James_E_Reed_-_Restoration.jpg/330px-William_Harvey_Carney_by_James_E_Reed_-_Restoration.jpg",
+      "width": 330,
+      "height": 475
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/6/63/William_Harvey_Carney_by_James_E_Reed_-_Restoration.jpg",
+      "width": 2010,
+      "height": 2896
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1346207185",
+    "tid": "bae3804b-2c46-11f1-adbe-44d1bb835bba",
+    "timestamp": "2026-03-30T14:42:52Z",
+    "description": "American soldier (1840–1908)",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/William_Harvey_Carney",
+        "revisions": "https://en.wikipedia.org/wiki/William_Harvey_Carney?action=history",
+        "edit": "https://en.wikipedia.org/wiki/William_Harvey_Carney?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:William_Harvey_Carney"
+      },
+      "mobile": {
+        "page": "https://en.wikipedia.org/wiki/William_Harvey_Carney",
+        "revisions": "https://en.wikipedia.org/wiki/Special:History/William_Harvey_Carney",
+        "edit": "https://en.wikipedia.org/wiki/William_Harvey_Carney?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:William_Harvey_Carney"
+      }
+    },
+    "extract": "William Harvey Carney was an American soldier during the American Civil War. Born enslaved, he was awarded the Medal of Honor in 1900 for his gallantry in saving the regimental colors during the Battle of Fort Wagner in 1863. The action for which he received the Medal of Honor preceded that of any other African American Medal of Honor recipient; however, his medal was actually one of the last to be awarded for Civil War service. Some African Americans received the Medal of Honor as early as April 1865.",
+    "extract_html": "<p><b>William Harvey Carney</b> was an American soldier during the American Civil War. Born enslaved, he was awarded the Medal of Honor in 1900 for his gallantry in saving the regimental colors during the Battle of Fort Wagner in 1863. The action for which he received the Medal of Honor preceded that of any other African American Medal of Honor recipient; however, his medal was actually one of the last to be awarded for Civil War service. Some African Americans received the Medal of Honor as early as April 1865.</p>"
+  }
+}

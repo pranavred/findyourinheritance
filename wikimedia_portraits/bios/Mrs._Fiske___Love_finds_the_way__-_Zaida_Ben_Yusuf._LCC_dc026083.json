@@ -1,0 +1,53 @@
+{
+  "slug": "Mrs._Fiske___Love_finds_the_way__-_Zaida_Ben_Yusuf._LCC_dc026083",
+  "name": "Fiske",
+  "description": "Surname list",
+  "summary": "Fiske is a surname of Scandinavian origins.",
+  "image_local": "images/Mrs._Fiske___Love_finds_the_way__-_Zaida_Ben_Yusuf._LCC_dc026083.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Mrs._Fiske%2C_%22Love_finds_the_way%22_-_Zaida_Ben_Yusuf._LCCN2006677585_-_Restoration%2C_levels_tweaked.jpg/800px-Mrs._Fiske%2C_%22Love_finds_the_way%22_-_Zaida_Ben_Yusuf._LCCN2006677585_-_Restoration%2C_levels_tweaked.jpg",
+  "portrait_date": "1896",
+  "original_caption": "Mrs. Fiske, \"Love finds the way\" - Zaida Ben Yusuf. LCCN2006677585 - Restoration, levels tweaked",
+  "extracted_name": "Fiske",
+  "wikipedia_title": "Fiske",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Fiske",
+  "commons_file_page": "https://commons.wikimedia.org/wiki/File:Mrs._Fiske,_%22Love_finds_the_way%22_-_Zaida_Ben_Yusuf._LCCN2006677585_-_Restoration,_levels_tweaked.jpg",
+  "wikipedia_summary": {
+    "type": "standard",
+    "title": "Fiske",
+    "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Fiske</span></span>",
+    "namespace": {
+      "id": 0,
+      "text": ""
+    },
+    "wikibase_item": "Q21510555",
+    "titles": {
+      "canonical": "Fiske",
+      "normalized": "Fiske",
+      "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Fiske</span></span>"
+    },
+    "pageid": 3671190,
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1295938423",
+    "tid": "7178d8fc-4aeb-11f0-9d9c-471d670ee746",
+    "timestamp": "2025-06-16T19:52:33Z",
+    "description": "Surname list",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Fiske",
+        "revisions": "https://en.wikipedia.org/wiki/Fiske?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Fiske?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Fiske"
+      },
+      "mobile": {
+        "page": "https://en.wikipedia.org/wiki/Fiske",
+        "revisions": "https://en.wikipedia.org/wiki/Special:History/Fiske",
+        "edit": "https://en.wikipedia.org/wiki/Fiske?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Fiske"
+      }
+    },
+    "extract": "Fiske is a surname of Scandinavian origins.",
+    "extract_html": "<p><b>Fiske</b> is a surname of Scandinavian origins.</p>"
+  }
+}

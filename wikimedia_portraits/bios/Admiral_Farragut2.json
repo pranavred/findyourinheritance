@@ -1,0 +1,63 @@
+{
+  "slug": "Admiral_Farragut2",
+  "name": "David Farragut",
+  "description": "United States Navy admiral (1801–1870)",
+  "summary": "David Glasgow Farragut was a flag officer of the United States Navy during the American Civil War. He was the first rear admiral, vice admiral, and admiral in the United States Navy. He is remembered in U.S. Navy tradition for his bold order at the Battle of Mobile Bay, usually abbreviated to \"Damn the torpedoes ... full speed ahead.\"",
+  "image_local": "images/Admiral_Farragut2.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Admiral_Farragut2.jpg/800px-Admiral_Farragut2.jpg",
+  "portrait_date": "1855-1865",
+  "original_caption": "Admiral David Farragut",
+  "extracted_name": "David Farragut",
+  "wikipedia_title": "David Farragut",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/David_Farragut",
+  "commons_file_page": "https://commons.wikimedia.org/wiki/File:Admiral_Farragut2.jpg",
+  "wikipedia_summary": {
+    "type": "standard",
+    "title": "David Farragut",
+    "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">David Farragut</span></span>",
+    "namespace": {
+      "id": 0,
+      "text": ""
+    },
+    "wikibase_item": "Q315607",
+    "titles": {
+      "canonical": "David_Farragut",
+      "normalized": "David Farragut",
+      "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">David Farragut</span></span>"
+    },
+    "pageid": 102728,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Admiral_Farragut2.jpg/330px-Admiral_Farragut2.jpg",
+      "width": 330,
+      "height": 488
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Admiral_Farragut2.jpg",
+      "width": 2029,
+      "height": 3000
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1343408505",
+    "tid": "55a84125-1f54-11f1-b311-31561e12c911",
+    "timestamp": "2026-03-14T03:17:30Z",
+    "description": "United States Navy admiral (1801–1870)",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/David_Farragut",
+        "revisions": "https://en.wikipedia.org/wiki/David_Farragut?action=history",
+        "edit": "https://en.wikipedia.org/wiki/David_Farragut?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:David_Farragut"
+      },
+      "mobile": {
+        "page": "https://en.wikipedia.org/wiki/David_Farragut",
+        "revisions": "https://en.wikipedia.org/wiki/Special:History/David_Farragut",
+        "edit": "https://en.wikipedia.org/wiki/David_Farragut?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:David_Farragut"
+      }
+    },
+    "extract": "David Glasgow Farragut was a flag officer of the United States Navy during the American Civil War. He was the first rear admiral, vice admiral, and admiral in the United States Navy. He is remembered in U.S. Navy tradition for his bold order at the Battle of Mobile Bay, usually abbreviated to \"Damn the torpedoes ... full speed ahead.\"",
+    "extract_html": "<p><b>David Glasgow Farragut</b> was a flag officer of the United States Navy during the American Civil War. He was the first rear admiral, vice admiral, and admiral in the United States Navy. He is remembered in U.S. Navy tradition for his bold order at the Battle of Mobile Bay, usually abbreviated to \"Damn the torpedoes ... full speed ahead.\"</p>"
+  }
+}

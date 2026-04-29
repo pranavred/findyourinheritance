@@ -1,0 +1,63 @@
+{
+  "slug": "Self-portrait_of_Abraham_Bogardus",
+  "name": "Abraham Bogardus",
+  "description": "American photographer (1822–1908)",
+  "summary": "Abraham Bogardus was an American daguerreotypist and photographer who made around 200,000 daguerreotypes during his career.",
+  "image_local": "images/Self-portrait_of_Abraham_Bogardus.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Self-portrait_of_Abraham_Bogardus.jpg/800px-Self-portrait_of_Abraham_Bogardus.jpg",
+  "portrait_date": "",
+  "original_caption": "Self-portrait of Abraham Bogardus",
+  "extracted_name": "Abraham Bogardus",
+  "wikipedia_title": "Abraham Bogardus",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Abraham_Bogardus",
+  "commons_file_page": "https://commons.wikimedia.org/wiki/File:Self-portrait_of_Abraham_Bogardus.jpg",
+  "wikipedia_summary": {
+    "type": "standard",
+    "title": "Abraham Bogardus",
+    "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Abraham Bogardus</span></span>",
+    "namespace": {
+      "id": 0,
+      "text": ""
+    },
+    "wikibase_item": "Q4668775",
+    "titles": {
+      "canonical": "Abraham_Bogardus",
+      "normalized": "Abraham Bogardus",
+      "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Abraham Bogardus</span></span>"
+    },
+    "pageid": 22275496,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Self-portrait_of_Abraham_Bogardus.jpg/330px-Self-portrait_of_Abraham_Bogardus.jpg",
+      "width": 330,
+      "height": 461
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Self-portrait_of_Abraham_Bogardus.jpg",
+      "width": 2353,
+      "height": 3288
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1315194839",
+    "tid": "06a2f8af-a1d3-11f0-a9e3-f2d3e6b2b0fb",
+    "timestamp": "2025-10-05T10:06:57Z",
+    "description": "American photographer (1822–1908)",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Abraham_Bogardus",
+        "revisions": "https://en.wikipedia.org/wiki/Abraham_Bogardus?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Abraham_Bogardus?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Abraham_Bogardus"
+      },
+      "mobile": {
+        "page": "https://en.wikipedia.org/wiki/Abraham_Bogardus",
+        "revisions": "https://en.wikipedia.org/wiki/Special:History/Abraham_Bogardus",
+        "edit": "https://en.wikipedia.org/wiki/Abraham_Bogardus?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Abraham_Bogardus"
+      }
+    },
+    "extract": "Abraham Bogardus was an American daguerreotypist and photographer who made around 200,000 daguerreotypes during his career.",
+    "extract_html": "<p><b>Abraham Bogardus</b> was an American daguerreotypist and photographer who made around 200,000 daguerreotypes during his career.</p>"
+  }
+}

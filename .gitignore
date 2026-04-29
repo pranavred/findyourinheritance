@@ -1,0 +1,32 @@
+# Secrets — never commit
+.env
+.env.local
+.env.*.local
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+.python-version
+*.egg-info/
+
+# Node / Next.js (for the upcoming frontend)
+node_modules/
+.next/
+out/
+.vercel/
+*.tsbuildinfo
+next-env.d.ts
+
+# Build / cache artifacts that can be regenerated
+**/.wiki_cache.json
+**/.bio_cache.json
+
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+.idea/
+*.swp
+*.swo

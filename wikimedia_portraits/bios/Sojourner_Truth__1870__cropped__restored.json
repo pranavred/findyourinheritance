@@ -1,0 +1,63 @@
+{
+  "slug": "Sojourner_Truth__1870__cropped__restored",
+  "name": "Sojourner Truth",
+  "description": "African-American activist (1797–1883)",
+  "summary": "Sojourner Truth was an American abolitionist and activist for African-American civil rights, women's rights, and alcohol temperance. Truth was born into slavery in Swartekill, New York, but escaped with her infant daughter to freedom in 1826. After going to court to recover her son in 1828, she became the first black woman to win such a case against a white man.",
+  "image_local": "images/Sojourner_Truth__1870__cropped__restored.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Sojourner_Truth%2C_1870_%28cropped%2C_restored%29.jpg/800px-Sojourner_Truth%2C_1870_%28cropped%2C_restored%29.jpg",
+  "portrait_date": "1870",
+  "original_caption": "Sojourner Truth, 1870 (cropped, restored)",
+  "extracted_name": "Sojourner Truth",
+  "wikipedia_title": "Sojourner Truth",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Sojourner_Truth",
+  "commons_file_page": "https://commons.wikimedia.org/wiki/File:Sojourner_Truth,_1870_(cropped,_restored).jpg",
+  "wikipedia_summary": {
+    "type": "standard",
+    "title": "Sojourner Truth",
+    "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Sojourner Truth</span></span>",
+    "namespace": {
+      "id": 0,
+      "text": ""
+    },
+    "wikibase_item": "Q105180",
+    "titles": {
+      "canonical": "Sojourner_Truth",
+      "normalized": "Sojourner Truth",
+      "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Sojourner Truth</span></span>"
+    },
+    "pageid": 29305,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Sojourner_Truth%2C_1870_%28cropped%2C_restored%29.jpg/330px-Sojourner_Truth%2C_1870_%28cropped%2C_restored%29.jpg",
+      "width": 330,
+      "height": 458
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/5/54/Sojourner_Truth%2C_1870_%28cropped%2C_restored%29.jpg",
+      "width": 3035,
+      "height": 4210
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1350387089",
+    "tid": "5085b28e-3da6-11f1-9675-51f9bf61ea8c",
+    "timestamp": "2026-04-21T17:19:55Z",
+    "description": "African-American activist (1797–1883)",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Sojourner_Truth",
+        "revisions": "https://en.wikipedia.org/wiki/Sojourner_Truth?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Sojourner_Truth?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Sojourner_Truth"
+      },
+      "mobile": {
+        "page": "https://en.wikipedia.org/wiki/Sojourner_Truth",
+        "revisions": "https://en.wikipedia.org/wiki/Special:History/Sojourner_Truth",
+        "edit": "https://en.wikipedia.org/wiki/Sojourner_Truth?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Sojourner_Truth"
+      }
+    },
+    "extract": "Sojourner Truth was an American abolitionist and activist for African-American civil rights, women's rights, and alcohol temperance. Truth was born into slavery in Swartekill, New York, but escaped with her infant daughter to freedom in 1826. After going to court to recover her son in 1828, she became the first black woman to win such a case against a white man.",
+    "extract_html": "<p><b>Sojourner Truth</b> was an American abolitionist and activist for African-American civil rights, women's rights, and alcohol temperance. Truth was born into slavery in Swartekill, New York, but escaped with her infant daughter to freedom in 1826. After going to court to recover her son in 1828, she became the first black woman to win such a case against a white man.</p>"
+  }
+}

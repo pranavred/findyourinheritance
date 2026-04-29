@@ -1,0 +1,63 @@
+{
+  "slug": "Jules_Verne_by__tienne_Carjat",
+  "name": "Jules Verne",
+  "description": "French writer (1828–1905)",
+  "summary": "Jules Gabriel Verne was a French novelist, poet, and playwright.",
+  "image_local": "images/Jules_Verne_by__tienne_Carjat.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Jules_Verne_by_%C3%89tienne_Carjat.jpg/800px-Jules_Verne_by_%C3%89tienne_Carjat.jpg",
+  "portrait_date": "1884",
+  "original_caption": "Jules Verne by Étienne Carjat",
+  "extracted_name": "Jules Verne",
+  "wikipedia_title": "Jules Verne",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Jules_Verne",
+  "commons_file_page": "https://commons.wikimedia.org/wiki/File:Jules_Verne_by_%C3%89tienne_Carjat.jpg",
+  "wikipedia_summary": {
+    "type": "standard",
+    "title": "Jules Verne",
+    "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Jules Verne</span></span>",
+    "namespace": {
+      "id": 0,
+      "text": ""
+    },
+    "wikibase_item": "Q33977",
+    "titles": {
+      "canonical": "Jules_Verne",
+      "normalized": "Jules Verne",
+      "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Jules Verne</span></span>"
+    },
+    "pageid": 15770,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Jules_Verne_by_%C3%89tienne_Carjat.jpg/330px-Jules_Verne_by_%C3%89tienne_Carjat.jpg",
+      "width": 330,
+      "height": 468
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Jules_Verne_by_%C3%89tienne_Carjat.jpg",
+      "width": 2029,
+      "height": 2879
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1351123785",
+    "tid": "22d89c1d-4113-11f1-99d6-84722377636c",
+    "timestamp": "2026-04-26T01:56:27Z",
+    "description": "French writer (1828–1905)",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Jules_Verne",
+        "revisions": "https://en.wikipedia.org/wiki/Jules_Verne?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Jules_Verne?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Jules_Verne"
+      },
+      "mobile": {
+        "page": "https://en.wikipedia.org/wiki/Jules_Verne",
+        "revisions": "https://en.wikipedia.org/wiki/Special:History/Jules_Verne",
+        "edit": "https://en.wikipedia.org/wiki/Jules_Verne?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Jules_Verne"
+      }
+    },
+    "extract": "Jules Gabriel Verne was a French novelist, poet, and playwright.",
+    "extract_html": "<p><b>Jules Gabriel Verne</b> was a French novelist, poet, and playwright.</p>"
+  }
+}

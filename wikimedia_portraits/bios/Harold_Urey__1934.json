@@ -1,0 +1,63 @@
+{
+  "slug": "Harold_Urey__1934",
+  "name": "Harold Urey",
+  "description": "American physical chemist (1893–1981)",
+  "summary": "Harold Clayton Urey was an American physical chemist who conducted pioneering work on isotopes. He earned the 1934 Nobel Prize in Chemistry \"for his discovery of heavy hydrogen.\" He played a significant role in the development of the atom bomb, as well as contributing to theories on the development of organic life from non-living matter.",
+  "image_local": "images/Harold_Urey__1934.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Harold_Urey%2C_1934.jpg/800px-Harold_Urey%2C_1934.jpg",
+  "portrait_date": "",
+  "original_caption": "Harold Urey, 1934",
+  "extracted_name": "Harold Urey",
+  "wikipedia_title": "Harold Urey",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Harold_Urey",
+  "commons_file_page": "https://commons.wikimedia.org/wiki/File:Harold_Urey,_1934.jpg",
+  "wikipedia_summary": {
+    "type": "standard",
+    "title": "Harold Urey",
+    "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Harold Urey</span></span>",
+    "namespace": {
+      "id": 0,
+      "text": ""
+    },
+    "wikibase_item": "Q179777",
+    "titles": {
+      "canonical": "Harold_Urey",
+      "normalized": "Harold Urey",
+      "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Harold Urey</span></span>"
+    },
+    "pageid": 453578,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Harold_Urey%2C_1934.jpg/330px-Harold_Urey%2C_1934.jpg",
+      "width": 330,
+      "height": 428
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Harold_Urey%2C_1934.jpg",
+      "width": 2470,
+      "height": 3200
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1346059830",
+    "tid": "5b7d63ec-2b9d-11f1-979d-dfbcdb5c404d",
+    "timestamp": "2026-03-29T18:30:27Z",
+    "description": "American physical chemist (1893–1981)",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Harold_Urey",
+        "revisions": "https://en.wikipedia.org/wiki/Harold_Urey?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Harold_Urey?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Harold_Urey"
+      },
+      "mobile": {
+        "page": "https://en.wikipedia.org/wiki/Harold_Urey",
+        "revisions": "https://en.wikipedia.org/wiki/Special:History/Harold_Urey",
+        "edit": "https://en.wikipedia.org/wiki/Harold_Urey?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Harold_Urey"
+      }
+    },
+    "extract": "Harold Clayton Urey was an American physical chemist who conducted pioneering work on isotopes. He earned the 1934 Nobel Prize in Chemistry \"for his discovery of heavy hydrogen.\" He played a significant role in the development of the atom bomb, as well as contributing to theories on the development of organic life from non-living matter.",
+    "extract_html": "<p><b>Harold Clayton Urey</b> was an American physical chemist who conducted pioneering work on isotopes. He earned the 1934 Nobel Prize in Chemistry \"for his discovery of heavy hydrogen.\" He played a significant role in the development of the atom bomb, as well as contributing to theories on the development of organic life from non-living matter.</p>"
+  }
+}

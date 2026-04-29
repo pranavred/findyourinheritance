@@ -1,0 +1,63 @@
+{
+  "slug": "Chief_Joseph_by_Edward_Sheriff_Curtis",
+  "name": "Chief Joseph",
+  "description": "Native American leader (1840–1904)",
+  "summary": "Hin-mah-too-yah-lat-kekt, popularly known as Chief Joseph, Young Joseph, or Joseph the Younger, was a leader of the wal-lam-wat-kain (Wallowa) band of Nez Perce, a Native American tribe of the interior Pacific Northwest region of the United States, in the latter half of the 19th century. He succeeded his father Tuekakas in the early 1870s.",
+  "image_local": "images/Chief_Joseph_by_Edward_Sheriff_Curtis.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Chief_Joseph_by_Edward_Sheriff_Curtis.jpg/800px-Chief_Joseph_by_Edward_Sheriff_Curtis.jpg",
+  "portrait_date": "",
+  "original_caption": "Chief Joseph by Edward Sheriff Curtis",
+  "extracted_name": "Chief Joseph",
+  "wikipedia_title": "Chief Joseph",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Chief_Joseph",
+  "commons_file_page": "https://commons.wikimedia.org/wiki/File:Chief_Joseph_by_Edward_Sheriff_Curtis.jpg",
+  "wikipedia_summary": {
+    "type": "standard",
+    "title": "Chief Joseph",
+    "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Chief Joseph</span></span>",
+    "namespace": {
+      "id": 0,
+      "text": ""
+    },
+    "wikibase_item": "Q453666",
+    "titles": {
+      "canonical": "Chief_Joseph",
+      "normalized": "Chief Joseph",
+      "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Chief Joseph</span></span>"
+    },
+    "pageid": 164624,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Chief_Joseph_by_Edward_Sheriff_Curtis.jpg/330px-Chief_Joseph_by_Edward_Sheriff_Curtis.jpg",
+      "width": 330,
+      "height": 461
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Chief_Joseph_by_Edward_Sheriff_Curtis.jpg/3840px-Chief_Joseph_by_Edward_Sheriff_Curtis.jpg",
+      "width": 6036,
+      "height": 8440
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1351486605",
+    "tid": "b2c5409b-42d3-11f1-acb0-dee447b1c652",
+    "timestamp": "2026-04-28T07:27:23Z",
+    "description": "Native American leader (1840–1904)",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Chief_Joseph",
+        "revisions": "https://en.wikipedia.org/wiki/Chief_Joseph?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Chief_Joseph?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Chief_Joseph"
+      },
+      "mobile": {
+        "page": "https://en.wikipedia.org/wiki/Chief_Joseph",
+        "revisions": "https://en.wikipedia.org/wiki/Special:History/Chief_Joseph",
+        "edit": "https://en.wikipedia.org/wiki/Chief_Joseph?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Chief_Joseph"
+      }
+    },
+    "extract": "Hin-mah-too-yah-lat-kekt, popularly known as Chief Joseph, Young Joseph, or Joseph the Younger, was a leader of the wal-lam-wat-kain (Wallowa) band of Nez Perce, a Native American tribe of the interior Pacific Northwest region of the United States, in the latter half of the 19th century. He succeeded his father Tuekakas in the early 1870s.",
+    "extract_html": "<p><i><b>Hin-mah-too-yah-lat-kekt</b></i>, popularly known as <b>Chief Joseph</b>, <b>Young Joseph</b>, or <b>Joseph the Younger</b>, was a leader of the wal-lam-wat-kain (Wallowa) band of Nez Perce, a Native American tribe of the interior Pacific Northwest region of the United States, in the latter half of the 19th century. He succeeded his father Tuekakas in the early 1870s.</p>"
+  }
+}

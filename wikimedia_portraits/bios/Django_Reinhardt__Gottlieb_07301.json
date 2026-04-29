@@ -1,0 +1,63 @@
+{
+  "slug": "Django_Reinhardt__Gottlieb_07301",
+  "name": "Django Reinhardt",
+  "description": "Romani-French jazz musician (1910–1953)",
+  "summary": "Jean Reinhardt, known by his Romani nickname Django, was a Belgian-born Romani jazz guitarist and composer who lived most of his life in France. He was one of the first major jazz talents to emerge in Europe and has been hailed as one of its most significant exponents.",
+  "image_local": "images/Django_Reinhardt__Gottlieb_07301.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Django_Reinhardt_%28Gottlieb_07301%29.jpg/800px-Django_Reinhardt_%28Gottlieb_07301%29.jpg",
+  "portrait_date": "1946",
+  "original_caption": "Django Reinhardt (Gottlieb 07301)",
+  "extracted_name": "Django Reinhardt",
+  "wikipedia_title": "Django Reinhardt",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Django_Reinhardt",
+  "commons_file_page": "https://commons.wikimedia.org/wiki/File:Django_Reinhardt_(Gottlieb_07301).jpg",
+  "wikipedia_summary": {
+    "type": "standard",
+    "title": "Django Reinhardt",
+    "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Django Reinhardt</span></span>",
+    "namespace": {
+      "id": 0,
+      "text": ""
+    },
+    "wikibase_item": "Q44122",
+    "titles": {
+      "canonical": "Django_Reinhardt",
+      "normalized": "Django Reinhardt",
+      "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Django Reinhardt</span></span>"
+    },
+    "pageid": 9039,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Django_Reinhardt_%28Gottlieb_07301%29.jpg/330px-Django_Reinhardt_%28Gottlieb_07301%29.jpg",
+      "width": 330,
+      "height": 346
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Django_Reinhardt_%28Gottlieb_07301%29.jpg",
+      "width": 3584,
+      "height": 3762
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1350840986",
+    "tid": "3840ab9b-3fc7-11f1-a1bb-c1c52ed73c51",
+    "timestamp": "2026-04-24T10:20:30Z",
+    "description": "Romani-French jazz musician (1910–1953)",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Django_Reinhardt",
+        "revisions": "https://en.wikipedia.org/wiki/Django_Reinhardt?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Django_Reinhardt?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Django_Reinhardt"
+      },
+      "mobile": {
+        "page": "https://en.wikipedia.org/wiki/Django_Reinhardt",
+        "revisions": "https://en.wikipedia.org/wiki/Special:History/Django_Reinhardt",
+        "edit": "https://en.wikipedia.org/wiki/Django_Reinhardt?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Django_Reinhardt"
+      }
+    },
+    "extract": "Jean Reinhardt, known by his Romani nickname Django, was a Belgian-born Romani jazz guitarist and composer who lived most of his life in France. He was one of the first major jazz talents to emerge in Europe and has been hailed as one of its most significant exponents.",
+    "extract_html": "<p><b>Jean Reinhardt</b>, known by his Romani nickname <b>Django</b>, was a Belgian-born Romani jazz guitarist and composer who lived most of his life in France. He was one of the first major jazz talents to emerge in Europe and has been hailed as one of its most significant exponents.</p>"
+  }
+}

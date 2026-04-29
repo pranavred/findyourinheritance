@@ -1,0 +1,63 @@
+{
+  "slug": "Charles_Darwin_by_Julia_Margaret_Cameron__c._1868",
+  "name": "Charles Darwin",
+  "description": "English naturalist and biologist (1809–1882)",
+  "summary": "Charles Robert Darwin was an English naturalist, geologist, and biologist, widely known for his contributions to evolutionary biology. His proposition that all species of life have descended from a common ancestor is now generally accepted and considered a fundamental scientific concept. In a joint presentation with Alfred Russel Wallace, he introduced his scientific theory that this branching pattern of evolution resulted from a process he called natural selection, in which the struggle for existence has a similar effect to the artificial selection involved in selective breeding. Darwin has been described as one of the most influential figures in human history and was honoured by burial in Westminster Abbey.",
+  "image_local": "images/Charles_Darwin_by_Julia_Margaret_Cameron__c._1868.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Charles_Darwin_by_Julia_Margaret_Cameron%2C_c._1868.jpg/800px-Charles_Darwin_by_Julia_Margaret_Cameron%2C_c._1868.jpg",
+  "portrait_date": "1868",
+  "original_caption": "Charles Darwin by Julia Margaret Cameron, c. 1868",
+  "extracted_name": "Charles Darwin",
+  "wikipedia_title": "Charles Darwin",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Charles_Darwin",
+  "commons_file_page": "https://commons.wikimedia.org/wiki/File:Charles_Darwin_by_Julia_Margaret_Cameron,_c._1868.jpg",
+  "wikipedia_summary": {
+    "type": "standard",
+    "title": "Charles Darwin",
+    "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Charles Darwin</span></span>",
+    "namespace": {
+      "id": 0,
+      "text": ""
+    },
+    "wikibase_item": "Q1035",
+    "titles": {
+      "canonical": "Charles_Darwin",
+      "normalized": "Charles Darwin",
+      "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Charles Darwin</span></span>"
+    },
+    "pageid": 8145410,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Charles_Darwin_seated_crop.jpg/330px-Charles_Darwin_seated_crop.jpg",
+      "width": 330,
+      "height": 434
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Charles_Darwin_seated_crop.jpg",
+      "width": 2370,
+      "height": 3119
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1350517364",
+    "tid": "ee29c198-3e38-11f1-ae20-190c48fa5e84",
+    "timestamp": "2026-04-22T10:49:26Z",
+    "description": "English naturalist and biologist (1809–1882)",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Charles_Darwin",
+        "revisions": "https://en.wikipedia.org/wiki/Charles_Darwin?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Charles_Darwin?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Charles_Darwin"
+      },
+      "mobile": {
+        "page": "https://en.wikipedia.org/wiki/Charles_Darwin",
+        "revisions": "https://en.wikipedia.org/wiki/Special:History/Charles_Darwin",
+        "edit": "https://en.wikipedia.org/wiki/Charles_Darwin?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Charles_Darwin"
+      }
+    },
+    "extract": "Charles Robert Darwin was an English naturalist, geologist, and biologist, widely known for his contributions to evolutionary biology. His proposition that all species of life have descended from a common ancestor is now generally accepted and considered a fundamental scientific concept. In a joint presentation with Alfred Russel Wallace, he introduced his scientific theory that this branching pattern of evolution resulted from a process he called natural selection, in which the struggle for existence has a similar effect to the artificial selection involved in selective breeding. Darwin has been described as one of the most influential figures in human history and was honoured by burial in Westminster Abbey.",
+    "extract_html": "<p><b>Charles Robert Darwin</b> was an English naturalist, geologist, and biologist, widely known for his contributions to evolutionary biology. His proposition that all species of life have descended from a common ancestor is now generally accepted and considered a fundamental scientific concept. In a joint presentation with Alfred Russel Wallace, he introduced his scientific theory that this branching pattern of evolution resulted from a process he called natural selection, in which the struggle for existence has a similar effect to the artificial selection involved in selective breeding. Darwin has been described as one of the most influential figures in human history and was honoured by burial in Westminster Abbey.</p>"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "slug": "Tom_Taylor_by_Lock_and_Whitfield",
+  "name": "Tom Taylor",
+  "description": "English playwright (1817–1880)",
+  "summary": "Tom Taylor was an English dramatist, critic, biographer, public servant, and editor of Punch magazine. Taylor had a brief academic career, holding the professorship of English literature and language at University College, London in the 1840s, after which he practised law and became a civil servant. At the same time he became a journalist, most prominently as a contributor to, and eventually editor of, Punch, a humour magazine.",
+  "image_local": "images/Tom_Taylor_by_Lock_and_Whitfield.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Tom_Taylor_by_Lock_and_Whitfield.jpg/800px-Tom_Taylor_by_Lock_and_Whitfield.jpg",
+  "portrait_date": "by 1880",
+  "original_caption": "Tom Taylor by Lock and Whitfield",
+  "extracted_name": "Tom Taylor",
+  "wikipedia_title": "Tom Taylor",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Tom_Taylor",
+  "commons_file_page": "https://commons.wikimedia.org/wiki/File:Tom_Taylor_by_Lock_and_Whitfield.jpg",
+  "wikipedia_summary": {
+    "type": "standard",
+    "title": "Tom Taylor",
+    "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Tom Taylor</span></span>",
+    "namespace": {
+      "id": 0,
+      "text": ""
+    },
+    "wikibase_item": "Q2329794",
+    "titles": {
+      "canonical": "Tom_Taylor",
+      "normalized": "Tom Taylor",
+      "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Tom Taylor</span></span>"
+    },
+    "pageid": 186370,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Tom_Taylor_by_Lock_and_Whitfield.jpg/330px-Tom_Taylor_by_Lock_and_Whitfield.jpg",
+      "width": 330,
+      "height": 386
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/8/86/Tom_Taylor_by_Lock_and_Whitfield.jpg",
+      "width": 3204,
+      "height": 3752
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1333429019",
+    "tid": "0e7b558e-f3d6-11f0-b175-7392ce4474ae",
+    "timestamp": "2026-01-17T18:55:14Z",
+    "description": "English playwright (1817–1880)",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Tom_Taylor",
+        "revisions": "https://en.wikipedia.org/wiki/Tom_Taylor?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Tom_Taylor?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Tom_Taylor"
+      },
+      "mobile": {
+        "page": "https://en.wikipedia.org/wiki/Tom_Taylor",
+        "revisions": "https://en.wikipedia.org/wiki/Special:History/Tom_Taylor",
+        "edit": "https://en.wikipedia.org/wiki/Tom_Taylor?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Tom_Taylor"
+      }
+    },
+    "extract": "Tom Taylor was an English dramatist, critic, biographer, public servant, and editor of Punch magazine. Taylor had a brief academic career, holding the professorship of English literature and language at University College, London in the 1840s, after which he practised law and became a civil servant. At the same time he became a journalist, most prominently as a contributor to, and eventually editor of, Punch, a humour magazine.",
+    "extract_html": "<p><b>Tom Taylor</b> was an English dramatist, critic, biographer, public servant, and editor of <span><i>Punch</i></span> magazine. Taylor had a brief academic career, holding the professorship of English literature and language at University College, London in the 1840s, after which he practised law and became a civil servant. At the same time he became a journalist, most prominently as a contributor to, and eventually editor of, <i>Punch</i>, a humour magazine.</p>"
+  }
+}

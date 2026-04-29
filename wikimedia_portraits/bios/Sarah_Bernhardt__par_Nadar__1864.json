@@ -1,0 +1,63 @@
+{
+  "slug": "Sarah_Bernhardt__par_Nadar__1864",
+  "name": "Sarah Bernhardt",
+  "description": "French stage actress (1844–1923)",
+  "summary": "Sarah Bernhardt was a French stage actress who starred in some of the most popular French plays of the late 19th and early 20th centuries, including La Dame aux Camélias by Alexandre Dumas fils, Ruy Blas by Victor Hugo, Fédora and La Tosca by Victorien Sardou, and L'Aiglon by Edmond Rostand. She played female and male roles, including Shakespeare's Hamlet. Rostand called her \"the queen of the pose and the princess of the gesture\", and Hugo praised her \"golden voice\". She made several theatrical tours worldwide and was one of the early prominent actresses to make sound recordings and act in motion pictures. She was also an accomplished visual artist, as a painter and particularly as a sculptor.",
+  "image_local": "images/Sarah_Bernhardt__par_Nadar__1864.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Sarah_Bernhardt%2C_par_Nadar%2C_1864.jpg/800px-Sarah_Bernhardt%2C_par_Nadar%2C_1864.jpg",
+  "portrait_date": "1864",
+  "original_caption": "Sarah Bernhardt, par Nadar",
+  "extracted_name": "Sarah Bernhardt",
+  "wikipedia_title": "Sarah Bernhardt",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Sarah_Bernhardt",
+  "commons_file_page": "https://commons.wikimedia.org/wiki/File:Sarah_Bernhardt,_par_Nadar,_1864.jpg",
+  "wikipedia_summary": {
+    "type": "standard",
+    "title": "Sarah Bernhardt",
+    "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Sarah Bernhardt</span></span>",
+    "namespace": {
+      "id": 0,
+      "text": ""
+    },
+    "wikibase_item": "Q4605",
+    "titles": {
+      "canonical": "Sarah_Bernhardt",
+      "normalized": "Sarah Bernhardt",
+      "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Sarah Bernhardt</span></span>"
+    },
+    "pageid": 44608,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Sarah_Bernhardt_by_Sarony_cph.3a38656.jpg/330px-Sarah_Bernhardt_by_Sarony_cph.3a38656.jpg",
+      "width": 330,
+      "height": 480
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Sarah_Bernhardt_by_Sarony_cph.3a38656.jpg",
+      "width": 834,
+      "height": 1212
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1350692862",
+    "tid": "83e25047-3f0c-11f1-8532-203eb9deee9b",
+    "timestamp": "2026-04-23T12:04:01Z",
+    "description": "French stage actress (1844–1923)",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Sarah_Bernhardt",
+        "revisions": "https://en.wikipedia.org/wiki/Sarah_Bernhardt?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Sarah_Bernhardt?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Sarah_Bernhardt"
+      },
+      "mobile": {
+        "page": "https://en.wikipedia.org/wiki/Sarah_Bernhardt",
+        "revisions": "https://en.wikipedia.org/wiki/Special:History/Sarah_Bernhardt",
+        "edit": "https://en.wikipedia.org/wiki/Sarah_Bernhardt?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Sarah_Bernhardt"
+      }
+    },
+    "extract": "Sarah Bernhardt was a French stage actress who starred in some of the most popular French plays of the late 19th and early 20th centuries, including La Dame aux Camélias by Alexandre Dumas fils, Ruy Blas by Victor Hugo, Fédora and La Tosca by Victorien Sardou, and L'Aiglon by Edmond Rostand. She played female and male roles, including Shakespeare's Hamlet. Rostand called her \"the queen of the pose and the princess of the gesture\", and Hugo praised her \"golden voice\". She made several theatrical tours worldwide and was one of the early prominent actresses to make sound recordings and act in motion pictures. She was also an accomplished visual artist, as a painter and particularly as a sculptor.",
+    "extract_html": "<p><b>Sarah Bernhardt</b> was a French stage actress who starred in some of the most popular French plays of the late 19th and early 20th centuries, including <span><i lang=\"fr\">La Dame aux Camélias</i></span> by <span>Alexandre Dumas <i>fils</i></span>, <i>Ruy Blas</i> by Victor Hugo, <i>Fédora</i> and <i>La Tosca</i> by Victorien Sardou, and <i>L'Aiglon</i> by Edmond Rostand. She played female and male roles, including Shakespeare's Hamlet. Rostand called her \"the queen of the pose and the princess of the gesture\", and Hugo praised her \"golden voice\". She made several theatrical tours worldwide and was one of the early prominent actresses to make sound recordings and act in motion pictures. She was also an accomplished visual artist, as a painter and particularly as a sculptor.</p>"
+  }
+}

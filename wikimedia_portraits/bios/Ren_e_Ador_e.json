@@ -1,0 +1,63 @@
+{
+  "slug": "Ren_e_Ador_e",
+  "name": "Renée Adorée",
+  "description": "French actress (1898–1933)",
+  "summary": "Renée Adorée was a French stage and film actress who appeared in Hollywood silent movies during the 1920s. She is best known for portraying the role of Melisande, the love interest of John Gilbert in the melodramatic romance and war epic The Big Parade. Adorée's career was cut short after she contracted tuberculosis in 1930. She died of the disease in 1933 at the age of 35.",
+  "image_local": "images/Ren_e_Ador_e.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Ren%C3%A9e_Ador%C3%A9e.jpg/800px-Ren%C3%A9e_Ador%C3%A9e.jpg",
+  "portrait_date": "c. 1922",
+  "original_caption": "Renée Adorée",
+  "extracted_name": "Renée Adorée",
+  "wikipedia_title": "Renée Adorée",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Ren%C3%A9e_Ador%C3%A9e",
+  "commons_file_page": "https://commons.wikimedia.org/wiki/File:Ren%C3%A9e_Ador%C3%A9e.jpg",
+  "wikipedia_summary": {
+    "type": "standard",
+    "title": "Renée Adorée",
+    "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Renée Adorée</span></span>",
+    "namespace": {
+      "id": 0,
+      "text": ""
+    },
+    "wikibase_item": "Q284722",
+    "titles": {
+      "canonical": "Renée_Adorée",
+      "normalized": "Renée Adorée",
+      "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Renée Adorée</span></span>"
+    },
+    "pageid": 23987513,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Ren%C3%A9e_Ador%C3%A9e.jpg/330px-Ren%C3%A9e_Ador%C3%A9e.jpg",
+      "width": 330,
+      "height": 464
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Ren%C3%A9e_Ador%C3%A9e.jpg/3840px-Ren%C3%A9e_Ador%C3%A9e.jpg",
+      "width": 4976,
+      "height": 6991
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1350617427",
+    "tid": "ac386315-3ea8-11f1-97e1-b2536c3ce2de",
+    "timestamp": "2026-04-23T00:09:19Z",
+    "description": "French actress (1898–1933)",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Ren%C3%A9e_Ador%C3%A9e",
+        "revisions": "https://en.wikipedia.org/wiki/Ren%C3%A9e_Ador%C3%A9e?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Ren%C3%A9e_Ador%C3%A9e?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Ren%C3%A9e_Ador%C3%A9e"
+      },
+      "mobile": {
+        "page": "https://en.wikipedia.org/wiki/Ren%C3%A9e_Ador%C3%A9e",
+        "revisions": "https://en.wikipedia.org/wiki/Special:History/Ren%C3%A9e_Ador%C3%A9e",
+        "edit": "https://en.wikipedia.org/wiki/Ren%C3%A9e_Ador%C3%A9e?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Ren%C3%A9e_Ador%C3%A9e"
+      }
+    },
+    "extract": "Renée Adorée was a French stage and film actress who appeared in Hollywood silent movies during the 1920s. She is best known for portraying the role of Melisande, the love interest of John Gilbert in the melodramatic romance and war epic The Big Parade. Adorée's career was cut short after she contracted tuberculosis in 1930. She died of the disease in 1933 at the age of 35.",
+    "extract_html": "<p><b>Renée Adorée</b> was a French stage and film actress who appeared in Hollywood silent movies during the 1920s. She is best known for portraying the role of Melisande, the love interest of John Gilbert in the melodramatic romance and war epic <i>The Big Parade</i>. Adorée's career was cut short after she contracted tuberculosis in 1930. She died of the disease in 1933 at the age of 35.</p>"
+  }
+}

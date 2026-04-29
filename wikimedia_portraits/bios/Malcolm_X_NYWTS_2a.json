@@ -1,0 +1,63 @@
+{
+  "slug": "Malcolm_X_NYWTS_2a",
+  "name": "Malcolm X",
+  "description": "American civil rights activist (1925–1965)",
+  "summary": "Malcolm X was an African American revolutionary and Black nationalist leader who rose from a background of poverty, family disruption, and criminal activity to a prominent figure during the civil rights movement until his assassination in 1965. He discovered the religious organization the Nation of Islam while in prison and served as its spokesperson from 1952 until 1964. He was also a vocal advocate for Black empowerment and the promotion of Islam within the African American community. A controversial figure accused of preaching violence, Malcolm X is also a celebrated figure with Black people and Muslims worldwide for his pursuit of racial justice.",
+  "image_local": "images/Malcolm_X_NYWTS_2a.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Malcolm_X_NYWTS_2a.jpg/800px-Malcolm_X_NYWTS_2a.jpg",
+  "portrait_date": "1964",
+  "original_caption": "Malcolm X, by Ed Ford",
+  "extracted_name": "Malcolm X",
+  "wikipedia_title": "Malcolm X",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Malcolm_X",
+  "commons_file_page": "https://commons.wikimedia.org/wiki/File:Malcolm_X_NYWTS_2a.jpg",
+  "wikipedia_summary": {
+    "type": "standard",
+    "title": "Malcolm X",
+    "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Malcolm X</span></span>",
+    "namespace": {
+      "id": 0,
+      "text": ""
+    },
+    "wikibase_item": "Q43303",
+    "titles": {
+      "canonical": "Malcolm_X",
+      "normalized": "Malcolm X",
+      "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Malcolm X</span></span>"
+    },
+    "pageid": 20796,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Malcolm_X_1963_press_photo.jpg/330px-Malcolm_X_1963_press_photo.jpg",
+      "width": 330,
+      "height": 449
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/2/21/Malcolm_X_1963_press_photo.jpg",
+      "width": 2203,
+      "height": 3000
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1351396390",
+    "tid": "9f2dc311-4262-11f1-958b-83125c4308e6",
+    "timestamp": "2026-04-27T17:57:57Z",
+    "description": "American civil rights activist (1925–1965)",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Malcolm_X",
+        "revisions": "https://en.wikipedia.org/wiki/Malcolm_X?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Malcolm_X?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Malcolm_X"
+      },
+      "mobile": {
+        "page": "https://en.wikipedia.org/wiki/Malcolm_X",
+        "revisions": "https://en.wikipedia.org/wiki/Special:History/Malcolm_X",
+        "edit": "https://en.wikipedia.org/wiki/Malcolm_X?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Malcolm_X"
+      }
+    },
+    "extract": "Malcolm X was an African American revolutionary and Black nationalist leader who rose from a background of poverty, family disruption, and criminal activity to a prominent figure during the civil rights movement until his assassination in 1965. He discovered the religious organization the Nation of Islam while in prison and served as its spokesperson from 1952 until 1964. He was also a vocal advocate for Black empowerment and the promotion of Islam within the African American community. A controversial figure accused of preaching violence, Malcolm X is also a celebrated figure with Black people and Muslims worldwide for his pursuit of racial justice.",
+    "extract_html": "<p><b>Malcolm X</b> was an African American revolutionary and Black nationalist leader who rose from a background of poverty, family disruption, and criminal activity to a prominent figure during the civil rights movement until his assassination in 1965. He discovered the religious organization the Nation of Islam while in prison and served as its spokesperson from 1952 until 1964. He was also a vocal advocate for Black empowerment and the promotion of Islam within the African American community. A controversial figure accused of preaching violence, Malcolm X is also a celebrated figure with Black people and Muslims worldwide for his pursuit of racial justice.</p>"
+  }
+}

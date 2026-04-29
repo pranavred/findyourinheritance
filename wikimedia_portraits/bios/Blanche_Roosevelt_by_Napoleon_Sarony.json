@@ -1,0 +1,63 @@
+{
+  "slug": "Blanche_Roosevelt_by_Napoleon_Sarony",
+  "name": "Blanche Roosevelt",
+  "description": "American opera singer and writer (1853–1898)",
+  "summary": "Blanche Roosevelt was an American opera singer, author and journalist. She is best remembered for creating the role of Mabel in The Pirates of Penzance by Gilbert and Sullivan when that opera premiered on Broadway in 1879.",
+  "image_local": "images/Blanche_Roosevelt_by_Napoleon_Sarony.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Blanche_Roosevelt_by_Napoleon_Sarony.jpg/800px-Blanche_Roosevelt_by_Napoleon_Sarony.jpg",
+  "portrait_date": "",
+  "original_caption": "Blanche Roosevelt by Napoleon Sarony",
+  "extracted_name": "Blanche Roosevelt",
+  "wikipedia_title": "Blanche Roosevelt",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Blanche_Roosevelt",
+  "commons_file_page": "https://commons.wikimedia.org/wiki/File:Blanche_Roosevelt_by_Napoleon_Sarony.jpg",
+  "wikipedia_summary": {
+    "type": "standard",
+    "title": "Blanche Roosevelt",
+    "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Blanche Roosevelt</span></span>",
+    "namespace": {
+      "id": 0,
+      "text": ""
+    },
+    "wikibase_item": "Q3640851",
+    "titles": {
+      "canonical": "Blanche_Roosevelt",
+      "normalized": "Blanche Roosevelt",
+      "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Blanche Roosevelt</span></span>"
+    },
+    "pageid": 3743523,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Blanche_Roosevelt_by_Mora.jpg/330px-Blanche_Roosevelt_by_Mora.jpg",
+      "width": 330,
+      "height": 462
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Blanche_Roosevelt_by_Mora.jpg",
+      "width": 2358,
+      "height": 3304
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1330790173",
+    "tid": "b6e2c40f-e7ef-11f0-b76f-1aea96d193a2",
+    "timestamp": "2026-01-02T15:28:40Z",
+    "description": "American opera singer and writer (1853–1898)",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Blanche_Roosevelt",
+        "revisions": "https://en.wikipedia.org/wiki/Blanche_Roosevelt?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Blanche_Roosevelt?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Blanche_Roosevelt"
+      },
+      "mobile": {
+        "page": "https://en.wikipedia.org/wiki/Blanche_Roosevelt",
+        "revisions": "https://en.wikipedia.org/wiki/Special:History/Blanche_Roosevelt",
+        "edit": "https://en.wikipedia.org/wiki/Blanche_Roosevelt?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Blanche_Roosevelt"
+      }
+    },
+    "extract": "Blanche Roosevelt was an American opera singer, author and journalist. She is best remembered for creating the role of Mabel in The Pirates of Penzance by Gilbert and Sullivan when that opera premiered on Broadway in 1879.",
+    "extract_html": "<p><b>Blanche Roosevelt</b> was an American opera singer, author and journalist. She is best remembered for creating the role of Mabel in <i>The Pirates of Penzance</i> by Gilbert and Sullivan when that opera premiered on Broadway in 1879.</p>"
+  }
+}

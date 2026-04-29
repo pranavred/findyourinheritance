@@ -1,0 +1,63 @@
+{
+  "slug": "Stefan_Heym__1982",
+  "name": "Stefan Heym",
+  "description": "German writer (1913–2001)",
+  "summary": "Helmut Flieg was a German writer, known by his pseudonym Stefan Heym. He lived in the United States and trained at Camp Ritchie in 1943, making him one of the Ritchie Boys of World War II. In 1952, he returned to his home to the part of his native Germany which was, from 1949 to 1990, the German Democratic Republic, or East Germany. He published works in English and German at home and abroad, and despite longstanding criticism of the GDR remained a committed socialist. He was awarded the 1953 Heinrich Mann Prize, the 1959 National Prize of East Germany, and the 1993 Jerusalem Prize.",
+  "image_local": "images/Stefan_Heym__1982.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Stefan_Heym_%281982%29.jpg/800px-Stefan_Heym_%281982%29.jpg",
+  "portrait_date": "1982",
+  "original_caption": "Stefan Heym, by Marcel Antonisse",
+  "extracted_name": "Stefan Heym",
+  "wikipedia_title": "Stefan Heym",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Stefan_Heym",
+  "commons_file_page": "https://commons.wikimedia.org/wiki/File:Stefan_Heym_(1982).jpg",
+  "wikipedia_summary": {
+    "type": "standard",
+    "title": "Stefan Heym",
+    "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Stefan Heym</span></span>",
+    "namespace": {
+      "id": 0,
+      "text": ""
+    },
+    "wikibase_item": "Q76534",
+    "titles": {
+      "canonical": "Stefan_Heym",
+      "normalized": "Stefan Heym",
+      "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Stefan Heym</span></span>"
+    },
+    "pageid": 833769,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Stefan_Heym_%281982%29.jpg/330px-Stefan_Heym_%281982%29.jpg",
+      "width": 330,
+      "height": 440
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Stefan_Heym_%281982%29.jpg",
+      "width": 2330,
+      "height": 3106
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1344890667",
+    "tid": "d3accdca-2667-11f1-8001-57ae2e165bba",
+    "timestamp": "2026-03-23T03:24:40Z",
+    "description": "German writer (1913–2001)",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Stefan_Heym",
+        "revisions": "https://en.wikipedia.org/wiki/Stefan_Heym?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Stefan_Heym?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Stefan_Heym"
+      },
+      "mobile": {
+        "page": "https://en.wikipedia.org/wiki/Stefan_Heym",
+        "revisions": "https://en.wikipedia.org/wiki/Special:History/Stefan_Heym",
+        "edit": "https://en.wikipedia.org/wiki/Stefan_Heym?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Stefan_Heym"
+      }
+    },
+    "extract": "Helmut Flieg was a German writer, known by his pseudonym Stefan Heym. He lived in the United States and trained at Camp Ritchie in 1943, making him one of the Ritchie Boys of World War II. In 1952, he returned to his home to the part of his native Germany which was, from 1949 to 1990, the German Democratic Republic, or East Germany. He published works in English and German at home and abroad, and despite longstanding criticism of the GDR remained a committed socialist. He was awarded the 1953 Heinrich Mann Prize, the 1959 National Prize of East Germany, and the 1993 Jerusalem Prize.",
+    "extract_html": "<p><b>Helmut Flieg</b> was a German writer, known by his pseudonym <b>Stefan Heym</b>. He lived in the United States and trained at Camp Ritchie in 1943, making him one of the Ritchie Boys of World War II. In 1952, he returned to his home to the part of his native Germany which was, from 1949 to 1990, the German Democratic Republic, or East Germany. He published works in English and German at home and abroad, and despite longstanding criticism of the GDR remained a committed socialist. He was awarded the 1953 Heinrich Mann Prize, the 1959 National Prize of East Germany, and the 1993 Jerusalem Prize.</p>"
+  }
+}

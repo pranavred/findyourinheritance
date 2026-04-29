@@ -1,0 +1,63 @@
+{
+  "slug": "Al_Grey__Gottlieb",
+  "name": "Al Grey",
+  "description": "American jazz trombonist",
+  "summary": "Al Grey was an American jazz trombonist who was a member of the Count Basie orchestra. He was known for his plunger mute technique and wrote an instructional book in 1987 called Plunger Techniques.",
+  "image_local": "images/Al_Grey__Gottlieb.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Al_Grey_%28Gottlieb%29.jpg/800px-Al_Grey_%28Gottlieb%29.jpg",
+  "portrait_date": "1980s",
+  "original_caption": "Al Grey (Gottlieb)",
+  "extracted_name": "Al Grey",
+  "wikipedia_title": "Al Grey",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Al_Grey",
+  "commons_file_page": "https://commons.wikimedia.org/wiki/File:Al_Grey_(Gottlieb).jpg",
+  "wikipedia_summary": {
+    "type": "standard",
+    "title": "Al Grey",
+    "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Al Grey</span></span>",
+    "namespace": {
+      "id": 0,
+      "text": ""
+    },
+    "wikibase_item": "Q715687",
+    "titles": {
+      "canonical": "Al_Grey",
+      "normalized": "Al Grey",
+      "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Al Grey</span></span>"
+    },
+    "pageid": 2985243,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Al_Grey_%28Gottlieb%29.jpg/330px-Al_Grey_%28Gottlieb%29.jpg",
+      "width": 330,
+      "height": 421
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/9/93/Al_Grey_%28Gottlieb%29.jpg",
+      "width": 2898,
+      "height": 3700
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1342894787",
+    "tid": "4da9936a-1d0b-11f1-8548-1cdb31fce648",
+    "timestamp": "2026-03-11T05:29:41Z",
+    "description": "American jazz trombonist",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Al_Grey",
+        "revisions": "https://en.wikipedia.org/wiki/Al_Grey?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Al_Grey?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Al_Grey"
+      },
+      "mobile": {
+        "page": "https://en.wikipedia.org/wiki/Al_Grey",
+        "revisions": "https://en.wikipedia.org/wiki/Special:History/Al_Grey",
+        "edit": "https://en.wikipedia.org/wiki/Al_Grey?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Al_Grey"
+      }
+    },
+    "extract": "Al Grey was an American jazz trombonist who was a member of the Count Basie orchestra. He was known for his plunger mute technique and wrote an instructional book in 1987 called Plunger Techniques.",
+    "extract_html": "<p><b>Al Grey</b> was an American jazz trombonist who was a member of the Count Basie orchestra. He was known for his plunger mute technique and wrote an instructional book in 1987 called <i>Plunger Techniques</i>.</p>"
+  }
+}

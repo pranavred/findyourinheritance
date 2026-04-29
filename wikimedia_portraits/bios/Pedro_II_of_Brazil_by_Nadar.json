@@ -1,0 +1,63 @@
+{
+  "slug": "Pedro_II_of_Brazil_by_Nadar",
+  "name": "Pedro II of Brazil",
+  "description": "Emperor of Brazil from 1831 to 1889",
+  "summary": "Dom Pedro II, known as \"the Magnanimous\", was the second and final emperor of the Empire of Brazil. He reigned from 1831 until his deposition in the military coup of 1889, presiding over the longest and most stable reign in Brazilian history.",
+  "image_local": "images/Pedro_II_of_Brazil_by_Nadar.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Pedro_II_of_Brazil_by_Nadar.jpg/800px-Pedro_II_of_Brazil_by_Nadar.jpg",
+  "portrait_date": "",
+  "original_caption": "Pedro II of Brazil by Nadar",
+  "extracted_name": "Pedro II",
+  "wikipedia_title": "Pedro II of Brazil",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Pedro_II_of_Brazil",
+  "commons_file_page": "https://commons.wikimedia.org/wiki/File:Pedro_II_of_Brazil_by_Nadar.jpg",
+  "wikipedia_summary": {
+    "type": "standard",
+    "title": "Pedro II of Brazil",
+    "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Pedro II of Brazil</span></span>",
+    "namespace": {
+      "id": 0,
+      "text": ""
+    },
+    "wikibase_item": "Q156774",
+    "titles": {
+      "canonical": "Pedro_II_of_Brazil",
+      "normalized": "Pedro II of Brazil",
+      "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Pedro II of Brazil</span></span>"
+    },
+    "pageid": 81473,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Pedro_II_of_Brazil_-_Brady-Handy.jpg/330px-Pedro_II_of_Brazil_-_Brady-Handy.jpg",
+      "width": 330,
+      "height": 443
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Pedro_II_of_Brazil_-_Brady-Handy.jpg",
+      "width": 2892,
+      "height": 3880
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1347492269",
+    "tid": "426e57c8-3222-11f1-81bd-35114d177a07",
+    "timestamp": "2026-04-07T01:36:55Z",
+    "description": "Emperor of Brazil from 1831 to 1889",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Pedro_II_of_Brazil",
+        "revisions": "https://en.wikipedia.org/wiki/Pedro_II_of_Brazil?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Pedro_II_of_Brazil?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Pedro_II_of_Brazil"
+      },
+      "mobile": {
+        "page": "https://en.wikipedia.org/wiki/Pedro_II_of_Brazil",
+        "revisions": "https://en.wikipedia.org/wiki/Special:History/Pedro_II_of_Brazil",
+        "edit": "https://en.wikipedia.org/wiki/Pedro_II_of_Brazil?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Pedro_II_of_Brazil"
+      }
+    },
+    "extract": "Dom Pedro II, known as \"the Magnanimous\", was the second and final emperor of the Empire of Brazil. He reigned from 1831 until his deposition in the military coup of 1889, presiding over the longest and most stable reign in Brazilian history.",
+    "extract_html": "<p><i>Dom</i> <b>Pedro<span class=\"nowrap\"> </span>II</b>, known as <b>\"the Magnanimous\"</b>, was the second and final emperor of the Empire of Brazil. He reigned from 1831 until his deposition in the military coup of 1889, presiding over the longest and most stable reign in Brazilian history.</p>"
+  }
+}

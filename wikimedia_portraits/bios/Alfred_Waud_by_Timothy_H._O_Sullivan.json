@@ -1,0 +1,63 @@
+{
+  "slug": "Alfred_Waud_by_Timothy_H._O_Sullivan",
+  "name": "Alfred Waud",
+  "description": "American artist and illustrator",
+  "summary": "Alfred Rudolph Waud was an American artist and illustrator, born and raised in Hackney, London, England. He is most notable for the sketches he made as an artist correspondent during the American Civil War.",
+  "image_local": "images/Alfred_Waud_by_Timothy_H._O_Sullivan.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Alfred_Waud_by_Timothy_H._O%27Sullivan.jpg/800px-Alfred_Waud_by_Timothy_H._O%27Sullivan.jpg",
+  "portrait_date": "1863",
+  "original_caption": "Alfred Waud by Timothy H. O'Sullivan",
+  "extracted_name": "Alfred Waud",
+  "wikipedia_title": "Alfred Waud",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Alfred_Waud",
+  "commons_file_page": "https://commons.wikimedia.org/wiki/File:Alfred_Waud_by_Timothy_H._O%27Sullivan.jpg",
+  "wikipedia_summary": {
+    "type": "standard",
+    "title": "Alfred Waud",
+    "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Alfred Waud</span></span>",
+    "namespace": {
+      "id": 0,
+      "text": ""
+    },
+    "wikibase_item": "Q2226717",
+    "titles": {
+      "canonical": "Alfred_Waud",
+      "normalized": "Alfred Waud",
+      "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Alfred Waud</span></span>"
+    },
+    "pageid": 6697873,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Alfred_Waud_by_Timothy_H._O%27Sullivan.jpg/330px-Alfred_Waud_by_Timothy_H._O%27Sullivan.jpg",
+      "width": 330,
+      "height": 252
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Alfred_Waud_by_Timothy_H._O%27Sullivan.jpg",
+      "width": 3330,
+      "height": 2547
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1345486113",
+    "tid": "50a1a56f-28f7-11f1-8147-5ec974c0a8e5",
+    "timestamp": "2026-03-26T09:36:50Z",
+    "description": "American artist and illustrator",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Alfred_Waud",
+        "revisions": "https://en.wikipedia.org/wiki/Alfred_Waud?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Alfred_Waud?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Alfred_Waud"
+      },
+      "mobile": {
+        "page": "https://en.wikipedia.org/wiki/Alfred_Waud",
+        "revisions": "https://en.wikipedia.org/wiki/Special:History/Alfred_Waud",
+        "edit": "https://en.wikipedia.org/wiki/Alfred_Waud?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Alfred_Waud"
+      }
+    },
+    "extract": "Alfred Rudolph Waud was an American artist and illustrator, born and raised in Hackney, London, England. He is most notable for the sketches he made as an artist correspondent during the American Civil War.",
+    "extract_html": "<p><b>Alfred Rudolph Waud</b> was an American artist and illustrator, born and raised in Hackney, London, England. He is most notable for the sketches he made as an artist correspondent during the American Civil War.</p>"
+  }
+}

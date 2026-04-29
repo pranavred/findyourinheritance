@@ -1,0 +1,63 @@
+{
+  "slug": "Mrs._Crystal_Eastman_Benedict_by_Edmonston__Washington__D.C.",
+  "name": "Crystal Eastman",
+  "description": "American lawyer, activist, feminist, and journalist (1881–1928)",
+  "summary": "Crystal Catherine Eastman was an American lawyer, antimilitarist, feminist, socialist, and journalist. She was a leader in the fight for women's suffrage, a co-founder and co-editor with her brother Max Eastman of the radical arts and politics magazine The Liberator, co-founder of the Women's International League for Peace and Freedom, and co-founder in 1920 of the American Civil Liberties Union. In 2000, she was inducted into the National Women's Hall of Fame in Seneca Falls, New York.",
+  "image_local": "images/Mrs._Crystal_Eastman_Benedict_by_Edmonston__Washington__D.C..jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Mrs._Crystal_Eastman_Benedict_by_Edmonston%2C_Washington%2C_D.C..jpg/800px-Mrs._Crystal_Eastman_Benedict_by_Edmonston%2C_Washington%2C_D.C..jpg",
+  "portrait_date": "between 1913 and 1915",
+  "original_caption": "Mrs. Crystal Eastman Benedict by Edmonston, Washington, D.C.",
+  "extracted_name": "Crystal Eastman Benedict",
+  "wikipedia_title": "Crystal Eastman",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Crystal_Eastman",
+  "commons_file_page": "https://commons.wikimedia.org/wiki/File:Mrs._Crystal_Eastman_Benedict_by_Edmonston,_Washington,_D.C..jpg",
+  "wikipedia_summary": {
+    "type": "standard",
+    "title": "Crystal Eastman",
+    "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Crystal Eastman</span></span>",
+    "namespace": {
+      "id": 0,
+      "text": ""
+    },
+    "wikibase_item": "Q4945589",
+    "titles": {
+      "canonical": "Crystal_Eastman",
+      "normalized": "Crystal Eastman",
+      "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Crystal Eastman</span></span>"
+    },
+    "pageid": 7611,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Mrs._Crystal_Eastman_Benedict_by_Edmonston%2C_Washington%2C_D.C..jpg/330px-Mrs._Crystal_Eastman_Benedict_by_Edmonston%2C_Washington%2C_D.C..jpg",
+      "width": 330,
+      "height": 501
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/9/96/Mrs._Crystal_Eastman_Benedict_by_Edmonston%2C_Washington%2C_D.C..jpg",
+      "width": 1700,
+      "height": 2583
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1348068999",
+    "tid": "d37554ad-34e6-11f1-b49f-e2b7b9e76dcb",
+    "timestamp": "2026-04-10T14:09:02Z",
+    "description": "American lawyer, activist, feminist, and journalist (1881–1928)",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Crystal_Eastman",
+        "revisions": "https://en.wikipedia.org/wiki/Crystal_Eastman?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Crystal_Eastman?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Crystal_Eastman"
+      },
+      "mobile": {
+        "page": "https://en.wikipedia.org/wiki/Crystal_Eastman",
+        "revisions": "https://en.wikipedia.org/wiki/Special:History/Crystal_Eastman",
+        "edit": "https://en.wikipedia.org/wiki/Crystal_Eastman?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Crystal_Eastman"
+      }
+    },
+    "extract": "Crystal Catherine Eastman was an American lawyer, antimilitarist, feminist, socialist, and journalist. She was a leader in the fight for women's suffrage, a co-founder and co-editor with her brother Max Eastman of the radical arts and politics magazine The Liberator, co-founder of the Women's International League for Peace and Freedom, and co-founder in 1920 of the American Civil Liberties Union. In 2000, she was inducted into the National Women's Hall of Fame in Seneca Falls, New York.",
+    "extract_html": "<p><b>Crystal Catherine Eastman</b> was an American lawyer, antimilitarist, feminist, socialist, and journalist. She was a leader in the fight for women's suffrage, a co-founder and co-editor with her brother Max Eastman of the radical arts and politics magazine <i>The Liberator,</i> co-founder of the Women's International League for Peace and Freedom, and co-founder in 1920 of the American Civil Liberties Union. In 2000, she was inducted into the National Women's Hall of Fame in Seneca Falls, New York.</p>"
+  }
+}

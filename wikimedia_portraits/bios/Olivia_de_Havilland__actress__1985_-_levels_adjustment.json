@@ -1,0 +1,63 @@
+{
+  "slug": "Olivia_de_Havilland__actress__1985_-_levels_adjustment",
+  "name": "Olivia de Havilland",
+  "description": "British actress (1916–2020)",
+  "summary": "Dame Olivia Mary de Havilland was a British, American and French actress. The major works of her cinematic career spanned from 1935 to 1988. She appeared in 49 feature films and was one of the leading actresses of her time. Before her death in 2020 at age 104, she was the oldest living and earliest surviving Academy Award winner and was widely considered the last surviving major star from the Golden Age of Hollywood cinema. Her younger sister, with whom she had a noted rivalry which was well documented in the media, was the Oscar-winning actress Joan Fontaine.",
+  "image_local": "images/Olivia_de_Havilland__actress__1985_-_levels_adjustment.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Olivia_de_Havilland%2C_actress%2C_1985_-_levels_adjustment.jpg/800px-Olivia_de_Havilland%2C_actress%2C_1985_-_levels_adjustment.jpg",
+  "portrait_date": "1985",
+  "original_caption": "Olivia de Havilland",
+  "extracted_name": "Olivia de Havilland",
+  "wikipedia_title": "Olivia de Havilland",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Olivia_de_Havilland",
+  "commons_file_page": "https://commons.wikimedia.org/wiki/File:Olivia_de_Havilland,_actress,_1985_-_levels_adjustment.jpg",
+  "wikipedia_summary": {
+    "type": "standard",
+    "title": "Olivia de Havilland",
+    "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Olivia de Havilland</span></span>",
+    "namespace": {
+      "id": 0,
+      "text": ""
+    },
+    "wikibase_item": "Q95068",
+    "titles": {
+      "canonical": "Olivia_de_Havilland",
+      "normalized": "Olivia de Havilland",
+      "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Olivia de Havilland</span></span>"
+    },
+    "pageid": 88833,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Santa_Fe_Trail_3.jpg/330px-Santa_Fe_Trail_3.jpg",
+      "width": 330,
+      "height": 462
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/9/90/Santa_Fe_Trail_3.jpg",
+      "width": 1285,
+      "height": 1800
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1351160512",
+    "tid": "40285ae9-4149-11f1-9aa0-5afad027e140",
+    "timestamp": "2026-04-26T08:23:49Z",
+    "description": "British actress (1916–2020)",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Olivia_de_Havilland",
+        "revisions": "https://en.wikipedia.org/wiki/Olivia_de_Havilland?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Olivia_de_Havilland?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Olivia_de_Havilland"
+      },
+      "mobile": {
+        "page": "https://en.wikipedia.org/wiki/Olivia_de_Havilland",
+        "revisions": "https://en.wikipedia.org/wiki/Special:History/Olivia_de_Havilland",
+        "edit": "https://en.wikipedia.org/wiki/Olivia_de_Havilland?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Olivia_de_Havilland"
+      }
+    },
+    "extract": "Dame Olivia Mary de Havilland was a British, American and French actress. The major works of her cinematic career spanned from 1935 to 1988. She appeared in 49 feature films and was one of the leading actresses of her time. Before her death in 2020 at age 104, she was the oldest living and earliest surviving Academy Award winner and was widely considered the last surviving major star from the Golden Age of Hollywood cinema. Her younger sister, with whom she had a noted rivalry which was well documented in the media, was the Oscar-winning actress Joan Fontaine.",
+    "extract_html": "<p><b>Dame Olivia Mary de Havilland</b> was a British, American and French actress. The major works of her cinematic career spanned from 1935 to 1988. She appeared in 49 feature films and was one of the leading actresses of her time. Before her death in 2020 at age 104, she was the oldest living and earliest surviving Academy Award winner and was widely considered the last surviving major star from the Golden Age of Hollywood cinema. Her younger sister, with whom she had a noted rivalry which was well documented in the media, was the Oscar-winning actress Joan Fontaine.</p>"
+  }
+}

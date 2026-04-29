@@ -1,0 +1,67 @@
+{
+  "slug": "Kissing_the_War_Goodbye",
+  "name": "V-J Day in Times Square",
+  "description": "1945 photograph by Alfred Eisenstaedt",
+  "summary": "V-J Day in Times Square is a photograph by Alfred Eisenstaedt that portrays a U.S. Navy sailor kissing a total stranger after grabbing her—a dental assistant—on Victory over Japan Day in New York City's Times Square on August 14, 1945. The photograph was published a week later in Life magazine, among many photographs of celebrations around the United States that were presented in a 12-page section entitled \"Victory Celebrations\". A two-page spread faces a montage of three similar photographs of celebrators in Washington, D.C., Kansas City, and Miami, opposite the Eisenstaedt photograph that was given a full-page display on the right hand side.",
+  "image_local": "images/Kissing_the_War_Goodbye.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Kissing_the_War_Goodbye.jpg/800px-Kissing_the_War_Goodbye.jpg",
+  "portrait_date": "",
+  "original_caption": "Kissing the War Goodbye",
+  "extracted_name": "Kissing the War Goodbye",
+  "wikipedia_title": "V-J Day in Times Square",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/V-J_Day_in_Times_Square",
+  "commons_file_page": "https://commons.wikimedia.org/wiki/File:Kissing_the_War_Goodbye.jpg",
+  "wikipedia_summary": {
+    "type": "standard",
+    "title": "V-J Day in Times Square",
+    "displaytitle": "<i>V-J Day in Times Square</i>",
+    "namespace": {
+      "id": 0,
+      "text": ""
+    },
+    "wikibase_item": "Q626926",
+    "titles": {
+      "canonical": "V-J_Day_in_Times_Square",
+      "normalized": "V-J Day in Times Square",
+      "display": "<i>V-J Day in Times Square</i>"
+    },
+    "pageid": 12608136,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/en/9/95/Legendary_kiss_V%E2%80%93J_day_in_Times_Square_Alfred_Eisenstaedt.jpg",
+      "width": 265,
+      "height": 396
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/en/9/95/Legendary_kiss_V%E2%80%93J_day_in_Times_Square_Alfred_Eisenstaedt.jpg",
+      "width": 265,
+      "height": 396
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1348440875",
+    "tid": "66ee87ef-3699-11f1-aad8-f6731456636f",
+    "timestamp": "2026-04-12T17:59:51Z",
+    "description": "1945 photograph by Alfred Eisenstaedt",
+    "description_source": "local",
+    "coordinates": {
+      "lat": 40.75778,
+      "lon": -73.98564
+    },
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/V-J_Day_in_Times_Square",
+        "revisions": "https://en.wikipedia.org/wiki/V-J_Day_in_Times_Square?action=history",
+        "edit": "https://en.wikipedia.org/wiki/V-J_Day_in_Times_Square?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:V-J_Day_in_Times_Square"
+      },
+      "mobile": {
+        "page": "https://en.wikipedia.org/wiki/V-J_Day_in_Times_Square",
+        "revisions": "https://en.wikipedia.org/wiki/Special:History/V-J_Day_in_Times_Square",
+        "edit": "https://en.wikipedia.org/wiki/V-J_Day_in_Times_Square?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:V-J_Day_in_Times_Square"
+      }
+    },
+    "extract": "V-J Day in Times Square is a photograph by Alfred Eisenstaedt that portrays a U.S. Navy sailor kissing a total stranger after grabbing her—a dental assistant—on Victory over Japan Day in New York City's Times Square on August 14, 1945. The photograph was published a week later in Life magazine, among many photographs of celebrations around the United States that were presented in a 12-page section entitled \"Victory Celebrations\". A two-page spread faces a montage of three similar photographs of celebrators in Washington, D.C., Kansas City, and Miami, opposite the Eisenstaedt photograph that was given a full-page display on the right hand side.",
+    "extract_html": "<p><i><b>V-J Day in Times Square</b></i> is a photograph by Alfred Eisenstaedt that portrays a U.S. Navy sailor kissing a total stranger after grabbing her—a dental assistant—on Victory over Japan Day in New York City's Times Square on August 14, 1945. The photograph was published a week later in <i>Life</i> magazine, among many photographs of celebrations around the United States that were presented in a 12-page section entitled \"Victory Celebrations\". A two-page spread faces a montage of three similar photographs of celebrators in Washington, D.C., Kansas City, and Miami, opposite the Eisenstaedt photograph that was given a full-page display on the right hand side.</p>"
+  }
+}

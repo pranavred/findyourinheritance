@@ -1,0 +1,63 @@
+{
+  "slug": "W.E.B._Du_Bois_by_James_E._Purdy__1907",
+  "name": "W. E. B. Du Bois",
+  "description": "American sociologist and activist (1868–1963)",
+  "summary": "William Edward Burghardt Du Bois was an American sociologist, writer, historian, and Pan-Africanist civil rights activist. Born in Great Barrington, Massachusetts, Du Bois grew up in a relatively tolerant and integrated community. He completed graduate work at Harvard University, where he was the first African American to earn a doctorate. He was a professor at Atlanta University and over the course of his life wrote a large number of books and articles. He spent the last years of his life in Ghana and died in Accra on August 27, 1963.",
+  "image_local": "images/W.E.B._Du_Bois_by_James_E._Purdy__1907.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/W.E.B._Du_Bois_by_James_E._Purdy%2C_1907.jpg/800px-W.E.B._Du_Bois_by_James_E._Purdy%2C_1907.jpg",
+  "portrait_date": "1907",
+  "original_caption": "W.E.B. Du Bois by James E. Purdy, 1907",
+  "extracted_name": "W.E.B. Du Bois",
+  "wikipedia_title": "W. E. B. Du Bois",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/W._E._B._Du_Bois",
+  "commons_file_page": "https://commons.wikimedia.org/wiki/File:W.E.B._Du_Bois_by_James_E._Purdy,_1907.jpg",
+  "wikipedia_summary": {
+    "type": "standard",
+    "title": "W. E. B. Du Bois",
+    "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">W. E. B. Du Bois</span></span>",
+    "namespace": {
+      "id": 0,
+      "text": ""
+    },
+    "wikibase_item": "Q158060",
+    "titles": {
+      "canonical": "W._E._B._Du_Bois",
+      "normalized": "W. E. B. Du Bois",
+      "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">W. E. B. Du Bois</span></span>"
+    },
+    "pageid": 89988,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/W.E.B._Du_Bois_by_James_E._Purdy%2C_1907_%283x4%29.jpg/330px-W.E.B._Du_Bois_by_James_E._Purdy%2C_1907_%283x4%29.jpg",
+      "width": 330,
+      "height": 440
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/6/6a/W.E.B._Du_Bois_by_James_E._Purdy%2C_1907_%283x4%29.jpg",
+      "width": 2808,
+      "height": 3744
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1351591193",
+    "tid": "dc27af74-4357-11f1-bc4d-f07f96d403c2",
+    "timestamp": "2026-04-28T23:13:26Z",
+    "description": "American sociologist and activist (1868–1963)",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/W._E._B._Du_Bois",
+        "revisions": "https://en.wikipedia.org/wiki/W._E._B._Du_Bois?action=history",
+        "edit": "https://en.wikipedia.org/wiki/W._E._B._Du_Bois?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:W._E._B._Du_Bois"
+      },
+      "mobile": {
+        "page": "https://en.wikipedia.org/wiki/W._E._B._Du_Bois",
+        "revisions": "https://en.wikipedia.org/wiki/Special:History/W._E._B._Du_Bois",
+        "edit": "https://en.wikipedia.org/wiki/W._E._B._Du_Bois?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:W._E._B._Du_Bois"
+      }
+    },
+    "extract": "William Edward Burghardt Du Bois was an American sociologist, writer, historian, and Pan-Africanist civil rights activist. Born in Great Barrington, Massachusetts, Du Bois grew up in a relatively tolerant and integrated community. He completed graduate work at Harvard University, where he was the first African American to earn a doctorate. He was a professor at Atlanta University and over the course of his life wrote a large number of books and articles. He spent the last years of his life in Ghana and died in Accra on August 27, 1963.",
+    "extract_html": "<p><b>William Edward Burghardt Du Bois</b> was an American sociologist, writer, historian, and Pan-Africanist civil rights activist. Born in Great Barrington, Massachusetts, Du Bois grew up in a relatively tolerant and integrated community. He completed graduate work at Harvard University, where he was the first African American to earn a doctorate. He was a professor at Atlanta University and over the course of his life wrote a large number of books and articles. He spent the last years of his life in Ghana and died in Accra on August 27, 1963.</p>"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "slug": "Henry_Highland_Garnet_by_James_U._Stead",
+  "name": "Henry Highland Garnet",
+  "description": "American abolitionist (1815–1882)",
+  "summary": "Henry Highland Garnet was an American abolitionist, minister, educator, orator, and diplomat. Having escaped as a child from slavery in Maryland with his family, he grew up in New York City. He was educated at the African Free School, and later the Noyes Academy and the Oneida Institute. As a Presbyterian minister, his drive for abolitionism was based in religion.",
+  "image_local": "images/Henry_Highland_Garnet_by_James_U._Stead.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Henry_Highland_Garnet_by_James_U._Stead.jpg/800px-Henry_Highland_Garnet_by_James_U._Stead.jpg",
+  "portrait_date": "c. 1881",
+  "original_caption": "Henry Highland Garnet by James U. Stead",
+  "extracted_name": "Henry Highland Garnet",
+  "wikipedia_title": "Henry Highland Garnet",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Henry_Highland_Garnet",
+  "commons_file_page": "https://commons.wikimedia.org/wiki/File:Henry_Highland_Garnet_by_James_U._Stead.jpg",
+  "wikipedia_summary": {
+    "type": "standard",
+    "title": "Henry Highland Garnet",
+    "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Henry Highland Garnet</span></span>",
+    "namespace": {
+      "id": 0,
+      "text": ""
+    },
+    "wikibase_item": "Q3132833",
+    "titles": {
+      "canonical": "Henry_Highland_Garnet",
+      "normalized": "Henry Highland Garnet",
+      "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Henry Highland Garnet</span></span>"
+    },
+    "pageid": 367722,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Henry_Highland_Garnet_by_James_U._Stead_crop.png/330px-Henry_Highland_Garnet_by_James_U._Stead_crop.png",
+      "width": 330,
+      "height": 417
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Henry_Highland_Garnet_by_James_U._Stead_crop.png",
+      "width": 2376,
+      "height": 3004
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1349371592",
+    "tid": "c41c6cdf-39fa-11f1-ac9d-62abe6147e5c",
+    "timestamp": "2026-04-17T01:14:22Z",
+    "description": "American abolitionist (1815–1882)",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Henry_Highland_Garnet",
+        "revisions": "https://en.wikipedia.org/wiki/Henry_Highland_Garnet?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Henry_Highland_Garnet?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Henry_Highland_Garnet"
+      },
+      "mobile": {
+        "page": "https://en.wikipedia.org/wiki/Henry_Highland_Garnet",
+        "revisions": "https://en.wikipedia.org/wiki/Special:History/Henry_Highland_Garnet",
+        "edit": "https://en.wikipedia.org/wiki/Henry_Highland_Garnet?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Henry_Highland_Garnet"
+      }
+    },
+    "extract": "Henry Highland Garnet was an American abolitionist, minister, educator, orator, and diplomat. Having escaped as a child from slavery in Maryland with his family, he grew up in New York City. He was educated at the African Free School, and later the Noyes Academy and the Oneida Institute. As a Presbyterian minister, his drive for abolitionism was based in religion.",
+    "extract_html": "<p><b>Henry Highland Garnet</b> was an American abolitionist, minister, educator, orator, and diplomat. Having escaped as a child from slavery in Maryland with his family, he grew up in New York City. He was educated at the African Free School, and later the Noyes Academy and the Oneida Institute. As a Presbyterian minister, his drive for abolitionism was based in religion.</p>"
+  }
+}

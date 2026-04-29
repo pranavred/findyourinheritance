@@ -1,0 +1,63 @@
+{
+  "slug": "A.J._Muste__anti-war_activist__cropped",
+  "name": "A. J. Muste",
+  "description": "American clergyman and activist (1885–1967)",
+  "summary": "Abraham Johannes Muste was a Dutch-born American clergyman and political activist. He is best remembered for his work in the labor movement, the pacifist movement, the anti-war movement, and the civil rights movement in the United States.",
+  "image_local": "images/A.J._Muste__anti-war_activist__cropped.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/A.J._Muste%2C_anti-war_activist%2C_cropped.jpg/800px-A.J._Muste%2C_anti-war_activist%2C_cropped.jpg",
+  "portrait_date": "late 1960s",
+  "original_caption": "A.J. Muste, antiwar activist, by Bernard Gotfryd",
+  "extracted_name": "A.J. Muste",
+  "wikipedia_title": "A. J. Muste",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/A._J._Muste",
+  "commons_file_page": "https://commons.wikimedia.org/wiki/File:A.J._Muste,_anti-war_activist,_cropped.jpg",
+  "wikipedia_summary": {
+    "type": "standard",
+    "title": "A. J. Muste",
+    "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">A. J. Muste</span></span>",
+    "namespace": {
+      "id": 0,
+      "text": ""
+    },
+    "wikibase_item": "Q330100",
+    "titles": {
+      "canonical": "A._J._Muste",
+      "normalized": "A. J. Muste",
+      "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">A. J. Muste</span></span>"
+    },
+    "pageid": 255026,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/A.J._Muste%2C_anti-war_activist%2C_cropped.jpg/330px-A.J._Muste%2C_anti-war_activist%2C_cropped.jpg",
+      "width": 330,
+      "height": 407
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/c/c8/A.J._Muste%2C_anti-war_activist%2C_cropped.jpg",
+      "width": 3248,
+      "height": 4007
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1337697729",
+    "tid": "f30520a5-06db-11f1-b575-3f9af53b99d8",
+    "timestamp": "2026-02-10T23:55:17Z",
+    "description": "American clergyman and activist (1885–1967)",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/A._J._Muste",
+        "revisions": "https://en.wikipedia.org/wiki/A._J._Muste?action=history",
+        "edit": "https://en.wikipedia.org/wiki/A._J._Muste?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:A._J._Muste"
+      },
+      "mobile": {
+        "page": "https://en.wikipedia.org/wiki/A._J._Muste",
+        "revisions": "https://en.wikipedia.org/wiki/Special:History/A._J._Muste",
+        "edit": "https://en.wikipedia.org/wiki/A._J._Muste?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:A._J._Muste"
+      }
+    },
+    "extract": "Abraham Johannes Muste was a Dutch-born American clergyman and political activist. He is best remembered for his work in the labor movement, the pacifist movement, the anti-war movement, and the civil rights movement in the United States.",
+    "extract_html": "<p><b>Abraham Johannes Muste</b> was a Dutch-born American clergyman and political activist. He is best remembered for his work in the labor movement, the pacifist movement, the anti-war movement, and the civil rights movement in the United States.</p>"
+  }
+}

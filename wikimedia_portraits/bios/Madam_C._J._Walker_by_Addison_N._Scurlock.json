@@ -1,0 +1,63 @@
+{
+  "slug": "Madam_C._J._Walker_by_Addison_N._Scurlock",
+  "name": "Madam C. J. Walker",
+  "description": "Black entrepreneur, philanthropist, and activist (1867–1919)",
+  "summary": "Madam C. J. Walker, Mrs. Charles Joseph Walker upon her third marriage, was an American entrepreneur, philanthropist, and political and social activist. Walker is recorded as the first female self-made millionaire in America in the Guinness Book of World Records. Multiple sources mention that although other women might have been the first, their wealth is not as well-documented.",
+  "image_local": "images/Madam_C._J._Walker_by_Addison_N._Scurlock.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Madam_C._J._Walker_by_Addison_N._Scurlock.jpg/800px-Madam_C._J._Walker_by_Addison_N._Scurlock.jpg",
+  "portrait_date": "",
+  "original_caption": "Madam C. J. Walker by Addison N. Scurlock",
+  "extracted_name": "Madam C. J. Walker",
+  "wikipedia_title": "Madam C. J. Walker",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Madam_C._J._Walker",
+  "commons_file_page": "https://commons.wikimedia.org/wiki/File:Madam_C._J._Walker_by_Addison_N._Scurlock.jpg",
+  "wikipedia_summary": {
+    "type": "standard",
+    "title": "Madam C. J. Walker",
+    "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Madam C. J. Walker</span></span>",
+    "namespace": {
+      "id": 0,
+      "text": ""
+    },
+    "wikibase_item": "Q447716",
+    "titles": {
+      "canonical": "Madam_C._J._Walker",
+      "normalized": "Madam C. J. Walker",
+      "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Madam C. J. Walker</span></span>"
+    },
+    "pageid": 472573,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Madam_C._J._Walker_by_Addison_N._Scurlock.jpg/330px-Madam_C._J._Walker_by_Addison_N._Scurlock.jpg",
+      "width": 330,
+      "height": 486
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Madam_C._J._Walker_by_Addison_N._Scurlock.jpg",
+      "width": 2871,
+      "height": 4230
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1349122690",
+    "tid": "a45f48e4-3915-11f1-93f5-57fd500fa762",
+    "timestamp": "2026-04-15T21:54:14Z",
+    "description": "Black entrepreneur, philanthropist, and activist (1867–1919)",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Madam_C._J._Walker",
+        "revisions": "https://en.wikipedia.org/wiki/Madam_C._J._Walker?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Madam_C._J._Walker?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Madam_C._J._Walker"
+      },
+      "mobile": {
+        "page": "https://en.wikipedia.org/wiki/Madam_C._J._Walker",
+        "revisions": "https://en.wikipedia.org/wiki/Special:History/Madam_C._J._Walker",
+        "edit": "https://en.wikipedia.org/wiki/Madam_C._J._Walker?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Madam_C._J._Walker"
+      }
+    },
+    "extract": "Madam C. J. Walker, Mrs. Charles Joseph Walker upon her third marriage, was an American entrepreneur, philanthropist, and political and social activist. Walker is recorded as the first female self-made millionaire in America in the Guinness Book of World Records. Multiple sources mention that although other women might have been the first, their wealth is not as well-documented.",
+    "extract_html": "<p><b>Madam C. J. Walker</b>, <b>Mrs. Charles Joseph Walker</b> upon her third marriage, was an American entrepreneur, philanthropist, and political and social activist. Walker is recorded as the first female self-made millionaire in America in the <i>Guinness Book of World Records</i>. Multiple sources mention that although other women might have been the first, their wealth is not as well-documented.</p>"
+  }
+}

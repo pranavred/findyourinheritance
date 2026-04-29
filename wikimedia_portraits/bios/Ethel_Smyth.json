@@ -1,0 +1,63 @@
+{
+  "slug": "Ethel_Smyth",
+  "name": "Ethel Smyth",
+  "description": "English composer and suffragette (1858–1944)",
+  "summary": "Dame Ethel Mary Smyth was an English composer and a member of the women's suffrage movement. Her compositions include songs, works for piano, chamber music, orchestral works, choral works and operas.",
+  "image_local": "images/Ethel_Smyth.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Ethel_Smyth.jpg/800px-Ethel_Smyth.jpg",
+  "portrait_date": "1922",
+  "original_caption": "Ethel Smyth",
+  "extracted_name": "Ethel Smyth",
+  "wikipedia_title": "Ethel Smyth",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Ethel_Smyth",
+  "commons_file_page": "https://commons.wikimedia.org/wiki/File:Ethel_Smyth.jpg",
+  "wikipedia_summary": {
+    "type": "standard",
+    "title": "Ethel Smyth",
+    "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Ethel Smyth</span></span>",
+    "namespace": {
+      "id": 0,
+      "text": ""
+    },
+    "wikibase_item": "Q236599",
+    "titles": {
+      "canonical": "Ethel_Smyth",
+      "normalized": "Ethel Smyth",
+      "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Ethel Smyth</span></span>"
+    },
+    "pageid": 214559,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Ethel_Smyth.jpg/330px-Ethel_Smyth.jpg",
+      "width": 330,
+      "height": 483
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Ethel_Smyth.jpg/3840px-Ethel_Smyth.jpg",
+      "width": 5464,
+      "height": 8000
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1341362945",
+    "tid": "0ff798f1-1677-11f1-a93c-dc807f6df7c3",
+    "timestamp": "2026-03-02T20:33:25Z",
+    "description": "English composer and suffragette (1858–1944)",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Ethel_Smyth",
+        "revisions": "https://en.wikipedia.org/wiki/Ethel_Smyth?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Ethel_Smyth?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Ethel_Smyth"
+      },
+      "mobile": {
+        "page": "https://en.wikipedia.org/wiki/Ethel_Smyth",
+        "revisions": "https://en.wikipedia.org/wiki/Special:History/Ethel_Smyth",
+        "edit": "https://en.wikipedia.org/wiki/Ethel_Smyth?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Ethel_Smyth"
+      }
+    },
+    "extract": "Dame Ethel Mary Smyth was an English composer and a member of the women's suffrage movement. Her compositions include songs, works for piano, chamber music, orchestral works, choral works and operas.",
+    "extract_html": "<p><b>Dame Ethel Mary Smyth</b> was an English composer and a member of the women's suffrage movement. Her compositions include songs, works for piano, chamber music, orchestral works, choral works and operas.</p>"
+  }
+}

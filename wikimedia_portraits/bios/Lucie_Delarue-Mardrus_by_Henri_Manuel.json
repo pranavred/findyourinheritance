@@ -1,0 +1,63 @@
+{
+  "slug": "Lucie_Delarue-Mardrus_by_Henri_Manuel",
+  "name": "Lucie Delarue-Mardrus",
+  "description": "French writer and sculptor",
+  "summary": "Lucie Delarue-Mardrus was a French journalist, poet, novelist, sculptor, historian and designer. She was a prolific writer, who produced more than 70 books in her lifetime.",
+  "image_local": "images/Lucie_Delarue-Mardrus_by_Henri_Manuel.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Lucie_Delarue-Mardrus_by_Henri_Manuel.jpg/800px-Lucie_Delarue-Mardrus_by_Henri_Manuel.jpg",
+  "portrait_date": "",
+  "original_caption": "Lucie Delarue-Mardrus by Henri Manuel",
+  "extracted_name": "Lucie Delarue-Mardrus",
+  "wikipedia_title": "Lucie Delarue-Mardrus",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Lucie_Delarue-Mardrus",
+  "commons_file_page": "https://commons.wikimedia.org/wiki/File:Lucie_Delarue-Mardrus_by_Henri_Manuel.jpg",
+  "wikipedia_summary": {
+    "type": "standard",
+    "title": "Lucie Delarue-Mardrus",
+    "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Lucie Delarue-Mardrus</span></span>",
+    "namespace": {
+      "id": 0,
+      "text": ""
+    },
+    "wikibase_item": "Q3087508",
+    "titles": {
+      "canonical": "Lucie_Delarue-Mardrus",
+      "normalized": "Lucie Delarue-Mardrus",
+      "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Lucie Delarue-Mardrus</span></span>"
+    },
+    "pageid": 7511031,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Lucie_Delarue-Mardrus_by_Henri_Manuel.jpg/330px-Lucie_Delarue-Mardrus_by_Henri_Manuel.jpg",
+      "width": 330,
+      "height": 479
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/8/85/Lucie_Delarue-Mardrus_by_Henri_Manuel.jpg",
+      "width": 3646,
+      "height": 5294
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1346182700",
+    "tid": "98446bf0-2c2c-11f1-aec4-168870f2c3a4",
+    "timestamp": "2026-03-30T11:35:47Z",
+    "description": "French writer and sculptor",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Lucie_Delarue-Mardrus",
+        "revisions": "https://en.wikipedia.org/wiki/Lucie_Delarue-Mardrus?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Lucie_Delarue-Mardrus?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Lucie_Delarue-Mardrus"
+      },
+      "mobile": {
+        "page": "https://en.wikipedia.org/wiki/Lucie_Delarue-Mardrus",
+        "revisions": "https://en.wikipedia.org/wiki/Special:History/Lucie_Delarue-Mardrus",
+        "edit": "https://en.wikipedia.org/wiki/Lucie_Delarue-Mardrus?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Lucie_Delarue-Mardrus"
+      }
+    },
+    "extract": "Lucie Delarue-Mardrus was a French journalist, poet, novelist, sculptor, historian and designer. She was a prolific writer, who produced more than 70 books in her lifetime.",
+    "extract_html": "<p><b>Lucie Delarue-Mardrus</b> was a French journalist, poet, novelist, sculptor, historian and designer. She was a prolific writer, who produced more than 70 books in her lifetime.</p>"
+  }
+}

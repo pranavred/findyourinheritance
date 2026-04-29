@@ -1,0 +1,63 @@
+{
+  "slug": "Belva_Ann_Bennett_Lockwood",
+  "name": "Belva Ann Lockwood",
+  "description": "American suffragette (1830–1917)",
+  "summary": "Belva Ann Bennett Lockwood was an American lawyer, politician, educator, and author who was active in the women's rights and women's suffrage movements. She was one of the first women lawyers in the United States. In 1879 she became the first woman to be admitted to practice law before the U.S. Supreme Court. Lockwood ran for president in 1884 and 1888 on the ticket of the Equal Rights Party and was the first woman to appear on official ballots. While Victoria Woodhull is commonly cited as the first woman to run for president, Lockwood was the first one to appear on any ballots, due to Woodhull being too young for the presidency when she ran.",
+  "image_local": "images/Belva_Ann_Bennett_Lockwood.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Belva_Ann_Bennett_Lockwood.jpg/800px-Belva_Ann_Bennett_Lockwood.jpg",
+  "portrait_date": "c. 1880",
+  "original_caption": "Belva Ann Bennett Lockwood",
+  "extracted_name": "Belva Ann Bennett Lockwood",
+  "wikipedia_title": "Belva Ann Lockwood",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Belva_Ann_Lockwood",
+  "commons_file_page": "https://commons.wikimedia.org/wiki/File:Belva_Ann_Bennett_Lockwood.jpg",
+  "wikipedia_summary": {
+    "type": "standard",
+    "title": "Belva Ann Lockwood",
+    "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Belva Ann Lockwood</span></span>",
+    "namespace": {
+      "id": 0,
+      "text": ""
+    },
+    "wikibase_item": "Q2895165",
+    "titles": {
+      "canonical": "Belva_Ann_Lockwood",
+      "normalized": "Belva Ann Lockwood",
+      "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Belva Ann Lockwood</span></span>"
+    },
+    "pageid": 755212,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Belva_Ann_Lockwood_between_1865_and_1880_-_%284%29_%28cropped%29.jpg/330px-Belva_Ann_Lockwood_between_1865_and_1880_-_%284%29_%28cropped%29.jpg",
+      "width": 330,
+      "height": 440
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/0/08/Belva_Ann_Lockwood_between_1865_and_1880_-_%284%29_%28cropped%29.jpg",
+      "width": 1877,
+      "height": 2505
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1340047553",
+    "tid": "5f215673-10de-11f1-b166-59c051924c8b",
+    "timestamp": "2026-02-23T17:37:49Z",
+    "description": "American suffragette (1830–1917)",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Belva_Ann_Lockwood",
+        "revisions": "https://en.wikipedia.org/wiki/Belva_Ann_Lockwood?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Belva_Ann_Lockwood?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Belva_Ann_Lockwood"
+      },
+      "mobile": {
+        "page": "https://en.wikipedia.org/wiki/Belva_Ann_Lockwood",
+        "revisions": "https://en.wikipedia.org/wiki/Special:History/Belva_Ann_Lockwood",
+        "edit": "https://en.wikipedia.org/wiki/Belva_Ann_Lockwood?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Belva_Ann_Lockwood"
+      }
+    },
+    "extract": "Belva Ann Bennett Lockwood was an American lawyer, politician, educator, and author who was active in the women's rights and women's suffrage movements. She was one of the first women lawyers in the United States. In 1879 she became the first woman to be admitted to practice law before the U.S. Supreme Court. Lockwood ran for president in 1884 and 1888 on the ticket of the Equal Rights Party and was the first woman to appear on official ballots. While Victoria Woodhull is commonly cited as the first woman to run for president, Lockwood was the first one to appear on any ballots, due to Woodhull being too young for the presidency when she ran.",
+    "extract_html": "<p><b>Belva Ann Bennett Lockwood</b> was an American lawyer, politician, educator, and author who was active in the women's rights and women's suffrage movements. She was one of the first women lawyers in the United States. In 1879 she became the first woman to be admitted to practice law before the U.S. Supreme Court. Lockwood ran for president in 1884 and 1888 on the ticket of the Equal Rights Party and was the first woman to appear on official ballots. While Victoria Woodhull is commonly cited as the first woman to run for president, Lockwood was the first one to appear on any ballots, due to Woodhull being too young for the presidency when she ran.</p>"
+  }
+}

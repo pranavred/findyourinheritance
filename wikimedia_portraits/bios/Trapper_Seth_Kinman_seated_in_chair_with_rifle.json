@@ -1,0 +1,63 @@
+{
+  "slug": "Trapper_Seth_Kinman_seated_in_chair_with_rifle",
+  "name": "Seth Kinman",
+  "description": "American pioneer (1815–1888)",
+  "summary": "Seth Kinman was an early settler of Humboldt County, California, a hunter based in Fort Humboldt, a famous chair maker, and a nationally recognized entertainer. He stood over 6 ft (1.83 m) tall and was known for his hunting prowess and his brutality toward bears and Indian warriors. Kinman claimed to have shot a total of over 800 grizzly bears, and, in a single month, over 50 elk. He was also a hotel keeper, saloon keeper, and a musician who performed for President Lincoln on a fiddle made from the skull of a mule.",
+  "image_local": "images/Trapper_Seth_Kinman_seated_in_chair_with_rifle.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Trapper_Seth_Kinman_seated_in_chair_with_rifle.jpg/800px-Trapper_Seth_Kinman_seated_in_chair_with_rifle.jpg",
+  "portrait_date": "",
+  "original_caption": "Trapper Seth Kinman seated in chair with rifle",
+  "extracted_name": "Seth Kinman",
+  "wikipedia_title": "Seth Kinman",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Seth_Kinman",
+  "commons_file_page": "https://commons.wikimedia.org/wiki/File:Trapper_Seth_Kinman_seated_in_chair_with_rifle.jpg",
+  "wikipedia_summary": {
+    "type": "standard",
+    "title": "Seth Kinman",
+    "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Seth Kinman</span></span>",
+    "namespace": {
+      "id": 0,
+      "text": ""
+    },
+    "wikibase_item": "Q597855",
+    "titles": {
+      "canonical": "Seth_Kinman",
+      "normalized": "Seth Kinman",
+      "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Seth Kinman</span></span>"
+    },
+    "pageid": 20413368,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Trapper_Seth_Kinman_seated_in_chair_with_rifle.jpg/330px-Trapper_Seth_Kinman_seated_in_chair_with_rifle.jpg",
+      "width": 330,
+      "height": 464
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Trapper_Seth_Kinman_seated_in_chair_with_rifle.jpg/3840px-Trapper_Seth_Kinman_seated_in_chair_with_rifle.jpg",
+      "width": 4001,
+      "height": 5620
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1348849551",
+    "tid": "210cfd43-381a-11f1-9729-abfb36aa4d16",
+    "timestamp": "2026-04-14T15:53:50Z",
+    "description": "American pioneer (1815–1888)",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Seth_Kinman",
+        "revisions": "https://en.wikipedia.org/wiki/Seth_Kinman?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Seth_Kinman?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Seth_Kinman"
+      },
+      "mobile": {
+        "page": "https://en.wikipedia.org/wiki/Seth_Kinman",
+        "revisions": "https://en.wikipedia.org/wiki/Special:History/Seth_Kinman",
+        "edit": "https://en.wikipedia.org/wiki/Seth_Kinman?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Seth_Kinman"
+      }
+    },
+    "extract": "Seth Kinman was an early settler of Humboldt County, California, a hunter based in Fort Humboldt, a famous chair maker, and a nationally recognized entertainer. He stood over 6 ft (1.83 m) tall and was known for his hunting prowess and his brutality toward bears and Indian warriors. Kinman claimed to have shot a total of over 800 grizzly bears, and, in a single month, over 50 elk. He was also a hotel keeper, saloon keeper, and a musician who performed for President Lincoln on a fiddle made from the skull of a mule.",
+    "extract_html": "<p><b>Seth Kinman</b> was an early settler of Humboldt County, California, a hunter based in Fort Humboldt, a famous chair maker, and a nationally recognized entertainer. He stood over 6 ft (1.83 m) tall and was known for his hunting prowess and his brutality toward bears and Indian warriors. Kinman claimed to have shot a total of over 800 grizzly bears, and, in a single month, over 50 elk. He was also a hotel keeper, saloon keeper, and a musician who performed for President Lincoln on a fiddle made from the skull of a mule.</p>"
+  }
+}

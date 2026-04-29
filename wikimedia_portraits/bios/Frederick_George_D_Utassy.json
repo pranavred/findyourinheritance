@@ -1,0 +1,63 @@
+{
+  "slug": "Frederick_George_D_Utassy",
+  "name": "Frederick George D'Utassy",
+  "description": "Hungarian-born American Civil War colonel",
+  "summary": "Frederick George D'Utassy or George Frederick D'Utassy was an officer in the Union Army in the American Civil War who led the famous Garibaldi Guard, or 39th New York Volunteer Infantry Regiment, from 1861 to 1863. The flamboyant Hungarian Colonel was court-martialed in 1863 for fraud and conduct prejudicial to military discipline.",
+  "image_local": "images/Frederick_George_D_Utassy.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Frederick_George_D%27Utassy.jpg/800px-Frederick_George_D%27Utassy.jpg",
+  "portrait_date": "",
+  "original_caption": "Frederick George D'Utassy",
+  "extracted_name": "Frederick George D'Utassy",
+  "wikipedia_title": "Frederick George D'Utassy",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Frederick_George_D'Utassy",
+  "commons_file_page": "https://commons.wikimedia.org/wiki/File:Frederick_George_D%27Utassy.jpg",
+  "wikipedia_summary": {
+    "type": "standard",
+    "title": "Frederick George D'Utassy",
+    "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Frederick George D&#039;Utassy</span></span>",
+    "namespace": {
+      "id": 0,
+      "text": ""
+    },
+    "wikibase_item": "Q19947805",
+    "titles": {
+      "canonical": "Frederick_George_D'Utassy",
+      "normalized": "Frederick George D'Utassy",
+      "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Frederick George D&#039;Utassy</span></span>"
+    },
+    "pageid": 41111748,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Frederick_George_D%27Utassy.jpg/330px-Frederick_George_D%27Utassy.jpg",
+      "width": 330,
+      "height": 462
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Frederick_George_D%27Utassy.jpg",
+      "width": 2278,
+      "height": 3186
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1324545539",
+    "tid": "93d75c86-cc1c-11f0-8fa0-2c9cc9a8e9dc",
+    "timestamp": "2025-11-28T05:39:16Z",
+    "description": "Hungarian-born American Civil War colonel",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Frederick_George_D'Utassy",
+        "revisions": "https://en.wikipedia.org/wiki/Frederick_George_D'Utassy?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Frederick_George_D'Utassy?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Frederick_George_D'Utassy"
+      },
+      "mobile": {
+        "page": "https://en.wikipedia.org/wiki/Frederick_George_D'Utassy",
+        "revisions": "https://en.wikipedia.org/wiki/Special:History/Frederick_George_D'Utassy",
+        "edit": "https://en.wikipedia.org/wiki/Frederick_George_D'Utassy?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Frederick_George_D'Utassy"
+      }
+    },
+    "extract": "Frederick George D'Utassy or George Frederick D'Utassy was an officer in the Union Army in the American Civil War who led the famous Garibaldi Guard, or 39th New York Volunteer Infantry Regiment, from 1861 to 1863. The flamboyant Hungarian Colonel was court-martialed in 1863 for fraud and conduct prejudicial to military discipline.",
+    "extract_html": "<p><b>Frederick George D'Utassy</b> or <b>George Frederick D'Utassy</b> was an officer in the Union Army in the American Civil War who led the famous <i>Garibaldi Guard</i>, or 39th New York Volunteer Infantry Regiment, from 1861 to 1863. The flamboyant Hungarian Colonel was court-martialed in 1863 for fraud and conduct prejudicial to military discipline.</p>"
+  }
+}

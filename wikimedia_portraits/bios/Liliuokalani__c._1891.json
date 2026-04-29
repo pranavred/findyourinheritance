@@ -1,0 +1,63 @@
+{
+  "slug": "Liliuokalani__c._1891",
+  "name": "Liliʻuokalani",
+  "description": "Queen of Hawaii from 1891 to 1893",
+  "summary": "Liliʻuokalani was the only queen regnant and the last sovereign monarch of the Hawaiian Kingdom, ruling from January 29, 1891, until the overthrow of the Hawaiian Kingdom on January 17, 1893, in a coup that was led by the Committee of Safety, composed of seven foreign residents and six Hawaiian Kingdom subjects of American descent in Honolulu. The composer of \"Aloha ʻOe\" and numerous other works, she wrote her autobiography Hawaiʻi's Story by Hawaiʻi's Queen (1898) during her imprisonment following the overthrow.",
+  "image_local": "images/Liliuokalani__c._1891.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Liliuokalani%2C_c._1891.jpg/800px-Liliuokalani%2C_c._1891.jpg",
+  "portrait_date": "1891",
+  "original_caption": "Liliuokalani, c. 1891",
+  "extracted_name": "Liliuokalani",
+  "wikipedia_title": "Liliʻuokalani",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Lili%CA%BBuokalani",
+  "commons_file_page": "https://commons.wikimedia.org/wiki/File:Liliuokalani,_c._1891.jpg",
+  "wikipedia_summary": {
+    "type": "standard",
+    "title": "Liliʻuokalani",
+    "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Liliʻuokalani</span></span>",
+    "namespace": {
+      "id": 0,
+      "text": ""
+    },
+    "wikibase_item": "Q107288",
+    "titles": {
+      "canonical": "Liliʻuokalani",
+      "normalized": "Liliʻuokalani",
+      "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Liliʻuokalani</span></span>"
+    },
+    "pageid": 195173,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Lili%CA%BBuokalani.jpg/330px-Lili%CA%BBuokalani.jpg",
+      "width": 330,
+      "height": 459
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Lili%CA%BBuokalani.jpg",
+      "width": 3186,
+      "height": 4427
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1342471108",
+    "tid": "5f9f0000-1b68-11f1-b3f6-2e68369ea055",
+    "timestamp": "2026-03-09T03:30:52Z",
+    "description": "Queen of Hawaii from 1891 to 1893",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Lili%CA%BBuokalani",
+        "revisions": "https://en.wikipedia.org/wiki/Lili%CA%BBuokalani?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Lili%CA%BBuokalani?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Lili%CA%BBuokalani"
+      },
+      "mobile": {
+        "page": "https://en.wikipedia.org/wiki/Lili%CA%BBuokalani",
+        "revisions": "https://en.wikipedia.org/wiki/Special:History/Lili%CA%BBuokalani",
+        "edit": "https://en.wikipedia.org/wiki/Lili%CA%BBuokalani?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Lili%CA%BBuokalani"
+      }
+    },
+    "extract": "Liliʻuokalani was the only queen regnant and the last sovereign monarch of the Hawaiian Kingdom, ruling from January 29, 1891, until the overthrow of the Hawaiian Kingdom on January 17, 1893, in a coup that was led by the Committee of Safety, composed of seven foreign residents and six Hawaiian Kingdom subjects of American descent in Honolulu. The composer of \"Aloha ʻOe\" and numerous other works, she wrote her autobiography Hawaiʻi's Story by Hawaiʻi's Queen (1898) during her imprisonment following the overthrow.",
+    "extract_html": "<p><b>Liliʻuokalani</b> was the only queen regnant and the last sovereign monarch of the Hawaiian Kingdom, ruling from January 29, 1891, until the overthrow of the Hawaiian Kingdom on January 17, 1893, in a coup that was led by the Committee of Safety, composed of seven foreign residents and six Hawaiian Kingdom subjects of American descent in Honolulu. The composer of \"Aloha ʻOe\" and numerous other works, she wrote her autobiography <i>Hawaiʻi's Story by Hawaiʻi's Queen</i> (1898) during her imprisonment following the overthrow.</p>"
+  }
+}

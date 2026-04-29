@@ -1,0 +1,63 @@
+{
+  "slug": "Michel_Fokine__Arlequin",
+  "name": "Michel Fokine",
+  "description": "Russian choreographer (1880–1942)",
+  "summary": "Michael Fokine was a Russian choreographer and dancer. He is considered the founder of modern ballet.",
+  "image_local": "images/Michel_Fokine__Arlequin.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Michel_Fokine%2C_Arlequin.jpg/800px-Michel_Fokine%2C_Arlequin.jpg",
+  "portrait_date": "1914",
+  "original_caption": "Michel Fokine, Arlequin",
+  "extracted_name": "Michel Fokine",
+  "wikipedia_title": "Michel Fokine",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Michel_Fokine",
+  "commons_file_page": "https://commons.wikimedia.org/wiki/File:Michel_Fokine,_Arlequin.jpg",
+  "wikipedia_summary": {
+    "type": "standard",
+    "title": "Michel Fokine",
+    "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Michel Fokine</span></span>",
+    "namespace": {
+      "id": 0,
+      "text": ""
+    },
+    "wikibase_item": "Q314312",
+    "titles": {
+      "canonical": "Michel_Fokine",
+      "normalized": "Michel Fokine",
+      "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Michel Fokine</span></span>"
+    },
+    "pageid": 477185,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Michel_Fokine%2C_Arlequin.jpg/330px-Michel_Fokine%2C_Arlequin.jpg",
+      "width": 330,
+      "height": 461
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/0/09/Michel_Fokine%2C_Arlequin.jpg",
+      "width": 2598,
+      "height": 3627
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1337509090",
+    "tid": "ae0ebbc3-0605-11f1-a359-93d4251ba45e",
+    "timestamp": "2026-02-09T22:21:29Z",
+    "description": "Russian choreographer (1880–1942)",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Michel_Fokine",
+        "revisions": "https://en.wikipedia.org/wiki/Michel_Fokine?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Michel_Fokine?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Michel_Fokine"
+      },
+      "mobile": {
+        "page": "https://en.wikipedia.org/wiki/Michel_Fokine",
+        "revisions": "https://en.wikipedia.org/wiki/Special:History/Michel_Fokine",
+        "edit": "https://en.wikipedia.org/wiki/Michel_Fokine?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Michel_Fokine"
+      }
+    },
+    "extract": "Michael Fokine was a Russian choreographer and dancer. He is considered the founder of modern ballet.",
+    "extract_html": "<p><b>Michael Fokine</b> was a Russian choreographer and dancer. He is considered the founder of modern ballet.</p>"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "slug": "William_Grant_Still_by_Carl_Van_Vechten",
+  "name": "William Grant Still",
+  "description": "American composer (1895–1978)",
+  "summary": "William Grant Still Jr. was an American composer of nearly two hundred works, including five symphonies, four ballets, nine operas, and more than thirty choral works, art songs, chamber music, and solo works. Born in Mississippi and raised in Little Rock, Arkansas, Still attended Wilberforce University and Oberlin Conservatory of Music as a student of George Whitefield Chadwick and then as a student of Edgard Varèse. Because of his close association and collaboration with prominent African-American literary and cultural figures, Still is considered to be part of the Harlem Renaissance.",
+  "image_local": "images/William_Grant_Still_by_Carl_Van_Vechten.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/William_Grant_Still_by_Carl_Van_Vechten.jpg/800px-William_Grant_Still_by_Carl_Van_Vechten.jpg",
+  "portrait_date": "1949",
+  "original_caption": "William Grant Still by Carl Van Vechten",
+  "extracted_name": "William Grant Still",
+  "wikipedia_title": "William Grant Still",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/William_Grant_Still",
+  "commons_file_page": "https://commons.wikimedia.org/wiki/File:William_Grant_Still_by_Carl_Van_Vechten.jpg",
+  "wikipedia_summary": {
+    "type": "standard",
+    "title": "William Grant Still",
+    "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">William Grant Still</span></span>",
+    "namespace": {
+      "id": 0,
+      "text": ""
+    },
+    "wikibase_item": "Q1397729",
+    "titles": {
+      "canonical": "William_Grant_Still",
+      "normalized": "William Grant Still",
+      "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">William Grant Still</span></span>"
+    },
+    "pageid": 341974,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Maud_Cuney_Hare-William_Grant_Still_336.jpg/330px-Maud_Cuney_Hare-William_Grant_Still_336.jpg",
+      "width": 330,
+      "height": 513
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Maud_Cuney_Hare-William_Grant_Still_336.jpg",
+      "width": 1265,
+      "height": 1968
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1349785508",
+    "tid": "184d5ada-3b79-11f1-8272-f2a1aa6cad7a",
+    "timestamp": "2026-04-18T22:51:11Z",
+    "description": "American composer (1895–1978)",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/William_Grant_Still",
+        "revisions": "https://en.wikipedia.org/wiki/William_Grant_Still?action=history",
+        "edit": "https://en.wikipedia.org/wiki/William_Grant_Still?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:William_Grant_Still"
+      },
+      "mobile": {
+        "page": "https://en.wikipedia.org/wiki/William_Grant_Still",
+        "revisions": "https://en.wikipedia.org/wiki/Special:History/William_Grant_Still",
+        "edit": "https://en.wikipedia.org/wiki/William_Grant_Still?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:William_Grant_Still"
+      }
+    },
+    "extract": "William Grant Still Jr. was an American composer of nearly two hundred works, including five symphonies, four ballets, nine operas, and more than thirty choral works, art songs, chamber music, and solo works. Born in Mississippi and raised in Little Rock, Arkansas, Still attended Wilberforce University and Oberlin Conservatory of Music as a student of George Whitefield Chadwick and then as a student of Edgard Varèse. Because of his close association and collaboration with prominent African-American literary and cultural figures, Still is considered to be part of the Harlem Renaissance.",
+    "extract_html": "<p><b>William Grant Still Jr.</b> was an American composer of nearly two hundred works, including five symphonies, four ballets, nine operas, and more than thirty choral works, art songs, chamber music, and solo works. Born in Mississippi and raised in Little Rock, Arkansas, Still attended Wilberforce University and Oberlin Conservatory of Music as a student of George Whitefield Chadwick and then as a student of Edgard Varèse. Because of his close association and collaboration with prominent African-American literary and cultural figures, Still is considered to be part of the Harlem Renaissance.</p>"
+  }
+}

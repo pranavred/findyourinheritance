@@ -1,0 +1,63 @@
+{
+  "slug": "Granville_Stuart_1883_by_L._A._Huffman",
+  "name": "Granville Stuart",
+  "description": "American politician",
+  "summary": "Granville Stuart was an American pioneer, gold prospector, businessman, civic leader, vigilante, author, cattleman and diplomat who played a prominent role in the early history of Montana Territory and the state of Montana. Widely known as \"Mr. Montana\", Granville's life spanned the formative years of Montana from territorial times through the first 30 years of statehood. His journals and writings have provided Montana and western historians unique insights into life in the Northern Rocky Mountains and Great Plains during the second half the 19th century.",
+  "image_local": "images/Granville_Stuart_1883_by_L._A._Huffman.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Granville_Stuart_1883_by_L._A._Huffman.jpg/800px-Granville_Stuart_1883_by_L._A._Huffman.jpg",
+  "portrait_date": "1883",
+  "original_caption": "Granville Stuart 1883 by L. A. Huffman",
+  "extracted_name": "Granville Stuart",
+  "wikipedia_title": "Granville Stuart",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Granville_Stuart",
+  "commons_file_page": "https://commons.wikimedia.org/wiki/File:Granville_Stuart_1883_by_L._A._Huffman.jpg",
+  "wikipedia_summary": {
+    "type": "standard",
+    "title": "Granville Stuart",
+    "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Granville Stuart</span></span>",
+    "namespace": {
+      "id": 0,
+      "text": ""
+    },
+    "wikibase_item": "Q5596952",
+    "titles": {
+      "canonical": "Granville_Stuart",
+      "normalized": "Granville Stuart",
+      "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Granville Stuart</span></span>"
+    },
+    "pageid": 34648455,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Granville_Stuart_1883_by_L._A._Huffman.jpg/330px-Granville_Stuart_1883_by_L._A._Huffman.jpg",
+      "width": 330,
+      "height": 435
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Granville_Stuart_1883_by_L._A._Huffman.jpg",
+      "width": 2277,
+      "height": 3000
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1336345794",
+    "tid": "9d24eea5-00cb-11f1-8f02-fce28a479e2b",
+    "timestamp": "2026-02-03T06:43:14Z",
+    "description": "American politician",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Granville_Stuart",
+        "revisions": "https://en.wikipedia.org/wiki/Granville_Stuart?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Granville_Stuart?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Granville_Stuart"
+      },
+      "mobile": {
+        "page": "https://en.wikipedia.org/wiki/Granville_Stuart",
+        "revisions": "https://en.wikipedia.org/wiki/Special:History/Granville_Stuart",
+        "edit": "https://en.wikipedia.org/wiki/Granville_Stuart?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Granville_Stuart"
+      }
+    },
+    "extract": "Granville Stuart was an American pioneer, gold prospector, businessman, civic leader, vigilante, author, cattleman and diplomat who played a prominent role in the early history of Montana Territory and the state of Montana. Widely known as \"Mr. Montana\", Granville's life spanned the formative years of Montana from territorial times through the first 30 years of statehood. His journals and writings have provided Montana and western historians unique insights into life in the Northern Rocky Mountains and Great Plains during the second half the 19th century.",
+    "extract_html": "<p><b>Granville Stuart</b> was an American pioneer, gold prospector, businessman, civic leader, vigilante, author, cattleman and diplomat who played a prominent role in the early history of Montana Territory and the state of Montana. Widely known as \"Mr. Montana\", Granville's life spanned the formative years of Montana from territorial times through the first 30 years of statehood. His journals and writings have provided Montana and western historians unique insights into life in the Northern Rocky Mountains and Great Plains during the second half the 19th century.</p>"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "slug": "Sally_Ride__1984",
+  "name": "Sally Ride",
+  "description": "American physicist and astronaut (1951–2012)",
+  "summary": "Sally Kristen Ride was an American astronaut and physicist. Born in Los Angeles, she joined NASA in 1978, and in 1983 became the first American woman and the third woman to fly in space, after cosmonauts Valentina Tereshkova in 1963 and Svetlana Savitskaya in 1982. She was the youngest American astronaut to have flown in space, having done so at the age of 32.",
+  "image_local": "images/Sally_Ride__1984.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Sally_Ride_%281984%29.jpg/800px-Sally_Ride_%281984%29.jpg",
+  "portrait_date": "1984",
+  "original_caption": "Sally Ride",
+  "extracted_name": "Sally Ride",
+  "wikipedia_title": "Sally Ride",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Sally_Ride",
+  "commons_file_page": "https://commons.wikimedia.org/wiki/File:Sally_Ride_(1984).jpg",
+  "wikipedia_summary": {
+    "type": "standard",
+    "title": "Sally Ride",
+    "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Sally Ride</span></span>",
+    "namespace": {
+      "id": 0,
+      "text": ""
+    },
+    "wikibase_item": "Q49285",
+    "titles": {
+      "canonical": "Sally_Ride",
+      "normalized": "Sally Ride",
+      "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Sally Ride</span></span>"
+    },
+    "pageid": 94289,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Sally_Ride_%281984%29.jpg/330px-Sally_Ride_%281984%29.jpg",
+      "width": 330,
+      "height": 412
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Sally_Ride_%281984%29.jpg",
+      "width": 2790,
+      "height": 3487
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1351125390",
+    "tid": "a3e45ed8-4114-11f1-9cab-0941736b03ed",
+    "timestamp": "2026-04-26T02:07:13Z",
+    "description": "American physicist and astronaut (1951–2012)",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Sally_Ride",
+        "revisions": "https://en.wikipedia.org/wiki/Sally_Ride?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Sally_Ride?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Sally_Ride"
+      },
+      "mobile": {
+        "page": "https://en.wikipedia.org/wiki/Sally_Ride",
+        "revisions": "https://en.wikipedia.org/wiki/Special:History/Sally_Ride",
+        "edit": "https://en.wikipedia.org/wiki/Sally_Ride?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Sally_Ride"
+      }
+    },
+    "extract": "Sally Kristen Ride was an American astronaut and physicist. Born in Los Angeles, she joined NASA in 1978, and in 1983 became the first American woman and the third woman to fly in space, after cosmonauts Valentina Tereshkova in 1963 and Svetlana Savitskaya in 1982. She was the youngest American astronaut to have flown in space, having done so at the age of 32.",
+    "extract_html": "<p><b>Sally Kristen Ride</b> was an American astronaut and physicist. Born in Los Angeles, she joined NASA in 1978, and in 1983 became the first American woman and the third woman to fly in space, after cosmonauts Valentina Tereshkova in 1963 and Svetlana Savitskaya in 1982. She was the youngest American astronaut to have flown in space, having done so at the age of 32.</p>"
+  }
+}

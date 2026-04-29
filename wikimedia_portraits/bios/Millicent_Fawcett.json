@@ -1,0 +1,63 @@
+{
+  "slug": "Millicent_Fawcett",
+  "name": "Millicent Fawcett",
+  "description": "English politician, writer, and activist (1847–1929)",
+  "summary": "Dame Millicent Garrett Fawcett was an English political activist and writer. She campaigned for women's suffrage by legal change and in 1897–1919 led Britain's largest women's rights association, the National Union of Women's Suffrage Societies (NUWSS), explaining, \"I cannot say I became a suffragist. I always was one, from the time I was old enough to think at all about the principles of Representative Government.\" She tried to broaden women's chances of higher education, as a governor of Bedford College, London and co-founding Newnham College, Cambridge in 1871. In 2018, a century after the Representation of the People Act, she was the first woman honoured by a statue in Parliament Square.",
+  "image_local": "images/Millicent_Fawcett.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Millicent_Fawcett.jpg/800px-Millicent_Fawcett.jpg",
+  "portrait_date": "1913",
+  "original_caption": "Millicent Fawcett",
+  "extracted_name": "Millicent Fawcett",
+  "wikipedia_title": "Millicent Fawcett",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Millicent_Fawcett",
+  "commons_file_page": "https://commons.wikimedia.org/wiki/File:Millicent_Fawcett.jpg",
+  "wikipedia_summary": {
+    "type": "standard",
+    "title": "Millicent Fawcett",
+    "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Millicent Fawcett</span></span>",
+    "namespace": {
+      "id": 0,
+      "text": ""
+    },
+    "wikibase_item": "Q442818",
+    "titles": {
+      "canonical": "Millicent_Fawcett",
+      "normalized": "Millicent Fawcett",
+      "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Millicent Fawcett</span></span>"
+    },
+    "pageid": 55664,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Millicent_Fawcett.jpg/330px-Millicent_Fawcett.jpg",
+      "width": 330,
+      "height": 414
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/1/13/Millicent_Fawcett.jpg",
+      "width": 3352,
+      "height": 4204
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1338179677",
+    "tid": "c4689018-0901-11f1-93d7-59267159b15d",
+    "timestamp": "2026-02-13T17:31:02Z",
+    "description": "English politician, writer, and activist (1847–1929)",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Millicent_Fawcett",
+        "revisions": "https://en.wikipedia.org/wiki/Millicent_Fawcett?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Millicent_Fawcett?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Millicent_Fawcett"
+      },
+      "mobile": {
+        "page": "https://en.wikipedia.org/wiki/Millicent_Fawcett",
+        "revisions": "https://en.wikipedia.org/wiki/Special:History/Millicent_Fawcett",
+        "edit": "https://en.wikipedia.org/wiki/Millicent_Fawcett?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Millicent_Fawcett"
+      }
+    },
+    "extract": "Dame Millicent Garrett Fawcett was an English political activist and writer. She campaigned for women's suffrage by legal change and in 1897–1919 led Britain's largest women's rights association, the National Union of Women's Suffrage Societies (NUWSS), explaining, \"I cannot say I became a suffragist. I always was one, from the time I was old enough to think at all about the principles of Representative Government.\" She tried to broaden women's chances of higher education, as a governor of Bedford College, London and co-founding Newnham College, Cambridge in 1871. In 2018, a century after the Representation of the People Act, she was the first woman honoured by a statue in Parliament Square.",
+    "extract_html": "<p><b>Dame Millicent Garrett Fawcett</b> was an English political activist and writer. She campaigned for women's suffrage by legal change and in 1897–1919 led Britain's largest women's rights association, the National Union of Women's Suffrage Societies (NUWSS), explaining, \"I cannot say I became a suffragist. I always was one, from the time I was old enough to think at all about the principles of Representative Government.\" She tried to broaden women's chances of higher education, as a governor of Bedford College, London and co-founding Newnham College, Cambridge in 1871. In 2018, a century after the Representation of the People Act, she was the first woman honoured by a statue in Parliament Square.</p>"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "slug": "Nude__Charis__Santa_Monica",
+  "name": "Nudity",
+  "description": "State of humans wearing no clothing",
+  "summary": "Nudity is the state of being in which a human is without clothing. While estimates vary, for the first 90,000 years of pre-history, anatomically modern humans were naked, having lost their body hair, living in hospitable climates, and not having developed the crafts needed to make clothing.",
+  "image_local": "images/Nude__Charis__Santa_Monica.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Nude_%28Charis%2C_Santa_Monica%29.jpg/800px-Nude_%28Charis%2C_Santa_Monica%29.jpg",
+  "portrait_date": "",
+  "original_caption": "Nude (Charis, Santa Monica)",
+  "extracted_name": "Nude",
+  "wikipedia_title": "Nudity",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Nudity",
+  "commons_file_page": "https://commons.wikimedia.org/wiki/File:Nude_(Charis,_Santa_Monica).jpg",
+  "wikipedia_summary": {
+    "type": "standard",
+    "title": "Nudity",
+    "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Nudity</span></span>",
+    "namespace": {
+      "id": 0,
+      "text": ""
+    },
+    "wikibase_item": "Q10791",
+    "titles": {
+      "canonical": "Nudity",
+      "normalized": "Nudity",
+      "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Nudity</span></span>"
+    },
+    "pageid": 18841893,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/FYN_04.jpg/330px-FYN_04.jpg",
+      "width": 330,
+      "height": 587
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/0/09/FYN_04.jpg",
+      "width": 864,
+      "height": 1536
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1351282273",
+    "tid": "e4f378a2-41db-11f1-baa9-ca9b2267f6be",
+    "timestamp": "2026-04-27T01:53:32Z",
+    "description": "State of humans wearing no clothing",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Nudity",
+        "revisions": "https://en.wikipedia.org/wiki/Nudity?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Nudity?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Nudity"
+      },
+      "mobile": {
+        "page": "https://en.wikipedia.org/wiki/Nudity",
+        "revisions": "https://en.wikipedia.org/wiki/Special:History/Nudity",
+        "edit": "https://en.wikipedia.org/wiki/Nudity?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Nudity"
+      }
+    },
+    "extract": "Nudity is the state of being in which a human is without clothing. While estimates vary, for the first 90,000 years of pre-history, anatomically modern humans were naked, having lost their body hair, living in hospitable climates, and not having developed the crafts needed to make clothing.",
+    "extract_html": "<p><b>Nudity</b> is the state of being in which a human is without clothing. While estimates vary, for the first 90,000 years of pre-history, anatomically modern humans were naked, having lost their body hair, living in hospitable climates, and not having developed the crafts needed to make clothing.</p>"
+  }
+}

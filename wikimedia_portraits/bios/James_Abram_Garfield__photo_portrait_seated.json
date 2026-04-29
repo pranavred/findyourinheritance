@@ -1,0 +1,63 @@
+{
+  "slug": "James_Abram_Garfield__photo_portrait_seated",
+  "name": "James A. Garfield",
+  "description": "1881 U.S. presidential administration",
+  "summary": "James Abram Garfield was the 20th president of the United States, serving from March 1881 until his death in September that year after being shot in July. A preacher, lawyer, and Civil War general, Garfield served nine terms in the United States House of Representatives and is the only sitting member of the House to be elected president. Before he ran for president, the Ohio General Assembly had elected him to the U.S. Senate, a position he declined upon becoming president-elect.",
+  "image_local": "images/James_Abram_Garfield__photo_portrait_seated.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/James_Abram_Garfield%2C_photo_portrait_seated.jpg/800px-James_Abram_Garfield%2C_photo_portrait_seated.jpg",
+  "portrait_date": "1881",
+  "original_caption": "James Abram Garfield, photo portrait seated",
+  "extracted_name": "James Abram Garfield",
+  "wikipedia_title": "James A. Garfield",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/James_A._Garfield",
+  "commons_file_page": "https://commons.wikimedia.org/wiki/File:James_Abram_Garfield,_photo_portrait_seated.jpg",
+  "wikipedia_summary": {
+    "type": "standard",
+    "title": "James A. Garfield",
+    "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">James A. Garfield</span></span>",
+    "namespace": {
+      "id": 0,
+      "text": ""
+    },
+    "wikibase_item": "Q34597",
+    "titles": {
+      "canonical": "James_A._Garfield",
+      "normalized": "James A. Garfield",
+      "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">James A. Garfield</span></span>"
+    },
+    "pageid": 40400,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/James_Abram_Garfield%2C_photo_portrait_seated.jpg/330px-James_Abram_Garfield%2C_photo_portrait_seated.jpg",
+      "width": 330,
+      "height": 418
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/1/1f/James_Abram_Garfield%2C_photo_portrait_seated.jpg",
+      "width": 3182,
+      "height": 4034
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1351370104",
+    "tid": "04bf8529-4246-11f1-afb7-2aefac2dc288",
+    "timestamp": "2026-04-27T14:33:12Z",
+    "description": "1881 U.S. presidential administration",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/James_A._Garfield",
+        "revisions": "https://en.wikipedia.org/wiki/James_A._Garfield?action=history",
+        "edit": "https://en.wikipedia.org/wiki/James_A._Garfield?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:James_A._Garfield"
+      },
+      "mobile": {
+        "page": "https://en.wikipedia.org/wiki/James_A._Garfield",
+        "revisions": "https://en.wikipedia.org/wiki/Special:History/James_A._Garfield",
+        "edit": "https://en.wikipedia.org/wiki/James_A._Garfield?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:James_A._Garfield"
+      }
+    },
+    "extract": "James Abram Garfield was the 20th president of the United States, serving from March 1881 until his death in September that year after being shot in July. A preacher, lawyer, and Civil War general, Garfield served nine terms in the United States House of Representatives and is the only sitting member of the House to be elected president. Before he ran for president, the Ohio General Assembly had elected him to the U.S. Senate, a position he declined upon becoming president-elect.",
+    "extract_html": "<p><b>James Abram Garfield</b> was the 20th president of the United States, serving from March 1881 until his death in September that year after being shot in July. A preacher, lawyer, and Civil War general, Garfield served nine terms in the United States House of Representatives and is the only sitting member of the House to be elected president. Before he ran for president, the Ohio General Assembly had elected him to the U.S. Senate, a position he declined upon becoming president-elect.</p>"
+  }
+}

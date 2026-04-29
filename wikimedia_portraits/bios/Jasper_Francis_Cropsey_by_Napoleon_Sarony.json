@@ -1,0 +1,63 @@
+{
+  "slug": "Jasper_Francis_Cropsey_by_Napoleon_Sarony",
+  "name": "Jasper Francis Cropsey",
+  "description": "American painter (1823–1900)",
+  "summary": "Jasper Francis Cropsey was an American architect and artist. He is best known for his Hudson River School landscape paintings.",
+  "image_local": "images/Jasper_Francis_Cropsey_by_Napoleon_Sarony.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Jasper_Francis_Cropsey_by_Napoleon_Sarony.jpg/800px-Jasper_Francis_Cropsey_by_Napoleon_Sarony.jpg",
+  "portrait_date": "1870",
+  "original_caption": "Jasper Francis Cropsey by Napoleon Sarony",
+  "extracted_name": "Jasper Francis Cropsey",
+  "wikipedia_title": "Jasper Francis Cropsey",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Jasper_Francis_Cropsey",
+  "commons_file_page": "https://commons.wikimedia.org/wiki/File:Jasper_Francis_Cropsey_by_Napoleon_Sarony.jpg",
+  "wikipedia_summary": {
+    "type": "standard",
+    "title": "Jasper Francis Cropsey",
+    "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Jasper Francis Cropsey</span></span>",
+    "namespace": {
+      "id": 0,
+      "text": ""
+    },
+    "wikibase_item": "Q1451318",
+    "titles": {
+      "canonical": "Jasper_Francis_Cropsey",
+      "normalized": "Jasper Francis Cropsey",
+      "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Jasper Francis Cropsey</span></span>"
+    },
+    "pageid": 400644,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Jasper_Francis_Cropsey%2C_by_Edward_L._Mooney.jpg/330px-Jasper_Francis_Cropsey%2C_by_Edward_L._Mooney.jpg",
+      "width": 330,
+      "height": 416
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Jasper_Francis_Cropsey%2C_by_Edward_L._Mooney.jpg",
+      "width": 500,
+      "height": 631
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1338819798",
+    "tid": "f75c9ca6-0bf9-11f1-b7b5-6395f17f8c32",
+    "timestamp": "2026-02-17T12:12:45Z",
+    "description": "American painter (1823–1900)",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Jasper_Francis_Cropsey",
+        "revisions": "https://en.wikipedia.org/wiki/Jasper_Francis_Cropsey?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Jasper_Francis_Cropsey?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Jasper_Francis_Cropsey"
+      },
+      "mobile": {
+        "page": "https://en.wikipedia.org/wiki/Jasper_Francis_Cropsey",
+        "revisions": "https://en.wikipedia.org/wiki/Special:History/Jasper_Francis_Cropsey",
+        "edit": "https://en.wikipedia.org/wiki/Jasper_Francis_Cropsey?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Jasper_Francis_Cropsey"
+      }
+    },
+    "extract": "Jasper Francis Cropsey was an American architect and artist. He is best known for his Hudson River School landscape paintings.",
+    "extract_html": "<p><b>Jasper Francis Cropsey</b> was an American architect and artist. He is best known for his Hudson River School landscape paintings.</p>"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "slug": "Golda_Meir__1964",
+  "name": "Golda Meir",
+  "description": "Prime Minister of Israel from 1969 to 1974",
+  "summary": "Golda Meir was the prime minister of Israel from 1969 to 1974. She was Israel's first and, to date, only female head of government.",
+  "image_local": "images/Golda_Meir__1964.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Golda_Meir_%281964%29.jpg/800px-Golda_Meir_%281964%29.jpg",
+  "portrait_date": "1964",
+  "original_caption": "Golda Meir",
+  "extracted_name": "Golda Meir",
+  "wikipedia_title": "Golda Meir",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Golda_Meir",
+  "commons_file_page": "https://commons.wikimedia.org/wiki/File:Golda_Meir_(1964).jpg",
+  "wikipedia_summary": {
+    "type": "standard",
+    "title": "Golda Meir",
+    "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Golda Meir</span></span>",
+    "namespace": {
+      "id": 0,
+      "text": ""
+    },
+    "wikibase_item": "Q42992",
+    "titles": {
+      "canonical": "Golda_Meir",
+      "normalized": "Golda Meir",
+      "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Golda Meir</span></span>"
+    },
+    "pageid": 66578,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Golda_Meir_%281964%29_cropped.jpg/330px-Golda_Meir_%281964%29_cropped.jpg",
+      "width": 330,
+      "height": 390
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Golda_Meir_%281964%29_cropped.jpg",
+      "width": 981,
+      "height": 1160
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1347305412",
+    "tid": "28f5dd7d-3142-11f1-8040-317d46f37c22",
+    "timestamp": "2026-04-05T22:52:45Z",
+    "description": "Prime Minister of Israel from 1969 to 1974",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Golda_Meir",
+        "revisions": "https://en.wikipedia.org/wiki/Golda_Meir?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Golda_Meir?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Golda_Meir"
+      },
+      "mobile": {
+        "page": "https://en.wikipedia.org/wiki/Golda_Meir",
+        "revisions": "https://en.wikipedia.org/wiki/Special:History/Golda_Meir",
+        "edit": "https://en.wikipedia.org/wiki/Golda_Meir?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Golda_Meir"
+      }
+    },
+    "extract": "Golda Meir was the prime minister of Israel from 1969 to 1974. She was Israel's first and, to date, only female head of government.",
+    "extract_html": "<p><b>Golda Meir</b> was the prime minister of Israel from 1969 to 1974. She was Israel's first and, to date, only female head of government.</p>"
+  }
+}

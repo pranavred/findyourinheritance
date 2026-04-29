@@ -1,0 +1,63 @@
+{
+  "slug": "Elizabeth_Glendower_Evans__cropped",
+  "name": "Elizabeth Glendower Evans",
+  "description": "America social reformer (1856–1937)",
+  "summary": "Elizabeth Glendower Evans was an American social reformer and suffragist.",
+  "image_local": "images/Elizabeth_Glendower_Evans__cropped.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Elizabeth_Glendower_Evans_%28cropped%29.jpg/800px-Elizabeth_Glendower_Evans_%28cropped%29.jpg",
+  "portrait_date": "1914",
+  "original_caption": "Elizabeth Glendower Evans (1856–1937), social reformer and suffragist",
+  "extracted_name": "Elizabeth Glendower Evans",
+  "wikipedia_title": "Elizabeth Glendower Evans",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Elizabeth_Glendower_Evans",
+  "commons_file_page": "https://commons.wikimedia.org/wiki/File:Elizabeth_Glendower_Evans_(cropped).jpg",
+  "wikipedia_summary": {
+    "type": "standard",
+    "title": "Elizabeth Glendower Evans",
+    "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Elizabeth Glendower Evans</span></span>",
+    "namespace": {
+      "id": 0,
+      "text": ""
+    },
+    "wikibase_item": "Q62129410",
+    "titles": {
+      "canonical": "Elizabeth_Glendower_Evans",
+      "normalized": "Elizabeth Glendower Evans",
+      "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Elizabeth Glendower Evans</span></span>"
+    },
+    "pageid": 62073702,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Elizabeth_Glendower_Evans_%28cropped%29.jpg/330px-Elizabeth_Glendower_Evans_%28cropped%29.jpg",
+      "width": 330,
+      "height": 441
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Elizabeth_Glendower_Evans_%28cropped%29.jpg",
+      "width": 2294,
+      "height": 3068
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1285674616",
+    "tid": "33eab8c6-199f-11f0-8710-25a0254abead",
+    "timestamp": "2025-04-15T02:13:21Z",
+    "description": "America social reformer (1856–1937)",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Elizabeth_Glendower_Evans",
+        "revisions": "https://en.wikipedia.org/wiki/Elizabeth_Glendower_Evans?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Elizabeth_Glendower_Evans?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Elizabeth_Glendower_Evans"
+      },
+      "mobile": {
+        "page": "https://en.wikipedia.org/wiki/Elizabeth_Glendower_Evans",
+        "revisions": "https://en.wikipedia.org/wiki/Special:History/Elizabeth_Glendower_Evans",
+        "edit": "https://en.wikipedia.org/wiki/Elizabeth_Glendower_Evans?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Elizabeth_Glendower_Evans"
+      }
+    },
+    "extract": "Elizabeth Glendower Evans was an American social reformer and suffragist.",
+    "extract_html": "<p><b>Elizabeth Glendower Evans</b> was an American social reformer and suffragist.</p>"
+  }
+}

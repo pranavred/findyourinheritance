@@ -1,0 +1,63 @@
+{
+  "slug": "Lysander_Spooner_by_Hardy",
+  "name": "Lysander Spooner",
+  "description": "American abolitionist and legal theorist (1808–1887)",
+  "summary": "Lysander Spooner was an American abolitionist, entrepreneur, lawyer, essayist, natural rights legal theorist, pamphleteer, political philosopher, and writer often associated with the Boston anarchist tradition.",
+  "image_local": "images/Lysander_Spooner_by_Hardy.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Lysander_Spooner_by_Hardy.jpg/800px-Lysander_Spooner_by_Hardy.jpg",
+  "portrait_date": "",
+  "original_caption": "Lysander Spooner by Hardy",
+  "extracted_name": "Lysander Spooner",
+  "wikipedia_title": "Lysander Spooner",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Lysander_Spooner",
+  "commons_file_page": "https://commons.wikimedia.org/wiki/File:Lysander_Spooner_by_Hardy.jpg",
+  "wikipedia_summary": {
+    "type": "standard",
+    "title": "Lysander Spooner",
+    "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Lysander Spooner</span></span>",
+    "namespace": {
+      "id": 0,
+      "text": ""
+    },
+    "wikibase_item": "Q538091",
+    "titles": {
+      "canonical": "Lysander_Spooner",
+      "normalized": "Lysander Spooner",
+      "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Lysander Spooner</span></span>"
+    },
+    "pageid": 79355,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Lysander_Spooner_by_Hardy.jpg/330px-Lysander_Spooner_by_Hardy.jpg",
+      "width": 330,
+      "height": 450
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/4/43/Lysander_Spooner_by_Hardy.jpg",
+      "width": 1986,
+      "height": 2707
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1351120622",
+    "tid": "5070142e-4110-11f1-9648-356c33ec8851",
+    "timestamp": "2026-04-26T01:36:15Z",
+    "description": "American abolitionist and legal theorist (1808–1887)",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Lysander_Spooner",
+        "revisions": "https://en.wikipedia.org/wiki/Lysander_Spooner?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Lysander_Spooner?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Lysander_Spooner"
+      },
+      "mobile": {
+        "page": "https://en.wikipedia.org/wiki/Lysander_Spooner",
+        "revisions": "https://en.wikipedia.org/wiki/Special:History/Lysander_Spooner",
+        "edit": "https://en.wikipedia.org/wiki/Lysander_Spooner?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Lysander_Spooner"
+      }
+    },
+    "extract": "Lysander Spooner was an American abolitionist, entrepreneur, lawyer, essayist, natural rights legal theorist, pamphleteer, political philosopher, and writer often associated with the Boston anarchist tradition.",
+    "extract_html": "<p><b>Lysander Spooner</b> was an American abolitionist, entrepreneur, lawyer, essayist, natural rights legal theorist, pamphleteer, political philosopher, and writer often associated with the Boston anarchist tradition.</p>"
+  }
+}

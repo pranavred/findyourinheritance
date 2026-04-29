@@ -1,0 +1,63 @@
+{
+  "slug": "Sergius_Stepniak_by_Elliott___Fry",
+  "name": "Sergei Stepniak",
+  "description": "Russian revolutionary (1851–1895)",
+  "summary": "Sergei Mikhailovich Stepniak-Kravchinskii, known in 19th-century London revolutionary circles as Sergius Stepniak, was a Russian revolutionary of Ukrainian descent.",
+  "image_local": "images/Sergius_Stepniak_by_Elliott___Fry.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Sergius_Stepniak_by_Elliott_%26_Fry.jpg/800px-Sergius_Stepniak_by_Elliott_%26_Fry.jpg",
+  "portrait_date": "1880s",
+  "original_caption": "Sergius Stepniak by Elliott & Fry",
+  "extracted_name": "Sergius Stepniak",
+  "wikipedia_title": "Sergei Stepniak",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Sergei_Stepniak",
+  "commons_file_page": "https://commons.wikimedia.org/wiki/File:Sergius_Stepniak_by_Elliott_%26_Fry.jpg",
+  "wikipedia_summary": {
+    "type": "standard",
+    "title": "Sergei Stepniak",
+    "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Sergei Stepniak</span></span>",
+    "namespace": {
+      "id": 0,
+      "text": ""
+    },
+    "wikibase_item": "Q546520",
+    "titles": {
+      "canonical": "Sergei_Stepniak",
+      "normalized": "Sergei Stepniak",
+      "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Sergei Stepniak</span></span>"
+    },
+    "pageid": 23737938,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Sergius_Stepniak_by_Elliott_%26_Fry.jpg/330px-Sergius_Stepniak_by_Elliott_%26_Fry.jpg",
+      "width": 330,
+      "height": 467
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/7/71/Sergius_Stepniak_by_Elliott_%26_Fry.jpg",
+      "width": 2446,
+      "height": 3462
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1336392978",
+    "tid": "b0f34312-0111-11f1-b8b4-470ac53336e3",
+    "timestamp": "2026-02-03T15:04:52Z",
+    "description": "Russian revolutionary (1851–1895)",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Sergei_Stepniak",
+        "revisions": "https://en.wikipedia.org/wiki/Sergei_Stepniak?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Sergei_Stepniak?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Sergei_Stepniak"
+      },
+      "mobile": {
+        "page": "https://en.wikipedia.org/wiki/Sergei_Stepniak",
+        "revisions": "https://en.wikipedia.org/wiki/Special:History/Sergei_Stepniak",
+        "edit": "https://en.wikipedia.org/wiki/Sergei_Stepniak?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Sergei_Stepniak"
+      }
+    },
+    "extract": "Sergei Mikhailovich Stepniak-Kravchinskii, known in 19th-century London revolutionary circles as Sergius Stepniak, was a Russian revolutionary of Ukrainian descent.",
+    "extract_html": "<p><b>Sergei Mikhailovich Stepniak-Kravchinskii</b>, known in 19th-century London revolutionary circles as <b>Sergius Stepniak</b>, was a Russian revolutionary of Ukrainian descent.</p>"
+  }
+}

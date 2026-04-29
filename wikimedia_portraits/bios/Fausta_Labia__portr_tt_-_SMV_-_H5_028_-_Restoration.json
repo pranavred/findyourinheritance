@@ -1,0 +1,63 @@
+{
+  "slug": "Fausta_Labia__portr_tt_-_SMV_-_H5_028_-_Restoration",
+  "name": "Fausta Labia",
+  "description": "Italian operatic soprano (1870–1935)",
+  "summary": "Fausta Labia was an Italian operatic soprano who was active mainly from 1892 to 1908. She made her debut in Naples in April 1892 as Valentine in Meyerbeer's Les Huguenots. After engagements at the Royal Swedish Opera in Stockholm (1893–95) and Lisbon (1896), she returned to Italy where she performed first in Turin, Rome and Bologna. Thereafter notable performances included the title role in Mascagni's Iris at La Fenice in Venice (1900) and Sieglinde in Wagner's Die Walküre at Milan's La Scala (1901).",
+  "image_local": "images/Fausta_Labia__portr_tt_-_SMV_-_H5_028_-_Restoration.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Fausta_Labia%2C_portr%C3%A4tt_-_SMV_-_H5_028_-_Restoration.jpg/800px-Fausta_Labia%2C_portr%C3%A4tt_-_SMV_-_H5_028_-_Restoration.jpg",
+  "portrait_date": "1893",
+  "original_caption": "Fausta Labia, porträtt - SMV - H5 028 - Restoration",
+  "extracted_name": "Fausta Labia",
+  "wikipedia_title": "Fausta Labia",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Fausta_Labia",
+  "commons_file_page": "https://commons.wikimedia.org/wiki/File:Fausta_Labia,_portr%C3%A4tt_-_SMV_-_H5_028_-_Restoration.jpg",
+  "wikipedia_summary": {
+    "type": "standard",
+    "title": "Fausta Labia",
+    "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Fausta Labia</span></span>",
+    "namespace": {
+      "id": 0,
+      "text": ""
+    },
+    "wikibase_item": "Q4960422",
+    "titles": {
+      "canonical": "Fausta_Labia",
+      "normalized": "Fausta Labia",
+      "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Fausta Labia</span></span>"
+    },
+    "pageid": 71070987,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Fausta_Labia%2C_rollportr%C3%A4tt_-_SMV_-_H5_033.tif/lossy-page1-330px-Fausta_Labia%2C_rollportr%C3%A4tt_-_SMV_-_H5_033.tif.jpg",
+      "width": 330,
+      "height": 542
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Fausta_Labia%2C_rollportr%C3%A4tt_-_SMV_-_H5_033.tif/lossy-page1-1280px-Fausta_Labia%2C_rollportr%C3%A4tt_-_SMV_-_H5_033.tif.jpg",
+      "width": 1528,
+      "height": 2511
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1258099937",
+    "tid": "a033cd23-a55f-11ef-a0ca-d4fa899dc000",
+    "timestamp": "2024-11-18T03:46:00Z",
+    "description": "Italian operatic soprano (1870–1935)",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Fausta_Labia",
+        "revisions": "https://en.wikipedia.org/wiki/Fausta_Labia?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Fausta_Labia?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Fausta_Labia"
+      },
+      "mobile": {
+        "page": "https://en.wikipedia.org/wiki/Fausta_Labia",
+        "revisions": "https://en.wikipedia.org/wiki/Special:History/Fausta_Labia",
+        "edit": "https://en.wikipedia.org/wiki/Fausta_Labia?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Fausta_Labia"
+      }
+    },
+    "extract": "Fausta Labia was an Italian operatic soprano who was active mainly from 1892 to 1908. She made her debut in Naples in April 1892 as Valentine in Meyerbeer's Les Huguenots. After engagements at the Royal Swedish Opera in Stockholm (1893–95) and Lisbon (1896), she returned to Italy where she performed first in Turin, Rome and Bologna. Thereafter notable performances included the title role in Mascagni's Iris at La Fenice in Venice (1900) and Sieglinde in Wagner's Die Walküre at Milan's La Scala (1901).",
+    "extract_html": "<p><b>Fausta Labia</b> was an Italian operatic soprano who was active mainly from 1892 to 1908. She made her debut in Naples in April 1892 as Valentine in Meyerbeer's <i>Les Huguenots</i>. After engagements at the Royal Swedish Opera in Stockholm (1893–95) and Lisbon (1896), she returned to Italy where she performed first in Turin, Rome and Bologna. Thereafter notable performances included the title role in Mascagni's <i>Iris</i> at La Fenice in Venice (1900) and Sieglinde in Wagner's <i>Die Walküre</i> at Milan's La Scala (1901).</p>"
+  }
+}

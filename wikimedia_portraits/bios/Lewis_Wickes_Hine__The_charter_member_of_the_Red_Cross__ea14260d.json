@@ -1,0 +1,63 @@
+{
+  "slug": "Lewis_Wickes_Hine__The_charter_member_of_the_Red_Cross__ea14260d",
+  "name": "Lewis Hine",
+  "description": "American sociologist and photographer (1874–1940)",
+  "summary": "Lewis Wickes Hine was an American sociologist and muckraker photographer. His photographs taken during times such as the Progressive Era and the Great Depression captured young children working in harsh conditions, playing a role in bringing about the passage of the first child labor laws in the United States.",
+  "image_local": "images/Lewis_Wickes_Hine__The_charter_member_of_the_Red_Cross__ea14260d.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Lewis_Wickes_Hine%2C_The_charter_member_of_the_Red_Cross_Boy_Scout_Troop_Paris%2C_September_1918_-_Library_of_Congress.jpg/800px-Lewis_Wickes_Hine%2C_The_charter_member_of_the_Red_Cross_Boy_Scout_Troop_Paris%2C_September_1918_-_Library_of_Congress.jpg",
+  "portrait_date": "1918",
+  "original_caption": "Lewis Wickes Hine, The charter member of the Red Cross Boy Scout Troop Paris, September 1918 - Library of Congress",
+  "extracted_name": "Lewis Wickes Hine",
+  "wikipedia_title": "Lewis Hine",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Lewis_Hine",
+  "commons_file_page": "https://commons.wikimedia.org/wiki/File:Lewis_Wickes_Hine,_The_charter_member_of_the_Red_Cross_Boy_Scout_Troop_Paris,_September_1918_-_Library_of_Congress.jpg",
+  "wikipedia_summary": {
+    "type": "standard",
+    "title": "Lewis Hine",
+    "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Lewis Hine</span></span>",
+    "namespace": {
+      "id": 0,
+      "text": ""
+    },
+    "wikibase_item": "Q347194",
+    "titles": {
+      "canonical": "Lewis_Hine",
+      "normalized": "Lewis Hine",
+      "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Lewis Hine</span></span>"
+    },
+    "pageid": 231631,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Lewis_Hine_selfportrait.jpg/330px-Lewis_Hine_selfportrait.jpg",
+      "width": 330,
+      "height": 476
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Lewis_Hine_selfportrait.jpg",
+      "width": 504,
+      "height": 727
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1345493737",
+    "tid": "a7f844e5-2900-11f1-b76c-b7e52a5753bc",
+    "timestamp": "2026-03-26T10:43:42Z",
+    "description": "American sociologist and photographer (1874–1940)",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Lewis_Hine",
+        "revisions": "https://en.wikipedia.org/wiki/Lewis_Hine?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Lewis_Hine?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Lewis_Hine"
+      },
+      "mobile": {
+        "page": "https://en.wikipedia.org/wiki/Lewis_Hine",
+        "revisions": "https://en.wikipedia.org/wiki/Special:History/Lewis_Hine",
+        "edit": "https://en.wikipedia.org/wiki/Lewis_Hine?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Lewis_Hine"
+      }
+    },
+    "extract": "Lewis Wickes Hine was an American sociologist and muckraker photographer. His photographs taken during times such as the Progressive Era and the Great Depression captured young children working in harsh conditions, playing a role in bringing about the passage of the first child labor laws in the United States.",
+    "extract_html": "<p><b>Lewis Wickes Hine</b> was an American sociologist and muckraker photographer. His photographs taken during times such as the Progressive Era and the Great Depression captured young children working in harsh conditions, playing a role in bringing about the passage of the first child labor laws in the United States.</p>"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "slug": "Robert_Howlett__Isambard_Kingdom_Brunel_Standing_Before_cb0100cd",
+  "name": "Isambard Kingdom Brunel",
+  "description": "British mechanical and civil engineer (1806–1859)",
+  "summary": "Isambard Kingdom Brunel was an English civil engineer and mechanical engineer who is considered \"one of the most ingenious and prolific figures in engineering history\", \"one of the 19th-century engineering giants\", and \"one of the greatest figures of the Industrial Revolution, [who] changed the face of the English landscape with his ground-breaking designs and ingenious constructions\". Brunel built dockyards, the Great Western Railway (GWR), a series of steamships including the first purpose-built transatlantic steamship, and numerous important bridges and tunnels. His designs revolutionised public transport and modern engineering.",
+  "image_local": "images/Robert_Howlett__Isambard_Kingdom_Brunel_Standing_Before_cb0100cd.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Robert_Howlett_%28Isambard_Kingdom_Brunel_Standing_Before_the_Launching_Chains_of_the_Great_Eastern%29%2C_The_Metropolitan_Museum_of_Art_-_restoration1.jpg/800px-Robert_Howlett_%28Isambard_Kingdom_Brunel_Standing_Before_the_Launching_Chains_of_the_Great_Eastern%29%2C_The_Metropolitan_Museum_of_Art_-_restoration1.jpg",
+  "portrait_date": "1857",
+  "original_caption": "Isambard Kingdom Brunel standing before the launching chains of the SS Great Eastern, by Robert Howlett",
+  "extracted_name": "Isambard Kingdom Brunel",
+  "wikipedia_title": "Isambard Kingdom Brunel",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Isambard_Kingdom_Brunel",
+  "commons_file_page": "https://commons.wikimedia.org/wiki/File:Robert_Howlett_(Isambard_Kingdom_Brunel_Standing_Before_the_Launching_Chains_of_the_Great_Eastern),_The_Metropolitan_Museum_of_Art_-_restoration1.jpg",
+  "wikipedia_summary": {
+    "type": "standard",
+    "title": "Isambard Kingdom Brunel",
+    "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Isambard Kingdom Brunel</span></span>",
+    "namespace": {
+      "id": 0,
+      "text": ""
+    },
+    "wikibase_item": "Q207380",
+    "titles": {
+      "canonical": "Isambard_Kingdom_Brunel",
+      "normalized": "Isambard Kingdom Brunel",
+      "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Isambard Kingdom Brunel</span></span>"
+    },
+    "pageid": 4482809,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Robert_Howlett_%28Isambard_Kingdom_Brunel_Standing_Before_the_Launching_Chains_of_the_Great_Eastern%29%2C_The_Metropolitan_Museum_of_Art_-_restoration1.jpg/330px-Robert_Howlett_%28Isambard_Kingdom_Brunel_Standing_Before_the_Launching_Chains_of_the_Great_Eastern%29%2C_The_Metropolitan_Museum_of_Art_-_restoration1.jpg",
+      "width": 330,
+      "height": 431
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Robert_Howlett_%28Isambard_Kingdom_Brunel_Standing_Before_the_Launching_Chains_of_the_Great_Eastern%29%2C_The_Metropolitan_Museum_of_Art_-_restoration1.jpg/3840px-Robert_Howlett_%28Isambard_Kingdom_Brunel_Standing_Before_the_Launching_Chains_of_the_Great_Eastern%29%2C_The_Metropolitan_Museum_of_Art_-_restoration1.jpg",
+      "width": 5616,
+      "height": 7334
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1351040426",
+    "tid": "0579dea6-40bf-11f1-8779-374b56523312",
+    "timestamp": "2026-04-25T15:54:20Z",
+    "description": "British mechanical and civil engineer (1806–1859)",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Isambard_Kingdom_Brunel",
+        "revisions": "https://en.wikipedia.org/wiki/Isambard_Kingdom_Brunel?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Isambard_Kingdom_Brunel?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Isambard_Kingdom_Brunel"
+      },
+      "mobile": {
+        "page": "https://en.wikipedia.org/wiki/Isambard_Kingdom_Brunel",
+        "revisions": "https://en.wikipedia.org/wiki/Special:History/Isambard_Kingdom_Brunel",
+        "edit": "https://en.wikipedia.org/wiki/Isambard_Kingdom_Brunel?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Isambard_Kingdom_Brunel"
+      }
+    },
+    "extract": "Isambard Kingdom Brunel was an English civil engineer and mechanical engineer who is considered \"one of the most ingenious and prolific figures in engineering history\", \"one of the 19th-century engineering giants\", and \"one of the greatest figures of the Industrial Revolution, [who] changed the face of the English landscape with his ground-breaking designs and ingenious constructions\". Brunel built dockyards, the Great Western Railway (GWR), a series of steamships including the first purpose-built transatlantic steamship, and numerous important bridges and tunnels. His designs revolutionised public transport and modern engineering.",
+    "extract_html": "<p><b>Isambard Kingdom Brunel</b> was an English civil engineer and mechanical engineer who is considered \"one of the most ingenious and prolific figures in engineering history\", \"one of the 19th-century engineering giants\", and \"one of the greatest figures of the Industrial Revolution, [who] changed the face of the English landscape with his ground-breaking designs and ingenious constructions\". Brunel built dockyards, the Great Western Railway (GWR), a series of steamships including the first purpose-built transatlantic steamship, and numerous important bridges and tunnels. His designs revolutionised public transport and modern engineering.</p>"
+  }
+}

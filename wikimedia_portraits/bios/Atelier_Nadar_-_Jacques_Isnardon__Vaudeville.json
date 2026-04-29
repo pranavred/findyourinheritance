@@ -1,0 +1,63 @@
+{
+  "slug": "Atelier_Nadar_-_Jacques_Isnardon__Vaudeville",
+  "name": "Jacques Isnardon",
+  "description": "French opera singer (1860–1930)",
+  "summary": "Jacques Isnardon was a French bass-baritone, writer and voice teacher.",
+  "image_local": "images/Atelier_Nadar_-_Jacques_Isnardon__Vaudeville.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Atelier_Nadar_-_Jacques_Isnardon%2C_Vaudeville.jpg/800px-Atelier_Nadar_-_Jacques_Isnardon%2C_Vaudeville.jpg",
+  "portrait_date": "between 1875 and 1895",
+  "original_caption": "Jacques Isnardon, Vaudeville",
+  "extracted_name": "Jacques Isnardon",
+  "wikipedia_title": "Jacques Isnardon",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Jacques_Isnardon",
+  "commons_file_page": "https://commons.wikimedia.org/wiki/File:Atelier_Nadar_-_Jacques_Isnardon,_Vaudeville.jpg",
+  "wikipedia_summary": {
+    "type": "standard",
+    "title": "Jacques Isnardon",
+    "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Jacques Isnardon</span></span>",
+    "namespace": {
+      "id": 0,
+      "text": ""
+    },
+    "wikibase_item": "Q6120660",
+    "titles": {
+      "canonical": "Jacques_Isnardon",
+      "normalized": "Jacques Isnardon",
+      "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Jacques Isnardon</span></span>"
+    },
+    "pageid": 31226634,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Atelier_Nadar_-_Jacques_Isnardon%2C_Vaudeville.jpg/330px-Atelier_Nadar_-_Jacques_Isnardon%2C_Vaudeville.jpg",
+      "width": 330,
+      "height": 458
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Atelier_Nadar_-_Jacques_Isnardon%2C_Vaudeville.jpg",
+      "width": 2456,
+      "height": 3408
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1308778306",
+    "tid": "ad8af736-8661-11f0-bfc7-408047b9f373",
+    "timestamp": "2025-08-31T11:57:33Z",
+    "description": "French opera singer (1860–1930)",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Jacques_Isnardon",
+        "revisions": "https://en.wikipedia.org/wiki/Jacques_Isnardon?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Jacques_Isnardon?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Jacques_Isnardon"
+      },
+      "mobile": {
+        "page": "https://en.wikipedia.org/wiki/Jacques_Isnardon",
+        "revisions": "https://en.wikipedia.org/wiki/Special:History/Jacques_Isnardon",
+        "edit": "https://en.wikipedia.org/wiki/Jacques_Isnardon?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Jacques_Isnardon"
+      }
+    },
+    "extract": "Jacques Isnardon was a French bass-baritone, writer and voice teacher.",
+    "extract_html": "<p><b>Jacques Isnardon</b> was a French bass-baritone, writer and voice teacher.</p>"
+  }
+}

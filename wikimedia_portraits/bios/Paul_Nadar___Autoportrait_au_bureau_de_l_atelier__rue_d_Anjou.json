@@ -1,0 +1,63 @@
+{
+  "slug": "Paul_Nadar___Autoportrait_au_bureau_de_l_atelier__rue_d_Anjou",
+  "name": "Paul Nadar",
+  "description": "French photographer (1856–1939)",
+  "summary": "Paul Nadar was a French photographer and the son of Nadar, who was also a photographer, and the grandson of Victor Tournachon, who was a printer and bookseller.",
+  "image_local": "images/Paul_Nadar___Autoportrait_au_bureau_de_l_atelier__rue_d_Anjou.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Paul_Nadar%2C_%22Autoportrait_au_bureau_de_l%27atelier%2C_rue_d%27Anjou%22.jpg/800px-Paul_Nadar%2C_%22Autoportrait_au_bureau_de_l%27atelier%2C_rue_d%27Anjou%22.jpg",
+  "portrait_date": "",
+  "original_caption": "Paul Nadar, \"Autoportrait au bureau de l'atelier, rue d'Anjou\"",
+  "extracted_name": "Paul Nadar",
+  "wikipedia_title": "Paul Nadar",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Paul_Nadar",
+  "commons_file_page": "https://commons.wikimedia.org/wiki/File:Paul_Nadar,_%22Autoportrait_au_bureau_de_l%27atelier,_rue_d%27Anjou%22.jpg",
+  "wikipedia_summary": {
+    "type": "standard",
+    "title": "Paul Nadar",
+    "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Paul Nadar</span></span>",
+    "namespace": {
+      "id": 0,
+      "text": ""
+    },
+    "wikibase_item": "Q4141511",
+    "titles": {
+      "canonical": "Paul_Nadar",
+      "normalized": "Paul Nadar",
+      "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Paul Nadar</span></span>"
+    },
+    "pageid": 61363671,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Paul_Nadar%2C_%22Autoportrait_au_bureau_de_l%27atelier%2C_rue_d%27Anjou%22.jpg/330px-Paul_Nadar%2C_%22Autoportrait_au_bureau_de_l%27atelier%2C_rue_d%27Anjou%22.jpg",
+      "width": 330,
+      "height": 256
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/3/33/Paul_Nadar%2C_%22Autoportrait_au_bureau_de_l%27atelier%2C_rue_d%27Anjou%22.jpg",
+      "width": 3644,
+      "height": 2831
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1332361837",
+    "tid": "92ba711e-eee8-11f0-9abf-85c9363e85a0",
+    "timestamp": "2026-01-11T12:25:11Z",
+    "description": "French photographer (1856–1939)",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Paul_Nadar",
+        "revisions": "https://en.wikipedia.org/wiki/Paul_Nadar?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Paul_Nadar?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Paul_Nadar"
+      },
+      "mobile": {
+        "page": "https://en.wikipedia.org/wiki/Paul_Nadar",
+        "revisions": "https://en.wikipedia.org/wiki/Special:History/Paul_Nadar",
+        "edit": "https://en.wikipedia.org/wiki/Paul_Nadar?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Paul_Nadar"
+      }
+    },
+    "extract": "Paul Nadar was a French photographer and the son of Nadar, who was also a photographer, and the grandson of Victor Tournachon, who was a printer and bookseller.",
+    "extract_html": "<p><b>Paul Nadar</b> was a French photographer and the son of Nadar, who was also a photographer, and the grandson of Victor Tournachon, who was a printer and bookseller.</p>"
+  }
+}

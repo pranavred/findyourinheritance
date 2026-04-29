@@ -1,0 +1,63 @@
+{
+  "slug": "Sophia_Loren_62_Allan_Warren",
+  "name": "Sophia Loren",
+  "description": "Italian actress (born 1934)",
+  "summary": "Sofia Costanza Brigida Villani Scicolone, known professionally as Sophia Loren, is an Italian actress, active in her native country and the United States. With a career spanning over 70 years, she is one of the last surviving major stars from the Golden Age of Hollywood cinema.",
+  "image_local": "images/Sophia_Loren_62_Allan_Warren.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Sophia_Loren_62_Allan_Warren.jpg/800px-Sophia_Loren_62_Allan_Warren.jpg",
+  "portrait_date": "1986",
+  "original_caption": "Sophia Loren, by Allan Warren",
+  "extracted_name": "Sophia Loren",
+  "wikipedia_title": "Sophia Loren",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Sophia_Loren",
+  "commons_file_page": "https://commons.wikimedia.org/wiki/File:Sophia_Loren_62_Allan_Warren.jpg",
+  "wikipedia_summary": {
+    "type": "standard",
+    "title": "Sophia Loren",
+    "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Sophia Loren</span></span>",
+    "namespace": {
+      "id": 0,
+      "text": ""
+    },
+    "wikibase_item": "Q43252",
+    "titles": {
+      "canonical": "Sophia_Loren",
+      "normalized": "Sophia Loren",
+      "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Sophia Loren</span></span>"
+    },
+    "pageid": 44463,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Gala_de_%C3%8Enchidere_TIFF_2016_%2827490660976%29_%28cropped%29.jpg/330px-Gala_de_%C3%8Enchidere_TIFF_2016_%2827490660976%29_%28cropped%29.jpg",
+      "width": 330,
+      "height": 431
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Gala_de_%C3%8Enchidere_TIFF_2016_%2827490660976%29_%28cropped%29.jpg",
+      "width": 926,
+      "height": 1210
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1350974468",
+    "tid": "6de5a543-4060-11f1-8916-bf6780783140",
+    "timestamp": "2026-04-25T04:37:13Z",
+    "description": "Italian actress (born 1934)",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Sophia_Loren",
+        "revisions": "https://en.wikipedia.org/wiki/Sophia_Loren?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Sophia_Loren?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Sophia_Loren"
+      },
+      "mobile": {
+        "page": "https://en.wikipedia.org/wiki/Sophia_Loren",
+        "revisions": "https://en.wikipedia.org/wiki/Special:History/Sophia_Loren",
+        "edit": "https://en.wikipedia.org/wiki/Sophia_Loren?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Sophia_Loren"
+      }
+    },
+    "extract": "Sofia Costanza Brigida Villani Scicolone, known professionally as Sophia Loren, is an Italian actress, active in her native country and the United States. With a career spanning over 70 years, she is one of the last surviving major stars from the Golden Age of Hollywood cinema.",
+    "extract_html": "<p><b>Sofia Costanza Brigida Villani Scicolone</b>, known professionally as <b>Sophia Loren</b>, is an Italian actress, active in her native country and the United States. With a career spanning over 70 years, she is one of the last surviving major stars from the Golden Age of Hollywood cinema.</p>"
+  }
+}

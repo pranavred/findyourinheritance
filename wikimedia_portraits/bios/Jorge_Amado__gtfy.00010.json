@@ -1,0 +1,63 @@
+{
+  "slug": "Jorge_Amado__gtfy.00010",
+  "name": "Jorge Amado",
+  "description": "Brazilian writer (1912–2001)",
+  "summary": "Jorge Leal Amado de Faria, known as Jorge Amado, was a Brazilian writer of the modernist school. He remains the best-known of modern Brazilian writers, with his work having been translated into some 49 languages and popularized in film, including Dona Flor and Her Two Husbands in 1976, and having been nominated for the Nobel Prize in Literature at least seven times. His work reflects the image of a Mestiço Brazil and is marked by religious syncretism. He depicted a cheerful and optimistic country that was beset, at the same time, with deep social and economic differences.",
+  "image_local": "images/Jorge_Amado__gtfy.00010.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Jorge_Amado%2C_gtfy.00010.jpg/800px-Jorge_Amado%2C_gtfy.00010.jpg",
+  "portrait_date": "1988",
+  "original_caption": "Jorge Amado",
+  "extracted_name": "Jorge Amado",
+  "wikipedia_title": "Jorge Amado",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Jorge_Amado",
+  "commons_file_page": "https://commons.wikimedia.org/wiki/File:Jorge_Amado,_gtfy.00010.jpg",
+  "wikipedia_summary": {
+    "type": "standard",
+    "title": "Jorge Amado",
+    "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Jorge Amado</span></span>",
+    "namespace": {
+      "id": 0,
+      "text": ""
+    },
+    "wikibase_item": "Q184440",
+    "titles": {
+      "canonical": "Jorge_Amado",
+      "normalized": "Jorge Amado",
+      "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Jorge Amado</span></span>"
+    },
+    "pageid": 421320,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Jorge_Amado%2C_gtfy.00010.jpg/330px-Jorge_Amado%2C_gtfy.00010.jpg",
+      "width": 330,
+      "height": 464
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Jorge_Amado%2C_gtfy.00010.jpg",
+      "width": 3218,
+      "height": 4520
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1349540787",
+    "tid": "94bc3d70-3a98-11f1-a43f-9cf85b2c5207",
+    "timestamp": "2026-04-17T20:04:03Z",
+    "description": "Brazilian writer (1912–2001)",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Jorge_Amado",
+        "revisions": "https://en.wikipedia.org/wiki/Jorge_Amado?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Jorge_Amado?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Jorge_Amado"
+      },
+      "mobile": {
+        "page": "https://en.wikipedia.org/wiki/Jorge_Amado",
+        "revisions": "https://en.wikipedia.org/wiki/Special:History/Jorge_Amado",
+        "edit": "https://en.wikipedia.org/wiki/Jorge_Amado?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Jorge_Amado"
+      }
+    },
+    "extract": "Jorge Leal Amado de Faria, known as Jorge Amado, was a Brazilian writer of the modernist school. He remains the best-known of modern Brazilian writers, with his work having been translated into some 49 languages and popularized in film, including Dona Flor and Her Two Husbands in 1976, and having been nominated for the Nobel Prize in Literature at least seven times. His work reflects the image of a Mestiço Brazil and is marked by religious syncretism. He depicted a cheerful and optimistic country that was beset, at the same time, with deep social and economic differences.",
+    "extract_html": "<p><b>Jorge Leal Amado de Faria</b>, known as <b>Jorge Amado</b>, was a Brazilian writer of the modernist school. He remains the best-known of modern Brazilian writers, with his work having been translated into some 49 languages and popularized in film, including <i>Dona Flor and Her Two Husbands</i> in 1976, and having been nominated for the Nobel Prize in Literature at least seven times. His work reflects the image of a Mestiço Brazil and is marked by religious syncretism. He depicted a cheerful and optimistic country that was beset, at the same time, with deep social and economic differences.</p>"
+  }
+}

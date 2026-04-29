@@ -1,0 +1,63 @@
+{
+  "slug": "Captain_John_W._Tarleton_by_John_Jabez_Edwin_Mayall",
+  "name": "John Tarleton (Royal Navy officer)",
+  "description": "British Royal Navy admiral (1811–1880)",
+  "summary": "Admiral Sir John Walter Tarleton was a Royal Navy officer who went on to be Second Naval Lord.",
+  "image_local": "images/Captain_John_W._Tarleton_by_John_Jabez_Edwin_Mayall.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Captain_John_W._Tarleton_by_John_Jabez_Edwin_Mayall.jpg/800px-Captain_John_W._Tarleton_by_John_Jabez_Edwin_Mayall.jpg",
+  "portrait_date": "1860",
+  "original_caption": "Captain John W. Tarleton by John Jabez Edwin Mayall",
+  "extracted_name": "John W. Tarleton",
+  "wikipedia_title": "John Tarleton (Royal Navy officer)",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/John_Tarleton_(Royal_Navy_officer)",
+  "commons_file_page": "https://commons.wikimedia.org/wiki/File:Captain_John_W._Tarleton_by_John_Jabez_Edwin_Mayall.jpg",
+  "wikipedia_summary": {
+    "type": "standard",
+    "title": "John Tarleton (Royal Navy officer)",
+    "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">John Tarleton (Royal Navy officer)</span></span>",
+    "namespace": {
+      "id": 0,
+      "text": ""
+    },
+    "wikibase_item": "Q6260248",
+    "titles": {
+      "canonical": "John_Tarleton_(Royal_Navy_officer)",
+      "normalized": "John Tarleton (Royal Navy officer)",
+      "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">John Tarleton (Royal Navy officer)</span></span>"
+    },
+    "pageid": 28073239,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Captain_John_W._Tarleton_by_John_Jabez_Edwin_Mayall.jpg/330px-Captain_John_W._Tarleton_by_John_Jabez_Edwin_Mayall.jpg",
+      "width": 330,
+      "height": 391
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/3/36/Captain_John_W._Tarleton_by_John_Jabez_Edwin_Mayall.jpg",
+      "width": 1508,
+      "height": 1786
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1296054656",
+    "tid": "bfdab6db-4b85-11f0-9334-a71ff3d8ed1d",
+    "timestamp": "2025-06-17T14:17:07Z",
+    "description": "British Royal Navy admiral (1811–1880)",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/John_Tarleton_(Royal_Navy_officer)",
+        "revisions": "https://en.wikipedia.org/wiki/John_Tarleton_(Royal_Navy_officer)?action=history",
+        "edit": "https://en.wikipedia.org/wiki/John_Tarleton_(Royal_Navy_officer)?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:John_Tarleton_(Royal_Navy_officer)"
+      },
+      "mobile": {
+        "page": "https://en.wikipedia.org/wiki/John_Tarleton_(Royal_Navy_officer)",
+        "revisions": "https://en.wikipedia.org/wiki/Special:History/John_Tarleton_(Royal_Navy_officer)",
+        "edit": "https://en.wikipedia.org/wiki/John_Tarleton_(Royal_Navy_officer)?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:John_Tarleton_(Royal_Navy_officer)"
+      }
+    },
+    "extract": "Admiral Sir John Walter Tarleton was a Royal Navy officer who went on to be Second Naval Lord.",
+    "extract_html": "<p>Admiral <b>Sir John Walter Tarleton</b> was a Royal Navy officer who went on to be Second Naval Lord.</p>"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "slug": "Frances_Benjamin_Johnston__Self-Portrait__as__New_Woman__1896",
+  "name": "Frances Benjamin Johnston",
+  "description": "American photographer, photojournalist (1864–1952)",
+  "summary": "Frances Benjamin Johnston was an American photographer and photojournalist whose career lasted for almost half a century. She is most known for her portraits, images of southern architecture, and various photographic series featuring African Americans and Native Americans at the turn of the twentieth century.",
+  "image_local": "images/Frances_Benjamin_Johnston__Self-Portrait__as__New_Woman__1896.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Frances_Benjamin_Johnston%2C_Self-Portrait_%28as_%22New_Woman%22%29%2C_1896.jpg/800px-Frances_Benjamin_Johnston%2C_Self-Portrait_%28as_%22New_Woman%22%29%2C_1896.jpg",
+  "portrait_date": "1896",
+  "original_caption": "Frances Benjamin Johnston",
+  "extracted_name": "Frances Benjamin Johnston",
+  "wikipedia_title": "Frances Benjamin Johnston",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Frances_Benjamin_Johnston",
+  "commons_file_page": "https://commons.wikimedia.org/wiki/File:Frances_Benjamin_Johnston,_Self-Portrait_(as_%22New_Woman%22),_1896.jpg",
+  "wikipedia_summary": {
+    "type": "standard",
+    "title": "Frances Benjamin Johnston",
+    "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Frances Benjamin Johnston</span></span>",
+    "namespace": {
+      "id": 0,
+      "text": ""
+    },
+    "wikibase_item": "Q462707",
+    "titles": {
+      "canonical": "Frances_Benjamin_Johnston",
+      "normalized": "Frances Benjamin Johnston",
+      "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Frances Benjamin Johnston</span></span>"
+    },
+    "pageid": 3612977,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Frances_Benjamin_Johnston_%28NPG%29.jpg/330px-Frances_Benjamin_Johnston_%28NPG%29.jpg",
+      "width": 330,
+      "height": 467
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Frances_Benjamin_Johnston_%28NPG%29.jpg/3840px-Frances_Benjamin_Johnston_%28NPG%29.jpg",
+      "width": 5174,
+      "height": 7322
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1334853062",
+    "tid": "137f7ed2-fa4e-11f0-8804-8ee27a47cff1",
+    "timestamp": "2026-01-26T00:29:29Z",
+    "description": "American photographer, photojournalist (1864–1952)",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Frances_Benjamin_Johnston",
+        "revisions": "https://en.wikipedia.org/wiki/Frances_Benjamin_Johnston?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Frances_Benjamin_Johnston?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Frances_Benjamin_Johnston"
+      },
+      "mobile": {
+        "page": "https://en.wikipedia.org/wiki/Frances_Benjamin_Johnston",
+        "revisions": "https://en.wikipedia.org/wiki/Special:History/Frances_Benjamin_Johnston",
+        "edit": "https://en.wikipedia.org/wiki/Frances_Benjamin_Johnston?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Frances_Benjamin_Johnston"
+      }
+    },
+    "extract": "Frances Benjamin Johnston was an American photographer and photojournalist whose career lasted for almost half a century. She is most known for her portraits, images of southern architecture, and various photographic series featuring African Americans and Native Americans at the turn of the twentieth century.",
+    "extract_html": "<p><b>Frances Benjamin Johnston</b> was an American photographer and photojournalist whose career lasted for almost half a century. She is most known for her portraits, images of southern architecture, and various photographic series featuring African Americans and Native Americans at the turn of the twentieth century.</p>"
+  }
+}

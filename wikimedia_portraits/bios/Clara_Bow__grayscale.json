@@ -1,0 +1,63 @@
+{
+  "slug": "Clara_Bow__grayscale",
+  "name": "Clara Bow",
+  "description": "American actress (1905–1965)",
+  "summary": "Clara Gordon Bow was an American actress who rose to stardom during the silent film era of the 1920s and successfully made the transition to \"talkies\" in 1929. Her appearance as a plucky shopgirl in the film It brought her global fame and the nickname \"The It Girl\". Bow came to personify the Roaring Twenties and is described as its leading sex symbol.",
+  "image_local": "images/Clara_Bow__grayscale.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Clara_Bow%2C_grayscale.jpg/800px-Clara_Bow%2C_grayscale.jpg",
+  "portrait_date": "",
+  "original_caption": "Clara Bow, grayscale",
+  "extracted_name": "Clara Bow",
+  "wikipedia_title": "Clara Bow",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Clara_Bow",
+  "commons_file_page": "https://commons.wikimedia.org/wiki/File:Clara_Bow,_grayscale.jpg",
+  "wikipedia_summary": {
+    "type": "standard",
+    "title": "Clara Bow",
+    "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Clara Bow</span></span>",
+    "namespace": {
+      "id": 0,
+      "text": ""
+    },
+    "wikibase_item": "Q234640",
+    "titles": {
+      "canonical": "Clara_Bow",
+      "normalized": "Clara Bow",
+      "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Clara Bow</span></span>"
+    },
+    "pageid": 106000,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/ClaraBow2.1.jpg/330px-ClaraBow2.1.jpg",
+      "width": 330,
+      "height": 412
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/ClaraBow2.1.jpg/3840px-ClaraBow2.1.jpg",
+      "width": 6325,
+      "height": 7905
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1350993226",
+    "tid": "f9baf8ff-407f-11f1-9e91-a6715fe3a45b",
+    "timestamp": "2026-04-25T08:23:02Z",
+    "description": "American actress (1905–1965)",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Clara_Bow",
+        "revisions": "https://en.wikipedia.org/wiki/Clara_Bow?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Clara_Bow?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Clara_Bow"
+      },
+      "mobile": {
+        "page": "https://en.wikipedia.org/wiki/Clara_Bow",
+        "revisions": "https://en.wikipedia.org/wiki/Special:History/Clara_Bow",
+        "edit": "https://en.wikipedia.org/wiki/Clara_Bow?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Clara_Bow"
+      }
+    },
+    "extract": "Clara Gordon Bow was an American actress who rose to stardom during the silent film era of the 1920s and successfully made the transition to \"talkies\" in 1929. Her appearance as a plucky shopgirl in the film It brought her global fame and the nickname \"The It Girl\". Bow came to personify the Roaring Twenties and is described as its leading sex symbol.",
+    "extract_html": "<p><b>Clara Gordon Bow</b> was an American actress who rose to stardom during the silent film era of the 1920s and successfully made the transition to \"talkies\" in 1929. Her appearance as a plucky shopgirl in the film <i>It</i> brought her global fame and the nickname \"The It Girl\". Bow came to personify the Roaring Twenties and is described as its leading sex symbol.</p>"
+  }
+}

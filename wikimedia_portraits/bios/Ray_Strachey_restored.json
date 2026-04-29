@@ -1,0 +1,63 @@
+{
+  "slug": "Ray_Strachey_restored",
+  "name": "Ray Strachey",
+  "description": "British feminist activist and writer (1887–1940)",
+  "summary": "Ray Strachey was a British feminist politician, artist and writer.",
+  "image_local": "images/Ray_Strachey_restored.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Ray_Strachey_restored.jpg/800px-Ray_Strachey_restored.jpg",
+  "portrait_date": "1906-1912",
+  "original_caption": "Ray Strachey, between 1906 and 1912",
+  "extracted_name": "Ray Strachey",
+  "wikipedia_title": "Ray Strachey",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Ray_Strachey",
+  "commons_file_page": "https://commons.wikimedia.org/wiki/File:Ray_Strachey_restored.jpg",
+  "wikipedia_summary": {
+    "type": "standard",
+    "title": "Ray Strachey",
+    "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Ray Strachey</span></span>",
+    "namespace": {
+      "id": 0,
+      "text": ""
+    },
+    "wikibase_item": "Q7298165",
+    "titles": {
+      "canonical": "Ray_Strachey",
+      "normalized": "Ray Strachey",
+      "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Ray Strachey</span></span>"
+    },
+    "pageid": 25768306,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Ray_Strachey_restored.jpg/330px-Ray_Strachey_restored.jpg",
+      "width": 330,
+      "height": 487
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Ray_Strachey_restored.jpg",
+      "width": 2226,
+      "height": 3288
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1341967120",
+    "tid": "1f4c4160-191e-11f1-a0cb-3c7c416d0994",
+    "timestamp": "2026-03-06T05:34:19Z",
+    "description": "British feminist activist and writer (1887–1940)",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Ray_Strachey",
+        "revisions": "https://en.wikipedia.org/wiki/Ray_Strachey?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Ray_Strachey?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Ray_Strachey"
+      },
+      "mobile": {
+        "page": "https://en.wikipedia.org/wiki/Ray_Strachey",
+        "revisions": "https://en.wikipedia.org/wiki/Special:History/Ray_Strachey",
+        "edit": "https://en.wikipedia.org/wiki/Ray_Strachey?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Ray_Strachey"
+      }
+    },
+    "extract": "Ray Strachey was a British feminist politician, artist and writer.",
+    "extract_html": "<p><b>Ray Strachey</b> was a British feminist politician, artist and writer.</p>"
+  }
+}

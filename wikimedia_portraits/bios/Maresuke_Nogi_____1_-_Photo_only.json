@@ -1,0 +1,63 @@
+{
+  "slug": "Maresuke_Nogi_____1_-_Photo_only",
+  "name": "Nogi Maresuke",
+  "description": "Japanese general (1849–1912)",
+  "summary": "Count Nogi Maresuke , also known as Kiten, Count Nogi, was a Japanese general in the Imperial Japanese Army and a governor-general of Taiwan. He was one of the commanders during the 1894 capture of Port Arthur from China and a prominent figure in the Russo-Japanese War of 1904–05, as commander of the forces which captured Port Arthur from the Russians.",
+  "image_local": "images/Maresuke_Nogi_____1_-_Photo_only.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Maresuke_Nogi%2C_%E8%BF%91%E4%B8%96%E5%90%8D%E5%A3%AB%E5%86%99%E7%9C%9F_%E5%85%B61_-_Photo_only.jpg/800px-Maresuke_Nogi%2C_%E8%BF%91%E4%B8%96%E5%90%8D%E5%A3%AB%E5%86%99%E7%9C%9F_%E5%85%B61_-_Photo_only.jpg",
+  "portrait_date": "unknown, before 1912",
+  "original_caption": "Maresuke Nogi, 近世名士写真 其1",
+  "extracted_name": "Maresuke Nogi",
+  "wikipedia_title": "Nogi Maresuke",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Nogi_Maresuke",
+  "commons_file_page": "https://commons.wikimedia.org/wiki/File:Maresuke_Nogi,_%E8%BF%91%E4%B8%96%E5%90%8D%E5%A3%AB%E5%86%99%E7%9C%9F_%E5%85%B61_-_Photo_only.jpg",
+  "wikipedia_summary": {
+    "type": "standard",
+    "title": "Nogi Maresuke",
+    "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Nogi Maresuke</span></span>",
+    "namespace": {
+      "id": 0,
+      "text": ""
+    },
+    "wikibase_item": "Q468122",
+    "titles": {
+      "canonical": "Nogi_Maresuke",
+      "normalized": "Nogi Maresuke",
+      "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Nogi Maresuke</span></span>"
+    },
+    "pageid": 252376,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/M-NOGI.png/330px-M-NOGI.png",
+      "width": 330,
+      "height": 424
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/a/a9/M-NOGI.png",
+      "width": 1812,
+      "height": 2326
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1351262635",
+    "tid": "583ebd4b-41c7-11f1-a606-a5ef97f427bf",
+    "timestamp": "2026-04-26T23:26:26Z",
+    "description": "Japanese general (1849–1912)",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Nogi_Maresuke",
+        "revisions": "https://en.wikipedia.org/wiki/Nogi_Maresuke?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Nogi_Maresuke?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Nogi_Maresuke"
+      },
+      "mobile": {
+        "page": "https://en.wikipedia.org/wiki/Nogi_Maresuke",
+        "revisions": "https://en.wikipedia.org/wiki/Special:History/Nogi_Maresuke",
+        "edit": "https://en.wikipedia.org/wiki/Nogi_Maresuke?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Nogi_Maresuke"
+      }
+    },
+    "extract": "Count Nogi Maresuke , also known as Kiten, Count Nogi, was a Japanese general in the Imperial Japanese Army and a governor-general of Taiwan. He was one of the commanders during the 1894 capture of Port Arthur from China and a prominent figure in the Russo-Japanese War of 1904–05, as commander of the forces which captured Port Arthur from the Russians.",
+    "extract_html": "<p>Count <b>Nogi Maresuke</b><span style=\"font-weight:normal\"> </span>, also known as <b>Kiten, Count Nogi</b>, was a Japanese general in the Imperial Japanese Army and a governor-general of Taiwan. He was one of the commanders during the 1894 capture of Port Arthur from China and a prominent figure in the Russo-Japanese War of 1904–05, as commander of the forces which captured Port Arthur from the Russians.</p>"
+  }
+}

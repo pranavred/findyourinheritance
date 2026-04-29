@@ -1,0 +1,63 @@
+{
+  "slug": "Dorothy_Anstett__Miss_USA__1968-bluish_tint_fix_attempt",
+  "name": "Dorothy Anstett",
+  "description": "American pageant titleholder",
+  "summary": "Dorothy Catherine Anstett is an American pageant titleholder who held the Miss USA 1968 title.",
+  "image_local": "images/Dorothy_Anstett__Miss_USA__1968-bluish_tint_fix_attempt.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Dorothy_Anstett%2C_Miss_USA%2C_1968-bluish_tint_fix_attempt.jpg/800px-Dorothy_Anstett%2C_Miss_USA%2C_1968-bluish_tint_fix_attempt.jpg",
+  "portrait_date": "1968",
+  "original_caption": "Dorothy Anstett, Miss USA",
+  "extracted_name": "Dorothy Anstett",
+  "wikipedia_title": "Dorothy Anstett",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Dorothy_Anstett",
+  "commons_file_page": "https://commons.wikimedia.org/wiki/File:Dorothy_Anstett,_Miss_USA,_1968-bluish_tint_fix_attempt.jpg",
+  "wikipedia_summary": {
+    "type": "standard",
+    "title": "Dorothy Anstett",
+    "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Dorothy Anstett</span></span>",
+    "namespace": {
+      "id": 0,
+      "text": ""
+    },
+    "wikibase_item": "Q3714373",
+    "titles": {
+      "canonical": "Dorothy_Anstett",
+      "normalized": "Dorothy Anstett",
+      "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Dorothy Anstett</span></span>"
+    },
+    "pageid": 9006894,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Dorothy_Anstett%2C_Miss_USA%2C_1968-bluish_tint_fix_attempt.jpg/330px-Dorothy_Anstett%2C_Miss_USA%2C_1968-bluish_tint_fix_attempt.jpg",
+      "width": 330,
+      "height": 496
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/9/98/Dorothy_Anstett%2C_Miss_USA%2C_1968-bluish_tint_fix_attempt.jpg",
+      "width": 3170,
+      "height": 4768
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1338711154",
+    "tid": "aa81b526-0b72-11f1-a102-b16495977fe5",
+    "timestamp": "2026-02-16T20:04:14Z",
+    "description": "American pageant titleholder",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Dorothy_Anstett",
+        "revisions": "https://en.wikipedia.org/wiki/Dorothy_Anstett?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Dorothy_Anstett?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Dorothy_Anstett"
+      },
+      "mobile": {
+        "page": "https://en.wikipedia.org/wiki/Dorothy_Anstett",
+        "revisions": "https://en.wikipedia.org/wiki/Special:History/Dorothy_Anstett",
+        "edit": "https://en.wikipedia.org/wiki/Dorothy_Anstett?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Dorothy_Anstett"
+      }
+    },
+    "extract": "Dorothy Catherine Anstett is an American pageant titleholder who held the Miss USA 1968 title.",
+    "extract_html": "<p><b>Dorothy Catherine Anstett</b> is an American pageant titleholder who held the Miss USA 1968 title.</p>"
+  }
+}

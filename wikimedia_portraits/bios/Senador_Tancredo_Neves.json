@@ -1,0 +1,63 @@
+{
+  "slug": "Senador_Tancredo_Neves",
+  "name": "Tancredo Neves",
+  "description": "Prime minister of Brazil from 1961 to 1962",
+  "summary": "Tancredo de Almeida Neves was a Brazilian politician, lawyer, and entrepreneur. He served as Minister of Justice and Internal Affairs from 1953 to 1954, President of the Council of Ministers from 1961 to 1962, Minister of Finance in 1962, and as Governor of Minas Gerais from 1983 to 1984. He was elected President of the Republic in 1985, but he died before had the chance to take office, and was replaced by vice-president elect, José Sarney as president.",
+  "image_local": "images/Senador_Tancredo_Neves.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Senador_Tancredo_Neves.jpg/800px-Senador_Tancredo_Neves.jpg",
+  "portrait_date": "c. 1979-1983",
+  "original_caption": "Tancredo Neves, senator",
+  "extracted_name": "Tancredo Neves",
+  "wikipedia_title": "Tancredo Neves",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Tancredo_Neves",
+  "commons_file_page": "https://commons.wikimedia.org/wiki/File:Senador_Tancredo_Neves.jpg",
+  "wikipedia_summary": {
+    "type": "standard",
+    "title": "Tancredo Neves",
+    "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Tancredo Neves</span></span>",
+    "namespace": {
+      "id": 0,
+      "text": ""
+    },
+    "wikibase_item": "Q273264",
+    "titles": {
+      "canonical": "Tancredo_Neves",
+      "normalized": "Tancredo Neves",
+      "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Tancredo Neves</span></span>"
+    },
+    "pageid": 764037,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Tancredo_de_Almeida_Neves%2C_primeiro_ministro.tiff/lossy-page1-330px-Tancredo_de_Almeida_Neves%2C_primeiro_ministro.tiff.jpg",
+      "width": 330,
+      "height": 467
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Tancredo_de_Almeida_Neves%2C_primeiro_ministro.tiff/lossy-page1-960px-Tancredo_de_Almeida_Neves%2C_primeiro_ministro.tiff.jpg",
+      "width": 968,
+      "height": 1370
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1351385757",
+    "tid": "72c077af-4257-11f1-a140-6a60a1b3f0e2",
+    "timestamp": "2026-04-27T16:37:58Z",
+    "description": "Prime minister of Brazil from 1961 to 1962",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Tancredo_Neves",
+        "revisions": "https://en.wikipedia.org/wiki/Tancredo_Neves?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Tancredo_Neves?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Tancredo_Neves"
+      },
+      "mobile": {
+        "page": "https://en.wikipedia.org/wiki/Tancredo_Neves",
+        "revisions": "https://en.wikipedia.org/wiki/Special:History/Tancredo_Neves",
+        "edit": "https://en.wikipedia.org/wiki/Tancredo_Neves?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Tancredo_Neves"
+      }
+    },
+    "extract": "Tancredo de Almeida Neves was a Brazilian politician, lawyer, and entrepreneur. He served as Minister of Justice and Internal Affairs from 1953 to 1954, President of the Council of Ministers from 1961 to 1962, Minister of Finance in 1962, and as Governor of Minas Gerais from 1983 to 1984. He was elected President of the Republic in 1985, but he died before had the chance to take office, and was replaced by vice-president elect, José Sarney as president.",
+    "extract_html": "<p><b>Tancredo de Almeida Neves</b> was a Brazilian politician, lawyer, and entrepreneur. He served as Minister of Justice and Internal Affairs from 1953 to 1954, President of the Council of Ministers from 1961 to 1962, Minister of Finance in 1962, and as Governor of Minas Gerais from 1983 to 1984. He was elected President of the Republic in 1985, but he died before had the chance to take office, and was replaced by vice-president elect, José Sarney as president.</p>"
+  }
+}

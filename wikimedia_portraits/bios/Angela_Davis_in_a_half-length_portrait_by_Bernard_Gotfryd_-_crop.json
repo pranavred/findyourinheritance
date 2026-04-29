@@ -1,0 +1,63 @@
+{
+  "slug": "Angela_Davis_in_a_half-length_portrait_by_Bernard_Gotfryd_-_crop",
+  "name": "Angela Davis",
+  "description": "American academic and political activist (born 1944)",
+  "summary": "Angela Yvonne Davis is an American Marxist and Radical feminist political activist, philosopher, academic, author and social theorist. She is Distinguished Professor Emerita of Feminist Studies and History of Consciousness at the University of California, Santa Cruz. Davis was a longtime member of the Communist Party USA (CPUSA), running for Vice President in the 1980 and 1984 elections under that party. She is also a founding member of the Committees of Correspondence for Democracy and Socialism (CCDS). She has been active in movements such as the Occupy movement and the Boycott, Divestment and Sanctions campaign.",
+  "image_local": "images/Angela_Davis_in_a_half-length_portrait_by_Bernard_Gotfryd_-_crop.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Angela_Davis_in_a_half-length_portrait_by_Bernard_Gotfryd_-_crop.jpg/800px-Angela_Davis_in_a_half-length_portrait_by_Bernard_Gotfryd_-_crop.jpg",
+  "portrait_date": "1974",
+  "original_caption": "Angela Davis",
+  "extracted_name": "Angela Davis",
+  "wikipedia_title": "Angela Davis",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Angela_Davis",
+  "commons_file_page": "https://commons.wikimedia.org/wiki/File:Angela_Davis_in_a_half-length_portrait_by_Bernard_Gotfryd_-_crop.jpg",
+  "wikipedia_summary": {
+    "type": "standard",
+    "title": "Angela Davis",
+    "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Angela Davis</span></span>",
+    "namespace": {
+      "id": 0,
+      "text": ""
+    },
+    "wikibase_item": "Q160456",
+    "titles": {
+      "canonical": "Angela_Davis",
+      "normalized": "Angela Davis",
+      "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Angela Davis</span></span>"
+    },
+    "pageid": 48522,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Angela_Davis%2C_1974.jpg/330px-Angela_Davis%2C_1974.jpg",
+      "width": 330,
+      "height": 452
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/4/41/Angela_Davis%2C_1974.jpg",
+      "width": 1010,
+      "height": 1384
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1350764670",
+    "tid": "5e32655d-3f5f-11f1-bb31-a30fa256ffce",
+    "timestamp": "2026-04-23T21:57:06Z",
+    "description": "American academic and political activist (born 1944)",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Angela_Davis",
+        "revisions": "https://en.wikipedia.org/wiki/Angela_Davis?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Angela_Davis?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Angela_Davis"
+      },
+      "mobile": {
+        "page": "https://en.wikipedia.org/wiki/Angela_Davis",
+        "revisions": "https://en.wikipedia.org/wiki/Special:History/Angela_Davis",
+        "edit": "https://en.wikipedia.org/wiki/Angela_Davis?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Angela_Davis"
+      }
+    },
+    "extract": "Angela Yvonne Davis is an American Marxist and Radical feminist political activist, philosopher, academic, author and social theorist. She is Distinguished Professor Emerita of Feminist Studies and History of Consciousness at the University of California, Santa Cruz. Davis was a longtime member of the Communist Party USA (CPUSA), running for Vice President in the 1980 and 1984 elections under that party. She is also a founding member of the Committees of Correspondence for Democracy and Socialism (CCDS). She has been active in movements such as the Occupy movement and the Boycott, Divestment and Sanctions campaign.",
+    "extract_html": "<p><b>Angela Yvonne Davis</b> is an American Marxist and Radical feminist political activist, philosopher, academic, author and social theorist. She is Distinguished Professor Emerita of Feminist Studies and History of Consciousness at the University of California, Santa Cruz. Davis was a longtime member of the Communist Party USA (CPUSA), running for Vice President in the 1980 and 1984 elections under that party. She is also a founding member of the Committees of Correspondence for Democracy and Socialism (CCDS). She has been active in movements such as the Occupy movement and the Boycott, Divestment and Sanctions campaign.</p>"
+  }
+}

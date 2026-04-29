@@ -1,0 +1,63 @@
+{
+  "slug": "Charles_Follen_McKim_by_Frances_Benjamin_Johnston",
+  "name": "Charles Follen McKim",
+  "description": "American architect (1847–1909)",
+  "summary": "Charles Follen McKim was an American Beaux-Arts architect of the late 19th century. Along with William Rutherford Mead and Stanford White, he provided the architectural expertise as a member of the partnership McKim, Mead & White.",
+  "image_local": "images/Charles_Follen_McKim_by_Frances_Benjamin_Johnston.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Charles_Follen_McKim_by_Frances_Benjamin_Johnston.jpg/800px-Charles_Follen_McKim_by_Frances_Benjamin_Johnston.jpg",
+  "portrait_date": "1880-1909",
+  "original_caption": "Charles Follen McKim",
+  "extracted_name": "Charles Follen McKim",
+  "wikipedia_title": "Charles Follen McKim",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Charles_Follen_McKim",
+  "commons_file_page": "https://commons.wikimedia.org/wiki/File:Charles_Follen_McKim_by_Frances_Benjamin_Johnston.jpg",
+  "wikipedia_summary": {
+    "type": "standard",
+    "title": "Charles Follen McKim",
+    "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Charles Follen McKim</span></span>",
+    "namespace": {
+      "id": 0,
+      "text": ""
+    },
+    "wikibase_item": "Q657848",
+    "titles": {
+      "canonical": "Charles_Follen_McKim",
+      "normalized": "Charles Follen McKim",
+      "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Charles Follen McKim</span></span>"
+    },
+    "pageid": 380497,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Charles_Follen_McKim_by_Frances_Benjamin_Johnston.jpg/330px-Charles_Follen_McKim_by_Frances_Benjamin_Johnston.jpg",
+      "width": 330,
+      "height": 471
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Charles_Follen_McKim_by_Frances_Benjamin_Johnston.jpg/3840px-Charles_Follen_McKim_by_Frances_Benjamin_Johnston.jpg",
+      "width": 4604,
+      "height": 6576
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1331640116",
+    "tid": "d9daf4e1-ebb8-11f0-8aa8-382f911a47a3",
+    "timestamp": "2026-01-07T11:06:01Z",
+    "description": "American architect (1847–1909)",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Charles_Follen_McKim",
+        "revisions": "https://en.wikipedia.org/wiki/Charles_Follen_McKim?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Charles_Follen_McKim?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Charles_Follen_McKim"
+      },
+      "mobile": {
+        "page": "https://en.wikipedia.org/wiki/Charles_Follen_McKim",
+        "revisions": "https://en.wikipedia.org/wiki/Special:History/Charles_Follen_McKim",
+        "edit": "https://en.wikipedia.org/wiki/Charles_Follen_McKim?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Charles_Follen_McKim"
+      }
+    },
+    "extract": "Charles Follen McKim was an American Beaux-Arts architect of the late 19th century. Along with William Rutherford Mead and Stanford White, he provided the architectural expertise as a member of the partnership McKim, Mead & White.",
+    "extract_html": "<p><b>Charles Follen McKim</b> was an American Beaux-Arts architect of the late 19th century. Along with William Rutherford Mead and Stanford White, he provided the architectural expertise as a member of the partnership McKim, Mead &amp; White.</p>"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "slug": "David_Dixon_Porter_-_Mathew_Brady_s_National_Photograph_8b7286c3",
+  "name": "David Dixon Porter",
+  "description": "United States Navy admiral (1813–1891)",
+  "summary": "David Dixon Porter was a United States Navy admiral and a member of one of the most distinguished families in the history of the U.S. Navy. Promoted as the second U.S. Navy officer ever to attain the rank of admiral, after his adoptive brother David G. Farragut, Porter helped improve the Navy as the Superintendent of the U.S. Naval Academy after significant service in the American Civil War.",
+  "image_local": "images/David_Dixon_Porter_-_Mathew_Brady_s_National_Photograph_8b7286c3.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/David_Dixon_Porter_-_Mathew_Brady%27s_National_Photographic_Art_Gallery.jpg/800px-David_Dixon_Porter_-_Mathew_Brady%27s_National_Photographic_Art_Gallery.jpg",
+  "portrait_date": "1860 - 1865",
+  "original_caption": "David Dixon Porter",
+  "extracted_name": "David Dixon Porter",
+  "wikipedia_title": "David Dixon Porter",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/David_Dixon_Porter",
+  "commons_file_page": "https://commons.wikimedia.org/wiki/File:David_Dixon_Porter_-_Mathew_Brady%27s_National_Photographic_Art_Gallery.jpg",
+  "wikipedia_summary": {
+    "type": "standard",
+    "title": "David Dixon Porter",
+    "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">David Dixon Porter</span></span>",
+    "namespace": {
+      "id": 0,
+      "text": ""
+    },
+    "wikibase_item": "Q387130",
+    "titles": {
+      "canonical": "David_Dixon_Porter",
+      "normalized": "David Dixon Porter",
+      "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">David Dixon Porter</span></span>"
+    },
+    "pageid": 3854436,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/David_Dixon_Porter_-_Mathew_Brady%27s_National_Photographic_Art_Gallery_%28Cropped%29.jpg/330px-David_Dixon_Porter_-_Mathew_Brady%27s_National_Photographic_Art_Gallery_%28Cropped%29.jpg",
+      "width": 330,
+      "height": 422
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/2/29/David_Dixon_Porter_-_Mathew_Brady%27s_National_Photographic_Art_Gallery_%28Cropped%29.jpg",
+      "width": 1304,
+      "height": 1668
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1339373666",
+    "tid": "82b3795a-0e18-11f1-82f6-4711b2eccb1d",
+    "timestamp": "2026-02-20T04:56:26Z",
+    "description": "United States Navy admiral (1813–1891)",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/David_Dixon_Porter",
+        "revisions": "https://en.wikipedia.org/wiki/David_Dixon_Porter?action=history",
+        "edit": "https://en.wikipedia.org/wiki/David_Dixon_Porter?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:David_Dixon_Porter"
+      },
+      "mobile": {
+        "page": "https://en.wikipedia.org/wiki/David_Dixon_Porter",
+        "revisions": "https://en.wikipedia.org/wiki/Special:History/David_Dixon_Porter",
+        "edit": "https://en.wikipedia.org/wiki/David_Dixon_Porter?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:David_Dixon_Porter"
+      }
+    },
+    "extract": "David Dixon Porter was a United States Navy admiral and a member of one of the most distinguished families in the history of the U.S. Navy. Promoted as the second U.S. Navy officer ever to attain the rank of admiral, after his adoptive brother David G. Farragut, Porter helped improve the Navy as the Superintendent of the U.S. Naval Academy after significant service in the American Civil War.",
+    "extract_html": "<p><b>David Dixon Porter</b> was a United States Navy admiral and a member of one of the most distinguished families in the history of the U.S. Navy. Promoted as the second U.S. Navy officer ever to attain the rank of admiral, after his adoptive brother David G. Farragut, Porter helped improve the Navy as the Superintendent of the U.S. Naval Academy after significant service in the American Civil War.</p>"
+  }
+}

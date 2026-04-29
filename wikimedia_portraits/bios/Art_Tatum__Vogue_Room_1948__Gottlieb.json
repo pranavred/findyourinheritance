@@ -1,0 +1,63 @@
+{
+  "slug": "Art_Tatum__Vogue_Room_1948__Gottlieb",
+  "name": "Art Tatum",
+  "description": "American jazz pianist (1909–1956)",
+  "summary": "Arthur Tatum Jr. was an American jazz pianist who is widely regarded as one of the greatest ever. From early in his career, fellow musicians acclaimed Tatum's technical ability as extraordinary. Tatum also extended jazz piano's vocabulary and boundaries far beyond his initial stride influences, and established new ground through innovative use of reharmonization, voicing, and bitonality.",
+  "image_local": "images/Art_Tatum__Vogue_Room_1948__Gottlieb.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Art_Tatum%2C_Vogue_Room_1948_%28Gottlieb%29.jpg/800px-Art_Tatum%2C_Vogue_Room_1948_%28Gottlieb%29.jpg",
+  "portrait_date": "1948",
+  "original_caption": "Art Tatum, Vogue Room 1948 (Gottlieb)",
+  "extracted_name": "Art Tatum",
+  "wikipedia_title": "Art Tatum",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Art_Tatum",
+  "commons_file_page": "https://commons.wikimedia.org/wiki/File:Art_Tatum,_Vogue_Room_1948_(Gottlieb).jpg",
+  "wikipedia_summary": {
+    "type": "standard",
+    "title": "Art Tatum",
+    "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Art Tatum</span></span>",
+    "namespace": {
+      "id": 0,
+      "text": ""
+    },
+    "wikibase_item": "Q109053",
+    "titles": {
+      "canonical": "Art_Tatum",
+      "normalized": "Art Tatum",
+      "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Art Tatum</span></span>"
+    },
+    "pageid": 152557,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Art_Tatum%2C_Vogue_Room_1948_%28Gottlieb%29.jpg/330px-Art_Tatum%2C_Vogue_Room_1948_%28Gottlieb%29.jpg",
+      "width": 330,
+      "height": 443
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Art_Tatum%2C_Vogue_Room_1948_%28Gottlieb%29.jpg",
+      "width": 3654,
+      "height": 4900
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1349223546",
+    "tid": "dd79d4ed-3972-11f1-9238-740212903a22",
+    "timestamp": "2026-04-16T09:01:33Z",
+    "description": "American jazz pianist (1909–1956)",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Art_Tatum",
+        "revisions": "https://en.wikipedia.org/wiki/Art_Tatum?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Art_Tatum?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Art_Tatum"
+      },
+      "mobile": {
+        "page": "https://en.wikipedia.org/wiki/Art_Tatum",
+        "revisions": "https://en.wikipedia.org/wiki/Special:History/Art_Tatum",
+        "edit": "https://en.wikipedia.org/wiki/Art_Tatum?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Art_Tatum"
+      }
+    },
+    "extract": "Arthur Tatum Jr. was an American jazz pianist who is widely regarded as one of the greatest ever. From early in his career, fellow musicians acclaimed Tatum's technical ability as extraordinary. Tatum also extended jazz piano's vocabulary and boundaries far beyond his initial stride influences, and established new ground through innovative use of reharmonization, voicing, and bitonality.",
+    "extract_html": "<p><b>Arthur Tatum Jr.</b> was an American jazz pianist who is widely regarded as one of the greatest ever. From early in his career, fellow musicians acclaimed Tatum's technical ability as extraordinary. Tatum also extended jazz piano's vocabulary and boundaries far beyond his initial stride influences, and established new ground through innovative use of reharmonization, voicing, and bitonality.</p>"
+  }
+}

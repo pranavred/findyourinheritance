@@ -1,0 +1,63 @@
+{
+  "slug": "Portrait_of_Henri_Frenay__head_and_shoulders_ppmsca.13371_edit",
+  "name": "Henri Frenay",
+  "description": "Member of French Resistance",
+  "summary": "Henri Frenay Sandoval was a French military officer and French Resistance member, who served as minister of prisoners, refugees and deportees in Charles de Gaulle's Provisional Government of the French Republic.",
+  "image_local": "images/Portrait_of_Henri_Frenay__head_and_shoulders_ppmsca.13371_edit.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Portrait_of_Henri_Frenay%2C_head_and_shoulders_ppmsca.13371_edit.jpg/800px-Portrait_of_Henri_Frenay%2C_head_and_shoulders_ppmsca.13371_edit.jpg",
+  "portrait_date": "1941-1947",
+  "original_caption": "Portrait of Henri Frenay, head and shoulders ppmsca.13371 edit",
+  "extracted_name": "Henri Frenay",
+  "wikipedia_title": "Henri Frenay",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Henri_Frenay",
+  "commons_file_page": "https://commons.wikimedia.org/wiki/File:Portrait_of_Henri_Frenay,_head_and_shoulders_ppmsca.13371_edit.jpg",
+  "wikipedia_summary": {
+    "type": "standard",
+    "title": "Henri Frenay",
+    "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Henri Frenay</span></span>",
+    "namespace": {
+      "id": 0,
+      "text": ""
+    },
+    "wikibase_item": "Q463367",
+    "titles": {
+      "canonical": "Henri_Frenay",
+      "normalized": "Henri Frenay",
+      "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Henri Frenay</span></span>"
+    },
+    "pageid": 298589,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Portrait_of_Henri_Frenay%2C_head_and_shoulders_ppmsca.13371_edit.jpg/330px-Portrait_of_Henri_Frenay%2C_head_and_shoulders_ppmsca.13371_edit.jpg",
+      "width": 330,
+      "height": 540
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Portrait_of_Henri_Frenay%2C_head_and_shoulders_ppmsca.13371_edit.jpg",
+      "width": 2392,
+      "height": 3915
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1301385990",
+    "tid": "038a4e3d-64ad-11f0-8938-4d53e7a03514",
+    "timestamp": "2025-07-19T14:31:10Z",
+    "description": "Member of French Resistance",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Henri_Frenay",
+        "revisions": "https://en.wikipedia.org/wiki/Henri_Frenay?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Henri_Frenay?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Henri_Frenay"
+      },
+      "mobile": {
+        "page": "https://en.wikipedia.org/wiki/Henri_Frenay",
+        "revisions": "https://en.wikipedia.org/wiki/Special:History/Henri_Frenay",
+        "edit": "https://en.wikipedia.org/wiki/Henri_Frenay?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Henri_Frenay"
+      }
+    },
+    "extract": "Henri Frenay Sandoval was a French military officer and French Resistance member, who served as minister of prisoners, refugees and deportees in Charles de Gaulle's Provisional Government of the French Republic.",
+    "extract_html": "<p><b>Henri Frenay Sandoval</b> was a French military officer and French Resistance member, who served as minister of prisoners, refugees and deportees in Charles de Gaulle's Provisional Government of the French Republic.</p>"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "slug": "Bertha_Lutz_1925",
+  "name": "Bertha Lutz",
+  "description": "Brazilian scientist and politician (1894–1976)",
+  "summary": "Bertha Maria Júlia Lutz was a Brazilian zoologist, politician, and diplomat. Lutz became a leading figure in both the Pan American feminist movement and human rights movement. She was instrumental in gaining women's suffrage in Brazil and represented her country at the United Nations Conference on International Organization, signing her name to the United Nations Charter and championing the inclusion of Article 8 in the Charter. In addition to her political work, she was a naturalist at the National Museum of Brazil, specializing in poison dart frogs. She has four frog species and two lizard species named after her.",
+  "image_local": "images/Bertha_Lutz_1925.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Bertha_Lutz_1925.jpg/800px-Bertha_Lutz_1925.jpg",
+  "portrait_date": "1925",
+  "original_caption": "Bertha Lutz",
+  "extracted_name": "Bertha Lutz",
+  "wikipedia_title": "Bertha Lutz",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Bertha_Lutz",
+  "commons_file_page": "https://commons.wikimedia.org/wiki/File:Bertha_Lutz_1925.jpg",
+  "wikipedia_summary": {
+    "type": "standard",
+    "title": "Bertha Lutz",
+    "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Bertha Lutz</span></span>",
+    "namespace": {
+      "id": 0,
+      "text": ""
+    },
+    "wikibase_item": "Q1264246",
+    "titles": {
+      "canonical": "Bertha_Lutz",
+      "normalized": "Bertha Lutz",
+      "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Bertha Lutz</span></span>"
+    },
+    "pageid": 516759,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Bertha_Lutz_1925.jpg/330px-Bertha_Lutz_1925.jpg",
+      "width": 330,
+      "height": 406
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/2/28/Bertha_Lutz_1925.jpg",
+      "width": 3752,
+      "height": 4621
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1346784596",
+    "tid": "50e605da-2ee0-11f1-a0f0-76a43a5b1aaa",
+    "timestamp": "2026-04-02T22:07:19Z",
+    "description": "Brazilian scientist and politician (1894–1976)",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Bertha_Lutz",
+        "revisions": "https://en.wikipedia.org/wiki/Bertha_Lutz?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Bertha_Lutz?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Bertha_Lutz"
+      },
+      "mobile": {
+        "page": "https://en.wikipedia.org/wiki/Bertha_Lutz",
+        "revisions": "https://en.wikipedia.org/wiki/Special:History/Bertha_Lutz",
+        "edit": "https://en.wikipedia.org/wiki/Bertha_Lutz?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Bertha_Lutz"
+      }
+    },
+    "extract": "Bertha Maria Júlia Lutz was a Brazilian zoologist, politician, and diplomat. Lutz became a leading figure in both the Pan American feminist movement and human rights movement. She was instrumental in gaining women's suffrage in Brazil and represented her country at the United Nations Conference on International Organization, signing her name to the United Nations Charter and championing the inclusion of Article 8 in the Charter. In addition to her political work, she was a naturalist at the National Museum of Brazil, specializing in poison dart frogs. She has four frog species and two lizard species named after her.",
+    "extract_html": "<p><b>Bertha Maria Júlia Lutz</b> was a Brazilian zoologist, politician, and diplomat. Lutz became a leading figure in both the Pan American feminist movement and human rights movement. She was instrumental in gaining women's suffrage in Brazil and represented her country at the United Nations Conference on International Organization, signing her name to the United Nations Charter and championing the inclusion of Article 8 in the Charter. In addition to her political work, she was a naturalist at the National Museum of Brazil, specializing in poison dart frogs. She has four frog species and two lizard species named after her.</p>"
+  }
+}

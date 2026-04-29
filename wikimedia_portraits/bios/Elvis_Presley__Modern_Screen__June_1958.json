@@ -1,0 +1,63 @@
+{
+  "slug": "Elvis_Presley__Modern_Screen__June_1958",
+  "name": "Elvis Presley",
+  "description": "American singer and actor (1935–1977)",
+  "summary": "Elvis Aaron Presley was an American singer and actor. Referred to as the \"King of Rock and Roll\", he is widely regarded as one of the most culturally significant figures of the 20th century. Presley's energetic and sexually provocative performance style, combined with a mix of influences across color lines during a transformative era in race relations, brought both great success and initial controversy.",
+  "image_local": "images/Elvis_Presley__Modern_Screen__June_1958.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Elvis_Presley%2C_Modern_Screen%2C_June_1958.jpg/800px-Elvis_Presley%2C_Modern_Screen%2C_June_1958.jpg",
+  "portrait_date": "1958",
+  "original_caption": "Elvis Presley, Modern Screen, June 1958",
+  "extracted_name": "Elvis Presley",
+  "wikipedia_title": "Elvis Presley",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Elvis_Presley",
+  "commons_file_page": "https://commons.wikimedia.org/wiki/File:Elvis_Presley,_Modern_Screen,_June_1958.jpg",
+  "wikipedia_summary": {
+    "type": "standard",
+    "title": "Elvis Presley",
+    "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Elvis Presley</span></span>",
+    "namespace": {
+      "id": 0,
+      "text": ""
+    },
+    "wikibase_item": "Q303",
+    "titles": {
+      "canonical": "Elvis_Presley",
+      "normalized": "Elvis Presley",
+      "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Elvis Presley</span></span>"
+    },
+    "pageid": 9288,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Elvis_Presley_promoting_Jailhouse_Rock.jpg/330px-Elvis_Presley_promoting_Jailhouse_Rock.jpg",
+      "width": 330,
+      "height": 426
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/9/99/Elvis_Presley_promoting_Jailhouse_Rock.jpg",
+      "width": 2673,
+      "height": 3448
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1351481819",
+    "tid": "f1a2ca23-42ca-11f1-83b9-c59a56899f76",
+    "timestamp": "2026-04-28T06:24:43Z",
+    "description": "American singer and actor (1935–1977)",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Elvis_Presley",
+        "revisions": "https://en.wikipedia.org/wiki/Elvis_Presley?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Elvis_Presley?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Elvis_Presley"
+      },
+      "mobile": {
+        "page": "https://en.wikipedia.org/wiki/Elvis_Presley",
+        "revisions": "https://en.wikipedia.org/wiki/Special:History/Elvis_Presley",
+        "edit": "https://en.wikipedia.org/wiki/Elvis_Presley?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Elvis_Presley"
+      }
+    },
+    "extract": "Elvis Aaron Presley was an American singer and actor. Referred to as the \"King of Rock and Roll\", he is widely regarded as one of the most culturally significant figures of the 20th century. Presley's energetic and sexually provocative performance style, combined with a mix of influences across color lines during a transformative era in race relations, brought both great success and initial controversy.",
+    "extract_html": "<p><b>Elvis Aaron Presley</b> was an American singer and actor. Referred to as the \"<b>King of Rock and Roll</b>\", he is widely regarded as one of the most culturally significant figures of the 20th century. Presley's energetic and sexually provocative performance style, combined with a mix of influences across color lines during a transformative era in race relations, brought both great success and initial controversy.</p>"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "slug": "Hattie_Caraway_by_Harris___Ewing__1914",
+  "name": "Hattie Caraway",
+  "description": "American politician (1878–1950)",
+  "summary": "Hattie Ophelia Wyatt Caraway was an American politician who was United States Senator from Arkansas from 1931 to 1945. She was the first woman elected to the Senate, the first woman to serve a full term as a United States senator, and the first woman to be reelected to the Senate. She was also the first woman to preside over the Senate. She won reelection to a full term in 1932 with the active support of fellow Senator Huey Long, of neighboring Louisiana.",
+  "image_local": "images/Hattie_Caraway_by_Harris___Ewing__1914.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Hattie_Caraway_by_Harris_%26_Ewing%2C_1914.jpg/800px-Hattie_Caraway_by_Harris_%26_Ewing%2C_1914.jpg",
+  "portrait_date": "1914",
+  "original_caption": "Hattie Caraway by Harris & Ewing, 1914",
+  "extracted_name": "Hattie Caraway",
+  "wikipedia_title": "Hattie Caraway",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Hattie_Caraway",
+  "commons_file_page": "https://commons.wikimedia.org/wiki/File:Hattie_Caraway_by_Harris_%26_Ewing,_1914.jpg",
+  "wikipedia_summary": {
+    "type": "standard",
+    "title": "Hattie Caraway",
+    "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Hattie Caraway</span></span>",
+    "namespace": {
+      "id": 0,
+      "text": ""
+    },
+    "wikibase_item": "Q1027455",
+    "titles": {
+      "canonical": "Hattie_Caraway",
+      "normalized": "Hattie Caraway",
+      "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Hattie Caraway</span></span>"
+    },
+    "pageid": 297537,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Arkansas_senator._Washington%2C_D.C.%2C_March_11._Senator_Hattie_W._Caraway%2C_Democrat_of_Arkansas%2C_from_a_new_informal_picture_made_in_her_office_at_the_Capitol_today%2C_3-11-40_LCCN2016877256_%28cropped%29.jpg/330px-thumbnail.jpg",
+      "width": 330,
+      "height": 411
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Arkansas_senator._Washington%2C_D.C.%2C_March_11._Senator_Hattie_W._Caraway%2C_Democrat_of_Arkansas%2C_from_a_new_informal_picture_made_in_her_office_at_the_Capitol_today%2C_3-11-40_LCCN2016877256_%28cropped%29.jpg/3840px-thumbnail.jpg",
+      "width": 7563,
+      "height": 9419
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1344522595",
+    "tid": "b553a0a3-24b6-11f1-9812-74ead71dd657",
+    "timestamp": "2026-03-20T23:44:17Z",
+    "description": "American politician (1878–1950)",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Hattie_Caraway",
+        "revisions": "https://en.wikipedia.org/wiki/Hattie_Caraway?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Hattie_Caraway?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Hattie_Caraway"
+      },
+      "mobile": {
+        "page": "https://en.wikipedia.org/wiki/Hattie_Caraway",
+        "revisions": "https://en.wikipedia.org/wiki/Special:History/Hattie_Caraway",
+        "edit": "https://en.wikipedia.org/wiki/Hattie_Caraway?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Hattie_Caraway"
+      }
+    },
+    "extract": "Hattie Ophelia Wyatt Caraway was an American politician who was United States Senator from Arkansas from 1931 to 1945. She was the first woman elected to the Senate, the first woman to serve a full term as a United States senator, and the first woman to be reelected to the Senate. She was also the first woman to preside over the Senate. She won reelection to a full term in 1932 with the active support of fellow Senator Huey Long, of neighboring Louisiana.",
+    "extract_html": "<p><b>Hattie Ophelia Wyatt Caraway</b> was an American politician who was United States Senator from Arkansas from 1931 to 1945. She was the first woman elected to the Senate, the first woman to serve a full term as a United States senator, and the first woman to be reelected to the Senate. She was also the first woman to preside over the Senate. She won reelection to a full term in 1932 with the active support of fellow Senator Huey Long, of neighboring Louisiana.</p>"
+  }
+}

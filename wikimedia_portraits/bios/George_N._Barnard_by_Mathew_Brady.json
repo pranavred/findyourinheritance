@@ -1,0 +1,63 @@
+{
+  "slug": "George_N._Barnard_by_Mathew_Brady",
+  "name": "George N. Barnard",
+  "description": "American photographer (1819–1902)",
+  "summary": "George Norman Barnard was an American photographer most well known for his photographs from the American Civil War era. He is often noted as G. N. Barnard.",
+  "image_local": "images/George_N._Barnard_by_Mathew_Brady.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/George_N._Barnard_by_Mathew_Brady.jpg/800px-George_N._Barnard_by_Mathew_Brady.jpg",
+  "portrait_date": "c. 1865",
+  "original_caption": "George N. Barnard by Mathew Brady",
+  "extracted_name": "George N. Barnard",
+  "wikipedia_title": "George N. Barnard",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/George_N._Barnard",
+  "commons_file_page": "https://commons.wikimedia.org/wiki/File:George_N._Barnard_by_Mathew_Brady.jpg",
+  "wikipedia_summary": {
+    "type": "standard",
+    "title": "George N. Barnard",
+    "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">George N. Barnard</span></span>",
+    "namespace": {
+      "id": 0,
+      "text": ""
+    },
+    "wikibase_item": "Q127916",
+    "titles": {
+      "canonical": "George_N._Barnard",
+      "normalized": "George N. Barnard",
+      "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">George N. Barnard</span></span>"
+    },
+    "pageid": 58873576,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/George_N._Barnard_by_Mathew_Brady.jpg/330px-George_N._Barnard_by_Mathew_Brady.jpg",
+      "width": 330,
+      "height": 495
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/b/bc/George_N._Barnard_by_Mathew_Brady.jpg",
+      "width": 2723,
+      "height": 4086
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1264853763",
+    "tid": "919d8f03-c179-11ef-8ee4-1c7fd79a60ac",
+    "timestamp": "2024-12-23T22:02:15Z",
+    "description": "American photographer (1819–1902)",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/George_N._Barnard",
+        "revisions": "https://en.wikipedia.org/wiki/George_N._Barnard?action=history",
+        "edit": "https://en.wikipedia.org/wiki/George_N._Barnard?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:George_N._Barnard"
+      },
+      "mobile": {
+        "page": "https://en.wikipedia.org/wiki/George_N._Barnard",
+        "revisions": "https://en.wikipedia.org/wiki/Special:History/George_N._Barnard",
+        "edit": "https://en.wikipedia.org/wiki/George_N._Barnard?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:George_N._Barnard"
+      }
+    },
+    "extract": "George Norman Barnard was an American photographer most well known for his photographs from the American Civil War era. He is often noted as G. N. Barnard.",
+    "extract_html": "<p><b>George Norman Barnard</b> was an American photographer most well known for his photographs from the American Civil War era. He is often noted as <b>G. N. Barnard</b>.</p>"
+  }
+}

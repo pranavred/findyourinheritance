@@ -1,0 +1,63 @@
+{
+  "slug": "Self-portrait_of_Nadar",
+  "name": "Nadar",
+  "description": "French photographer and balloonist (1820–1910)",
+  "summary": "Gaspard-Félix Tournachon, known by the pseudonym Nadar or Félix Nadar, was a French photographer, caricaturist, journalist, novelist and balloonist who was a proponent of heavier-than-air flight. In 1858, he became the first person to take aerial photographs. Photographic portraits by Nadar are held by many of the great national collections of photographs. His son, Paul Nadar, continued the studio after his death.",
+  "image_local": "images/Self-portrait_of_Nadar.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Self-portrait_of_Nadar.jpg/800px-Self-portrait_of_Nadar.jpg",
+  "portrait_date": "",
+  "original_caption": "Self-portrait of Nadar",
+  "extracted_name": "Nadar",
+  "wikipedia_title": "Nadar",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Nadar",
+  "commons_file_page": "https://commons.wikimedia.org/wiki/File:Self-portrait_of_Nadar.jpg",
+  "wikipedia_summary": {
+    "type": "standard",
+    "title": "Nadar",
+    "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Nadar</span></span>",
+    "namespace": {
+      "id": 0,
+      "text": ""
+    },
+    "wikibase_item": "Q40116",
+    "titles": {
+      "canonical": "Nadar",
+      "normalized": "Nadar",
+      "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Nadar</span></span>"
+    },
+    "pageid": 86580,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Self-portrait_of_Nadar.jpg/330px-Self-portrait_of_Nadar.jpg",
+      "width": 330,
+      "height": 474
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Self-portrait_of_Nadar.jpg",
+      "width": 2404,
+      "height": 3451
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1351521422",
+    "tid": "83322d42-430b-11f1-a62f-d1bb4ecd1d0d",
+    "timestamp": "2026-04-28T14:06:55Z",
+    "description": "French photographer and balloonist (1820–1910)",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Nadar",
+        "revisions": "https://en.wikipedia.org/wiki/Nadar?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Nadar?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Nadar"
+      },
+      "mobile": {
+        "page": "https://en.wikipedia.org/wiki/Nadar",
+        "revisions": "https://en.wikipedia.org/wiki/Special:History/Nadar",
+        "edit": "https://en.wikipedia.org/wiki/Nadar?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Nadar"
+      }
+    },
+    "extract": "Gaspard-Félix Tournachon, known by the pseudonym Nadar or Félix Nadar, was a French photographer, caricaturist, journalist, novelist and balloonist who was a proponent of heavier-than-air flight. In 1858, he became the first person to take aerial photographs. Photographic portraits by Nadar are held by many of the great national collections of photographs. His son, Paul Nadar, continued the studio after his death.",
+    "extract_html": "<p><b>Gaspard-Félix Tournachon</b>, known by the pseudonym <b>Nadar</b> or <b>Félix Nadar<i>,</i></b> was a French photographer, caricaturist, journalist, novelist and balloonist who was a proponent of heavier-than-air flight. In 1858, he became the first person to take aerial photographs. Photographic portraits by Nadar are held by many of the great national collections of photographs. His son, Paul Nadar, continued the studio after his death.</p>"
+  }
+}

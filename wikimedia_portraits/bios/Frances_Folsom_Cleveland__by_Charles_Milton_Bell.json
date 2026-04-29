@@ -1,0 +1,63 @@
+{
+  "slug": "Frances_Folsom_Cleveland__by_Charles_Milton_Bell",
+  "name": "Frances Cleveland",
+  "description": "First Lady of the United States (1886–1889; 1893–1897)",
+  "summary": "Frances Clara Cleveland Preston was the first lady of the United States from 1886 to 1889 and again from 1893 until 1897, as the wife of President Grover Cleveland. She was the first to hold the position nonconsecutively. Having married Cleveland at age 21, she was the youngest first lady in American history.",
+  "image_local": "images/Frances_Folsom_Cleveland__by_Charles_Milton_Bell.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Frances_Folsom_Cleveland%2C_by_Charles_Milton_Bell.jpg/800px-Frances_Folsom_Cleveland%2C_by_Charles_Milton_Bell.jpg",
+  "portrait_date": "1886",
+  "original_caption": "Frances Folsom Cleveland, by Charles Milton Bell",
+  "extracted_name": "Frances Folsom Cleveland",
+  "wikipedia_title": "Frances Cleveland",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Frances_Cleveland",
+  "commons_file_page": "https://commons.wikimedia.org/wiki/File:Frances_Folsom_Cleveland,_by_Charles_Milton_Bell.jpg",
+  "wikipedia_summary": {
+    "type": "standard",
+    "title": "Frances Cleveland",
+    "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Frances Cleveland</span></span>",
+    "namespace": {
+      "id": 0,
+      "text": ""
+    },
+    "wikibase_item": "Q233644",
+    "titles": {
+      "canonical": "Frances_Cleveland",
+      "normalized": "Frances Cleveland",
+      "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Frances Cleveland</span></span>"
+    },
+    "pageid": 415642,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Frances_Folsom_Cleveland%2C_by_Charles_Milton_Bell.jpg/330px-Frances_Folsom_Cleveland%2C_by_Charles_Milton_Bell.jpg",
+      "width": 330,
+      "height": 437
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/2/23/Frances_Folsom_Cleveland%2C_by_Charles_Milton_Bell.jpg",
+      "width": 3140,
+      "height": 4155
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1348927453",
+    "tid": "9f8c8ec3-3860-11f1-88ca-e3102b0a6c54",
+    "timestamp": "2026-04-15T00:18:27Z",
+    "description": "First Lady of the United States (1886–1889; 1893–1897)",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Frances_Cleveland",
+        "revisions": "https://en.wikipedia.org/wiki/Frances_Cleveland?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Frances_Cleveland?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Frances_Cleveland"
+      },
+      "mobile": {
+        "page": "https://en.wikipedia.org/wiki/Frances_Cleveland",
+        "revisions": "https://en.wikipedia.org/wiki/Special:History/Frances_Cleveland",
+        "edit": "https://en.wikipedia.org/wiki/Frances_Cleveland?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Frances_Cleveland"
+      }
+    },
+    "extract": "Frances Clara Cleveland Preston was the first lady of the United States from 1886 to 1889 and again from 1893 until 1897, as the wife of President Grover Cleveland. She was the first to hold the position nonconsecutively. Having married Cleveland at age 21, she was the youngest first lady in American history.",
+    "extract_html": "<p><b>Frances Clara Cleveland Preston</b> was the first lady of the United States from 1886 to 1889 and again from 1893 until 1897, as the wife of President Grover Cleveland. She was the first to hold the position nonconsecutively. Having married Cleveland at age 21, she was the youngest first lady in American history.</p>"
+  }
+}

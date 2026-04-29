@@ -1,0 +1,63 @@
+{
+  "slug": "Louis_Armstrong2",
+  "name": "Louis Armstrong",
+  "description": "American jazz trumpeter and singer (1901–1971)",
+  "summary": "Louis Daniel Armstrong, nicknamed \"Satchmo\", \"Satch\", and \"Pops\", was an American jazz and blues trumpeter and vocalist. Among the most influential figures in jazz, his career spanned five decades and several eras in the history of the genre. Armstrong received numerous accolades including the Grammy Award for Best Male Vocal Performance for Hello, Dolly! in 1965, as well as a posthumous win for the Grammy Lifetime Achievement Award in 1972. His influence crossed musical genres, with inductions into the DownBeat Jazz Hall of Fame, the Rock and Roll Hall of Fame, and the National Rhythm & Blues Hall of Fame, among others.",
+  "image_local": "images/Louis_Armstrong2.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Louis_Armstrong2.jpg/800px-Louis_Armstrong2.jpg",
+  "portrait_date": "1953",
+  "original_caption": "Louis Armstrong",
+  "extracted_name": "Louis Armstrong",
+  "wikipedia_title": "Louis Armstrong",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Louis_Armstrong",
+  "commons_file_page": "https://commons.wikimedia.org/wiki/File:Louis_Armstrong2.jpg",
+  "wikipedia_summary": {
+    "type": "standard",
+    "title": "Louis Armstrong",
+    "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Louis Armstrong</span></span>",
+    "namespace": {
+      "id": 0,
+      "text": ""
+    },
+    "wikibase_item": "Q1779",
+    "titles": {
+      "canonical": "Louis_Armstrong",
+      "normalized": "Louis Armstrong",
+      "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Louis Armstrong</span></span>"
+    },
+    "pageid": 18313,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Louis_Armstrong_in_Color_%28restored%29.jpg/330px-Louis_Armstrong_in_Color_%28restored%29.jpg",
+      "width": 330,
+      "height": 244
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Louis_Armstrong_in_Color_%28restored%29.jpg/3840px-Louis_Armstrong_in_Color_%28restored%29.jpg",
+      "width": 6067,
+      "height": 4484
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1349931644",
+    "tid": "b6373834-3bfe-11f1-a163-208dcb667de2",
+    "timestamp": "2026-04-19T14:47:39Z",
+    "description": "American jazz trumpeter and singer (1901–1971)",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Louis_Armstrong",
+        "revisions": "https://en.wikipedia.org/wiki/Louis_Armstrong?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Louis_Armstrong?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Louis_Armstrong"
+      },
+      "mobile": {
+        "page": "https://en.wikipedia.org/wiki/Louis_Armstrong",
+        "revisions": "https://en.wikipedia.org/wiki/Special:History/Louis_Armstrong",
+        "edit": "https://en.wikipedia.org/wiki/Louis_Armstrong?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Louis_Armstrong"
+      }
+    },
+    "extract": "Louis Daniel Armstrong, nicknamed \"Satchmo\", \"Satch\", and \"Pops\", was an American jazz and blues trumpeter and vocalist. Among the most influential figures in jazz, his career spanned five decades and several eras in the history of the genre. Armstrong received numerous accolades including the Grammy Award for Best Male Vocal Performance for Hello, Dolly! in 1965, as well as a posthumous win for the Grammy Lifetime Achievement Award in 1972. His influence crossed musical genres, with inductions into the DownBeat Jazz Hall of Fame, the Rock and Roll Hall of Fame, and the National Rhythm & Blues Hall of Fame, among others.",
+    "extract_html": "<p><b>Louis Daniel Armstrong</b>, nicknamed \"<b>Satchmo</b>\", \"<b>Satch</b>\", and \"<b>Pops</b>\", was an American jazz and blues trumpeter and vocalist. Among the most influential figures in jazz, his career spanned five decades and several eras in the history of the genre. Armstrong received numerous accolades including the Grammy Award for Best Male Vocal Performance for <i>Hello, Dolly!</i> in 1965, as well as a posthumous win for the Grammy Lifetime Achievement Award in 1972. His influence crossed musical genres, with inductions into the <span><i>DownBeat</i> Jazz Hall of Fame</span>, the Rock and Roll Hall of Fame, and the National Rhythm &amp; Blues Hall of Fame, among others.</p>"
+  }
+}

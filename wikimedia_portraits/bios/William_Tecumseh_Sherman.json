@@ -1,0 +1,63 @@
+{
+  "slug": "William_Tecumseh_Sherman",
+  "name": "William Tecumseh Sherman",
+  "description": "United States Army general (1820–1891)",
+  "summary": "William Tecumseh Sherman was an American soldier, businessman, educator, and author. He served as a general in the Union Army during the American Civil War (1861–1865), earning recognition for his command of military strategy but criticism for the harshness of his scorched-earth policies, which he implemented in his military campaign against the Confederate States. British military theorist and historian B. H. Liddell Hart declared that Sherman was \"the most original genius of the American Civil War\" and \"the first modern general\".",
+  "image_local": "images/William_Tecumseh_Sherman.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/William_Tecumseh_Sherman.jpg/800px-William_Tecumseh_Sherman.jpg",
+  "portrait_date": "1865-1880",
+  "original_caption": "William Tecumseh Sherman",
+  "extracted_name": "William Tecumseh Sherman",
+  "wikipedia_title": "William Tecumseh Sherman",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/William_Tecumseh_Sherman",
+  "commons_file_page": "https://commons.wikimedia.org/wiki/File:William_Tecumseh_Sherman.jpg",
+  "wikipedia_summary": {
+    "type": "standard",
+    "title": "William Tecumseh Sherman",
+    "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">William Tecumseh Sherman</span></span>",
+    "namespace": {
+      "id": 0,
+      "text": ""
+    },
+    "wikibase_item": "Q188936",
+    "titles": {
+      "canonical": "William_Tecumseh_Sherman",
+      "normalized": "William Tecumseh Sherman",
+      "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">William Tecumseh Sherman</span></span>"
+    },
+    "pageid": 46720,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/General_William_T._Sherman_%284190887790%29_%28cropped%29.jpg/330px-General_William_T._Sherman_%284190887790%29_%28cropped%29.jpg",
+      "width": 330,
+      "height": 400
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/4/49/General_William_T._Sherman_%284190887790%29_%28cropped%29.jpg",
+      "width": 1746,
+      "height": 2118
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1350849322",
+    "tid": "3af4ce27-3fd2-11f1-8d07-04961b2d7255",
+    "timestamp": "2026-04-24T11:39:19Z",
+    "description": "United States Army general (1820–1891)",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/William_Tecumseh_Sherman",
+        "revisions": "https://en.wikipedia.org/wiki/William_Tecumseh_Sherman?action=history",
+        "edit": "https://en.wikipedia.org/wiki/William_Tecumseh_Sherman?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:William_Tecumseh_Sherman"
+      },
+      "mobile": {
+        "page": "https://en.wikipedia.org/wiki/William_Tecumseh_Sherman",
+        "revisions": "https://en.wikipedia.org/wiki/Special:History/William_Tecumseh_Sherman",
+        "edit": "https://en.wikipedia.org/wiki/William_Tecumseh_Sherman?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:William_Tecumseh_Sherman"
+      }
+    },
+    "extract": "William Tecumseh Sherman was an American soldier, businessman, educator, and author. He served as a general in the Union Army during the American Civil War (1861–1865), earning recognition for his command of military strategy but criticism for the harshness of his scorched-earth policies, which he implemented in his military campaign against the Confederate States. British military theorist and historian B. H. Liddell Hart declared that Sherman was \"the most original genius of the American Civil War\" and \"the first modern general\".",
+    "extract_html": "<p><b>William Tecumseh Sherman</b> was an American soldier, businessman, educator, and author. He served as a general in the Union Army during the American Civil War (1861–1865), earning recognition for his command of military strategy but criticism for the harshness of his scorched-earth policies, which he implemented in his military campaign against the Confederate States. British military theorist and historian B. H. Liddell Hart declared that Sherman was \"the most original genius of the American Civil War\" and \"the first modern general\".</p>"
+  }
+}

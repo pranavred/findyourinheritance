@@ -1,0 +1,63 @@
+{
+  "slug": "Aletta_Jacobs__1895-1905",
+  "name": "Aletta Jacobs",
+  "description": "Dutch physician and feminist (1854–1929)",
+  "summary": "Aletta Henriëtte Jacobs was a Dutch physician and women's suffrage activist. As the first woman officially to attend a Dutch university, she became one of the first female physicians in the Netherlands. In 1882, she founded the world's first birth control clinic and was a leader in both the Dutch and international women's movements. She led campaigns aimed at deregulating prostitution, improving women's working conditions, promoting peace and calling for women's right to vote.",
+  "image_local": "images/Aletta_Jacobs__1895-1905.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Aletta_Jacobs%2C_1895-1905.jpg/800px-Aletta_Jacobs%2C_1895-1905.jpg",
+  "portrait_date": "between 1895 and 1905",
+  "original_caption": "Dr. Aletta Jacobs, Dutch suffragette, first female Dutch university graduate and first Dutch female physician",
+  "extracted_name": "Aletta Jacobs",
+  "wikipedia_title": "Aletta Jacobs",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Aletta_Jacobs",
+  "commons_file_page": "https://commons.wikimedia.org/wiki/File:Aletta_Jacobs,_1895-1905.jpg",
+  "wikipedia_summary": {
+    "type": "standard",
+    "title": "Aletta Jacobs",
+    "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Aletta Jacobs</span></span>",
+    "namespace": {
+      "id": 0,
+      "text": ""
+    },
+    "wikibase_item": "Q463478",
+    "titles": {
+      "canonical": "Aletta_Jacobs",
+      "normalized": "Aletta Jacobs",
+      "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Aletta Jacobs</span></span>"
+    },
+    "pageid": 3853360,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Aletta_Jacobs%2C_1895-1905.jpg/330px-Aletta_Jacobs%2C_1895-1905.jpg",
+      "width": 330,
+      "height": 331
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Aletta_Jacobs%2C_1895-1905.jpg",
+      "width": 2434,
+      "height": 2439
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1341031774",
+    "tid": "bece966b-1512-11f1-8f8c-1151000d26c5",
+    "timestamp": "2026-03-01T02:02:48Z",
+    "description": "Dutch physician and feminist (1854–1929)",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Aletta_Jacobs",
+        "revisions": "https://en.wikipedia.org/wiki/Aletta_Jacobs?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Aletta_Jacobs?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Aletta_Jacobs"
+      },
+      "mobile": {
+        "page": "https://en.wikipedia.org/wiki/Aletta_Jacobs",
+        "revisions": "https://en.wikipedia.org/wiki/Special:History/Aletta_Jacobs",
+        "edit": "https://en.wikipedia.org/wiki/Aletta_Jacobs?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Aletta_Jacobs"
+      }
+    },
+    "extract": "Aletta Henriëtte Jacobs was a Dutch physician and women's suffrage activist. As the first woman officially to attend a Dutch university, she became one of the first female physicians in the Netherlands. In 1882, she founded the world's first birth control clinic and was a leader in both the Dutch and international women's movements. She led campaigns aimed at deregulating prostitution, improving women's working conditions, promoting peace and calling for women's right to vote.",
+    "extract_html": "<p><b>Aletta Henriëtte Jacobs</b> was a Dutch physician and women's suffrage activist. As the first woman officially to attend a Dutch university, she became one of the first female physicians in the Netherlands. In 1882, she founded the world's first birth control clinic and was a leader in both the Dutch and international women's movements. She led campaigns aimed at deregulating prostitution, improving women's working conditions, promoting peace and calling for women's right to vote.</p>"
+  }
+}

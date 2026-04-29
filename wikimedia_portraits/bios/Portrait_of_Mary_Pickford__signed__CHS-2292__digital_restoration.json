@@ -1,0 +1,63 @@
+{
+  "slug": "Portrait_of_Mary_Pickford__signed__CHS-2292__digital_restoration",
+  "name": "Mary Pickford",
+  "description": "Canadian actress and producer (1892–1979)",
+  "summary": "Gladys Louise Smith, baptised as Gladys Marie Smith, known professionally as Mary Pickford, was a Canadian American film actress and producer. A pioneer in the American film industry with a Hollywood career spanning five decades, Pickford was one of the most popular actresses of the silent film era. Beginning her film career in 1909, Pickford became Hollywood's first millionaire by 1916, and, at the height of her career, had complete creative control of her films and was one of the most recognizable women in the world. Due to her popularity, unprecedented international fame, and success as an actress and businesswoman, she was known as the \"Queen of the Movies\". She was a significant figure in the development of film acting and is credited with having defined the ingénue type in cinema, a persona that also earned her the nickname \"America's Sweetheart\".",
+  "image_local": "images/Portrait_of_Mary_Pickford__signed__CHS-2292__digital_restoration.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Portrait_of_Mary_Pickford%2C_signed_%28CHS-2292%29_digital_restoration.jpg/800px-Portrait_of_Mary_Pickford%2C_signed_%28CHS-2292%29_digital_restoration.jpg",
+  "portrait_date": "between 1914 and 1915",
+  "original_caption": "Portrait of Mary Pickford, signed (CHS-2292) digital restoration",
+  "extracted_name": "Mary Pickford",
+  "wikipedia_title": "Mary Pickford",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Mary_Pickford",
+  "commons_file_page": "https://commons.wikimedia.org/wiki/File:Portrait_of_Mary_Pickford,_signed_(CHS-2292)_digital_restoration.jpg",
+  "wikipedia_summary": {
+    "type": "standard",
+    "title": "Mary Pickford",
+    "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Mary Pickford</span></span>",
+    "namespace": {
+      "id": 0,
+      "text": ""
+    },
+    "wikibase_item": "Q104109",
+    "titles": {
+      "canonical": "Mary_Pickford",
+      "normalized": "Mary Pickford",
+      "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Mary Pickford</span></span>"
+    },
+    "pageid": 18823,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Mary_Pickford_cph.3c17995u.jpg/330px-Mary_Pickford_cph.3c17995u.jpg",
+      "width": 330,
+      "height": 419
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/8/88/Mary_Pickford_cph.3c17995u.jpg",
+      "width": 2934,
+      "height": 3726
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1348090438",
+    "tid": "59e86131-34fc-11f1-89d3-d98ccfe27600",
+    "timestamp": "2026-04-10T16:43:07Z",
+    "description": "Canadian actress and producer (1892–1979)",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Mary_Pickford",
+        "revisions": "https://en.wikipedia.org/wiki/Mary_Pickford?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Mary_Pickford?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Mary_Pickford"
+      },
+      "mobile": {
+        "page": "https://en.wikipedia.org/wiki/Mary_Pickford",
+        "revisions": "https://en.wikipedia.org/wiki/Special:History/Mary_Pickford",
+        "edit": "https://en.wikipedia.org/wiki/Mary_Pickford?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Mary_Pickford"
+      }
+    },
+    "extract": "Gladys Louise Smith, baptised as Gladys Marie Smith, known professionally as Mary Pickford, was a Canadian American film actress and producer. A pioneer in the American film industry with a Hollywood career spanning five decades, Pickford was one of the most popular actresses of the silent film era. Beginning her film career in 1909, Pickford became Hollywood's first millionaire by 1916, and, at the height of her career, had complete creative control of her films and was one of the most recognizable women in the world. Due to her popularity, unprecedented international fame, and success as an actress and businesswoman, she was known as the \"Queen of the Movies\". She was a significant figure in the development of film acting and is credited with having defined the ingénue type in cinema, a persona that also earned her the nickname \"America's Sweetheart\".",
+    "extract_html": "<p><b>Gladys Louise Smith</b>, baptised as <b>Gladys Marie Smith</b>, known professionally as <b>Mary Pickford</b>, was a Canadian American film actress and producer. A pioneer in the American film industry with a Hollywood career spanning five decades, Pickford was one of the most popular actresses of the silent film era. Beginning her film career in 1909, Pickford became Hollywood's first millionaire by 1916, and, at the height of her career, had complete creative control of her films and was one of the most recognizable women in the world. Due to her popularity, unprecedented international fame, and success as an actress and businesswoman, she was known as the \"Queen of the Movies\". She was a significant figure in the development of film acting and is credited with having defined the <span><i lang=\"fr\">ingénue</i></span> type in cinema, a persona that also earned her the nickname \"America's Sweetheart\".</p>"
+  }
+}

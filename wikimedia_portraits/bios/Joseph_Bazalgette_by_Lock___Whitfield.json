@@ -1,0 +1,63 @@
+{
+  "slug": "Joseph_Bazalgette_by_Lock___Whitfield",
+  "name": "Joseph Bazalgette",
+  "description": "British civil engineer (1819–1891)",
+  "summary": "Sir Joseph William Bazalgette CB was a British civil engineer. As Chief Engineer of London's Metropolitan Board of Works, his major achievement was the creation of the London Main Drainage, the sewerage system for central London, in response to the Great Stink of 1858, which was instrumental in relieving the city of cholera epidemics, while beginning to clean the River Thames.",
+  "image_local": "images/Joseph_Bazalgette_by_Lock___Whitfield.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Joseph_Bazalgette_by_Lock_%26_Whitfield.jpg/800px-Joseph_Bazalgette_by_Lock_%26_Whitfield.jpg",
+  "portrait_date": "1864-1877",
+  "original_caption": "Joseph Bazalgette by Lock & Whitfield",
+  "extracted_name": "Joseph Bazalgette",
+  "wikipedia_title": "Joseph Bazalgette",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Joseph_Bazalgette",
+  "commons_file_page": "https://commons.wikimedia.org/wiki/File:Joseph_Bazalgette_by_Lock_%26_Whitfield.jpg",
+  "wikipedia_summary": {
+    "type": "standard",
+    "title": "Joseph Bazalgette",
+    "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Joseph Bazalgette</span></span>",
+    "namespace": {
+      "id": 0,
+      "text": ""
+    },
+    "wikibase_item": "Q981915",
+    "titles": {
+      "canonical": "Joseph_Bazalgette",
+      "normalized": "Joseph Bazalgette",
+      "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Joseph Bazalgette</span></span>"
+    },
+    "pageid": 333359,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Joseph_Bazalgette_by_Lock_%26_Whitfield.jpg/330px-Joseph_Bazalgette_by_Lock_%26_Whitfield.jpg",
+      "width": 330,
+      "height": 410
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/7/76/Joseph_Bazalgette_by_Lock_%26_Whitfield.jpg",
+      "width": 1942,
+      "height": 2410
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1338690129",
+    "tid": "9633bd2d-0b5e-11f1-91af-b1e6f39b114e",
+    "timestamp": "2026-02-16T17:40:30Z",
+    "description": "British civil engineer (1819–1891)",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Joseph_Bazalgette",
+        "revisions": "https://en.wikipedia.org/wiki/Joseph_Bazalgette?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Joseph_Bazalgette?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Joseph_Bazalgette"
+      },
+      "mobile": {
+        "page": "https://en.wikipedia.org/wiki/Joseph_Bazalgette",
+        "revisions": "https://en.wikipedia.org/wiki/Special:History/Joseph_Bazalgette",
+        "edit": "https://en.wikipedia.org/wiki/Joseph_Bazalgette?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Joseph_Bazalgette"
+      }
+    },
+    "extract": "Sir Joseph William Bazalgette CB was a British civil engineer. As Chief Engineer of London's Metropolitan Board of Works, his major achievement was the creation of the London Main Drainage, the sewerage system for central London, in response to the Great Stink of 1858, which was instrumental in relieving the city of cholera epidemics, while beginning to clean the River Thames.",
+    "extract_html": "<p><b>Sir Joseph William Bazalgette</b> <span>CB</span> was a British civil engineer. As Chief Engineer of London's Metropolitan Board of Works, his major achievement was the creation of the London Main Drainage, the sewerage system for central London, in response to the Great Stink of 1858, which was instrumental in relieving the city of cholera epidemics, while beginning to clean the River Thames.</p>"
+  }
+}

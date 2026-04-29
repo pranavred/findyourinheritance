@@ -1,0 +1,63 @@
+{
+  "slug": "Louis_D_sir__Blanquart-Evrard_1869_photograph_BNF_Gallica",
+  "name": "Louis Désiré Blanquart-Evrard",
+  "description": "French photographer (1802–1872)",
+  "summary": "Louis Désiré Blanquart-Evrard was a French inventor, photographer and photo publisher. Being a cloth merchant by trade, in the 1840s he developed interest in photography and focused on technical and economical issues of mass production of photo prints.",
+  "image_local": "images/Louis_D_sir__Blanquart-Evrard_1869_photograph_BNF_Gallica.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Louis_D%C3%A9sir%C3%A9_Blanquart-Evrard_1869_photograph_BNF_Gallica.jpg/800px-Louis_D%C3%A9sir%C3%A9_Blanquart-Evrard_1869_photograph_BNF_Gallica.jpg",
+  "portrait_date": "1869",
+  "original_caption": "Louis Désiré Blanquart-Evrard",
+  "extracted_name": "Louis Désiré Blanquart-Evrard",
+  "wikipedia_title": "Louis Désiré Blanquart-Evrard",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Louis_D%C3%A9sir%C3%A9_Blanquart-Evrard",
+  "commons_file_page": "https://commons.wikimedia.org/wiki/File:Louis_D%C3%A9sir%C3%A9_Blanquart-Evrard_1869_photograph_BNF_Gallica.jpg",
+  "wikipedia_summary": {
+    "type": "standard",
+    "title": "Louis Désiré Blanquart-Evrard",
+    "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Louis Désiré Blanquart-Evrard</span></span>",
+    "namespace": {
+      "id": 0,
+      "text": ""
+    },
+    "wikibase_item": "Q456697",
+    "titles": {
+      "canonical": "Louis_Désiré_Blanquart-Evrard",
+      "normalized": "Louis Désiré Blanquart-Evrard",
+      "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Louis Désiré Blanquart-Evrard</span></span>"
+    },
+    "pageid": 6237898,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Louis_D%C3%A9sir%C3%A9_Blanquart-Evrard_1869_photograph_BNF_Gallica.jpg/330px-Louis_D%C3%A9sir%C3%A9_Blanquart-Evrard_1869_photograph_BNF_Gallica.jpg",
+      "width": 330,
+      "height": 422
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/4/46/Louis_D%C3%A9sir%C3%A9_Blanquart-Evrard_1869_photograph_BNF_Gallica.jpg",
+      "width": 3056,
+      "height": 3904
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1307786993",
+    "tid": "26f89408-81df-11f0-8034-cf1f3f477ea2",
+    "timestamp": "2025-08-25T18:13:08Z",
+    "description": "French photographer (1802–1872)",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Louis_D%C3%A9sir%C3%A9_Blanquart-Evrard",
+        "revisions": "https://en.wikipedia.org/wiki/Louis_D%C3%A9sir%C3%A9_Blanquart-Evrard?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Louis_D%C3%A9sir%C3%A9_Blanquart-Evrard?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Louis_D%C3%A9sir%C3%A9_Blanquart-Evrard"
+      },
+      "mobile": {
+        "page": "https://en.wikipedia.org/wiki/Louis_D%C3%A9sir%C3%A9_Blanquart-Evrard",
+        "revisions": "https://en.wikipedia.org/wiki/Special:History/Louis_D%C3%A9sir%C3%A9_Blanquart-Evrard",
+        "edit": "https://en.wikipedia.org/wiki/Louis_D%C3%A9sir%C3%A9_Blanquart-Evrard?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Louis_D%C3%A9sir%C3%A9_Blanquart-Evrard"
+      }
+    },
+    "extract": "Louis Désiré Blanquart-Evrard was a French inventor, photographer and photo publisher. Being a cloth merchant by trade, in the 1840s he developed interest in photography and focused on technical and economical issues of mass production of photo prints.",
+    "extract_html": "<p><b>Louis Désiré Blanquart-Evrard</b> was a French inventor, photographer and photo publisher. Being a cloth merchant by trade, in the 1840s he developed interest in photography and focused on technical and economical issues of mass production of photo prints.</p>"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "slug": "Abbey_Lincoln_in_1966",
+  "name": "Abbey Lincoln",
+  "description": "American singer, actress and activist (1930–2010)",
+  "summary": "Anna Marie Wooldridge, known professionally as Abbey Lincoln, was an American jazz vocalist, songwriter, and actress. She was a civil rights activist beginning in the 1960s. Lincoln made a career out of delivering deeply felt presentations of standards, as well as writing and singing her own material.",
+  "image_local": "images/Abbey_Lincoln_in_1966.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Abbey_Lincoln_in_1966.jpg/800px-Abbey_Lincoln_in_1966.jpg",
+  "portrait_date": "1966",
+  "original_caption": "Abbey Lincoln",
+  "extracted_name": "Abbey Lincoln",
+  "wikipedia_title": "Abbey Lincoln",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Abbey_Lincoln",
+  "commons_file_page": "https://commons.wikimedia.org/wiki/File:Abbey_Lincoln_in_1966.jpg",
+  "wikipedia_summary": {
+    "type": "standard",
+    "title": "Abbey Lincoln",
+    "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Abbey Lincoln</span></span>",
+    "namespace": {
+      "id": 0,
+      "text": ""
+    },
+    "wikibase_item": "Q231071",
+    "titles": {
+      "canonical": "Abbey_Lincoln",
+      "normalized": "Abbey Lincoln",
+      "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Abbey Lincoln</span></span>"
+    },
+    "pageid": 1655706,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Abbey_Lincoln_in_1966.jpg/330px-Abbey_Lincoln_in_1966.jpg",
+      "width": 330,
+      "height": 505
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Abbey_Lincoln_in_1966.jpg",
+      "width": 2385,
+      "height": 3648
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1336902249",
+    "tid": "d31ed986-0340-11f1-9b64-8de6e716a08a",
+    "timestamp": "2026-02-06T09:47:18Z",
+    "description": "American singer, actress and activist (1930–2010)",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Abbey_Lincoln",
+        "revisions": "https://en.wikipedia.org/wiki/Abbey_Lincoln?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Abbey_Lincoln?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Abbey_Lincoln"
+      },
+      "mobile": {
+        "page": "https://en.wikipedia.org/wiki/Abbey_Lincoln",
+        "revisions": "https://en.wikipedia.org/wiki/Special:History/Abbey_Lincoln",
+        "edit": "https://en.wikipedia.org/wiki/Abbey_Lincoln?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Abbey_Lincoln"
+      }
+    },
+    "extract": "Anna Marie Wooldridge, known professionally as Abbey Lincoln, was an American jazz vocalist, songwriter, and actress. She was a civil rights activist beginning in the 1960s. Lincoln made a career out of delivering deeply felt presentations of standards, as well as writing and singing her own material.",
+    "extract_html": "<p><b>Anna Marie Wooldridge</b>, known professionally as <b>Abbey Lincoln</b>, was an American jazz vocalist, songwriter, and actress. She was a civil rights activist beginning in the 1960s. Lincoln made a career out of delivering deeply felt presentations of standards, as well as writing and singing her own material.</p>"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "slug": "Charlie_Chaplin_in_unknown_year",
+  "name": "Charlie Chaplin",
+  "description": "English actor and filmmaker (1889–1977)",
+  "summary": "Sir Charles Spencer Chaplin Jr. was an English comic actor, filmmaker, film editor and composer who rose to fame in the era of silent film. He became a worldwide icon through his screen persona, the Tramp, and is considered one of the film industry's most important figures. His career spanned more than 75 years, from his childhood in the Victorian era until a year before his death in 1977, and encompassed both accolade and controversy.",
+  "image_local": "images/Charlie_Chaplin_in_unknown_year.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Charlie_Chaplin_in_unknown_year.jpg/800px-Charlie_Chaplin_in_unknown_year.jpg",
+  "portrait_date": "1900-1910",
+  "original_caption": "Charlie Chaplin",
+  "extracted_name": "Charlie Chaplin",
+  "wikipedia_title": "Charlie Chaplin",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Charlie_Chaplin",
+  "commons_file_page": "https://commons.wikimedia.org/wiki/File:Charlie_Chaplin_in_unknown_year.jpg",
+  "wikipedia_summary": {
+    "type": "standard",
+    "title": "Charlie Chaplin",
+    "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Charlie Chaplin</span></span>",
+    "namespace": {
+      "id": 0,
+      "text": ""
+    },
+    "wikibase_item": "Q882",
+    "titles": {
+      "canonical": "Charlie_Chaplin",
+      "normalized": "Charlie Chaplin",
+      "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Charlie Chaplin</span></span>"
+    },
+    "pageid": 5142,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Charlie_Chaplin_portrait_Getty_1739411952.jpg/330px-Charlie_Chaplin_portrait_Getty_1739411952.jpg",
+      "width": 330,
+      "height": 470
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/8/82/Charlie_Chaplin_portrait_Getty_1739411952.jpg",
+      "width": 2878,
+      "height": 4101
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1349360062",
+    "tid": "3d16c657-39f1-11f1-9d1b-293554c1428f",
+    "timestamp": "2026-04-17T00:06:10Z",
+    "description": "English actor and filmmaker (1889–1977)",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Charlie_Chaplin",
+        "revisions": "https://en.wikipedia.org/wiki/Charlie_Chaplin?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Charlie_Chaplin?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Charlie_Chaplin"
+      },
+      "mobile": {
+        "page": "https://en.wikipedia.org/wiki/Charlie_Chaplin",
+        "revisions": "https://en.wikipedia.org/wiki/Special:History/Charlie_Chaplin",
+        "edit": "https://en.wikipedia.org/wiki/Charlie_Chaplin?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Charlie_Chaplin"
+      }
+    },
+    "extract": "Sir Charles Spencer Chaplin Jr. was an English comic actor, filmmaker, film editor and composer who rose to fame in the era of silent film. He became a worldwide icon through his screen persona, the Tramp, and is considered one of the film industry's most important figures. His career spanned more than 75 years, from his childhood in the Victorian era until a year before his death in 1977, and encompassed both accolade and controversy.",
+    "extract_html": "<p><b>Sir Charles Spencer Chaplin Jr.</b> was an English comic actor, filmmaker, film editor and composer who rose to fame in the era of silent film. He became a worldwide icon through his screen persona, the Tramp, and is considered one of the film industry's most important figures. His career spanned more than 75 years, from his childhood in the Victorian era until a year before his death in 1977, and encompassed both accolade and controversy.</p>"
+  }
+}

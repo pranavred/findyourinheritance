@@ -1,0 +1,63 @@
+{
+  "slug": "Connie_Mack3",
+  "name": "Connie Mack",
+  "description": "American baseball manager and owner (1862–1956)",
+  "summary": "Cornelius McGillicuddy, better known as Connie Mack, was an American professional baseball catcher, manager, and team owner. Mack holds records for the most wins (3,731), losses (3,948), ties (76), and games managed (7,755) in Major League Baseball (MLB) history. His victory total is 847 more than the second-highest: Tony La Russa's 2,884 wins. Mack's lead in career losses is even greater, with 1,449 more than La Russa's 2,499. Mack also has 17 more ties than the next-closest manager, Clark Griffith, who has 59.",
+  "image_local": "images/Connie_Mack3.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Connie_Mack3.jpg/800px-Connie_Mack3.jpg",
+  "portrait_date": "1911",
+  "original_caption": "Connie Mack",
+  "extracted_name": "Connie Mack",
+  "wikipedia_title": "Connie Mack",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Connie_Mack",
+  "commons_file_page": "https://commons.wikimedia.org/wiki/File:Connie_Mack3.jpg",
+  "wikipedia_summary": {
+    "type": "standard",
+    "title": "Connie Mack",
+    "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Connie Mack</span></span>",
+    "namespace": {
+      "id": 0,
+      "text": ""
+    },
+    "wikibase_item": "Q1126349",
+    "titles": {
+      "canonical": "Connie_Mack",
+      "normalized": "Connie Mack",
+      "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Connie Mack</span></span>"
+    },
+    "pageid": 582798,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Connie_Mack_Portrait_%284x5_cropped%29.jpg/330px-Connie_Mack_Portrait_%284x5_cropped%29.jpg",
+      "width": 330,
+      "height": 411
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/1/19/Connie_Mack_Portrait_%284x5_cropped%29.jpg",
+      "width": 2173,
+      "height": 2708
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1342312573",
+    "tid": "8acf12e2-1ac2-11f1-b132-14a3f75d1358",
+    "timestamp": "2026-03-08T07:43:48Z",
+    "description": "American baseball manager and owner (1862–1956)",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Connie_Mack",
+        "revisions": "https://en.wikipedia.org/wiki/Connie_Mack?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Connie_Mack?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Connie_Mack"
+      },
+      "mobile": {
+        "page": "https://en.wikipedia.org/wiki/Connie_Mack",
+        "revisions": "https://en.wikipedia.org/wiki/Special:History/Connie_Mack",
+        "edit": "https://en.wikipedia.org/wiki/Connie_Mack?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Connie_Mack"
+      }
+    },
+    "extract": "Cornelius McGillicuddy, better known as Connie Mack, was an American professional baseball catcher, manager, and team owner. Mack holds records for the most wins (3,731), losses (3,948), ties (76), and games managed (7,755) in Major League Baseball (MLB) history. His victory total is 847 more than the second-highest: Tony La Russa's 2,884 wins. Mack's lead in career losses is even greater, with 1,449 more than La Russa's 2,499. Mack also has 17 more ties than the next-closest manager, Clark Griffith, who has 59.",
+    "extract_html": "<p><b>Cornelius McGillicuddy</b>, better known as <b>Connie Mack</b>, was an American professional baseball catcher, manager, and team owner. Mack holds records for the most wins (3,731), losses (3,948), ties (76), and games managed (7,755) in Major League Baseball (MLB) history. His victory total is 847 more than the second-highest: Tony La Russa's 2,884 wins. Mack's lead in career losses is even greater, with 1,449 more than La Russa's 2,499. Mack also has 17 more ties than the next-closest manager, Clark Griffith, who has 59.</p>"
+  }
+}

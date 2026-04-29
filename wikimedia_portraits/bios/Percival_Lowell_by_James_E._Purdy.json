@@ -1,0 +1,63 @@
+{
+  "slug": "Percival_Lowell_by_James_E._Purdy",
+  "name": "Percival Lowell",
+  "description": "American businessman, author, mathematician, and astronomer (1855–1916)",
+  "summary": "Percival Lowell was an American businessman, author, mathematician, and astronomer who fueled speculation that there were canals on Mars, and furthered theories of a ninth planet within the Solar System. He founded the Lowell Observatory in Flagstaff, Arizona, and formed the beginning of the effort that led to the discovery of Pluto 14 years after his death.",
+  "image_local": "images/Percival_Lowell_by_James_E._Purdy.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Percival_Lowell_by_James_E._Purdy.jpg/800px-Percival_Lowell_by_James_E._Purdy.jpg",
+  "portrait_date": "",
+  "original_caption": "Percival Lowell by James E. Purdy.jpg/2",
+  "extracted_name": "Percival Lowell",
+  "wikipedia_title": "Percival Lowell",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Percival_Lowell",
+  "commons_file_page": "https://commons.wikimedia.org/wiki/File:Percival_Lowell_by_James_E._Purdy.jpg",
+  "wikipedia_summary": {
+    "type": "standard",
+    "title": "Percival Lowell",
+    "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Percival Lowell</span></span>",
+    "namespace": {
+      "id": 0,
+      "text": ""
+    },
+    "wikibase_item": "Q218575",
+    "titles": {
+      "canonical": "Percival_Lowell",
+      "normalized": "Percival Lowell",
+      "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Percival Lowell</span></span>"
+    },
+    "pageid": 24033,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Percival_Lowell_by_James_E._Purdy.jpg/330px-Percival_Lowell_by_James_E._Purdy.jpg",
+      "width": 330,
+      "height": 410
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Percival_Lowell_by_James_E._Purdy.jpg",
+      "width": 2692,
+      "height": 3342
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1345798016",
+    "tid": "10b3fe96-2a74-11f1-aa9f-4433d24fcd3c",
+    "timestamp": "2026-03-28T07:02:21Z",
+    "description": "American businessman, author, mathematician, and astronomer (1855–1916)",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Percival_Lowell",
+        "revisions": "https://en.wikipedia.org/wiki/Percival_Lowell?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Percival_Lowell?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Percival_Lowell"
+      },
+      "mobile": {
+        "page": "https://en.wikipedia.org/wiki/Percival_Lowell",
+        "revisions": "https://en.wikipedia.org/wiki/Special:History/Percival_Lowell",
+        "edit": "https://en.wikipedia.org/wiki/Percival_Lowell?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Percival_Lowell"
+      }
+    },
+    "extract": "Percival Lowell was an American businessman, author, mathematician, and astronomer who fueled speculation that there were canals on Mars, and furthered theories of a ninth planet within the Solar System. He founded the Lowell Observatory in Flagstaff, Arizona, and formed the beginning of the effort that led to the discovery of Pluto 14 years after his death.",
+    "extract_html": "<p><b>Percival Lowell</b> was an American businessman, author, mathematician, and astronomer who fueled speculation that there were canals on Mars, and furthered theories of a ninth planet within the Solar System. He founded the Lowell Observatory in Flagstaff, Arizona, and formed the beginning of the effort that led to the discovery of Pluto 14 years after his death.</p>"
+  }
+}

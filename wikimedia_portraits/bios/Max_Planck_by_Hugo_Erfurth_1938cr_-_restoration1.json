@@ -1,0 +1,63 @@
+{
+  "slug": "Max_Planck_by_Hugo_Erfurth_1938cr_-_restoration1",
+  "name": "Max Planck",
+  "description": "German physicist (1858–1947)",
+  "summary": "Max Karl Ernst Ludwig Planck was a German theoretical physicist. He won the 1918 Nobel Prize in Physics \"for the services he rendered to the advancement of physics by his discovery of energy quanta.\"",
+  "image_local": "images/Max_Planck_by_Hugo_Erfurth_1938cr_-_restoration1.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Max_Planck_by_Hugo_Erfurth_1938cr_-_restoration1.jpg/800px-Max_Planck_by_Hugo_Erfurth_1938cr_-_restoration1.jpg",
+  "portrait_date": "",
+  "original_caption": "Max Planck by Hugo Erfurth 1938cr - restoration1",
+  "extracted_name": "Max Planck",
+  "wikipedia_title": "Max Planck",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Max_Planck",
+  "commons_file_page": "https://commons.wikimedia.org/wiki/File:Max_Planck_by_Hugo_Erfurth_1938cr_-_restoration1.jpg",
+  "wikipedia_summary": {
+    "type": "standard",
+    "title": "Max Planck",
+    "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Max Planck</span></span>",
+    "namespace": {
+      "id": 0,
+      "text": ""
+    },
+    "wikibase_item": "Q9021",
+    "titles": {
+      "canonical": "Max_Planck",
+      "normalized": "Max Planck",
+      "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Max Planck</span></span>"
+    },
+    "pageid": 19848,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Max_Planck_by_Hugo_Erfurth_1938cr_-_restoration1.jpg/330px-Max_Planck_by_Hugo_Erfurth_1938cr_-_restoration1.jpg",
+      "width": 330,
+      "height": 417
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Max_Planck_by_Hugo_Erfurth_1938cr_-_restoration1.jpg",
+      "width": 2544,
+      "height": 3216
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1347252934",
+    "tid": "14e3b8bb-310d-11f1-93ae-7b4d6b15ec81",
+    "timestamp": "2026-04-05T16:32:48Z",
+    "description": "German physicist (1858–1947)",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Max_Planck",
+        "revisions": "https://en.wikipedia.org/wiki/Max_Planck?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Max_Planck?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Max_Planck"
+      },
+      "mobile": {
+        "page": "https://en.wikipedia.org/wiki/Max_Planck",
+        "revisions": "https://en.wikipedia.org/wiki/Special:History/Max_Planck",
+        "edit": "https://en.wikipedia.org/wiki/Max_Planck?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Max_Planck"
+      }
+    },
+    "extract": "Max Karl Ernst Ludwig Planck was a German theoretical physicist. He won the 1918 Nobel Prize in Physics \"for the services he rendered to the advancement of physics by his discovery of energy quanta.\"",
+    "extract_html": "<p><b>Max Karl Ernst Ludwig Planck</b> was a German theoretical physicist. He won the 1918 Nobel Prize in Physics \"for the services he rendered to the advancement of physics by his discovery of energy quanta.\"</p>"
+  }
+}

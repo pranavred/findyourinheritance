@@ -1,0 +1,63 @@
+{
+  "slug": "Nettie_Maria_Stevens",
+  "name": "Nettie Stevens",
+  "description": "American geneticist (1861–1912)",
+  "summary": "Nettie Maria Stevens was an American geneticist who discovered sex chromosomes. In 1905, soon after the rediscovery of Mendel's paper on genetics in 1900, she observed that male mealworms produced two kinds of sperm, one with a large chromosome and one with a small chromosome. When the sperm with the large chromosome fertilized eggs, they produced female offspring, and when the sperm with the small chromosome fertilized eggs, they produced male offspring. The pair of sex chromosomes that she studied later became known as the X and Y chromosomes.",
+  "image_local": "images/Nettie_Maria_Stevens.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Nettie_Maria_Stevens.jpg/800px-Nettie_Maria_Stevens.jpg",
+  "portrait_date": "1904",
+  "original_caption": "Nettie Maria Stevens",
+  "extracted_name": "Nettie Maria Stevens",
+  "wikipedia_title": "Nettie Stevens",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Nettie_Stevens",
+  "commons_file_page": "https://commons.wikimedia.org/wiki/File:Nettie_Maria_Stevens.jpg",
+  "wikipedia_summary": {
+    "type": "standard",
+    "title": "Nettie Stevens",
+    "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Nettie Stevens</span></span>",
+    "namespace": {
+      "id": 0,
+      "text": ""
+    },
+    "wikibase_item": "Q433487",
+    "titles": {
+      "canonical": "Nettie_Stevens",
+      "normalized": "Nettie Stevens",
+      "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Nettie Stevens</span></span>"
+    },
+    "pageid": 1664375,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Nettie_Maria_Stevens.jpg/330px-Nettie_Maria_Stevens.jpg",
+      "width": 330,
+      "height": 420
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Nettie_Maria_Stevens.jpg/3840px-Nettie_Maria_Stevens.jpg",
+      "width": 4364,
+      "height": 5556
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1342946135",
+    "tid": "a990105e-1d43-11f1-8a26-86163d542578",
+    "timestamp": "2026-03-11T12:13:07Z",
+    "description": "American geneticist (1861–1912)",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Nettie_Stevens",
+        "revisions": "https://en.wikipedia.org/wiki/Nettie_Stevens?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Nettie_Stevens?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Nettie_Stevens"
+      },
+      "mobile": {
+        "page": "https://en.wikipedia.org/wiki/Nettie_Stevens",
+        "revisions": "https://en.wikipedia.org/wiki/Special:History/Nettie_Stevens",
+        "edit": "https://en.wikipedia.org/wiki/Nettie_Stevens?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Nettie_Stevens"
+      }
+    },
+    "extract": "Nettie Maria Stevens was an American geneticist who discovered sex chromosomes. In 1905, soon after the rediscovery of Mendel's paper on genetics in 1900, she observed that male mealworms produced two kinds of sperm, one with a large chromosome and one with a small chromosome. When the sperm with the large chromosome fertilized eggs, they produced female offspring, and when the sperm with the small chromosome fertilized eggs, they produced male offspring. The pair of sex chromosomes that she studied later became known as the X and Y chromosomes.",
+    "extract_html": "<p><b>Nettie Maria Stevens</b> was an American geneticist who discovered sex chromosomes. In 1905, soon after the rediscovery of Mendel's paper on genetics in 1900, she observed that male mealworms produced two kinds of sperm, one with a large chromosome and one with a small chromosome. When the sperm with the large chromosome fertilized eggs, they produced female offspring, and when the sperm with the small chromosome fertilized eggs, they produced male offspring. The pair of sex chromosomes that she studied later became known as the X and Y chromosomes.</p>"
+  }
+}

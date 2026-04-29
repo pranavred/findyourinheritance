@@ -1,0 +1,63 @@
+{
+  "slug": "Helen_Hunt_Jackson_by_Charles_F._Conly",
+  "name": "Helen Hunt Jackson",
+  "description": "American writer (1830–1885)",
+  "summary": "Helen Hunt Jackson was an American poet and writer who became an activist for improved treatment of Native Americans by the United States government. She described the adverse effects of government actions in her history A Century of Dishonor (1881). Her popular novel Ramona (1884) dramatized the federal government's mistreatment of Native Americans in Southern California after the Mexican–American War and attracted considerable attention to her cause. Commercially successful, it was estimated to have been reprinted 300 times, with readers liking its romantic and picturesque qualities more than its political content. The novel was so popular that it attracted many tourists to Southern California who wanted to see places from the book.",
+  "image_local": "images/Helen_Hunt_Jackson_by_Charles_F._Conly.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Helen_Hunt_Jackson_by_Charles_F._Conly.jpg/800px-Helen_Hunt_Jackson_by_Charles_F._Conly.jpg",
+  "portrait_date": "",
+  "original_caption": "Helen Hunt Jackson by Charles F. Conly",
+  "extracted_name": "Helen Hunt Jackson",
+  "wikipedia_title": "Helen Hunt Jackson",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Helen_Hunt_Jackson",
+  "commons_file_page": "https://commons.wikimedia.org/wiki/File:Helen_Hunt_Jackson_by_Charles_F._Conly.jpg",
+  "wikipedia_summary": {
+    "type": "standard",
+    "title": "Helen Hunt Jackson",
+    "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Helen Hunt Jackson</span></span>",
+    "namespace": {
+      "id": 0,
+      "text": ""
+    },
+    "wikibase_item": "Q462363",
+    "titles": {
+      "canonical": "Helen_Hunt_Jackson",
+      "normalized": "Helen Hunt Jackson",
+      "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Helen Hunt Jackson</span></span>"
+    },
+    "pageid": 372739,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Helen_Hunt_Jackson_by_Charles_F._Conly.jpg/330px-Helen_Hunt_Jackson_by_Charles_F._Conly.jpg",
+      "width": 330,
+      "height": 460
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Helen_Hunt_Jackson_by_Charles_F._Conly.jpg/3840px-Helen_Hunt_Jackson_by_Charles_F._Conly.jpg",
+      "width": 3899,
+      "height": 5435
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1351120578",
+    "tid": "4817d6eb-4110-11f1-91a8-47829d91c33d",
+    "timestamp": "2026-04-26T01:36:01Z",
+    "description": "American writer (1830–1885)",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Helen_Hunt_Jackson",
+        "revisions": "https://en.wikipedia.org/wiki/Helen_Hunt_Jackson?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Helen_Hunt_Jackson?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Helen_Hunt_Jackson"
+      },
+      "mobile": {
+        "page": "https://en.wikipedia.org/wiki/Helen_Hunt_Jackson",
+        "revisions": "https://en.wikipedia.org/wiki/Special:History/Helen_Hunt_Jackson",
+        "edit": "https://en.wikipedia.org/wiki/Helen_Hunt_Jackson?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Helen_Hunt_Jackson"
+      }
+    },
+    "extract": "Helen Hunt Jackson was an American poet and writer who became an activist for improved treatment of Native Americans by the United States government. She described the adverse effects of government actions in her history A Century of Dishonor (1881). Her popular novel Ramona (1884) dramatized the federal government's mistreatment of Native Americans in Southern California after the Mexican–American War and attracted considerable attention to her cause. Commercially successful, it was estimated to have been reprinted 300 times, with readers liking its romantic and picturesque qualities more than its political content. The novel was so popular that it attracted many tourists to Southern California who wanted to see places from the book.",
+    "extract_html": "<p><b>Helen Hunt Jackson</b> was an American poet and writer who became an activist for improved treatment of Native Americans by the United States government. She described the adverse effects of government actions in her history <i>A Century of Dishonor</i> (1881). Her popular novel <i>Ramona</i> (1884) dramatized the federal government's mistreatment of Native Americans in Southern California after the Mexican–American War and attracted considerable attention to her cause. Commercially successful, it was estimated to have been reprinted 300 times, with readers liking its romantic and picturesque qualities more than its political content. The novel was so popular that it attracted many tourists to Southern California who wanted to see places from the book.</p>"
+  }
+}

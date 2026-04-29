@@ -1,0 +1,63 @@
+{
+  "slug": "Hollow_Horn_Bear_LCCN_2016858434__2___cropped",
+  "name": "Hollow Horn Bear",
+  "description": "Lakota chief and policeman",
+  "summary": "Hollow Horn Bear was a Brulé Lakota chief. He fought in many of the battles of the Sioux Wars, including the Battle of Little Big Horn.",
+  "image_local": "images/Hollow_Horn_Bear_LCCN_2016858434__2___cropped.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Hollow_Horn_Bear_LCCN_2016858434_%282%29_%28cropped%29.jpg/800px-Hollow_Horn_Bear_LCCN_2016858434_%282%29_%28cropped%29.jpg",
+  "portrait_date": "1905-1913",
+  "original_caption": "Hollow Horn Bear LCCN 2016858434 (2) (cropped)",
+  "extracted_name": "Hollow Horn Bear",
+  "wikipedia_title": "Hollow Horn Bear",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Hollow_Horn_Bear",
+  "commons_file_page": "https://commons.wikimedia.org/wiki/File:Hollow_Horn_Bear_LCCN_2016858434_(2)_(cropped).jpg",
+  "wikipedia_summary": {
+    "type": "standard",
+    "title": "Hollow Horn Bear",
+    "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Hollow Horn Bear</span></span>",
+    "namespace": {
+      "id": 0,
+      "text": ""
+    },
+    "wikibase_item": "Q5881745",
+    "titles": {
+      "canonical": "Hollow_Horn_Bear",
+      "normalized": "Hollow Horn Bear",
+      "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Hollow Horn Bear</span></span>"
+    },
+    "pageid": 5212142,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Hollow_Horn_Bear_LCCN_2016858434_%282%29_%28cropped%29.jpg/330px-Hollow_Horn_Bear_LCCN_2016858434_%282%29_%28cropped%29.jpg",
+      "width": 330,
+      "height": 405
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Hollow_Horn_Bear_LCCN_2016858434_%282%29_%28cropped%29.jpg/3840px-Hollow_Horn_Bear_LCCN_2016858434_%282%29_%28cropped%29.jpg",
+      "width": 7636,
+      "height": 9370
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1350479666",
+    "tid": "d638496c-3e04-11f1-80d7-782673f8b1e7",
+    "timestamp": "2026-04-22T04:36:32Z",
+    "description": "Lakota chief and policeman",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Hollow_Horn_Bear",
+        "revisions": "https://en.wikipedia.org/wiki/Hollow_Horn_Bear?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Hollow_Horn_Bear?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Hollow_Horn_Bear"
+      },
+      "mobile": {
+        "page": "https://en.wikipedia.org/wiki/Hollow_Horn_Bear",
+        "revisions": "https://en.wikipedia.org/wiki/Special:History/Hollow_Horn_Bear",
+        "edit": "https://en.wikipedia.org/wiki/Hollow_Horn_Bear?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Hollow_Horn_Bear"
+      }
+    },
+    "extract": "Hollow Horn Bear was a Brulé Lakota chief. He fought in many of the battles of the Sioux Wars, including the Battle of Little Big Horn.",
+    "extract_html": "<p><b>Hollow Horn Bear</b> was a Brulé Lakota chief. He fought in many of the battles of the Sioux Wars, including the Battle of Little Big Horn.</p>"
+  }
+}

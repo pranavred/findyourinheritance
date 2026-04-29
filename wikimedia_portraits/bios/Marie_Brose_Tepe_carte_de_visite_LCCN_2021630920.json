@@ -1,0 +1,63 @@
+{
+  "slug": "Marie_Brose_Tepe_carte_de_visite_LCCN_2021630920",
+  "name": "Marie Tepe",
+  "description": "Vivandière in the Union Army (1834–1901)",
+  "summary": "Marie Brose Tepe Leonard, known as \"French Mary,\" was a vivandière of Franco-Turkish descent who fought for the Union Army during the American Civil War. Tepe served with the 27th and 114th Pennsylvania Infantry Regiments.",
+  "image_local": "images/Marie_Brose_Tepe_carte_de_visite_LCCN_2021630920.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Marie_Brose_Tepe_carte_de_visite_LCCN_2021630920.jpg/800px-Marie_Brose_Tepe_carte_de_visite_LCCN_2021630920.jpg",
+  "portrait_date": "",
+  "original_caption": "Marie Brose Tepe carte de visite LCCN 2021630920",
+  "extracted_name": "Marie Brose Tepe",
+  "wikipedia_title": "Marie Tepe",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Marie_Tepe",
+  "commons_file_page": "https://commons.wikimedia.org/wiki/File:Marie_Brose_Tepe_carte_de_visite_LCCN_2021630920.jpg",
+  "wikipedia_summary": {
+    "type": "standard",
+    "title": "Marie Tepe",
+    "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Marie Tepe</span></span>",
+    "namespace": {
+      "id": 0,
+      "text": ""
+    },
+    "wikibase_item": "Q28804313",
+    "titles": {
+      "canonical": "Marie_Tepe",
+      "normalized": "Marie Tepe",
+      "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Marie Tepe</span></span>"
+    },
+    "pageid": 53233941,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Marie_Brose_Tepe_carte_de_visite_LCCN_2021630920.jpg/330px-Marie_Brose_Tepe_carte_de_visite_LCCN_2021630920.jpg",
+      "width": 330,
+      "height": 524
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/6/62/Marie_Brose_Tepe_carte_de_visite_LCCN_2021630920.jpg",
+      "width": 2235,
+      "height": 3548
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1342653878",
+    "tid": "bfa8abb1-1c27-11f1-84b8-57462164ff97",
+    "timestamp": "2026-03-10T02:20:47Z",
+    "description": "Vivandière in the Union Army (1834–1901)",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Marie_Tepe",
+        "revisions": "https://en.wikipedia.org/wiki/Marie_Tepe?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Marie_Tepe?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Marie_Tepe"
+      },
+      "mobile": {
+        "page": "https://en.wikipedia.org/wiki/Marie_Tepe",
+        "revisions": "https://en.wikipedia.org/wiki/Special:History/Marie_Tepe",
+        "edit": "https://en.wikipedia.org/wiki/Marie_Tepe?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Marie_Tepe"
+      }
+    },
+    "extract": "Marie Brose Tepe Leonard, known as \"French Mary,\" was a vivandière of Franco-Turkish descent who fought for the Union Army during the American Civil War. Tepe served with the 27th and 114th Pennsylvania Infantry Regiments.",
+    "extract_html": "<p><b>Marie Brose Tepe Leonard</b>, known as \"French Mary,\" was a vivandière of Franco-Turkish descent who fought for the Union Army during the American Civil War. Tepe served with the 27th and 114th Pennsylvania Infantry Regiments.</p>"
+  }
+}

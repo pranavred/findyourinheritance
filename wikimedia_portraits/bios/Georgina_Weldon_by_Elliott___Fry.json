@@ -1,0 +1,61 @@
+{
+  "slug": "Georgina_Weldon_by_Elliott___Fry",
+  "name": "Georgina Weldon",
+  "description": "",
+  "summary": "Georgina Weldon was a British litigant and amateur soprano of the Victorian era.",
+  "image_local": "images/Georgina_Weldon_by_Elliott___Fry.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Georgina_Weldon_by_Elliott_%26_Fry.jpg/800px-Georgina_Weldon_by_Elliott_%26_Fry.jpg",
+  "portrait_date": "",
+  "original_caption": "Georgina Weldon by Elliott & Fry",
+  "extracted_name": "Georgina Weldon",
+  "wikipedia_title": "Georgina Weldon",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Georgina_Weldon",
+  "commons_file_page": "https://commons.wikimedia.org/wiki/File:Georgina_Weldon_by_Elliott_%26_Fry.jpg",
+  "wikipedia_summary": {
+    "type": "standard",
+    "title": "Georgina Weldon",
+    "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Georgina Weldon</span></span>",
+    "namespace": {
+      "id": 0,
+      "text": ""
+    },
+    "wikibase_item": "Q5548310",
+    "titles": {
+      "canonical": "Georgina_Weldon",
+      "normalized": "Georgina Weldon",
+      "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Georgina Weldon</span></span>"
+    },
+    "pageid": 25744581,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Georgina_Weldon_by_Elliott_%26_Fry.jpg/330px-Georgina_Weldon_by_Elliott_%26_Fry.jpg",
+      "width": 330,
+      "height": 452
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Georgina_Weldon_by_Elliott_%26_Fry.jpg",
+      "width": 1472,
+      "height": 2016
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1328636959",
+    "tid": "71db8db3-de02-11f0-b58c-71b7c4d149bb",
+    "timestamp": "2025-12-21T00:17:33Z",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Georgina_Weldon",
+        "revisions": "https://en.wikipedia.org/wiki/Georgina_Weldon?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Georgina_Weldon?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Georgina_Weldon"
+      },
+      "mobile": {
+        "page": "https://en.wikipedia.org/wiki/Georgina_Weldon",
+        "revisions": "https://en.wikipedia.org/wiki/Special:History/Georgina_Weldon",
+        "edit": "https://en.wikipedia.org/wiki/Georgina_Weldon?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Georgina_Weldon"
+      }
+    },
+    "extract": "Georgina Weldon was a British litigant and amateur soprano of the Victorian era.",
+    "extract_html": "<p><b>Georgina Weldon</b> was a British litigant and amateur soprano of the Victorian era.</p>"
+  }
+}

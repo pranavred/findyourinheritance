@@ -1,0 +1,63 @@
+{
+  "slug": "Haane_Manahi",
+  "name": "Haane Manahi",
+  "description": "New Zealand Army soldier (1913–1986)",
+  "summary": "Haane Te Rauawa Manahi, DCM was a New Zealand Māori soldier during the Second World War whose gallantry during the Tunisian campaign resulted in a recommendation that he be awarded the Victoria Cross (VC). The subsequent award of the Distinguished Conduct Medal (DCM) disappointed his fellow soldiers who, after his death, advocated greater recognition of his valour. This eventually resulted in a special award in 2007 of an altar cloth for use in a local church, ceremonial sword and a personal letter from Queen Elizabeth II in recognition of his gallantry.",
+  "image_local": "images/Haane_Manahi.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Haane_Manahi.jpg/800px-Haane_Manahi.jpg",
+  "portrait_date": "1943",
+  "original_caption": "Haane Manahi",
+  "extracted_name": "Haane Manahi",
+  "wikipedia_title": "Haane Manahi",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Haane_Manahi",
+  "commons_file_page": "https://commons.wikimedia.org/wiki/File:Haane_Manahi.jpg",
+  "wikipedia_summary": {
+    "type": "standard",
+    "title": "Haane Manahi",
+    "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Haane Manahi</span></span>",
+    "namespace": {
+      "id": 0,
+      "text": ""
+    },
+    "wikibase_item": "Q5636523",
+    "titles": {
+      "canonical": "Haane_Manahi",
+      "normalized": "Haane Manahi",
+      "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Haane Manahi</span></span>"
+    },
+    "pageid": 10102057,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Haane_Manahi.jpg/330px-Haane_Manahi.jpg",
+      "width": 330,
+      "height": 455
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Haane_Manahi.jpg",
+      "width": 2478,
+      "height": 3419
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1351333921",
+    "tid": "88637e66-421a-11f1-a853-d8957b4fd13b",
+    "timestamp": "2026-04-27T09:21:55Z",
+    "description": "New Zealand Army soldier (1913–1986)",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Haane_Manahi",
+        "revisions": "https://en.wikipedia.org/wiki/Haane_Manahi?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Haane_Manahi?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Haane_Manahi"
+      },
+      "mobile": {
+        "page": "https://en.wikipedia.org/wiki/Haane_Manahi",
+        "revisions": "https://en.wikipedia.org/wiki/Special:History/Haane_Manahi",
+        "edit": "https://en.wikipedia.org/wiki/Haane_Manahi?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Haane_Manahi"
+      }
+    },
+    "extract": "Haane Te Rauawa Manahi, DCM was a New Zealand Māori soldier during the Second World War whose gallantry during the Tunisian campaign resulted in a recommendation that he be awarded the Victoria Cross (VC). The subsequent award of the Distinguished Conduct Medal (DCM) disappointed his fellow soldiers who, after his death, advocated greater recognition of his valour. This eventually resulted in a special award in 2007 of an altar cloth for use in a local church, ceremonial sword and a personal letter from Queen Elizabeth II in recognition of his gallantry.",
+    "extract_html": "<p><b>Haane Te Rauawa Manahi</b>, DCM was a New Zealand Māori soldier during the Second World War whose gallantry during the Tunisian campaign resulted in a recommendation that he be awarded the Victoria Cross (VC). The subsequent award of the Distinguished Conduct Medal (DCM) disappointed his fellow soldiers who, after his death, advocated greater recognition of his valour. This eventually resulted in a special award in 2007 of an altar cloth for use in a local church, ceremonial sword and a personal letter from Queen Elizabeth II in recognition of his gallantry.</p>"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "slug": "Jackie_Robinson__Brooklyn_Dodgers__1954",
+  "name": "Jackie Robinson",
+  "description": "American baseball player (1919–1972)",
+  "summary": "Jack Roosevelt Robinson was an American professional baseball player who was the first African American to play in Major League Baseball (MLB) in the modern era. Robinson broke the color line when he started at first base for the Brooklyn Dodgers on April 15, 1947. The Dodgers signing Robinson heralded the end of racial segregation in professional baseball, which had relegated black players to the Negro leagues since the 1880s.",
+  "image_local": "images/Jackie_Robinson__Brooklyn_Dodgers__1954.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Jackie_Robinson%2C_Brooklyn_Dodgers%2C_1954.jpg/800px-Jackie_Robinson%2C_Brooklyn_Dodgers%2C_1954.jpg",
+  "portrait_date": "1954",
+  "original_caption": "Jackie Robinson, Brooklyn Dodgers, 1954",
+  "extracted_name": "Jackie Robinson",
+  "wikipedia_title": "Jackie Robinson",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Jackie_Robinson",
+  "commons_file_page": "https://commons.wikimedia.org/wiki/File:Jackie_Robinson,_Brooklyn_Dodgers,_1954.jpg",
+  "wikipedia_summary": {
+    "type": "standard",
+    "title": "Jackie Robinson",
+    "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Jackie Robinson</span></span>",
+    "namespace": {
+      "id": 0,
+      "text": ""
+    },
+    "wikibase_item": "Q221048",
+    "titles": {
+      "canonical": "Jackie_Robinson",
+      "normalized": "Jackie Robinson",
+      "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Jackie Robinson</span></span>"
+    },
+    "pageid": 16193,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Jackie_Robinson%2C_NPG_97_135.jpg/330px-Jackie_Robinson%2C_NPG_97_135.jpg",
+      "width": 330,
+      "height": 425
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Jackie_Robinson%2C_NPG_97_135.jpg",
+      "width": 3386,
+      "height": 4361
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1351218777",
+    "tid": "16971d9e-4199-11f1-aee5-02b1e23b7966",
+    "timestamp": "2026-04-26T17:55:19Z",
+    "description": "American baseball player (1919–1972)",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Jackie_Robinson",
+        "revisions": "https://en.wikipedia.org/wiki/Jackie_Robinson?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Jackie_Robinson?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Jackie_Robinson"
+      },
+      "mobile": {
+        "page": "https://en.wikipedia.org/wiki/Jackie_Robinson",
+        "revisions": "https://en.wikipedia.org/wiki/Special:History/Jackie_Robinson",
+        "edit": "https://en.wikipedia.org/wiki/Jackie_Robinson?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Jackie_Robinson"
+      }
+    },
+    "extract": "Jack Roosevelt Robinson was an American professional baseball player who was the first African American to play in Major League Baseball (MLB) in the modern era. Robinson broke the color line when he started at first base for the Brooklyn Dodgers on April 15, 1947. The Dodgers signing Robinson heralded the end of racial segregation in professional baseball, which had relegated black players to the Negro leagues since the 1880s.",
+    "extract_html": "<p><b>Jack Roosevelt Robinson</b> was an American professional baseball player who was the first African American to play in Major League Baseball (MLB) in the modern era. Robinson broke the color line when he started at first base for the Brooklyn Dodgers on April 15, 1947. The Dodgers signing Robinson heralded the end of racial segregation in professional baseball, which had relegated black players to the Negro leagues since the 1880s.</p>"
+  }
+}

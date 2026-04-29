@@ -1,0 +1,63 @@
+{
+  "slug": "Salote_Tupou_III_of_Tonga_in_1908",
+  "name": "Sālote Tupou III",
+  "description": "Queen of Tonga from 1918 to 1965",
+  "summary": "Sālote Tupou III was Queen of Tonga from 1918 to her death in 1965. She reigned for nearly 48 years, the longest of any Tongan monarch. Her rule of Tonga has been characterized as a golden age for Tonga. She was well known for her height, being 6 ft 3 in (191 cm) tall in her prime.",
+  "image_local": "images/Salote_Tupou_III_of_Tonga_in_1908.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Salote_Tupou_III_of_Tonga_in_1908.jpg/800px-Salote_Tupou_III_of_Tonga_in_1908.jpg",
+  "portrait_date": "1908",
+  "original_caption": "Salote Tupou III of Tonga in 1908",
+  "extracted_name": "Salote Tupou III",
+  "wikipedia_title": "Sālote Tupou III",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/S%C4%81lote_Tupou_III",
+  "commons_file_page": "https://commons.wikimedia.org/wiki/File:Salote_Tupou_III_of_Tonga_in_1908.jpg",
+  "wikipedia_summary": {
+    "type": "standard",
+    "title": "Sālote Tupou III",
+    "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Sālote Tupou III</span></span>",
+    "namespace": {
+      "id": 0,
+      "text": ""
+    },
+    "wikibase_item": "Q541570",
+    "titles": {
+      "canonical": "Sālote_Tupou_III",
+      "normalized": "Sālote Tupou III",
+      "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Sālote Tupou III</span></span>"
+    },
+    "pageid": 615588,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Salote_Tupou_III_of_Tonga_in_coronation_robe-crop.jpg/330px-Salote_Tupou_III_of_Tonga_in_coronation_robe-crop.jpg",
+      "width": 330,
+      "height": 514
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/8/85/Salote_Tupou_III_of_Tonga_in_coronation_robe-crop.jpg",
+      "width": 550,
+      "height": 856
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1350114049",
+    "tid": "6a7f9f80-3c8d-11f1-824c-1ee4ebcc5a80",
+    "timestamp": "2026-04-20T07:49:10Z",
+    "description": "Queen of Tonga from 1918 to 1965",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/S%C4%81lote_Tupou_III",
+        "revisions": "https://en.wikipedia.org/wiki/S%C4%81lote_Tupou_III?action=history",
+        "edit": "https://en.wikipedia.org/wiki/S%C4%81lote_Tupou_III?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:S%C4%81lote_Tupou_III"
+      },
+      "mobile": {
+        "page": "https://en.wikipedia.org/wiki/S%C4%81lote_Tupou_III",
+        "revisions": "https://en.wikipedia.org/wiki/Special:History/S%C4%81lote_Tupou_III",
+        "edit": "https://en.wikipedia.org/wiki/S%C4%81lote_Tupou_III?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:S%C4%81lote_Tupou_III"
+      }
+    },
+    "extract": "Sālote Tupou III was Queen of Tonga from 1918 to her death in 1965. She reigned for nearly 48 years, the longest of any Tongan monarch. Her rule of Tonga has been characterized as a golden age for Tonga. She was well known for her height, being 6 ft 3 in (191 cm) tall in her prime.",
+    "extract_html": "<p><b>Sālote Tupou III</b> was Queen of Tonga from 1918 to her death in 1965. She reigned for nearly 48 years, the longest of any Tongan monarch. Her rule of Tonga has been characterized as a golden age for Tonga. She was well known for her height, being 6 ft 3 in (191 cm) tall in her prime.</p>"
+  }
+}

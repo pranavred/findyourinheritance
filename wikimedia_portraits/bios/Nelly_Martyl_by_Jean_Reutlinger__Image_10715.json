@@ -1,0 +1,63 @@
+{
+  "slug": "Nelly_Martyl_by_Jean_Reutlinger__Image_10715",
+  "name": "Nelly Martyl",
+  "description": "French singer, war nurse, philanthropist",
+  "summary": "Nelly Martyl, born Nelly Adèle Anny Martin, was a French soprano opera singer based in Paris who participated in several world premieres. During World War I and the 1918 flu epidemic, she worked as a nurse and received the Croix de Guerre for her service.",
+  "image_local": "images/Nelly_Martyl_by_Jean_Reutlinger__Image_10715.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Nelly_Martyl_by_Jean_Reutlinger_%28Image_10715%29.jpg/800px-Nelly_Martyl_by_Jean_Reutlinger_%28Image_10715%29.jpg",
+  "portrait_date": "between 1907 and 1912",
+  "original_caption": "Nelly Martyl by Jean Reutlinger",
+  "extracted_name": "Nelly Martyl",
+  "wikipedia_title": "Nelly Martyl",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Nelly_Martyl",
+  "commons_file_page": "https://commons.wikimedia.org/wiki/File:Nelly_Martyl_by_Jean_Reutlinger_(Image_10715).jpg",
+  "wikipedia_summary": {
+    "type": "standard",
+    "title": "Nelly Martyl",
+    "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Nelly Martyl</span></span>",
+    "namespace": {
+      "id": 0,
+      "text": ""
+    },
+    "wikibase_item": "Q73923149",
+    "titles": {
+      "canonical": "Nelly_Martyl",
+      "normalized": "Nelly Martyl",
+      "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Nelly Martyl</span></span>"
+    },
+    "pageid": 64963394,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Nelly_Martyl_by_Jean_Reutlinger_%28Image_10715%29.jpg/330px-Nelly_Martyl_by_Jean_Reutlinger_%28Image_10715%29.jpg",
+      "width": 330,
+      "height": 455
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Nelly_Martyl_by_Jean_Reutlinger_%28Image_10715%29.jpg",
+      "width": 1621,
+      "height": 2233
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1331566478",
+    "tid": "0a8e3f02-eb5f-11f0-adf2-7257de29de46",
+    "timestamp": "2026-01-07T00:23:08Z",
+    "description": "French singer, war nurse, philanthropist",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Nelly_Martyl",
+        "revisions": "https://en.wikipedia.org/wiki/Nelly_Martyl?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Nelly_Martyl?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Nelly_Martyl"
+      },
+      "mobile": {
+        "page": "https://en.wikipedia.org/wiki/Nelly_Martyl",
+        "revisions": "https://en.wikipedia.org/wiki/Special:History/Nelly_Martyl",
+        "edit": "https://en.wikipedia.org/wiki/Nelly_Martyl?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Nelly_Martyl"
+      }
+    },
+    "extract": "Nelly Martyl, born Nelly Adèle Anny Martin, was a French soprano opera singer based in Paris who participated in several world premieres. During World War I and the 1918 flu epidemic, she worked as a nurse and received the Croix de Guerre for her service.",
+    "extract_html": "<p><b>Nelly Martyl</b>, born <b>Nelly Adèle Anny Martin</b>, was a French soprano opera singer based in Paris who participated in several world premieres. During World War I and the 1918 flu epidemic, she worked as a nurse and received the Croix de Guerre for her service.</p>"
+  }
+}

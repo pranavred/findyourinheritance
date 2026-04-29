@@ -1,0 +1,63 @@
+{
+  "slug": "Elsie_Leslie__1899__by_Zaida_Ben-Yusuf",
+  "name": "Elsie Leslie",
+  "description": "American actress",
+  "summary": "Elsie Leslie was an American actress. She was America's first child star and the highest paid and most popular child actress of her era.",
+  "image_local": "images/Elsie_Leslie__1899__by_Zaida_Ben-Yusuf.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Elsie_Leslie_%281899%29_by_Zaida_Ben-Yusuf.jpg/800px-Elsie_Leslie_%281899%29_by_Zaida_Ben-Yusuf.jpg",
+  "portrait_date": "1899",
+  "original_caption": "Elsie Leslie (1899)",
+  "extracted_name": "Elsie Leslie",
+  "wikipedia_title": "Elsie Leslie",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Elsie_Leslie",
+  "commons_file_page": "https://commons.wikimedia.org/wiki/File:Elsie_Leslie_(1899)_by_Zaida_Ben-Yusuf.jpg",
+  "wikipedia_summary": {
+    "type": "standard",
+    "title": "Elsie Leslie",
+    "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Elsie Leslie</span></span>",
+    "namespace": {
+      "id": 0,
+      "text": ""
+    },
+    "wikibase_item": "Q5367601",
+    "titles": {
+      "canonical": "Elsie_Leslie",
+      "normalized": "Elsie Leslie",
+      "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Elsie Leslie</span></span>"
+    },
+    "pageid": 20881305,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Elsie_Leslie%2C_by_Otto_Sarony.jpg/330px-Elsie_Leslie%2C_by_Otto_Sarony.jpg",
+      "width": 330,
+      "height": 471
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/3/35/Elsie_Leslie%2C_by_Otto_Sarony.jpg",
+      "width": 1190,
+      "height": 1700
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1336860875",
+    "tid": "b5d21528-0310-11f1-8b56-463867d34ea4",
+    "timestamp": "2026-02-06T04:02:53Z",
+    "description": "American actress",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Elsie_Leslie",
+        "revisions": "https://en.wikipedia.org/wiki/Elsie_Leslie?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Elsie_Leslie?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Elsie_Leslie"
+      },
+      "mobile": {
+        "page": "https://en.wikipedia.org/wiki/Elsie_Leslie",
+        "revisions": "https://en.wikipedia.org/wiki/Special:History/Elsie_Leslie",
+        "edit": "https://en.wikipedia.org/wiki/Elsie_Leslie?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Elsie_Leslie"
+      }
+    },
+    "extract": "Elsie Leslie was an American actress. She was America's first child star and the highest paid and most popular child actress of her era.",
+    "extract_html": "<p><b>Elsie Leslie</b> was an American actress. She was America's first child star and the highest paid and most popular child actress of her era.</p>"
+  }
+}

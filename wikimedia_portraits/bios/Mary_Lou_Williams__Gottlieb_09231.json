@@ -1,0 +1,63 @@
+{
+  "slug": "Mary_Lou_Williams__Gottlieb_09231",
+  "name": "Mary Lou Williams",
+  "description": "American jazz pianist and composer (1910–1981)",
+  "summary": "Mary Lou Williams was an American jazz pianist, arranger, and composer. She wrote hundreds of compositions and arrangements and recorded more than one hundred records. Williams wrote and arranged for Duke Ellington and Benny Goodman, and she was friend, mentor, and teacher to Thelonious Monk, Charlie Parker, Miles Davis, Tadd Dameron, Bud Powell, and Dizzy Gillespie.",
+  "image_local": "images/Mary_Lou_Williams__Gottlieb_09231.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Mary_Lou_Williams_%28Gottlieb_09231%29.jpg/800px-Mary_Lou_Williams_%28Gottlieb_09231%29.jpg",
+  "portrait_date": "1946",
+  "original_caption": "Mary Lou Williams (Gottlieb 09231)",
+  "extracted_name": "Mary Lou Williams",
+  "wikipedia_title": "Mary Lou Williams",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Mary_Lou_Williams",
+  "commons_file_page": "https://commons.wikimedia.org/wiki/File:Mary_Lou_Williams_(Gottlieb_09231).jpg",
+  "wikipedia_summary": {
+    "type": "standard",
+    "title": "Mary Lou Williams",
+    "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Mary Lou Williams</span></span>",
+    "namespace": {
+      "id": 0,
+      "text": ""
+    },
+    "wikibase_item": "Q126677",
+    "titles": {
+      "canonical": "Mary_Lou_Williams",
+      "normalized": "Mary Lou Williams",
+      "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Mary Lou Williams</span></span>"
+    },
+    "pageid": 261556,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Mary_Lou_Williams_%28Gottlieb_09231%29_-_Crop.jpg/330px-Mary_Lou_Williams_%28Gottlieb_09231%29_-_Crop.jpg",
+      "width": 330,
+      "height": 396
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/9/95/Mary_Lou_Williams_%28Gottlieb_09231%29_-_Crop.jpg",
+      "width": 3669,
+      "height": 4403
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1347077839",
+    "tid": "12fbf5ed-3038-11f1-9862-a359f054ae3e",
+    "timestamp": "2026-04-04T15:08:02Z",
+    "description": "American jazz pianist and composer (1910–1981)",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Mary_Lou_Williams",
+        "revisions": "https://en.wikipedia.org/wiki/Mary_Lou_Williams?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Mary_Lou_Williams?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Mary_Lou_Williams"
+      },
+      "mobile": {
+        "page": "https://en.wikipedia.org/wiki/Mary_Lou_Williams",
+        "revisions": "https://en.wikipedia.org/wiki/Special:History/Mary_Lou_Williams",
+        "edit": "https://en.wikipedia.org/wiki/Mary_Lou_Williams?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Mary_Lou_Williams"
+      }
+    },
+    "extract": "Mary Lou Williams was an American jazz pianist, arranger, and composer. She wrote hundreds of compositions and arrangements and recorded more than one hundred records. Williams wrote and arranged for Duke Ellington and Benny Goodman, and she was friend, mentor, and teacher to Thelonious Monk, Charlie Parker, Miles Davis, Tadd Dameron, Bud Powell, and Dizzy Gillespie.",
+    "extract_html": "<p><b>Mary Lou Williams</b> was an American jazz pianist, arranger, and composer. She wrote hundreds of compositions and arrangements and recorded more than one hundred records. Williams wrote and arranged for Duke Ellington and Benny Goodman, and she was friend, mentor, and teacher to Thelonious Monk, Charlie Parker, Miles Davis, Tadd Dameron, Bud Powell, and Dizzy Gillespie.</p>"
+  }
+}

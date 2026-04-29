@@ -1,0 +1,63 @@
+{
+  "slug": "Keir_Hardie_by_George_Grantham_Bain",
+  "name": "Keir Hardie",
+  "description": "Scottish socialist and founder of the British Labour Party (1856–1915)",
+  "summary": "James Keir Hardie was a Scottish trade unionist and politician. He was a founder of the Labour Party, and was its first parliamentary leader from 1906 to 1908.",
+  "image_local": "images/Keir_Hardie_by_George_Grantham_Bain.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Keir_Hardie_by_George_Grantham_Bain.jpg/800px-Keir_Hardie_by_George_Grantham_Bain.jpg",
+  "portrait_date": "",
+  "original_caption": "Keir Hardie by George Grantham Bain",
+  "extracted_name": "Keir Hardie",
+  "wikipedia_title": "Keir Hardie",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Keir_Hardie",
+  "commons_file_page": "https://commons.wikimedia.org/wiki/File:Keir_Hardie_by_George_Grantham_Bain.jpg",
+  "wikipedia_summary": {
+    "type": "standard",
+    "title": "Keir Hardie",
+    "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Keir Hardie</span></span>",
+    "namespace": {
+      "id": 0,
+      "text": ""
+    },
+    "wikibase_item": "Q332460",
+    "titles": {
+      "canonical": "Keir_Hardie",
+      "normalized": "Keir Hardie",
+      "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Keir Hardie</span></span>"
+    },
+    "pageid": 236455,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Keir_Hardie_by_George_Grantham_Bain.jpg/330px-Keir_Hardie_by_George_Grantham_Bain.jpg",
+      "width": 330,
+      "height": 474
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Keir_Hardie_by_George_Grantham_Bain.jpg/3840px-Keir_Hardie_by_George_Grantham_Bain.jpg",
+      "width": 4539,
+      "height": 6522
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1350970545",
+    "tid": "48559be0-405a-11f1-811d-a14147639d50",
+    "timestamp": "2026-04-25T03:53:13Z",
+    "description": "Scottish socialist and founder of the British Labour Party (1856–1915)",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Keir_Hardie",
+        "revisions": "https://en.wikipedia.org/wiki/Keir_Hardie?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Keir_Hardie?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Keir_Hardie"
+      },
+      "mobile": {
+        "page": "https://en.wikipedia.org/wiki/Keir_Hardie",
+        "revisions": "https://en.wikipedia.org/wiki/Special:History/Keir_Hardie",
+        "edit": "https://en.wikipedia.org/wiki/Keir_Hardie?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Keir_Hardie"
+      }
+    },
+    "extract": "James Keir Hardie was a Scottish trade unionist and politician. He was a founder of the Labour Party, and was its first parliamentary leader from 1906 to 1908.",
+    "extract_html": "<p><b>James Keir Hardie</b> was a Scottish trade unionist and politician. He was a founder of the Labour Party, and was its first parliamentary leader from 1906 to 1908.</p>"
+  }
+}

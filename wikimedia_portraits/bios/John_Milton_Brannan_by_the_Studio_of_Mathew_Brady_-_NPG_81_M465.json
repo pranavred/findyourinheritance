@@ -1,0 +1,63 @@
+{
+  "slug": "John_Milton_Brannan_by_the_Studio_of_Mathew_Brady_-_NPG_81_M465",
+  "name": "John Milton Brannan",
+  "description": "Union Army general (1819–1892)",
+  "summary": "John Milton Brannan was an American military officer who served with distinction in the Mexican–American War as a United States Army artillery officer and as a Union Army brigadier general of United States Volunteers in the American Civil War. Brannan held command of the Department of Key West at Fort Zachary Taylor, Florida, part of the Union effort to hold federal installations within Confederate territories early in the war. Later, and most notably, he served as a division commander of the Union XIV Corps at the Battle of Chickamauga in 1863.",
+  "image_local": "images/John_Milton_Brannan_by_the_Studio_of_Mathew_Brady_-_NPG_81_M465.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/John_Milton_Brannan_by_the_Studio_of_Mathew_Brady_-_NPG_81_M465.jpg/800px-John_Milton_Brannan_by_the_Studio_of_Mathew_Brady_-_NPG_81_M465.jpg",
+  "portrait_date": "1860-1865",
+  "original_caption": "John Milton Brannan by the Studio of Mathew Brady - NPG 81 M465",
+  "extracted_name": "John Milton Brannan",
+  "wikipedia_title": "John Milton Brannan",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/John_Milton_Brannan",
+  "commons_file_page": "https://commons.wikimedia.org/wiki/File:John_Milton_Brannan_by_the_Studio_of_Mathew_Brady_-_NPG_81_M465.jpg",
+  "wikipedia_summary": {
+    "type": "standard",
+    "title": "John Milton Brannan",
+    "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">John Milton Brannan</span></span>",
+    "namespace": {
+      "id": 0,
+      "text": ""
+    },
+    "wikibase_item": "Q4096296",
+    "titles": {
+      "canonical": "John_Milton_Brannan",
+      "normalized": "John Milton Brannan",
+      "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">John Milton Brannan</span></span>"
+    },
+    "pageid": 12695429,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/John_Milton_Brannan_by_the_Studio_of_Mathew_Brady_-_NPG_81_M465.jpg/330px-John_Milton_Brannan_by_the_Studio_of_Mathew_Brady_-_NPG_81_M465.jpg",
+      "width": 330,
+      "height": 460
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/John_Milton_Brannan_by_the_Studio_of_Mathew_Brady_-_NPG_81_M465.jpg/3840px-John_Milton_Brannan_by_the_Studio_of_Mathew_Brady_-_NPG_81_M465.jpg",
+      "width": 4248,
+      "height": 5918
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1322145897",
+    "tid": "e112f26d-c173-11f0-b062-25b593e92162",
+    "timestamp": "2025-11-14T16:06:29Z",
+    "description": "Union Army general (1819–1892)",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/John_Milton_Brannan",
+        "revisions": "https://en.wikipedia.org/wiki/John_Milton_Brannan?action=history",
+        "edit": "https://en.wikipedia.org/wiki/John_Milton_Brannan?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:John_Milton_Brannan"
+      },
+      "mobile": {
+        "page": "https://en.wikipedia.org/wiki/John_Milton_Brannan",
+        "revisions": "https://en.wikipedia.org/wiki/Special:History/John_Milton_Brannan",
+        "edit": "https://en.wikipedia.org/wiki/John_Milton_Brannan?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:John_Milton_Brannan"
+      }
+    },
+    "extract": "John Milton Brannan was an American military officer who served with distinction in the Mexican–American War as a United States Army artillery officer and as a Union Army brigadier general of United States Volunteers in the American Civil War. Brannan held command of the Department of Key West at Fort Zachary Taylor, Florida, part of the Union effort to hold federal installations within Confederate territories early in the war. Later, and most notably, he served as a division commander of the Union XIV Corps at the Battle of Chickamauga in 1863.",
+    "extract_html": "<p><b>John Milton Brannan</b> was an American military officer who served with distinction in the Mexican–American War as a United States Army artillery officer and as a Union Army brigadier general of United States Volunteers in the American Civil War. Brannan held command of the Department of Key West at Fort Zachary Taylor, Florida, part of the Union effort to hold federal installations within Confederate territories early in the war. Later, and most notably, he served as a division commander of the Union XIV Corps at the Battle of Chickamauga in 1863.</p>"
+  }
+}

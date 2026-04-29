@@ -1,0 +1,63 @@
+{
+  "slug": "Wilhelm_Benque_-_Photograph_of_Ambroise_Thomas",
+  "name": "Ambroise Thomas",
+  "description": "French composer and music educator (1811-1896)",
+  "summary": "Charles Louis Ambroise Thomas was a French composer and teacher, best known for his operas Mignon (1866) and Hamlet (1868).",
+  "image_local": "images/Wilhelm_Benque_-_Photograph_of_Ambroise_Thomas.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Wilhelm_Benque_-_Photograph_of_Ambroise_Thomas.jpg/800px-Wilhelm_Benque_-_Photograph_of_Ambroise_Thomas.jpg",
+  "portrait_date": "c. 1894",
+  "original_caption": "Ambroise Thomas",
+  "extracted_name": "Ambroise Thomas",
+  "wikipedia_title": "Ambroise Thomas",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Ambroise_Thomas",
+  "commons_file_page": "https://commons.wikimedia.org/wiki/File:Wilhelm_Benque_-_Photograph_of_Ambroise_Thomas.jpg",
+  "wikipedia_summary": {
+    "type": "standard",
+    "title": "Ambroise Thomas",
+    "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Ambroise Thomas</span></span>",
+    "namespace": {
+      "id": 0,
+      "text": ""
+    },
+    "wikibase_item": "Q297717",
+    "titles": {
+      "canonical": "Ambroise_Thomas",
+      "normalized": "Ambroise Thomas",
+      "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Ambroise Thomas</span></span>"
+    },
+    "pageid": 356938,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Wilhelm_Benque_-_Photograph_of_Ambroise_Thomas.jpg/330px-Wilhelm_Benque_-_Photograph_of_Ambroise_Thomas.jpg",
+      "width": 330,
+      "height": 467
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Wilhelm_Benque_-_Photograph_of_Ambroise_Thomas.jpg/3840px-Wilhelm_Benque_-_Photograph_of_Ambroise_Thomas.jpg",
+      "width": 4858,
+      "height": 6869
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1309031184",
+    "tid": "9ede3469-876e-11f0-b4a9-cc4d3b41ced9",
+    "timestamp": "2025-09-01T20:02:43Z",
+    "description": "French composer and music educator (1811-1896)",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Ambroise_Thomas",
+        "revisions": "https://en.wikipedia.org/wiki/Ambroise_Thomas?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Ambroise_Thomas?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Ambroise_Thomas"
+      },
+      "mobile": {
+        "page": "https://en.wikipedia.org/wiki/Ambroise_Thomas",
+        "revisions": "https://en.wikipedia.org/wiki/Special:History/Ambroise_Thomas",
+        "edit": "https://en.wikipedia.org/wiki/Ambroise_Thomas?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Ambroise_Thomas"
+      }
+    },
+    "extract": "Charles Louis Ambroise Thomas was a French composer and teacher, best known for his operas Mignon (1866) and Hamlet (1868).",
+    "extract_html": "<p><b>Charles Louis Ambroise Thomas</b> was a French composer and teacher, best known for his operas <i>Mignon</i> (1866) and <i>Hamlet</i> (1868).</p>"
+  }
+}

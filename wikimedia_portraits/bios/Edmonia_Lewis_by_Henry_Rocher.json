@@ -1,0 +1,63 @@
+{
+  "slug": "Edmonia_Lewis_by_Henry_Rocher",
+  "name": "Edmonia Lewis",
+  "description": "American sculptor (1844–1907)",
+  "summary": "Mary Edmonia Lewis, also known as \"Wildfire\", was an American sculptor.",
+  "image_local": "images/Edmonia_Lewis_by_Henry_Rocher.jpg",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Edmonia_Lewis_by_Henry_Rocher.jpg/800px-Edmonia_Lewis_by_Henry_Rocher.jpg",
+  "portrait_date": "c. 1870",
+  "original_caption": "Edmonia Lewis by Henry Rocher",
+  "extracted_name": "Edmonia Lewis",
+  "wikipedia_title": "Edmonia Lewis",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Edmonia_Lewis",
+  "commons_file_page": "https://commons.wikimedia.org/wiki/File:Edmonia_Lewis_by_Henry_Rocher.jpg",
+  "wikipedia_summary": {
+    "type": "standard",
+    "title": "Edmonia Lewis",
+    "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Edmonia Lewis</span></span>",
+    "namespace": {
+      "id": 0,
+      "text": ""
+    },
+    "wikibase_item": "Q512065",
+    "titles": {
+      "canonical": "Edmonia_Lewis",
+      "normalized": "Edmonia Lewis",
+      "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Edmonia Lewis</span></span>"
+    },
+    "pageid": 1504821,
+    "thumbnail": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Edmonia_Lewis_by_Henry_Rocher.jpg/330px-Edmonia_Lewis_by_Henry_Rocher.jpg",
+      "width": 330,
+      "height": 592
+    },
+    "originalimage": {
+      "source": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Edmonia_Lewis_by_Henry_Rocher.jpg",
+      "width": 2404,
+      "height": 4314
+    },
+    "lang": "en",
+    "dir": "ltr",
+    "revision": "1349120763",
+    "tid": "9c9ea360-3913-11f1-9784-9bb5c2b9c0fd",
+    "timestamp": "2026-04-15T21:39:42Z",
+    "description": "American sculptor (1844–1907)",
+    "description_source": "local",
+    "content_urls": {
+      "desktop": {
+        "page": "https://en.wikipedia.org/wiki/Edmonia_Lewis",
+        "revisions": "https://en.wikipedia.org/wiki/Edmonia_Lewis?action=history",
+        "edit": "https://en.wikipedia.org/wiki/Edmonia_Lewis?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Edmonia_Lewis"
+      },
+      "mobile": {
+        "page": "https://en.wikipedia.org/wiki/Edmonia_Lewis",
+        "revisions": "https://en.wikipedia.org/wiki/Special:History/Edmonia_Lewis",
+        "edit": "https://en.wikipedia.org/wiki/Edmonia_Lewis?action=edit",
+        "talk": "https://en.wikipedia.org/wiki/Talk:Edmonia_Lewis"
+      }
+    },
+    "extract": "Mary Edmonia Lewis, also known as \"Wildfire\", was an American sculptor.",
+    "extract_html": "<p><b>Mary Edmonia Lewis</b>, also known as <b>\"Wildfire\"</b>, was an American sculptor.</p>"
+  }
+}
