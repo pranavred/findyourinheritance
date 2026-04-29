@@ -409,7 +409,7 @@ export default function Home() {
       <footer className="px-6 md:px-10 lg:px-14 py-8 mt-20 md:mt-24 border-t hairline">
         <div className="flex flex-wrap gap-x-8 gap-y-3 justify-between items-baseline">
           <span className="label">
-            Wikimedia · CC-BY-SA · GPT-4o · ElevenLabs · Vectorize · Fabric-1.0
+            Wikimedia · CC-BY-SA · ElevenLabs · Cloudflare Vectorize · Fabric-1.0
           </span>
           <a
             href="https://github.com/pranavred/findyourinheritance"
