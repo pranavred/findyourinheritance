@@ -155,7 +155,7 @@ export default function Home() {
 
         <div className="mt-10 md:mt-14 grid grid-cols-1 md:grid-cols-3 gap-6 md:gap-12 items-end">
           <h1 className="md:col-span-2 text-5xl md:text-6xl lg:text-7xl font-light tracking-tight leading-[0.98]">
-            A talking-portrait probate.
+            Find Your Inheritance.
           </h1>
           <p className="text-base md:text-lg opacity-60 max-w-md leading-snug">
             Upload your face. We find the historical figure you most resemble
