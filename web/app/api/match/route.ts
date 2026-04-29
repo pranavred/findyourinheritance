@@ -159,6 +159,49 @@ Sammy Davis Jr. (singer, 1925–1990): Cousin, I'm Sammy. You inherit my second-
   );
 }
 
+async function classifyGender(match: VectorizeMatch): Promise<Gender> {
+  const apiKey = process.env.OPENAI_API_KEY;
+  if (!apiKey) {
+    // No key → fall back to pronoun count over the bio.
+    return inferGender(
+      match.metadata.summary || match.metadata.description || ""
+    );
+  }
+
+  const name = match.metadata.name || "";
+  const description = match.metadata.description || "";
+  const summary = match.metadata.summary || "";
+
+  try {
+    const client = new OpenAI({ apiKey });
+    const completion = await client.chat.completions.create({
+      model: "gpt-4o-mini",
+      messages: [
+        {
+          role: "system",
+          content:
+            'Classify the gender of the historical figure described. Reply with strict JSON: {"gender":"male"} or {"gender":"female"}. Use "unknown" only if the bio is genuinely ambiguous about a binary gender (rare).',
+        },
+        {
+          role: "user",
+          content: `Name: ${name}\nDescription: ${description}\nBio: ${summary}`,
+        },
+      ],
+      temperature: 0,
+      max_tokens: 20,
+      response_format: { type: "json_object" },
+    });
+    const raw = completion.choices[0]?.message?.content?.trim() || "{}";
+    const parsed: { gender?: string } = JSON.parse(raw);
+    if (parsed.gender === "male" || parsed.gender === "female") {
+      return parsed.gender;
+    }
+  } catch {
+    // Network blip / parse failure — fall through to pronoun heuristic.
+  }
+  return inferGender(summary || description);
+}
+
 type Gender = "male" | "female" | "unknown";
 
 function inferGender(text: string): Gender {
@@ -310,16 +353,18 @@ export async function POST(req: NextRequest) {
       return NextResponse.json({ error: "No match found" }, { status: 404 });
     }
 
-    const joke = await generateJoke(match);
+    // Run joke generation and gender classification in parallel — both hit
+    // OpenAI but with separate prompts and different models (gpt-4o for the
+    // joke, gpt-4o-mini for gender). Total wall time ≈ the slower of the two.
+    const [joke, gender] = await Promise.all([
+      generateJoke(match),
+      classifyGender(match),
+    ]);
 
     // ── Talking head pipeline ─────────────────────────────
-    // 1. Infer gender from the bio's pronouns → pick male/female voice.
-    // 2. ElevenLabs TTS for the joke line.
-    // 3. Pass matched portrait + audio to Replicate veed/fabric-1.0 (480p).
-    // 4. Return the resulting video URL.
-    const gender = inferGender(
-      match.metadata.summary || match.metadata.description || ""
-    );
+    // 1. ElevenLabs TTS for the joke line in a male/female voice.
+    // 2. Pass matched portrait + audio to Replicate veed/fabric-1.0 (480p).
+    // 3. Return the resulting video URL.
     const voiceId = pickVoice(gender);
     const audioBuffer = await generateAudio(joke, voiceId);
 
