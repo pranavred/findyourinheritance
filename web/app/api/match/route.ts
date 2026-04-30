@@ -326,7 +326,10 @@ function audioBufferToDataUri(buffer: Buffer): string {
 
 export async function POST(req: NextRequest) {
   let tempPath: string | null = null;
+  const t0 = Date.now();
+  const elapsed = () => `${((Date.now() - t0) / 1000).toFixed(1)}s`;
   try {
+    console.log(`[/api/match] ── new request @ ${new Date().toISOString()} ──`);
     const formData = await req.formData();
     const file = formData.get("image") as File | null;
     if (!file) {
@@ -335,6 +338,10 @@ export async function POST(req: NextRequest) {
         { status: 400 }
       );
     }
+    console.log(
+      `[/api/match] received ${file.name || "(unnamed)"} ` +
+        `(${file.type}, ${(file.size / 1024).toFixed(1)} KB)`
+    );
 
     const buffer = Buffer.from(await file.arrayBuffer());
     tempPath = path.join(tmpdir(), `ancestor-upload-${randomUUID()}.jpg`);
@@ -342,16 +349,26 @@ export async function POST(req: NextRequest) {
 
     const embed = await embedImage(tempPath);
     if (!embed.vector) {
+      console.warn(`[/api/match] embed failed: ${embed.error}`);
       return NextResponse.json(
         { error: embed.error || "embedding failed" },
         { status: 422 }
       );
     }
+    console.log(
+      `[/api/match] embedded face (${embed.face_count ?? 1} detected) [${elapsed()}]`
+    );
 
     const match = await queryVectorize(embed.vector);
     if (!match) {
+      console.warn(`[/api/match] no Vectorize match returned`);
       return NextResponse.json({ error: "No match found" }, { status: 404 });
     }
+
+    console.log(
+      `[/api/match] 🎯 matched → "${match.metadata.name}" ` +
+        `(score ${(match.score * 100).toFixed(1)}%, slug=${match.metadata.slug}) [${elapsed()}]`
+    );
 
     // Run joke generation and gender classification in parallel — both hit
     // OpenAI but with separate prompts and different models (gpt-4o for the
@@ -366,7 +383,15 @@ export async function POST(req: NextRequest) {
     // 2. Pass matched portrait + audio to Replicate veed/fabric-1.0 (480p).
     // 3. Return the resulting video URL.
     const voiceId = pickVoice(gender);
+    console.log(
+      `[/api/match] joke (gender=${gender}, voice=${voiceId}) [${elapsed()}]`
+    );
+    console.log(`[/api/match]   "${joke}"`);
+
     const audioBuffer = await generateAudio(joke, voiceId);
+    console.log(
+      `[/api/match] audio rendered (${(audioBuffer.length / 1024).toFixed(1)} KB) [${elapsed()}]`
+    );
 
     const portraitAbsPath = path.join(
       PORTRAITS_DIR,
@@ -376,6 +401,9 @@ export async function POST(req: NextRequest) {
     const audioDataUri = audioBufferToDataUri(audioBuffer);
 
     const videoUrl = await generateVideo(imageDataUri, audioDataUri);
+    console.log(
+      `[/api/match] ✅ video ready @ ${videoUrl} [total ${elapsed()}]`
+    );
 
     return NextResponse.json({
       match: {
